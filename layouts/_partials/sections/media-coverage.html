@@ -6,7 +6,7 @@
 {{- $title := $data.title | default "Media Coverage" -}}
 {{- $subtitle := $data.subtitle | default "A selection of websites, podcasts, and magazines that featured my work:" -}}
 
-<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-media-coverage section-press section-logo-list section--bg-{{ $bgColor }}">
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-media-coverage section--bg-{{ $bgColor }}">
   <div class="section-container">
     {{- if or $data.title $data.subtitle $data.description $data.text }}
     <div class="section-header text-center">

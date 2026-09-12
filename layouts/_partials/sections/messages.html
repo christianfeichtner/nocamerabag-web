@@ -4,7 +4,7 @@
 {{- $bgColor := $data.bg_color | default "white" -}}
 {{- $sectionID := $data.id | default $data.ID -}}
 {{- $messages := $data.messages | default $data.testimonials | default $data.items -}}
-<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-messages section-testimonials section--bg-{{ $bgColor }}">
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-messages section--bg-{{ $bgColor }}">
   <div class="section-container">
     {{- if or $data.title $data.subtitle $data.description $data.text }}
     <div class="section-header text-center">

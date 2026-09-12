@@ -3,7 +3,7 @@
 {{- $headingTag := cond $isFirst "h1" "h2" -}}
 {{- $bgColor := $data.bg_color | default "white" -}}
 {{- $sectionID := $data.id | default $data.ID -}}
-<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-content-card-grid section-card-grid section--bg-{{ $bgColor }}">
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-content-card-grid section--bg-{{ $bgColor }}">
   <div class="section-container">
     {{- if or $data.title $data.subtitle $data.description $data.text }}
     <div class="section-header text-center">
@@ -27,7 +27,7 @@
     {{- end }}
 
     {{- with (or $data.cards $data.items) }}
-    <div class="content-card-grid card-grid">
+    <div class="content-card-grid">
       {{- range . }}
       <div class="gear-card">
         {{- with (or .image .icon) }}

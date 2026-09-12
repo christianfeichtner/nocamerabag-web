@@ -3,7 +3,7 @@
 {{- $headingTag := cond $isFirst "h1" "h2" -}}
 {{- $bgColor := $data.bg_color | default "white" -}}
 {{- $sectionID := $data.id | default $data.ID -}}
-<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-gallery-grid section--bg-{{ $bgColor }}">
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-lightbox-gallery section--bg-{{ $bgColor }}">
   <div class="section-container">
     {{- if or $data.title $data.subtitle $data.description $data.text }}
     <div class="section-header text-center">
@@ -27,7 +27,7 @@
     {{- end }}
 
     {{- with (or $data.items $data.cards $data.gallery $data.tours) }}
-    <div class="lost-places-gallery-grid">
+    <div class="lightbox-gallery-grid">
       {{- range . }}
         {{- $imgSrc := "" }}
         {{- $imgAlt := "" }}
@@ -59,11 +59,11 @@
           {{- $imgH = $imgRes.Height -}}
         {{- end -}}
 
-        <div class="lost-places-gallery-item">
-          <div class="lost-places-gallery-image">
+        <div class="lightbox-gallery-item">
+          <div class="lightbox-gallery-image-wrapper">
             {{- if $targetUrl }}
               {{- $isExt := strings.HasPrefix $targetUrl "http" }}
-              <a href="{{ if $isExt }}{{ $targetUrl }}{{ else }}{{ $targetUrl | relLangURL }}{{ end }}" class="lost-places-gallery-img-link"{{ if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
+              <a href="{{ if $isExt }}{{ $targetUrl }}{{ else }}{{ $targetUrl | relLangURL }}{{ end }}" class="lightbox-gallery-img-link"{{ if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
                 <img src="{{ $finalSrc }}" {{- with $imgW }} width="{{ . }}"{{- end }}{{- with $imgH }} height="{{ . }}"{{- end }} alt="{{ $imgAlt }}" loading="lazy">
               </a>
             {{- else }}
@@ -72,7 +72,7 @@
           </div>
 
           {{- with (or .text .caption .description) }}
-          <div class="lost-places-gallery-text">
+          <div class="lightbox-gallery-caption">
             {{ . | markdownify }}
           </div>
           {{- end }}
