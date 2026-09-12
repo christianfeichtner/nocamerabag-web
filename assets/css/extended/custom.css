@@ -1025,16 +1025,14 @@ button {
   display: none !important;
 }
 
-.btn-tertiary .btn-flag,
-.btn-tertiary-flag {
+.btn-tertiary .btn-flag {
   font-size: 1.15em;
   line-height: 1;
   display: inline-flex;
   align-items: center;
 }
 
-.btn-tertiary .btn-icon,
-.btn-tertiary-icon {
+.btn-tertiary .btn-icon {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -1064,8 +1062,7 @@ button {
 .btn-icon-public-urbex-tours,
 .btn-icon-urbex-tours { --icon-url: var(--icon-public-urbex-tours); }
 
-.btn-tertiary .btn-label,
-.btn-tertiary-label {
+.btn-tertiary .btn-label {
   color: inherit;
 }
 
@@ -1506,15 +1503,13 @@ button {
 }
 
 .blog-card-category a,
-.post-category-badge,
-.post-tag-badge {
+.post-category-badge {
   color: var(--color-accent);
   text-decoration: none;
 }
 
 .blog-card-category a:hover,
-.post-category-badge:hover,
-.post-tag-badge:hover {
+.post-category-badge:hover {
   color: var(--color-dark-accent);
   text-decoration: underline;
 }
@@ -1617,21 +1612,18 @@ button {
   transform: translateX(-3px);
 }
 
-/* 6.5 Messages / Testimonials Slider & Bubbles (CSS Scroll Snap Carousel) */
-.section-messages,
-.section-testimonials {
+/* 6.5 Messages Slider & Bubbles (CSS Scroll Snap Carousel) */
+.section-messages {
   padding: 4.5rem 0;
 }
 
-.messages-slider,
-.testimonial-slider {
+.messages-slider {
   position: relative;
   max-width: 800px;
   margin: 0 auto 2rem auto;
 }
 
-.messages-track,
-.testimonial-track {
+.messages-track {
   display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
@@ -1644,13 +1636,11 @@ button {
   padding: 0.5rem 0;
 }
 
-.messages-track::-webkit-scrollbar,
-.testimonial-track::-webkit-scrollbar {
+.messages-track::-webkit-scrollbar {
   display: none; /* Chrome, Safari, Opera */
 }
 
-.message-card,
-.testimonial-card {
+.message-card {
   flex: 0 0 100%;
   min-width: 100%;
   scroll-snap-align: center;
@@ -1659,8 +1649,7 @@ button {
   padding: 0 0.25rem;
 }
 
-.message-bubble,
-.testimonial-bubble {
+.message-bubble {
   background-color: var(--color-light-accent);
   border-radius: var(--radius-img);
   padding: 2.25rem 2.5rem;
@@ -1670,8 +1659,7 @@ button {
   width: 100%;
 }
 
-.message-text,
-.testimonial-text {
+.message-text {
   font-size: var(--font-size-lg);
   line-height: var(--line-height-base);
   color: var(--color-black);
@@ -1679,16 +1667,14 @@ button {
   font-style: italic;
 }
 
-.message-author,
-.testimonial-author {
+.message-author {
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-semibold);
   color: var(--color-accent);
   margin: 0;
 }
 
-.messages-controls,
-.testimonial-controls {
+.messages-controls {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1773,13 +1759,11 @@ button {
 }
 
 @media (max-width: 600px) {
-  .message-bubble,
-.testimonial-bubble {
+  .message-bubble {
     padding: 1.5rem 1.25rem;
   }
 
-  .message-text,
-.testimonial-text {
+  .message-text {
     font-size: var(--font-size-md);
   }
 
@@ -1890,15 +1874,11 @@ button {
 }
 
 /* 6.6 Media Coverage / Press Logos */
-.section-media-coverage,
-.section-press,
-.section-logo-list,
-.home-media-coverage {
+.section-media-coverage {
   padding: 4.5rem 0;
 }
 
-.press-logos-grid,
-.logo-list-grid {
+.press-logos-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -1908,8 +1888,7 @@ button {
   margin: 2.5rem auto 0;
 }
 
-.press-logo-item,
-.logo-item {
+.press-logo-item {
   flex: 0 1 calc(25% - 3rem); /* Exakt 4 Logos pro Reihe */
   display: flex;
   justify-content: center;
@@ -1920,14 +1899,11 @@ button {
   transition: transform 0.2s ease;
 }
 
-.press-logo-item:hover,
-.logo-item:hover {
+.press-logo-item:hover {
   transform: translateY(-2px);
 }
 
-.press-logo-item img,
-.logo-item img,
-.logo-img {
+.press-logo-item img {
   max-height: 38px;
   max-width: 140px;
   width: auto;
@@ -1939,15 +1915,12 @@ button {
 }
 
 .press-logo-item:hover img,
-.press-logo-item img:hover,
-.logo-item:hover img,
-.logo-item:hover .logo-img {
+.press-logo-item img:hover {
   filter: grayscale(0%);
   opacity: 1;
 }
 
-.press-logo-text,
-.logo-text {
+.press-logo-text {
   font-size: var(--font-size-md);
   font-weight: var(--font-weight-bold);
   color: var(--color-dark-accent);
@@ -1956,54 +1929,45 @@ button {
   transition: color 0.2s ease;
 }
 
-.press-logo-item:hover .press-logo-text,
-.logo-item:hover .logo-text {
+.press-logo-item:hover .press-logo-text {
   color: var(--color-black);
 }
 
 /* Responsives Verhalten für Media Coverage / Press Logos */
 @media (max-width: 860px) {
-  .press-logos-grid,
-.logo-list-grid {
+  .press-logos-grid {
     gap: 2rem 2rem;
     margin-top: 2rem;
   }
 
-  .press-logo-item,
-.logo-item {
+  .press-logo-item {
     flex: 0 1 calc(33.333% - 2rem); /* 3 Logos pro Reihe auf Tablets */
     min-width: 120px;
   }
 }
 
 @media (max-width: 600px) {
-  .press-logos-grid,
-.logo-list-grid {
+  .press-logos-grid {
     gap: 1.5rem 1.5rem;
     margin-top: 1.5rem;
   }
 
-  .press-logo-item,
-.logo-item {
+  .press-logo-item {
     flex: 0 1 calc(50% - 1.5rem); /* 2 Logos pro Reihe auf Smartphones */
     min-width: 100px;
   }
 
-  .press-logo-item img,
-.logo-item img,
-.logo-img {
+  .press-logo-item img {
     max-height: 32px;
     max-width: 120px;
   }
 }
 
-/* 6.7 Gear & Card Grid / Content Card Grid */
-.section-card-grid,
+/* 6.7 Gear & Content Card Grid */
 .section-content-card-grid {
   padding: 4.5rem 0;
 }
 
-.card-grid,
 .content-card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -2012,7 +1976,6 @@ button {
 }
 
 @media (max-width: 960px) {
-  .card-grid,
   .content-card-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
@@ -2020,7 +1983,6 @@ button {
 }
 
 @media (max-width: 640px) {
-  .card-grid,
   .content-card-grid {
     grid-template-columns: 1fr;
     gap: 1.5rem;
@@ -2058,7 +2020,6 @@ button {
 }
 
 .gear-card-image img,
-.card-grid img,
 .content-card-grid img {
   width: 100%;
   height: 100%;
@@ -2120,13 +2081,11 @@ button {
   color: var(--color-dark-accent);
 }
 
-/* 6.8 Gallery Grids (Lost Places & Lightbox) */
-.section-gallery-grid,
+/* 6.8 Gallery Grids (Lightbox & Gallery Grid) */
 .section-lightbox-gallery {
   padding: 4.5rem 0;
 }
 
-.lost-places-gallery-grid,
 .lightbox-gallery-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -2135,22 +2094,19 @@ button {
 }
 
 @media (max-width: 960px) {
-  .lost-places-gallery-grid,
-.lightbox-gallery-grid {
+  .lightbox-gallery-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
   }
 }
 
 @media (max-width: 640px) {
-  .lost-places-gallery-grid,
-.lightbox-gallery-grid {
+  .lightbox-gallery-grid {
     grid-template-columns: 1fr;
     gap: 1.5rem;
   }
 }
 
-.lost-places-gallery-item,
 .lightbox-gallery-item {
   display: flex;
   flex-direction: column;
@@ -2158,7 +2114,6 @@ button {
   text-align: center;
 }
 
-.lost-places-gallery-image,
 .lightbox-gallery-image-wrapper {
   position: relative;
   width: 100%;
@@ -2171,13 +2126,12 @@ button {
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
 
-.lost-places-gallery-image:hover,
 .lightbox-gallery-image-wrapper:hover {
   transform: translateY(-4px);
   box-shadow: 0 8px 24px color-mix(in srgb, var(--color-black) 8%, transparent);
 }
 
-.lost-places-gallery-img-link,
+.lightbox-gallery-img-link,
 .lightbox-gallery-image-wrapper > .lightbox-trigger {
   display: block;
   width: 100%;
@@ -2189,9 +2143,8 @@ button {
   outline: none;
 }
 
-.lost-places-gallery-image img,
 .lightbox-thumb,
-.lost-places-gallery-item img,
+.lightbox-gallery-image-wrapper img,
 .lightbox-gallery-item img {
   width: 100%;
   height: 100%;
@@ -2203,8 +2156,8 @@ button {
   transition: transform 0.3s ease;
 }
 
-.lost-places-gallery-image:hover img,
-.lightbox-gallery-image-wrapper:hover .lightbox-thumb {
+.lightbox-gallery-image-wrapper:hover .lightbox-thumb,
+.lightbox-gallery-image-wrapper:hover img {
   transform: scale(1.03);
 }
 
@@ -2213,7 +2166,6 @@ button {
   pointer-events: none;
 }
 
-.lost-places-gallery-text,
 .lightbox-gallery-caption {
   font-size: var(--font-size-sm);
   line-height: var(--line-height-base);
@@ -2228,7 +2180,6 @@ button {
   overflow: hidden;
 }
 
-.lost-places-gallery-text p,
 .lightbox-gallery-caption p {
   margin: 0;
   display: -webkit-box;
@@ -2498,10 +2449,6 @@ body.lightbox-locked {
 /* 6.9 FAQ Accordion */
 .section-faq {
   padding: 4.5rem 0;
-}
-
-.faq-intro {
-  margin-bottom: 2rem;
 }
 
 .faq-controls {
@@ -3321,9 +3268,7 @@ figure.post-image-figure,
 }
 
 /* State 1: Both Caption & Actions exist -> Single full-width continuous pill bar */
-.image-overlay-bar:has(.overlay-caption):has(.overlay-actions),
-.image-overlay-bar:has(.overlay-caption):has(.card-overlay-badges),
-.image-overlay-bar:has(.overlay-caption):has(.overlay-badges) {
+.image-overlay-bar:has(.overlay-caption):has(.overlay-actions) {
   background: color-mix(in srgb, var(--color-black) 72%, transparent) !important;
   -webkit-backdrop-filter: blur(10px) !important;
   backdrop-filter: blur(10px) !important;
@@ -3336,8 +3281,8 @@ figure.post-image-figure,
 }
 
 /* State 2: Only Caption exists -> Left-aligned compact pill */
-.image-overlay-bar:has(.overlay-caption):not(:has(.overlay-actions)):not(:has(.card-overlay-badges)):not(:has(.overlay-badges)),
-.image-overlay-bar:not(:has(.overlay-actions)):not(:has(.card-overlay-badges)):not(:has(.overlay-badges)) {
+.image-overlay-bar:has(.overlay-caption):not(:has(.overlay-actions)),
+.image-overlay-bar:not(:has(.overlay-actions)) {
   right: auto !important;
   width: fit-content !important;
   max-width: calc(100% - 24px) !important;
@@ -3354,8 +3299,6 @@ figure.post-image-figure,
 
 /* State 3: Only Actions/Badges exist -> Right-aligned compact pill */
 .image-overlay-bar:has(.overlay-actions):not(:has(.overlay-caption)),
-.image-overlay-bar:has(.card-overlay-badges):not(:has(.overlay-caption)),
-.image-overlay-bar:has(.overlay-badges):not(:has(.overlay-caption)),
 .image-overlay-bar:not(:has(.overlay-caption)) {
   left: auto !important;
   width: fit-content !important;
@@ -3370,27 +3313,6 @@ figure.post-image-figure,
   min-height: 26px !important;
   margin-left: auto !important;
   pointer-events: auto !important;
-}
-
-/* Fallback & Helper: Timeline Photo Overlay Pill */
-.photo-overlay-pill {
-  width: 100% !important;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: space-between !important;
-  flex-wrap: nowrap !important;
-  gap: 8px !important;
-  padding: 3px 6px 3px 12px !important;
-  min-height: 26px !important;
-  background: color-mix(in srgb, var(--color-black) 72%, transparent) !important;
-  -webkit-backdrop-filter: blur(10px) !important;
-  backdrop-filter: blur(10px) !important;
-  border: 1px solid color-mix(in srgb, var(--color-white) 20%, transparent) !important;
-  border-radius: 9999px !important;
-  box-shadow: 0 4px 14px color-mix(in srgb, var(--color-black) 30%, transparent) !important;
-  pointer-events: auto !important;
-  box-sizing: border-box !important;
-  min-width: 0 !important;
 }
 
 /* Left Caption Element */
@@ -3455,7 +3377,6 @@ figcaption.overlay-caption a:hover {
 
 /* Right Actions & Badges Container */
 .overlay-actions,
-.overlay-badges,
 .img-badges-overlay {
   pointer-events: auto !important;
   position: static !important;
@@ -3555,8 +3476,7 @@ figcaption.overlay-caption a:hover {
 
 
 /* Action Icon Buttons (View Large, Pinterest, Map View) */
-.action-btn,
-.overlay-actions .img-badge-btn {
+.action-btn {
   display: inline-flex !important;
   align-items: center !important;
   justify-content: center !important;
@@ -3578,8 +3498,7 @@ figcaption.overlay-caption a:hover {
   pointer-events: auto !important;
 }
 
-.action-btn svg,
-.overlay-actions .img-badge-btn svg {
+.action-btn svg {
   flex-shrink: 0 !important;
   width: 12px !important;
   height: 12px !important;
@@ -3693,14 +3612,11 @@ figcaption.overlay-caption a:hover {
     gap: 6px !important;
   }
 
-  .image-overlay-bar:has(.overlay-caption):has(.overlay-actions),
-  .image-overlay-bar:has(.overlay-caption):has(.card-overlay-badges),
-  .image-overlay-bar:has(.overlay-caption):has(.overlay-badges),
-  .photo-overlay-pill {
+  .image-overlay-bar:has(.overlay-caption):has(.overlay-actions) {
     padding: 3px 5px 3px 10px !important;
   }
 
-  .image-overlay-bar:not(:has(.overlay-actions)):not(:has(.card-overlay-badges)):not(:has(.overlay-badges)) {
+  .image-overlay-bar:not(:has(.overlay-actions)) {
     padding: 4px 10px !important;
     max-width: calc(100% - 16px) !important;
   }
@@ -3715,15 +3631,13 @@ figcaption.overlay-caption a:hover {
     font-size: var(--font-size-xs) !important;
   }
 
-  .action-btn,
-  .overlay-actions .img-badge-btn {
+  .action-btn {
     width: 26px !important;
     height: 26px !important;
     min-width: 26px !important;
   }
 
-  .action-btn svg,
-  .overlay-actions .img-badge-btn svg {
+  .action-btn svg {
     width: 13px !important;
     height: 13px !important;
   }
@@ -4339,8 +4253,7 @@ figure.youtube-figure figcaption.image-caption {
   margin-right: 0.15rem;
 }
 
-.light-info-pill,
-.spec-badge {
+.light-info-pill {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
@@ -4800,45 +4713,6 @@ figure.youtube-figure figcaption.image-caption {
   justify-content: flex-end;
 }
 
-.img-badge-btn,
-a.img-badge-btn,
-.post-content a.img-badge-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
-  white-space: nowrap;
-  flex-shrink: 0;
-  width: auto;
-  min-width: max-content;
-  background: color-mix(in srgb, var(--color-black) 82%, transparent);
-  -webkit-backdrop-filter: blur(8px);
-  backdrop-filter: blur(8px);
-  color: var(--color-white) !important;
-  border: 1px solid color-mix(in srgb, var(--color-white) 25%, transparent);
-  border-radius: 20px;
-  padding: 6px 12px;
-  font-size: var(--font-size-xs);
-  font-weight: var(--font-weight-semibold);
-  cursor: pointer;
-  text-decoration: none !important;
-  line-height: var(--line-height-small);
-  font-family: inherit;
-  transition: all 0.2s ease;
-  box-shadow: 0 4px 12px color-mix(in srgb, var(--color-black) 25%, transparent);
-  user-select: none;
-}
-
-.img-badge-btn span {
-  white-space: nowrap;
-  display: inline;
-}
-
-.img-badge-btn svg {
-  flex-shrink: 0;
-  display: block;
-}
-
 .badge-lightbox:hover {
   background-color: var(--color-accent);
   border-color: var(--color-accent);
@@ -4974,14 +4848,7 @@ a.badge-pinterest:active {
 }
 
 /* --------------------------------------------------------------------------
-   35. Card Teaser Overlay Badges (Inherits unified .image-overlay-bar & .overlay-actions)
-   -------------------------------------------------------------------------- */
-.card-overlay-badges {
-  pointer-events: none;
-}
-
-/* --------------------------------------------------------------------------
-   36. Popover / Tooltip Component
+   35. Popover / Tooltip Component
    -------------------------------------------------------------------------- */
 .popover-box {
   --popover-bg: var(--color-black);
