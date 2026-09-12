@@ -1,0 +1,115 @@
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $headingTag := cond $isFirst "h1" "h2" -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $isReverse := $data.reverse | default false -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-image-text section--bg-{{ $bgColor }}{{ if $isReverse }} section--reverse{{ end }}">
+  <div class="section-container">
+    {{- if and $data.title_top (or $data.title $data.subtitle) }}
+    <div class="section-header text-center">
+      {{- with $data.title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . | safeHTML }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . | safeHTML }}</h2>{{ end }}
+      {{- end }}
+      {{- with $data.subtitle }}<p class="section-subtitle">{{ . | markdownify }}</p>{{ end }}
+    </div>
+    {{- end }}
+
+    <div class="image-text-grid">
+      <div class="image-text-media">
+        {{- with $data.image }}
+          {{- $imgSrc := "" }}
+          {{- $imgAlt := "" }}
+          {{- $imgAspect := "square" }}
+          {{- if reflect.IsMap . }}
+            {{- $imgSrc = .src | default .url }}
+            {{- $imgAlt = .alt | default "" }}
+            {{- $imgAspect = .aspect_ratio | default "square" }}
+          {{- else }}
+            {{- $imgSrc = . }}
+          {{- end }}
+          {{- $imgPath := strings.TrimPrefix "/" $imgSrc }}
+          {{- $imgRes := resources.Get $imgPath }}
+          <div class="image-wrapper">
+            {{- if $imgRes }}
+              {{- $processable := in (slice "jpg" "jpeg" "png" "gif" "tif" "bmp") $imgRes.MediaType.SubType }}
+              {{- $imgUrl := $imgRes.RelPermalink }}
+              {{- $imgW := $imgRes.Width }}
+              {{- $imgH := $imgRes.Height }}
+              {{- if $processable }}
+                {{- $processed := "" }}
+                {{- if eq $imgAspect "square" }}
+                  {{- $processed = $imgRes.Fill "800x800 webp q85" }}
+                {{- else }}
+                  {{- $processed = $imgRes.Resize "800x webp q85" }}
+                {{- end }}
+                {{- $imgUrl = $processed.RelPermalink }}
+                {{- $imgW = $processed.Width }}
+                {{- $imgH = $processed.Height }}
+              {{- end }}
+              <img src="{{ $imgUrl }}" 
+                   width="{{ $imgW }}" 
+                   height="{{ $imgH }}" 
+                   alt="{{ $imgAlt }}" 
+                   loading="lazy" 
+                   class="section-img">
+            {{- else }}
+              <img src="{{ $imgSrc | relURL }}" 
+                   alt="{{ $imgAlt }}" 
+                   loading="lazy" 
+                   class="section-img">
+            {{- end }}
+            {{- with (or (and (reflect.IsMap .) (or .caption .title)) $data.image_caption) }}
+            <div class="image-overlay-bar">
+              <figcaption class="overlay-caption image-caption-pill">
+                <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <line x1="12" y1="16" x2="12" y2="12"></line>
+                  <line x1="12" y1="8" x2="12.01" y2="8"></line>
+                </svg>
+                <span>{{ . | safeHTML }}</span>
+              </figcaption>
+            </div>
+            {{- end }}
+          </div>
+        {{- end }}
+      </div>
+      <div class="image-text-content">
+        {{- if not $data.title_top }}
+          {{- with $data.title }}
+            {{- $headingID := $data.id | default (. | anchorize) -}}
+            {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . | safeHTML }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . | safeHTML }}</h2>{{ end }}
+          {{- end }}
+          {{- with $data.subtitle }}<p class="section-subtitle">{{ . | markdownify }}</p>{{ end }}
+        {{- end }}
+
+        {{- with $data.text }}
+          {{- if reflect.IsSlice . }}
+            {{- range . }}
+              <p class="section-text">{{ . | markdownify }}</p>
+            {{- end }}
+          {{- else }}
+            <div class="section-text">{{ . | markdownify }}</div>
+          {{- end }}
+        {{- end }}
+        {{- with $data.description }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+
+        {{- with $data.buttons }}
+        <div class="section-btn-group">
+          {{- range . }}
+            {{- $btnStyle := .style | default "primary" }}
+            {{- $btnClass := printf "btn-%s" $btnStyle }}
+            {{- if eq $btnStyle "secondary" }}{{ $btnClass = "btn-secondary" }}{{ end }}
+            <a href="{{ .url | default .link | relLangURL }}" class="btn {{ $btnClass }}"{{ with .target }} target="{{ . }}" rel="noopener"{{ end }}>
+              {{ .text | safeHTML }}
+            </a>
+          {{- end }}
+        </div>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+</section>

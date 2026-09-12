@@ -1,0 +1,18 @@
+{{- define "main" }}
+  {{- $sectionData := dict
+    "id" "error-404"
+    "bg_color" "white"
+    "reverse" false
+    "image" (dict
+      "src" "images/404/cat.webp"
+      "alt" "Neighbor's Cat, Vienna, Austria, Shot on iPhone 12 Pro Max"
+      "aspect_ratio" "square"
+    )
+    "title" "<span class=\"heading-4\" style=\"display:block;\">404</span>Oh No! The Cat<br>Ate the Page!"
+    "text" (slice
+      "Oh damn. Neighbours cat just ate the page you were looking for. She regularly visits for some treats and if I don't hand them over quickly, she starts nibbling on random stuff."
+      (printf "But there are a lot of other pages that you may find equally interesting like the [home page](%s), my [iPhone photography](%s) or [traveling light](%s) overview pages or the [blog](%s)." ("" | relLangURL) ("/iphone-photography/" | relLangURL) ("/traveling-light/" | relLangURL) ("/blog/" | relLangURL))
+    )
+  }}
+  {{- partial "sections/image-text.html" (dict "page" . "data" $sectionData "isFirst" true) }}
+{{- end }}

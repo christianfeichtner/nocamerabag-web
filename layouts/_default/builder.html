@@ -1,0 +1,19 @@
+{{- define "main" }}
+  {{- range $index, $section := .Params.sections }}
+    {{- if partial "is-published.html" $section }}
+      {{/* Erzeugt fortlaufende IDs: section-01, section-02, section-03 etc. */}}
+      {{- $sectionID := $section.id | default (printf "section-%02d" (add $index 1)) }}
+
+      {{/* Fuegt die ID direkt in die Sektions-Daten ein */}}
+      {{- $sectionData := merge $section (dict "ID" $sectionID) }}
+
+      {{- $partialPath := printf "sections/%s.html" $section.type }}
+
+      {{- if or (templates.Exists (printf "_partials/%s" $partialPath)) (templates.Exists (printf "partials/%s" $partialPath)) }}
+        {{- partial $partialPath (dict "page" $ "data" $sectionData "isFirst" (eq $index 0)) }}
+      {{- else }}
+        <p style="color:red; padding: 2rem;">Partial {{ $partialPath }} not found!</p>
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}

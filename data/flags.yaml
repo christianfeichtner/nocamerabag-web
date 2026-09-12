@@ -1,0 +1,175 @@
+# Country to flag mappings for Photo Spots badges
+Germany:
+  code: "de"
+  flag: "🇩🇪"
+  name: "Germany"
+
+Austria:
+  code: "at"
+  flag: "🇦🇹"
+  name: "Austria"
+
+Estonia:
+  code: "ee"
+  flag: "🇪🇪"
+  name: "Estonia"
+
+Portugal:
+  code: "pt"
+  flag: "🇵🇹"
+  name: "Portugal"
+
+Slovakia:
+  code: "sk"
+  flag: "🇸🇰"
+  name: "Slovakia"
+
+United States:
+  code: "us"
+  flag: "🇺🇸"
+  name: "United States"
+
+USA:
+  code: "us"
+  flag: "🇺🇸"
+  name: "United States"
+
+Italy:
+  code: "it"
+  flag: "🇮🇹"
+  name: "Italy"
+
+France:
+  code: "fr"
+  flag: "🇫🇷"
+  name: "France"
+
+Spain:
+  code: "es"
+  flag: "🇪🇸"
+  name: "Spain"
+
+Czech Republic:
+  code: "cz"
+  flag: "🇨🇿"
+  name: "Czech Republic"
+
+Czechia:
+  code: "cz"
+  flag: "🇨🇿"
+  name: "Czech Republic"
+
+Iceland:
+  code: "is"
+  flag: "🇮🇸"
+  name: "Iceland"
+
+Norway:
+  code: "no"
+  flag: "🇳🇴"
+  name: "Norway"
+
+Sweden:
+  code: "se"
+  flag: "🇸🇪"
+  name: "Sweden"
+
+Poland:
+  code: "pl"
+  flag: "🇵🇱"
+  name: "Poland"
+
+Ukraine:
+  code: "ua"
+  flag: "🇺🇦"
+  name: "Ukraine"
+
+Hungary:
+  code: "hu"
+  flag: "🇭🇺"
+  name: "Hungary"
+
+Switzerland:
+  code: "ch"
+  flag: "🇨🇭"
+  name: "Switzerland"
+
+United Kingdom:
+  code: "gb"
+  flag: "🇬🇧"
+  name: "United Kingdom"
+
+UK:
+  code: "gb"
+  flag: "🇬🇧"
+  name: "United Kingdom"
+
+Denmark:
+  code: "dk"
+  flag: "🇩🇰"
+  name: "Denmark"
+
+Ireland:
+  code: "ie"
+  flag: "🇮🇪"
+  name: "Ireland"
+
+Belgium:
+  code: "be"
+  flag: "🇧🇪"
+  name: "Belgium"
+
+Netherlands:
+  code: "nl"
+  flag: "🇳🇱"
+  name: "Netherlands"
+
+Slovenia:
+  code: "si"
+  flag: "🇸🇮"
+  name: "Slovenia"
+
+Croatia:
+  code: "hr"
+  flag: "🇭🇷"
+  name: "Croatia"
+
+Greece:
+  code: "gr"
+  flag: "🇬🇷"
+  name: "Greece"
+
+Japan:
+  code: "jp"
+  flag: "🇯🇵"
+  name: "Japan"
+
+Cyprus:
+  code: "cy"
+  flag: "🇨🇾"
+  name: "Cyprus"
+
+Malta:
+  code: "mt"
+  flag: "🇲🇹"
+  name: "Malta"
+
+Finland:
+  code: "fi"
+  flag: "🇫🇮"
+  name: "Finland"
+
+Albania:
+  code: "al"
+  flag: "🇦🇱"
+  name: "Albania"
+
+Romania:
+  code: "ro"
+  flag: "🇷🇴"
+  name: "Romania"
+
+Scotland:
+  code: "gb-sct"
+  flag: "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+  name: "Scotland"

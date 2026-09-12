@@ -1,0 +1,21 @@
+{{- $trigger := .Get "trigger" | default "Info" -}}
+{{- $text := .Get "text" | default .Inner -}}
+{{- $pos := .Get "pos" | default "top" -}}
+{{- $bg := .Get "bg" -}}
+{{- $color := .Get "color" -}}
+{{- $linkColor := or (.Get "linkColor") (.Get "link_color") -}}
+{{- $triggerColor := or (.Get "triggerColor") (.Get "trigger_color") -}}
+{{- $style := slice -}}
+{{- with $bg -}}
+  {{- $style = $style | append (printf "--popover-bg: %s;" .) -}}
+{{- end -}}
+{{- with $color -}}
+  {{- $style = $style | append (printf "--popover-color: %s;" .) -}}
+{{- end -}}
+{{- with $linkColor -}}
+  {{- $style = $style | append (printf "--popover-link-color: %s;" .) -}}
+{{- end -}}
+{{- with $triggerColor -}}
+  {{- $style = $style | append (printf "--popover-trigger-color: %s;" .) -}}
+{{- end -}}
+<span class="popover-box{{ if eq $pos "bottom" }} pos-bottom{{ end }}"{{ with $style }} style="{{ delimit . " " | safeCSS }}"{{ end }} tabindex="0">{{ $trigger }}<span class="popover-content">{{ $text | markdownify }}</span></span>

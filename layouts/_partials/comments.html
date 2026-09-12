@@ -1,0 +1,271 @@
+{{- /* 
+  Serverseitiges Build-Time Rendering für Blog-Kommentare (Variante 2)
+  Partials-Pfad: layouts/_partials/comments.html
+*/ -}}
+
+{{- $commentsTitle := i18n "comments_title" | default (site.Params.comments.title | default "Diskussion") -}}
+{{- $commentsCountSuffix := i18n "comments_count_suffix" | default (site.Params.comments.count_suffix | default "Beiträge") -}}
+{{- $commentsPlaceholder := i18n "comments_placeholder" | default (site.Params.comments.placeholder | default "Schreibe einen Kommentar zum Artikel...") -}}
+{{- $btnSubmitStep1 := i18n "comments_btn_submit_step1" | default (site.Params.comments.btn_step1 | default "Kommentar abgeben →") -}}
+{{- $modalTitle := i18n "comments_modal_title" | default (site.Params.comments.modal_title | default "Nur noch ein Schritt") -}}
+{{- $modalDesc := i18n "comments_modal_desc" | default (site.Params.comments.modal_desc | default "Gib bitte deinen Namen und deine E-Mail-Adresse an. Deine E-Mail wird niemals veröffentlicht.") -}}
+{{- $labelName := i18n "comments_label_name" | default (site.Params.comments.label_name | default "Dein Name *") -}}
+{{- $phName := i18n "comments_ph_name" | default (site.Params.comments.ph_name | default "z. B. Alex") -}}
+{{- $labelEmail := i18n "comments_label_email" | default (site.Params.comments.label_email | default "E-Mail-Adresse *") -}}
+{{- $phEmail := i18n "comments_ph_email" | default (site.Params.comments.ph_email | default "name@beispiel.de") -}}
+{{- $btnCancel := i18n "comments_btn_cancel" | default (site.Params.comments.btn_cancel | default "Abbrechen") -}}
+{{- $btnPublish := i18n "comments_btn_publish" | default (site.Params.comments.btn_publish | default "Jetzt veröffentlichen") -}}
+{{- $replyLabel := i18n "comments_btn_reply" | default (site.Params.comments.btn_reply | default "Antworten") -}}
+{{- $emptyStateText := i18n "comments_empty_state" | default (site.Params.comments.empty_state | default "Noch keine Kommentare vorhanden. Schreibe den ersten Beitrag!") -}}
+{{- $successNotice := i18n "comments_success_notice" | default (site.Params.comments.success_notice | default "Danke! Dein Kommentar wurde gespeichert und wird nach Prüfung freigeschaltet.") -}}
+
+{{- $pageId := .Params.page_id | default .File.ContentBaseName -}}
+{{- $apiUrl := site.Params.comments.api_url | default "http://host.docker.internal:8787/api/comments" -}}
+{{- $clientApiUrl := site.Params.comments.client_api_url | default "http://localhost:8787/api/comments" -}}
+
+{{- /* Candidate-Endpoints für den Build-Time Abruf aus unterschiedlichen Docker/Host-Umgebungen */ -}}
+{{- $candidateUrls := slice $apiUrl -}}
+{{- if not (in $candidateUrls "http://host.docker.internal:8787/api/comments") -}}
+  {{- $candidateUrls = $candidateUrls | append "http://host.docker.internal:8787/api/comments" -}}
+{{- end -}}
+{{- if not (in $candidateUrls "http://127.0.0.1:8787/api/comments") -}}
+  {{- $candidateUrls = $candidateUrls | append "http://127.0.0.1:8787/api/comments" -}}
+{{- end -}}
+{{- if not (in $candidateUrls "http://localhost:8787/api/comments") -}}
+  {{- $candidateUrls = $candidateUrls | append "http://localhost:8787/api/comments" -}}
+{{- end -}}
+{{- if not (in $candidateUrls "http://172.17.0.1:8787/api/comments") -}}
+  {{- $candidateUrls = $candidateUrls | append "http://172.17.0.1:8787/api/comments" -}}
+{{- end -}}
+
+{{- /* Build-Time Remote Fetch mit robuster JSON-Entpackung */ -}}
+{{- $comments := slice -}}
+{{- range $candidateUrls -}}
+  {{- if eq (len $comments) 0 -}}
+    {{- $reqUrl := printf "%s?page_id=%s" . ($pageId | urlquery) -}}
+    {{- with try (resources.GetRemote $reqUrl) -}}
+      {{- with .Value -}}
+        {{- if and .Data (eq .Data.StatusCode 200) -}}
+          {{- $content := strings.TrimLeft " \t\r\n" .Content -}}
+          {{- if or (strings.HasPrefix $content "[") (strings.HasPrefix $content "{") -}}
+            {{- $unmarshaled := "" -}}
+            {{- with try (transform.Unmarshal .) -}}
+              {{- with .Value -}}
+                {{- $unmarshaled = . -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if not $unmarshaled -}}
+              {{- with try (transform.Unmarshal $content) -}}
+                {{- with .Value -}}
+                  {{- $unmarshaled = . -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if reflect.IsSlice $unmarshaled -}}
+              {{- $comments = $unmarshaled -}}
+            {{- else if reflect.IsMap $unmarshaled -}}
+              {{- with index $unmarshaled "results" -}}
+                {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
+              {{- end -}}
+              {{- if not $comments -}}
+                {{- with index $unmarshaled "result" -}}
+                  {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
+                {{- end -}}
+              {{- end -}}
+              {{- if not $comments -}}
+                {{- with index $unmarshaled "comments" -}}
+                  {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
+                {{- end -}}
+              {{- end -}}
+              {{- if not $comments -}}
+                {{- with index $unmarshaled "data" -}}
+                  {{- if reflect.IsSlice . -}}
+                    {{- $comments = . -}}
+                  {{- else if reflect.IsMap . -}}
+                    {{- with index . "comments" -}}
+                      {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
+                    {{- end -}}
+                    {{- if not $comments -}}
+                      {{- with index . "results" -}}
+                        {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
+                      {{- end -}}
+                    {{- end -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Trennung in Top-Level-Kommentare und Antworten */ -}}
+{{- $topLevelComments := slice -}}
+{{- $replies := slice -}}
+{{- range $comments -}}
+  {{- $pId := .parent_id -}}
+  {{- if or (eq $pId nil) (eq $pId 0) (eq (string $pId) "") (eq (string $pId) "0") (eq (string $pId) "<nil>") -}}
+    {{- $topLevelComments = $topLevelComments | append . -}}
+  {{- else -}}
+    {{- $replies = $replies | append . -}}
+  {{- end -}}
+{{- end -}}
+
+<section class="comments-wrapper" id="comments" data-page-id="{{ $pageId }}" data-page-url="{{ .Permalink }}" data-slug="{{ .RelPermalink }}" data-api="{{ $clientApiUrl }}">
+  <div class="comments-header">
+    <h2 class="comments-title">{{ $commentsTitle }}</h2>
+    <span class="comments-count-badge" id="commentsCountBadge">{{ len $comments }} {{ $commentsCountSuffix }}</span>
+  </div>
+
+  <!-- Erfolgsmeldung nach neuem Kommentar -->
+  <div class="comments-notice-success" id="commentSuccessNotice" role="alert" style="display: none;">
+    <svg class="comments-notice-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+      <polyline points="22 4 12 14.01 9 11.01"></polyline>
+    </svg>
+    <span>{{ $successNotice }}</span>
+  </div>
+
+  <!-- Stufe 1: Kommentar-Eingabe (Card) -->
+  <div class="comments-editor-card">
+    <label for="commentTextInput" class="sr-only">{{ $commentsPlaceholder }}</label>
+    <textarea id="commentTextInput" class="comments-textarea" placeholder="{{ $commentsPlaceholder }}" rows="4" aria-label="{{ $commentsPlaceholder }}"></textarea>
+    <div class="comments-editor-actions">
+      <button type="button" class="btn-comment-step1" id="btnOpenModal">
+        {{ $btnSubmitStep1 }}
+      </button>
+    </div>
+  </div>
+
+  <!-- Statisch gerenderte Liste (Build-Time HTML) -->
+  <div class="comments-list" id="commentsList" aria-live="polite">
+    {{- if eq (len $comments) 0 -}}
+      <div class="comments-empty-state" id="commentsEmptyState">
+        {{ $emptyStateText }}
+      </div>
+    {{- else -}}
+      {{- range $topLevelComments -}}
+        {{- $cId := string .id -}}
+        {{- $author := .author_name | default "Anonym" -}}
+        {{- $initials := substr $author 0 2 | upper -}}
+        {{- $createdAt := "" -}}
+        {{- with .created_at -}}
+          {{- $isoDate := replace . " " "T" -}}
+          {{- with try (time.AsTime $isoDate) -}}
+            {{- with .Value -}}
+              {{- $createdAt = .Format "02. January 2006" -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $createdAt -}}
+            {{- $createdAt = . -}}
+          {{- end -}}
+        {{- end -}}
+
+        <div class="comment-card" id="comment-{{ $cId }}" data-comment-id="{{ $cId }}">
+          <div class="comment-header">
+            <div class="comment-avatar" aria-hidden="true">{{ $initials }}</div>
+            <div class="comment-meta">
+              <span class="comment-author">{{ $author }}</span>
+              {{- with $createdAt -}}
+              <time class="comment-date" datetime="{{ . }}">{{ . }}</time>
+              {{- end -}}
+            </div>
+          </div>
+          <div class="comment-body">
+            {{- $body := .content | htmlEscape -}}
+            {{- $body = replaceRE "(?i)&lt;br\\s*/?&gt;" "<br>" $body -}}
+            {{- $body = replaceRE "\r?\n" "<br>" $body -}}
+            {{- $body | safeHTML -}}
+          </div>
+          <div class="comment-actions">
+            <button type="button" class="comment-btn-reply" data-reply-id="{{ $cId }}" aria-label="{{ $replyLabel }} an {{ $author }}">
+              {{ $replyLabel }}
+            </button>
+          </div>
+
+          {{- /* Verschachtelte Antworten für diesen Top-Level-Kommentar */ -}}
+          {{- $childReplies := slice -}}
+          {{- range $replies -}}
+            {{- if eq (string .parent_id) $cId -}}
+              {{- $childReplies = $childReplies | append . -}}
+            {{- end -}}
+          {{- end -}}
+
+          {{- if gt (len $childReplies) 0 -}}
+          <div class="replies-container" id="replies-{{ $cId }}">
+            {{- range $childReplies -}}
+              {{- $rId := string .id -}}
+              {{- $rAuthor := .author_name | default "Anonym" -}}
+              {{- $rInitials := substr $rAuthor 0 2 | upper -}}
+              {{- $rCreatedAt := "" -}}
+              {{- with .created_at -}}
+                {{- $rIsoDate := replace . " " "T" -}}
+                {{- with try (time.AsTime $rIsoDate) -}}
+                  {{- with .Value -}}
+                    {{- $rCreatedAt = .Format "02. January 2006" -}}
+                  {{- end -}}
+                {{- end -}}
+                {{- if not $rCreatedAt -}}
+                  {{- $rCreatedAt = . -}}
+                {{- end -}}
+              {{- end -}}
+
+              <div class="comment-card reply-card" id="comment-{{ $rId }}" data-comment-id="{{ $rId }}">
+                <div class="comment-header">
+                  <div class="comment-avatar" aria-hidden="true">{{ $rInitials }}</div>
+                  <div class="comment-meta">
+                    <span class="comment-author">{{ $rAuthor }}</span>
+                    {{- with $rCreatedAt -}}
+                    <time class="comment-date" datetime="{{ . }}">{{ . }}</time>
+                    {{- end -}}
+                  </div>
+                </div>
+                <div class="comment-body">
+                  {{- $rBody := .content | htmlEscape -}}
+                  {{- $rBody = replaceRE "(?i)&lt;br\\s*/?&gt;" "<br>" $rBody -}}
+                  {{- $rBody = replaceRE "\r?\n" "<br>" $rBody -}}
+                  {{- $rBody | safeHTML -}}
+                </div>
+              </div>
+            {{- end -}}
+          </div>
+          {{- end -}}
+        </div>
+      {{- end -}}
+    {{- end -}}
+  </div>
+
+  <!-- Stufe 2: Weißes Modal / Overlay -->
+  <div class="modal-backdrop" id="commentModal" aria-hidden="true">
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="commentModalTitle" aria-describedby="commentModalDesc" tabindex="-1">
+      <div class="modal-header">
+        <h3 class="modal-title" id="commentModalTitle">{{ $modalTitle }}</h3>
+        <button type="button" class="modal-close-btn" id="modalCloseBtn" aria-label="Schließen">&times;</button>
+      </div>
+      <p class="modal-desc" id="commentModalDesc">{{ $modalDesc }}</p>
+
+      <form class="modal-form" id="commentForm" novalidate>
+        <input type="hidden" id="replyToCommentId" value="">
+        <input type="text" name="website_trap" id="commentWebsiteTrap" style="display:none !important; position:absolute; left:-9999px;" tabindex="-1" autocomplete="off" aria-hidden="true">
+        <div class="comments-modal-error" id="commentModalError" role="alert" style="display: none;"></div>
+        <div class="modal-field">
+          <label for="commentAuthorName" class="modal-label">{{ $labelName }}</label>
+          <input type="text" id="commentAuthorName" class="modal-input" placeholder="{{ $phName }}" required autocomplete="name">
+        </div>
+        <div class="modal-field">
+          <label for="commentAuthorEmail" class="modal-label">{{ $labelEmail }}</label>
+          <input type="email" id="commentAuthorEmail" class="modal-input" placeholder="{{ $phEmail }}" autocomplete="email">
+        </div>
+        <div class="modal-actions">
+          <button type="button" class="btn-modal-cancel" id="btnCancelModal">{{ $btnCancel }}</button>
+          <button type="submit" class="btn-modal-submit" id="btnSubmitComment">{{ $btnPublish }}</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+{{- $commentsJS := resources.Get "js/comments.js" | minify | fingerprint }}
+<script defer src="{{ $commentsJS.RelPermalink }}" integrity="{{ $commentsJS.Data.Integrity }}"></script>

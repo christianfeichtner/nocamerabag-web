@@ -1,0 +1,6 @@
+{{- if and .Page.TableOfContents (ne .Page.TableOfContents "<nav id=\"TableOfContents\"></nav>") }}
+<div class="toc-container">
+  <p class="toc-title">{{ .Get "title" | default (.Page.Params.tocTitle | default "Table of Contents") }}</p>
+  {{ .Page.TableOfContents }}
+</div>
+{{- end }}

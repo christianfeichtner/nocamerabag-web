@@ -1,0 +1,149 @@
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $headingTag := cond $isFirst "h1" "h2" -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-gallery-text section--bg-{{ $bgColor }}">
+  <div class="section-container">
+    {{- if or $data.title $data.subtitle $data.description $data.text_top $data.text }}
+    <div class="section-header text-center">
+      {{- with $data.title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+      {{- end }}
+      {{- with $data.subtitle }}
+        <p class="section-subtitle">{{ . | markdownify }}</p>
+      {{- end }}
+      {{- with (or $data.text_top $data.text $data.description) }}
+        <div class="gallery-text-top">
+          {{- if reflect.IsSlice . }}
+            {{- range . }}
+              <p class="section-text">{{ . | markdownify }}</p>
+            {{- end }}
+          {{- else }}
+            <div class="section-text">{{ . | markdownify }}</div>
+          {{- end }}
+        </div>
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- $images := $data.images | default $data.items | default $data.gallery -}}
+    {{- with $images }}
+    <div class="gallery-grid">
+      {{- range . }}
+        {{- $src := "" }}
+        {{- $alt := "" }}
+        {{- $caption := "" }}
+        {{- $targetUrl := .url | default .link }}
+        {{- if reflect.IsMap . }}
+          {{- $src = .src | default .image | default .url }}
+          {{- $alt = .alt | default .caption | default "" }}
+          {{- $caption = .caption | default .text | default .description }}
+        {{- else }}
+          {{- $src = . }}
+        {{- end }}
+        {{- $imgRes := false }}
+        {{- $isExternal := or (hasPrefix $src "http://") (hasPrefix $src "https://") }}
+        {{- if and $src (not $isExternal) }}
+          {{- $cleanPath := strings.TrimPrefix "/" $src }}
+          {{- $imgRes = resources.Get $cleanPath }}
+          {{- if not $imgRes }}
+            {{- $imgRes = resources.GetMatch (printf "**%s*" $cleanPath) }}
+          {{- end }}
+        {{- end }}
+        <div class="gallery-grid-item">
+          <div class="gallery-grid-image">
+            {{- if $targetUrl }}
+              {{- $isExt := strings.HasPrefix $targetUrl "http" }}
+              <a href="{{ if $isExt }}{{ $targetUrl }}{{ else }}{{ $targetUrl | relLangURL }}{{ end }}" class="gallery-grid-link"{{ if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
+                {{- if $imgRes }}
+                  {{- $processable := in (slice "jpg" "jpeg" "png" "gif" "tif" "bmp") $imgRes.MediaType.SubType }}
+                  {{- $imgUrl := $imgRes.RelPermalink }}
+                  {{- $imgW := $imgRes.Width }}
+                  {{- $imgH := $imgRes.Height }}
+                  {{- if $processable }}
+                    {{- $processed := $imgRes.Fill "600x600 webp smart" }}
+                    {{- $imgUrl = $processed.RelPermalink }}
+                    {{- $imgW = $processed.Width }}
+                    {{- $imgH = $processed.Height }}
+                  {{- end }}
+                  <img src="{{ $imgUrl }}" 
+                       width="{{ $imgW }}" 
+                       height="{{ $imgH }}" 
+                       alt="{{ $alt }}" 
+                       loading="lazy" 
+                       class="gallery-img">
+                {{- else }}
+                  <img src="{{ $src | relURL }}" 
+                       alt="{{ $alt }}" 
+                       loading="lazy" 
+                       class="gallery-img">
+                {{- end }}
+              </a>
+            {{- else }}
+              {{- if $imgRes }}
+                {{- $processable := in (slice "jpg" "jpeg" "png" "gif" "tif" "bmp") $imgRes.MediaType.SubType }}
+                {{- $imgUrl := $imgRes.RelPermalink }}
+                {{- $imgW := $imgRes.Width }}
+                {{- $imgH := $imgRes.Height }}
+                {{- if $processable }}
+                  {{- $processed := $imgRes.Fill "600x600 webp smart" }}
+                  {{- $imgUrl = $processed.RelPermalink }}
+                  {{- $imgW = $processed.Width }}
+                  {{- $imgH = $processed.Height }}
+                {{- end }}
+                <img src="{{ $imgUrl }}" 
+                     width="{{ $imgW }}" 
+                     height="{{ $imgH }}" 
+                     alt="{{ $alt }}" 
+                     loading="lazy" 
+                     class="gallery-img">
+              {{- else }}
+                <img src="{{ $src | relURL }}" 
+                     alt="{{ $alt }}" 
+                     loading="lazy" 
+                     class="gallery-img">
+              {{- end }}
+            {{- end }}
+          </div>
+          {{- with $caption }}
+          <div class="gallery-grid-caption">
+            {{ . | markdownify }}
+          </div>
+          {{- end }}
+        </div>
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- with $data.text_bottom }}
+    <div class="gallery-text-bottom text-center">
+      {{- if reflect.IsSlice . }}
+        {{- range . }}
+          <p class="section-text">{{ . | markdownify }}</p>
+        {{- end }}
+      {{- else }}
+        <div class="section-text">{{ . | markdownify }}</div>
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- $buttons := $data.buttons -}}
+    {{- if and (not $buttons) $data.button -}}
+      {{- $buttons = slice $data.button -}}
+    {{- end -}}
+    {{- with $buttons }}
+    <div class="section-btn-group justify-center">
+      {{- range . }}
+        {{- $btnStyle := .style | default "primary" }}
+        {{- $btnClass := printf "btn-%s" $btnStyle }}
+        {{- if eq $btnStyle "secondary" }}{{ $btnClass = "btn-secondary" }}{{ end }}
+        <a href="{{ .url | default .link | relLangURL }}" class="btn {{ $btnClass }}"{{ with .target }} target="{{ . }}" rel="noopener"{{ end }}>
+          {{ .text | safeHTML }}
+        </a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+</section>

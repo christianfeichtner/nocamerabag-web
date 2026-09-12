@@ -1,0 +1,41 @@
+{{- define "main" }}
+
+<header class="blog-list-header">
+  {{- if .Title }}
+  <h1>{{ .Title }}</h1>
+  {{- end }}
+
+  {{- if .Params.subtitle }}
+  <p class="section-subtitle">{{ .Params.subtitle | markdownify }}</p>
+  {{- else if eq .Data.Singular "tag" }}
+  <p class="section-subtitle">All articles tagged with &ldquo;{{ .Title }}&rdquo;</p>
+  {{- else if and .Description (not .Content) }}
+  <p class="section-subtitle">{{ .Description | markdownify }}</p>
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="blog-list-intro">
+    {{ .Content }}
+  </div>
+  {{- else if and .Description (not .Params.subtitle) (ne .Data.Singular "tag") }}
+  <div class="blog-list-intro">
+    <p>{{ .Description | markdownify }}</p>
+  </div>
+  {{- end }}
+
+  {{- partial "sub-nav-pills.html" . }}
+</header>
+
+{{- $paginator := .Paginate .Pages.ByDate.Reverse 9 -}}
+
+<div class="blog-grid">
+  {{- range $paginator.Pages }}
+    {{- partial "post-card.html" . }}
+  {{- end }}
+</div>
+
+{{- partial "pagination.html" . }}
+
+{{- partial "blog-bottom-section.html" . }}
+
+{{- end }}

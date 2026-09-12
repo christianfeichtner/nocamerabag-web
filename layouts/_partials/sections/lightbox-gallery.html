@@ -1,0 +1,130 @@
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $headingTag := cond $isFirst "h1" "h2" -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-lightbox-gallery section--bg-{{ $bgColor }}">
+  <div class="section-container">
+    {{- if or $data.title $data.subtitle $data.description $data.text }}
+    <div class="section-header text-center">
+      {{- with $data.title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+      {{- end }}
+      {{- with $data.subtitle }}
+        <p class="section-subtitle">{{ . | markdownify }}</p>
+      {{- end }}
+      {{- with (or $data.text $data.description) }}
+        {{- if reflect.IsSlice . }}
+          {{- range . }}
+            <p class="section-text">{{ . | markdownify }}</p>
+          {{- end }}
+        {{- else }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- with (or $data.items $data.photos $data.gallery $data.images) }}
+    <div class="lightbox-gallery-grid">
+      {{- range $idx, $item := . }}
+        {{- $imgSrc := "" }}
+        {{- $imgAlt := "" }}
+        {{- if reflect.IsMap .image }}
+          {{- $imgSrc = .image.src | default .image.url }}
+          {{- $imgAlt = .image.alt | default .title | default "" }}
+        {{- else }}
+          {{- $imgSrc = .image | default .src }}
+          {{- $imgAlt = .alt | default .title | default "" }}
+        {{- end }}
+        {{- $caption := or .caption .text .description | default "" -}}
+
+        {{- $isExternal := or (strings.HasPrefix $imgSrc "http://") (strings.HasPrefix $imgSrc "https://") -}}
+        {{- $imgRes := false -}}
+        {{- if and $imgSrc (not $isExternal) -}}
+          {{- $cleanPath := strings.TrimPrefix "/" $imgSrc -}}
+          {{- $imgRes = resources.Get $cleanPath -}}
+          {{- if not $imgRes -}}
+            {{- $imgRes = resources.GetMatch (printf "**%s*" $cleanPath) -}}
+          {{- end -}}
+        {{- end -}}
+
+        {{- $fullUrl := $imgSrc | relURL -}}
+        {{- $thumbUrl := $imgSrc | relURL -}}
+        {{- $imgW := "" -}}
+        {{- $imgH := "" -}}
+
+        {{- if $isExternal -}}
+          {{- $fullUrl = $imgSrc -}}
+          {{- $thumbUrl = $imgSrc -}}
+        {{- else if $imgRes -}}
+          {{- $fullUrl = $imgRes.RelPermalink -}}
+          {{- $thumbUrl = $imgRes.RelPermalink -}}
+          {{- $imgW = $imgRes.Width -}}
+          {{- $imgH = $imgRes.Height -}}
+        {{- end -}}
+
+        <div class="lightbox-gallery-item">
+          <div class="lightbox-gallery-image-wrapper">
+            <button type="button" class="lightbox-trigger" aria-label="Open fullscreen photo: {{ $imgAlt | default (printf "Photo %d" (add $idx 1)) }}" data-full="{{ $fullUrl }}" data-alt="{{ $imgAlt }}" {{- with $caption }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }}>
+              <img src="{{ $thumbUrl }}" {{- with $imgW }} width="{{ . }}"{{- end }}{{- with $imgH }} height="{{ . }}"{{- end }} alt="{{ $imgAlt }}" loading="lazy" class="lightbox-thumb">
+            </button>
+
+            {{- $country := .country -}}
+            {{- $flag := "" -}}
+            {{- $countryName := "" -}}
+            {{- with $country -}}
+              {{- with (index site.Data.flags .) -}}
+                {{- $flag = .flag -}}
+                {{- $countryName = .name | default . -}}
+              {{- else -}}
+                {{- $flag = . -}}
+                {{- $countryName = . -}}
+              {{- end -}}
+            {{- end -}}
+
+            {{- $itemModel := or .model .iphone .camera -}}
+
+            {{- if or $flag $itemModel }}
+            <div class="image-overlay-bar lightbox-gallery-overlay-bar">
+              <div class="overlay-actions img-badges-overlay">
+                {{- if $flag }}
+                <span class="gallery-flag-pill card-flag-badge badge-flag" title="{{ $countryName }}" data-tooltip="{{ $countryName }}" aria-label="{{ $countryName }}">{{ $flag }}</span>
+                {{- end }}
+
+                {{- with $itemModel }}
+                <span class="overlay-badge lightbox-gallery-pill">
+                  <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <rect x="5" y="2" width="14" height="20" rx="2" ry="2"></rect>
+                    <line x1="12" y1="18" x2="12.01" y2="18"></line>
+                  </svg>
+                  <span>{{ . }}</span>
+                </span>
+                {{- end }}
+
+                <button class="action-btn badge-lightbox lightbox-trigger" type="button" data-full="{{ $fullUrl }}" data-alt="{{ $imgAlt }}" {{- with $caption }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }} data-tooltip="View Large" aria-label="View Large">
+                  <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <polyline points="15 3 21 3 21 9"></polyline>
+                    <polyline points="9 21 3 21 3 15"></polyline>
+                    <line x1="21" y1="3" x2="14" y2="10"></line>
+                    <line x1="3" y1="21" x2="10" y2="14"></line>
+                  </svg>
+                </button>
+              </div>
+            </div>
+            {{- end }}
+          </div>
+
+          {{- with $caption }}
+          <div class="lightbox-gallery-caption">
+            {{ . | markdownify }}
+          </div>
+          {{- end }}
+        </div>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+</section>
+

@@ -1,0 +1,31 @@
+{{- with .Params.photo_spots }}
+<div id="map-modal" class="map-modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="map-modal-title">
+  <div class="map-modal-backdrop"></div>
+  <div class="map-modal-dialog">
+    <div class="map-modal-header">
+      <h3 id="map-modal-title" class="map-modal-title">📍 Photo Spots: {{ $.Title }}</h3>
+      <button id="close-map-btn" class="map-modal-close" type="button" aria-label="Close">&times;</button>
+    </div>
+    <div class="map-modal-body">
+      <div id="map-container" class="map-container"></div>
+    </div>
+  </div>
+</div>
+
+{{- $spotsList := slice -}}
+{{- range $idx, $spot := . -}}
+  {{- $spotId := $spot.id | default (printf "spot-%d" $idx) -}}
+  {{- $spotDict := merge $spot (dict "id" $spotId) -}}
+  {{- $spotsList = $spotsList | append $spotDict -}}
+{{- end -}}
+<script id="map-spots-data" type="application/json">{{ $spotsList | jsonify | safeJS }}</script>
+
+{{- $leafletCSS := resources.Get "css/leaflet.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $leafletCSS.RelPermalink }}" integrity="{{ $leafletCSS.Data.Integrity }}">
+
+{{- $leafletJS := resources.Get "js/leaflet.js" | minify | fingerprint }}
+<script defer src="{{ $leafletJS.RelPermalink }}" integrity="{{ $leafletJS.Data.Integrity }}"></script>
+
+{{- $mapLightboxJS := resources.Get "js/map-lightbox.js" | minify | fingerprint }}
+<script defer src="{{ $mapLightboxJS.RelPermalink }}" integrity="{{ $mapLightboxJS.Data.Integrity }}"></script>
+{{- end }}

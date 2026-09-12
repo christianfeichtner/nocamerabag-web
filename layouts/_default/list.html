@@ -1,0 +1,42 @@
+{{- define "main" }}
+
+<header class="blog-list-header">
+  {{- if .Title }}
+  <h1>{{ .Title }}</h1>
+  {{- end }}
+  {{- with .Params.subtitle }}
+  <p class="section-subtitle">{{ . | markdownify }}</p>
+  {{- end }}
+  {{- if .Content }}
+  <div class="blog-list-intro">
+    {{ .Content }}
+  </div>
+  {{- else if and .Description (not .Params.subtitle) }}
+  <div class="blog-list-intro">
+    <p>{{ .Description | markdownify }}</p>
+  </div>
+  {{- end }}
+
+  {{- partial "sub-nav-pills.html" . }}
+</header>
+
+{{- $pages := .RegularPages -}}
+{{- if .IsHome -}}
+  {{- $mainSections := site.Params.mainSections | default (slice "blog" "posts") -}}
+  {{- $pages = where site.RegularPages "Type" "in" $mainSections -}}
+  {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" -}}
+{{- end -}}
+{{- $pages = $pages.ByDate.Reverse -}}
+{{- $paginator := .Paginate $pages 9 -}}
+
+<div class="blog-grid">
+  {{- range $paginator.Pages }}
+    {{- partial "post-card.html" . }}
+  {{- end }}
+</div>
+
+{{- partial "pagination.html" . }}
+
+{{- partial "blog-bottom-section.html" . }}
+
+{{- end }}

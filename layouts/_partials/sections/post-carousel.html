@@ -1,0 +1,56 @@
+{{/*
+  Section Partial: post-carousel.html
+  Wird vom Page-Builder / Theme-Page Layout geladen.
+*/}}
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+{{- $limit := $data.limit | default $data.count | default 6 -}}
+
+{{- $showCategory := true -}}
+{{- if isset $data "show_category" -}}
+  {{- $showCategory = $data.show_category -}}
+{{- else if isset $data "showCategory" -}}
+  {{- $showCategory = $data.showCategory -}}
+{{- else if isset $data "show_categories" -}}
+  {{- $showCategory = $data.show_categories -}}
+{{- end -}}
+
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section post-carousel-section{{ with $bgColor }} section--bg-{{ . }}{{ end }}">
+  <div class="section-container">
+    {{/* Optionaler Section-Header */}}
+    {{- if or $data.title $data.subtitle $data.description $data.text }}
+    <div class="section-header text-center">
+      {{- with $data.title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+      {{- end }}
+      {{- with $data.subtitle }}
+        <p class="section-subtitle">{{ . | markdownify }}</p>
+      {{- end }}
+      {{- with (or $data.text $data.description) }}
+        {{- if reflect.IsSlice . }}
+          {{- range . }}
+            <p class="section-text">{{ . | markdownify }}</p>
+          {{- end }}
+        {{- else }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{/* Post-Karussell Partial mit Filter- und Anzeige-Parametern aufrufen */}}
+    {{- partial "post-carousel.html" (dict "category" $data.category "tag" $data.tag "featured" $data.featured "limit" $limit "id" (printf "%s-carousel" $sectionID) "show_category" $showCategory) -}}
+
+    {{/* Optionaler Section-Action Button */}}
+    {{- with $data.button }}
+    <div class="section-action text-center">
+      <a href="{{ .url | default .link | default "/blog/" | relLangURL }}" class="btn {{ if eq .style "secondary" }}btn-secondary{{ else }}btn-primary{{ end }} btn-wide"{{ with .target }} target="{{ . }}" rel="noopener"{{ end }}>
+        {{ .text | default "View More" | safeHTML }}
+      </a>
+    </div>
+    {{- end }}
+  </div>
+</section>

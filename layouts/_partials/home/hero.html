@@ -1,0 +1,26 @@
+<section class="home-section home-hero">
+  <div class="home-container">
+    <div class="home-hero-grid">
+      <div class="home-hero-media">
+        <div class="home-image-wrapper">
+          {{- $heroImg := resources.Get "images/cityscapes/germany/cologne-cathedral-sunset.jpeg" -}}
+          <img src="{{ with $heroImg }}{{ .RelPermalink }}{{ else }}{{ "images/cityscapes/germany/cologne-cathedral-sunset.jpeg" | relURL }}{{ end }}" 
+               alt="Cologne Cathedral at Sunset" 
+               {{ with $heroImg }}width="{{ .Width }}" height="{{ .Height }}"{{ end }}
+               class="home-img home-img--square" 
+               loading="eager">
+        </div>
+      </div>
+      <div class="home-hero-content">
+        <h1 class="home-hero-title">No Camera Bag</h1>
+        <p class="section-subtitle">A blog about travel iPhone photography and experiences with lost places.</p>
+        <p class="home-hero-text">In this blog you’ll learn all about how I’m shooting, editing and sharing travel photos using an iPhone and Mac exclusively.</p>
+        <p class="home-hero-text">And about once a month, you'll also find a blog post about a lost place. These are forgotten or abandoned places like castles, sanatoriums or paper mills from the past century that I'm fascinated by. It's like travelling in time. So please join me on my journey through lost places and read my travel stories about lost places.</p>
+        <div class="home-btn-group">
+          <a href="{{ "/blog/" | relLangURL }}" class="btn btn-primary">iPhone Photography Guide</a>
+          <a href="{{ "/blog/" | relLangURL }}" class="btn btn-primary">Travel Stories</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

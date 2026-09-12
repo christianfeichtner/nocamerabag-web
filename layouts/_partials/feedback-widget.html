@@ -1,0 +1,51 @@
+{{- $apiUrl := site.Params.ratings.api_url | default "http://192.168.1.90:8788" -}}
+<div class="feedback-widget" id="feedbackWidget" data-api-url="{{ $apiUrl }}">
+  <div class="feedback-header">
+    <p class="feedback-title">HOW HELPFUL WAS THIS ARTICLE?</p>
+  </div>
+  <div class="feedback-options" role="group" aria-label="Article feedback">
+    <button type="button" class="feedback-btn" data-rating="1" aria-label="Not helpful">
+      <svg class="feedback-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <path d="M16 16s-1.5-2-4-2-4 2-4 2"></path>
+        <line x1="9" y1="9" x2="9.01" y2="9"></line>
+        <line x1="15" y1="9" x2="15.01" y2="9"></line>
+      </svg>
+      <span class="feedback-label">Not helpful</span>
+    </button>
+    <button type="button" class="feedback-btn" data-rating="2.33" aria-label="A little">
+      <svg class="feedback-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <line x1="8" y1="15" x2="16" y2="15"></line>
+        <line x1="9" y1="9" x2="9.01" y2="9"></line>
+        <line x1="15" y1="9" x2="15.01" y2="9"></line>
+      </svg>
+      <span class="feedback-label">A little</span>
+    </button>
+    <button type="button" class="feedback-btn" data-rating="3.67" aria-label="Helpful">
+      <svg class="feedback-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <path d="M8 14s1.5 2 4 2 4-2 4-2"></path>
+        <line x1="9" y1="9" x2="9.01" y2="9"></line>
+        <line x1="15" y1="9" x2="15.01" y2="9"></line>
+      </svg>
+      <span class="feedback-label">Helpful</span>
+    </button>
+    <button type="button" class="feedback-btn" data-rating="5" aria-label="Very helpful">
+      <svg class="feedback-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <path d="M8 13.5s1.8 3.5 4 3.5 4-3.5 4-3.5"></path>
+        <line x1="8" y1="13.5" x2="16" y2="13.5"></line>
+        <line x1="9" y1="9" x2="9.01" y2="9"></line>
+        <line x1="15" y1="9" x2="15.01" y2="9"></line>
+      </svg>
+      <span class="feedback-label">Very helpful</span>
+    </button>
+  </div>
+  <div class="feedback-message" id="feedbackMessage" role="status" aria-live="polite" style="display: none;">
+    Thank you for your feedback!
+  </div>
+</div>
+
+{{- $feedbackJS := resources.Get "js/feedback.js" | minify | fingerprint }}
+<script defer src="{{ $feedbackJS.RelPermalink }}" integrity="{{ $feedbackJS.Data.Integrity }}"></script>

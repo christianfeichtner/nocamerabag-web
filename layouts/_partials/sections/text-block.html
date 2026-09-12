@@ -1,0 +1,48 @@
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $headingTag := cond $isFirst "h1" "h2" -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+{{- $align := $data.align | default "center" -}}
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-text-block text-block-section section--bg-{{ $bgColor }}{{ if eq $align "center" }} text-center{{ end }}">
+  <div class="section-container">
+    {{- with $data.title }}
+      {{- $headingID := $data.id | default (. | anchorize) -}}
+      {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+    {{- end }}
+    {{- with $data.subtitle }}
+      <p class="section-subtitle">{{ . | markdownify }}</p>
+    {{- end }}
+
+    <div class="text-block-content">
+      {{- with $data.text }}
+        {{- if reflect.IsSlice . }}
+          {{- range . }}
+            <p class="section-text">{{ . | markdownify }}</p>
+          {{- end }}
+        {{- else }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+      {{- end }}
+      {{- with $data.content }}
+        <div class="section-text">{{ . | markdownify }}</div>
+      {{- end }}
+      {{- with $data.description }}
+        <div class="section-text">{{ . | markdownify }}</div>
+      {{- end }}
+    </div>
+
+    {{- with $data.buttons }}
+    <div class="section-btn-group{{ if eq $align "center" }} justify-center{{ end }}">
+      {{- range . }}
+        {{- $btnStyle := .style | default "primary" }}
+        {{- $btnClass := printf "btn-%s" $btnStyle }}
+        {{- if eq $btnStyle "secondary" }}{{ $btnClass = "btn-secondary" }}{{ end }}
+        <a href="{{ .url | default .link | relLangURL }}" class="btn {{ $btnClass }}"{{ with .target }} target="{{ . }}" rel="noopener"{{ end }}>
+          {{ .text | safeHTML }}
+        </a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+</section>

@@ -1,0 +1,147 @@
+{{- /*
+  layouts/partials/header.html
+  Main site header with responsive navigation, sticky positioning,
+  iOS-style glassmorphism effect, and mobile hamburger drawer.
+*/ -}}
+
+{{- $currentPage := . -}}
+{{- $currentUrl := $currentPage.RelPermalink | strings.TrimRight "/" -}}
+
+{{- /* Menüeinträge: Verwendet site.Menus.main falls definiert, sonst Standardliste */ -}}
+{{- $navItems := slice -}}
+{{- if site.Menus.main -}}
+  {{- range site.Menus.main -}}
+    {{- $navItems = $navItems | append (dict "name" .Name "url" .URL "weight" .Weight) -}}
+  {{- end -}}
+{{- else -}}
+  {{- $navItems = slice
+      (dict "name" "Blog" "url" "/blog/")
+      (dict "name" "iPhone Photography" "url" "/iphone-photography/")
+      (dict "name" "Portfolio" "url" "/portfolio/")
+      (dict "name" "Urbex Tours" "url" "/urbex-tours/")
+      (dict "name" "Traveling Light" "url" "/traveling-light/")
+  -}}
+{{- end -}}
+
+<header class="site-header" id="site-header">
+  <div class="header-container">
+    
+    <!-- Logo / Brand -->
+    <a href="{{ "" | relLangURL }}" class="site-logo" aria-label="{{ site.Title | default "Home" }}">
+      {{- $logo := resources.Get "images/ui/nocamerabag-logo.svg" -}}
+      {{- if not $logo -}}
+        {{- $logo = resources.Get "images/ui/nocamerabag-logo.png" -}}
+      {{- end -}}
+      {{- if not $logo -}}
+        {{- $logo = resources.Get "images/ui/logo.svg" -}}
+      {{- end -}}
+      {{- if not $logo -}}
+        {{- $logo = resources.Get "images/ui/logo.png" -}}
+      {{- end -}}
+
+      {{- if $logo -}}
+        <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}" width="{{ $logo.Width }}" height="{{ $logo.Height }}" class="logo-image">
+      {{- else -}}
+        <img src="{{ "images/ui/nocamerabag-logo.png" | relURL }}" alt="{{ site.Title }}" class="logo-image">
+      {{- end -}}
+    </a>
+
+    <!-- Hamburger Toggle Button for Mobile (< 768px) -->
+    <button class="hamburger-toggle" id="hamburger-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
+      <span class="hamburger-bar"></span>
+      <span class="hamburger-bar"></span>
+      <span class="hamburger-bar"></span>
+    </button>
+
+    <!-- Main Navigation (Desktop & Mobile Dropdown) -->
+    <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+      <ul class="nav-menu" id="nav-menu">
+        {{- range $navItems -}}
+          {{- $targetUrl := .url | relLangURL -}}
+          {{- $cleanTarget := $targetUrl | strings.TrimRight "/" -}}
+          {{- $isActive := false -}}
+
+          {{- if eq $currentUrl $cleanTarget -}}
+            {{- $isActive = true -}}
+          {{- else if and (ne $cleanTarget "") (hasPrefix $currentUrl $cleanTarget) -}}
+            {{- $isActive = true -}}
+          {{- end -}}
+
+          <li class="nav-item">
+            <a href="{{ $targetUrl }}" class="nav-link{{ if $isActive }} active{{ end }}" {{- if $isActive }} aria-current="page"{{- end }}>
+              {{ .name }}
+            </a>
+          </li>
+        {{- end -}}
+      </ul>
+    </nav>
+
+  </div>
+</header>
+
+<!-- Lightweight Vanilla JS for Mobile Navigation Toggle -->
+<script>
+  (function() {
+    var toggleBtn = document.getElementById('hamburger-toggle');
+    var header = document.getElementById('site-header');
+    var nav = document.getElementById('site-nav');
+    var navLinks = document.querySelectorAll('.nav-link');
+
+    if (!toggleBtn || !nav || !header) return;
+
+    function toggleMenu() {
+      var isExpanded = toggleBtn.getAttribute('aria-expanded') === 'true';
+      var newState = !isExpanded;
+
+      toggleBtn.setAttribute('aria-expanded', String(newState));
+      toggleBtn.setAttribute('aria-label', newState ? 'Close menu' : 'Open menu');
+      toggleBtn.classList.toggle('is-active', newState);
+      nav.classList.toggle('is-open', newState);
+      header.classList.toggle('menu-open', newState);
+      document.body.classList.toggle('nav-open', newState);
+    }
+
+    function closeMenu() {
+      toggleBtn.setAttribute('aria-expanded', 'false');
+      toggleBtn.setAttribute('aria-label', 'Open menu');
+      toggleBtn.classList.remove('is-active');
+      nav.classList.remove('is-open');
+      header.classList.remove('menu-open');
+      document.body.classList.remove('nav-open');
+    }
+
+    toggleBtn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      toggleMenu();
+    });
+
+    // Menü bei Klick auf einen Navigationslink automatisch schließen
+    navLinks.forEach(function(link) {
+      link.addEventListener('click', function() {
+        closeMenu();
+      });
+    });
+
+    // Klick außerhalb des Headers schließt das mobile Menü
+    document.addEventListener('click', function(e) {
+      if (!header.contains(e.target) && nav.classList.contains('is-open')) {
+        closeMenu();
+      }
+    });
+
+    // ESC-Taste schließt das mobile Menü
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && nav.classList.contains('is-open')) {
+        closeMenu();
+        toggleBtn.focus();
+      }
+    });
+
+    // Schließen beim Vergrößern des Browserfensters über den Mobile-Breakpoint
+    window.addEventListener('resize', function() {
+      if (window.innerWidth >= 768 && nav.classList.contains('is-open')) {
+        closeMenu();
+      }
+    });
+  })();
+</script>

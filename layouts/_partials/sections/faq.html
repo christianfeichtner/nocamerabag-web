@@ -1,0 +1,113 @@
+{{- $data := .data | default .Params | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+{{- $items := or $data.items $data.faqs $data.questions $data.faq (and .Params .Params.faq) -}}
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-faq section--bg-{{ $bgColor }}">
+  <div class="section-container">
+    {{- if or $data.title $data.subtitle $data.text $data.description $data.intro }}
+    <div class="section-header text-center">
+      {{- with $data.title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+      {{- end }}
+      {{- with $data.subtitle }}
+        <p class="section-subtitle">{{ . | markdownify }}</p>
+      {{- end }}
+      {{- with (or $data.text $data.description $data.intro $data.intro_text) }}
+        {{- if reflect.IsSlice . }}
+          {{- range . }}
+            <p class="section-text">{{ . | markdownify }}</p>
+          {{- end }}
+        {{- else }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- with $items }}
+    {{- if gt (len .) 1 }}
+    <div class="faq-controls">
+      <button type="button" class="faq-toggle-all" aria-expanded="false" data-label-expand="Expand all" data-label-collapse="Collapse all">
+        <span class="faq-toggle-all-text">Expand all</span>
+        <span class="faq-toggle-all-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </span>
+      </button>
+    </div>
+    {{- end }}
+    <div class="faq-accordion">
+      {{- range $index, $item := . }}
+      <details class="faq-item"{{ if $item.open }} open{{ end }}>
+        <summary class="faq-summary">
+          <span class="faq-question">
+            <span class="faq-num">{{ printf "%02d" (add $index 1) }}</span>
+            <span>{{ (or $item.question $item.title $item.q) | markdownify }}</span>
+          </span>
+          <span class="faq-icon-wrap" aria-hidden="true">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="12" y1="5" x2="12" y2="19"></line>
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+            </svg>
+          </span>
+        </summary>
+        <div class="faq-collapse">
+          <div class="faq-content-inner">
+            {{- with (or $item.answer $item.text $item.a) }}
+              {{- if reflect.IsSlice . }}
+                {{- range . }}
+                  <p>{{ . | markdownify | safeHTML }}</p>
+                {{- end }}
+              {{- else }}
+                <p>{{ . | markdownify | safeHTML }}</p>
+              {{- end }}
+            {{- end }}
+          </div>
+        </div>
+      </details>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+</section>
+
+<script>
+(function() {
+  const sec = document.currentScript ? document.currentScript.closest('.section-faq') || document.currentScript.previousElementSibling : null;
+  const sections = sec && sec.classList && sec.classList.contains('section-faq') ? [sec] : document.querySelectorAll('.section-faq');
+  sections.forEach(function(s) {
+    const toggleBtn = s.querySelector('.faq-toggle-all');
+    const items = s.querySelectorAll('.faq-item');
+    if (!toggleBtn || items.length === 0) return;
+
+    const labelExpand = toggleBtn.getAttribute('data-label-expand') || 'Expand all';
+    const labelCollapse = toggleBtn.getAttribute('data-label-collapse') || 'Collapse all';
+    const textSpan = toggleBtn.querySelector('.faq-toggle-all-text');
+
+    function updateBtnState() {
+      const allOpen = Array.from(items).every(function(item) { return item.open; });
+      toggleBtn.setAttribute('aria-expanded', allOpen ? 'true' : 'false');
+      if (textSpan) {
+        textSpan.textContent = allOpen ? labelCollapse : labelExpand;
+      }
+    }
+
+    toggleBtn.addEventListener('click', function() {
+      const allOpen = Array.from(items).every(function(item) { return item.open; });
+      const targetState = !allOpen;
+      items.forEach(function(item) {
+        item.open = targetState;
+      });
+      updateBtnState();
+    });
+
+    items.forEach(function(item) {
+      item.addEventListener('toggle', updateBtnState);
+    });
+  });
+})();
+</script>
+

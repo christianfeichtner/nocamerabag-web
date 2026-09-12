@@ -1,0 +1,26 @@
+<section class="home-section home-media-coverage section-media-coverage section-press">
+  <div class="home-container">
+    <div class="home-section-header text-center">
+      <h2 id="media-coverage" class="home-section-title">Media Coverage</h2>
+      <p class="home-section-subtitle">A selection of websites, podcasts, and magazines that featured my work:</p>
+    </div>
+
+    <div class="press-logos-grid">
+      {{- $pressLogos := resources.Match "images/press/*" -}}
+      {{- range $pressLogos -}}
+        {{- $rawName := .Name | path.Base | strings.TrimSuffix (path.Ext .) -}}
+        {{- $cleanName := $rawName | replaceRE "-logo(-png)?" "" | replaceRE "[-_]" " " | humanize | title -}}
+        {{- if eq $rawName "journalism-co-uk-logo" }}{{ $cleanName = "journalism.co.uk" }}{{ end -}}
+        {{- if eq $rawName "diyphotography-logo" }}{{ $cleanName = "DIY Photography" }}{{ end -}}
+        {{- if eq $rawName "iphonegraphy-central-logo" }}{{ $cleanName = "iPhoneography Central" }}{{ end -}}
+        {{- if eq $rawName "petapixel-logo" }}{{ $cleanName = "PetaPixel" }}{{ end -}}
+        {{- if eq $rawName "procamera-logo" }}{{ $cleanName = "ProCamera" }}{{ end -}}
+        {{- if eq $rawName "xataka-photo-logo" }}{{ $cleanName = "Xataka Foto" }}{{ end -}}
+        {{- if eq $rawName "aipic-logo" }}{{ $cleanName = "AIPIC" }}{{ end -}}
+        <div class="press-logo-item">
+          <img src="{{ .RelPermalink }}" alt="{{ $cleanName }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy">
+        </div>
+      {{- end -}}
+    </div>
+  </div>
+</section>

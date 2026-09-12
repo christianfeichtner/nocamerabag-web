@@ -1,0 +1,43 @@
+{{- $paginator := .Paginator -}}
+{{- if reflect.IsMap . -}}
+  {{- $paginator = .paginator -}}
+{{- end -}}
+
+{{- if and $paginator (gt $paginator.TotalPages 1) }}
+<div class="pagination-container">
+  <nav class="pagination" aria-label="Pagination">
+    {{- if $paginator.HasPrev }}
+    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}" aria-label="Previous page">{{ partial "icons/arrow-left.html" . }}</a>
+    {{- else }}
+    <span class="pagination-prev disabled" aria-hidden="true">{{ partial "icons/arrow-left.html" . }}</span>
+    {{- end }}
+
+    <div class="pagination-numbers">
+      {{- $adjacent := 2 }}
+      {{- $current := $paginator.PageNumber }}
+      {{- $total := $paginator.TotalPages }}
+
+      {{- range $paginator.Pagers }}
+        {{- $p := .PageNumber }}
+        {{- if eq $p 1 }}
+          <a class="page-number{{ if eq $p $current }} active{{ end }}" href="{{ .URL }}">{{ $p }}</a>
+        {{- else if eq $p $total }}
+          <a class="page-number{{ if eq $p $current }} active{{ end }}" href="{{ .URL }}">{{ $p }}</a>
+        {{- else if and (ge $p (sub $current $adjacent)) (le $p (add $current $adjacent)) }}
+          <a class="page-number{{ if eq $p $current }} active{{ end }}" href="{{ .URL }}">{{ $p }}</a>
+        {{- else if and (eq $p 2) (gt (sub $current $adjacent) 2) }}
+          <span class="pagination-ellipsis">&hellip;</span>
+        {{- else if and (eq $p (sub $total 1)) (lt (add $current $adjacent) (sub $total 1)) }}
+          <span class="pagination-ellipsis">&hellip;</span>
+        {{- end }}
+      {{- end }}
+    </div>
+
+    {{- if $paginator.HasNext }}
+    <a class="pagination-next" href="{{ $paginator.Next.URL }}" aria-label="Next page">{{ partial "icons/arrow-right.html" . }}</a>
+    {{- else }}
+    <span class="pagination-next disabled" aria-hidden="true">{{ partial "icons/arrow-right.html" . }}</span>
+    {{- end }}
+  </nav>
+</div>
+{{- end }}

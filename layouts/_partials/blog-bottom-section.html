@@ -1,0 +1,3 @@
+{{- $socialText := site.Params.blog.social_text | default "To stay up to date with new and updated blog posts, please consider following on social media. I'm mostly active on [Twitter](https://twitter.com/nocamerabag), [Instagram](https://instagram.com/nocamerabag), followed by [Facebook](https://facebook.com/nocamerabag) and [Pinterest](https://pinterest.com/nocamerabag)." }}
+{{- $bottomSection := .Params.bottom_section | default (dict "bg_color" "white" "align" "center" "text" $socialText) }}
+{{- partial "text-block.html" $bottomSection }}

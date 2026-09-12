@@ -1,0 +1,22 @@
+{{/* Global Lightbox Modal & Controller */}}
+<div id="ncbLightbox" class="lightbox-modal" role="dialog" aria-modal="true" aria-hidden="true" aria-label="Photo Lightbox">
+  <div class="lightbox-overlay" tabindex="-1"></div>
+  <div class="lightbox-content" role="document">
+    <button type="button" class="lightbox-close" aria-label="Close Lightbox" title="Close (ESC)">&times;</button>
+    <div class="lightbox-media">
+      <img src="" alt="" class="lightbox-image">
+    </div>
+    <div class="lightbox-caption"></div>
+  </div>
+</div>
+
+{{- $lightboxJS := resources.Get "js/lightbox.js" }}
+{{- if $lightboxJS }}
+  {{- if not site.Params.assets.disableFingerprinting }}
+    {{- $lightboxJS = $lightboxJS | minify | fingerprint }}
+    <script defer src="{{ $lightboxJS.RelPermalink }}" integrity="{{ $lightboxJS.Data.Integrity }}"></script>
+  {{- else }}
+    {{- $lightboxJS = $lightboxJS | minify }}
+    <script defer src="{{ $lightboxJS.RelPermalink }}"></script>
+  {{- end }}
+{{- end }}

@@ -1,0 +1,95 @@
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+{{- $limit := $data.limit | default $data.count | default 3 -}}
+
+{{- $posts := where site.RegularPages "Section" "blog" -}}
+
+{{- with $data.category -}}
+  {{- $posts = where $posts "Params.categories" "intersect" (slice .) -}}
+{{- end -}}
+
+{{- with $data.tag -}}
+  {{- $posts = where $posts "Params.tags" "intersect" (slice .) -}}
+{{- end -}}
+
+{{- $posts = $posts.ByDate.Reverse -}}
+{{- if gt $limit 0 -}}
+  {{- $posts = $posts | first $limit -}}
+{{- end -}}
+
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section recent-posts-section latest-posts-section{{ with $bgColor }} section--bg-{{ . }}{{ end }}">
+  <div class="section-container">
+    {{- if or $data.title $data.subtitle $data.description $data.text }}
+    <div class="section-header text-center">
+      {{- with $data.title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+      {{- end }}
+      {{- with $data.subtitle }}
+        <p class="section-subtitle">{{ . | markdownify }}</p>
+      {{- end }}
+      {{- with (or $data.text $data.description) }}
+        {{- if reflect.IsSlice . }}
+          {{- range . }}
+            <p class="section-text">{{ . | markdownify }}</p>
+          {{- end }}
+        {{- else }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- $showAffiliate := false -}}
+    {{- if isset $data "show_affiliate" -}}
+      {{- $showAffiliate = $data.show_affiliate -}}
+    {{- else if isset $data "showAffiliate" -}}
+      {{- $showAffiliate = $data.showAffiliate -}}
+    {{- end -}}
+
+    <div class="recent-posts-grid">
+      {{- range $posts }}
+        {{- partial "post-card.html" (dict "page" . "show_affiliate" $showAffiliate) -}}
+      {{- end }}
+    </div>
+
+{{- $defaultUrl := "/blog/" | relLangURL -}}
+{{- $defaultText := "All Blog Posts" -}}
+
+{{- if $data.category -}}
+  {{- with site.GetPage (printf "categories/%s" ($data.category | urlize)) -}}
+    {{- $defaultUrl = .RelPermalink -}}
+  {{- else -}}
+    {{- $defaultUrl = printf "/blog/%s/" ($data.category | urlize) | relLangURL -}}
+  {{- end -}}
+  {{- $defaultText = printf "All %s Blog Posts" $data.category -}}
+{{- else if $data.tag -}}
+  {{- with site.GetPage (printf "tags/%s" ($data.tag | urlize)) -}}
+    {{- $defaultUrl = .RelPermalink -}}
+  {{- else -}}
+    {{- $defaultUrl = printf "/blog/%s/" ($data.tag | urlize) | relLangURL -}}
+  {{- end -}}
+  {{- $defaultText = printf "All %s Blog Posts" $data.tag -}}
+{{- end -}}
+
+    {{- with $data.button }}
+      {{- $btnUrl := $defaultUrl -}}
+      {{- $btnText := $defaultText -}}
+      {{- if and .url (ne .url "/blog/") -}}
+        {{- $btnUrl = .url | relLangURL -}}
+      {{- else if and .link (ne .link "/blog/") -}}
+        {{- $btnUrl = .link | relLangURL -}}
+      {{- end -}}
+      {{- if and .text (ne .text "All Blog Posts") -}}
+        {{- $btnText = .text -}}
+      {{- end -}}
+    <div class="section-action text-center">
+      <a href="{{ $btnUrl }}" class="btn {{ if eq .style "secondary" }}btn-secondary{{ else }}btn-primary{{ end }} btn-wide">
+        {{ $btnText | safeHTML }}
+      </a>
+    </div>
+    {{- end }}
+  </div>
+</section>

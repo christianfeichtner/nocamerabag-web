@@ -1,0 +1,84 @@
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $headingTag := cond $isFirst "h1" "h2" -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-gallery-grid section--bg-{{ $bgColor }}">
+  <div class="section-container">
+    {{- if or $data.title $data.subtitle $data.description $data.text }}
+    <div class="section-header text-center">
+      {{- with $data.title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+      {{- end }}
+      {{- with $data.subtitle }}
+        <p class="section-subtitle">{{ . | markdownify }}</p>
+      {{- end }}
+      {{- with (or $data.text $data.description) }}
+        {{- if reflect.IsSlice . }}
+          {{- range . }}
+            <p class="section-text">{{ . | markdownify }}</p>
+          {{- end }}
+        {{- else }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- with (or $data.items $data.cards $data.gallery $data.tours) }}
+    <div class="lost-places-gallery-grid">
+      {{- range . }}
+        {{- $imgSrc := "" }}
+        {{- $imgAlt := "" }}
+        {{- if reflect.IsMap .image }}
+          {{- $imgSrc = .image.src | default .image.url }}
+          {{- $imgAlt = .image.alt | default .title | default "" }}
+        {{- else }}
+          {{- $imgSrc = .image }}
+          {{- $imgAlt = .alt | default .title | default "" }}
+        {{- end }}
+        {{- $targetUrl := .url | default .link }}
+
+        {{- $isExternal := or (strings.HasPrefix $imgSrc "http://") (strings.HasPrefix $imgSrc "https://") -}}
+        {{- $imgRes := false -}}
+        {{- if and $imgSrc (not $isExternal) -}}
+          {{- $cleanPath := strings.TrimPrefix "/" $imgSrc -}}
+          {{- $imgRes = resources.Get $cleanPath -}}
+          {{- if not $imgRes -}}
+            {{- $imgRes = resources.GetMatch (printf "**%s*" $cleanPath) -}}
+          {{- end -}}
+        {{- end -}}
+
+        {{- $finalSrc := $imgSrc | relURL -}}
+        {{- $imgW := "" -}}
+        {{- $imgH := "" -}}
+        {{- if and (not $isExternal) $imgRes -}}
+          {{- $finalSrc = $imgRes.RelPermalink -}}
+          {{- $imgW = $imgRes.Width -}}
+          {{- $imgH = $imgRes.Height -}}
+        {{- end -}}
+
+        <div class="lost-places-gallery-item">
+          <div class="lost-places-gallery-image">
+            {{- if $targetUrl }}
+              {{- $isExt := strings.HasPrefix $targetUrl "http" }}
+              <a href="{{ if $isExt }}{{ $targetUrl }}{{ else }}{{ $targetUrl | relLangURL }}{{ end }}" class="lost-places-gallery-img-link"{{ if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
+                <img src="{{ $finalSrc }}" {{- with $imgW }} width="{{ . }}"{{- end }}{{- with $imgH }} height="{{ . }}"{{- end }} alt="{{ $imgAlt }}" loading="lazy">
+              </a>
+            {{- else }}
+              <img src="{{ $finalSrc }}" {{- with $imgW }} width="{{ . }}"{{- end }}{{- with $imgH }} height="{{ . }}"{{- end }} alt="{{ $imgAlt }}" loading="lazy">
+            {{- end }}
+          </div>
+
+          {{- with (or .text .caption .description) }}
+          <div class="lost-places-gallery-text">
+            {{ . | markdownify }}
+          </div>
+          {{- end }}
+        </div>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+</section>

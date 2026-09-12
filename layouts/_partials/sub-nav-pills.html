@@ -1,0 +1,95 @@
+{{- $items := slice -}}
+
+{{- if .Params.sub_nav_items -}}
+  {{- $items = .Params.sub_nav_items -}}
+{{- else if reflect.IsSlice .Params.sub_nav -}}
+  {{- $items = .Params.sub_nav -}}
+{{- else if reflect.IsSlice .Params.show_sub_nav -}}
+  {{- $items = .Params.show_sub_nav -}}
+{{- else -}}
+  {{- $navDataKey := .Params.show_sub_nav | default .Params.sub_nav | default .Params.shot_sub_nav -}}
+  {{- if $navDataKey -}}
+    {{- $sourceData := index site.Data $navDataKey -}}
+    {{- if and (not $sourceData) (or (eq $navDataKey "flaggen") (eq $navDataKey "flags")) -}}
+      {{- $sourceData = site.Data.flags | default site.Data.flaggen -}}
+    {{- end -}}
+
+    {{- if $sourceData -}}
+      {{- $seen := dict -}}
+      {{- range .Pages -}}
+        {{- with .Params.tags -}}
+          {{- range . -}}
+            {{- $tag := . -}}
+            {{- $entry := index $sourceData $tag -}}
+            {{- if $entry -}}
+              {{- $name := $tag -}}
+              {{- $flag := "" -}}
+              {{- $icon := "" -}}
+              {{- if reflect.IsMap $entry -}}
+                {{- $name = $entry.name | default $tag -}}
+                {{- $flag = $entry.flag | default "" -}}
+                {{- $icon = $entry.icon | default "" -}}
+              {{- end -}}
+              {{- if not (index $seen $name) -}}
+                {{- $seen = merge $seen (dict $name true) -}}
+                {{- $slug := $tag | urlize -}}
+                {{- $items = $items | append (dict "name" $name "flag" $flag "icon" $icon "tag" $tag "slug" $slug) -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- if gt (len $items) 0 -}}
+        {{- $items = sort $items "name" "asc" -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if gt (len $items) 0 -}}
+  <nav class="sub-nav-pills-wrap" aria-label="Sub navigation">
+    <ul class="sub-nav-pills-list">
+      {{- range $items -}}
+        {{- $name := "" -}}
+        {{- $url := "" -}}
+        {{- $flag := "" -}}
+        {{- $icon := "" -}}
+        {{- if reflect.IsMap . -}}
+          {{- $name = .name | default .title | default .label -}}
+          {{- $flag = .flag | default "" -}}
+          {{- $icon = .icon | default "" -}}
+          {{- if .url -}}
+            {{- $url = .url | relURL -}}
+          {{- else if .slug -}}
+            {{- $url = printf "/blog/%s/" .slug | relURL -}}
+          {{- else if $name -}}
+            {{- $url = printf "/blog/%s/" ($name | urlize) | relURL -}}
+          {{- end -}}
+        {{- else -}}
+          {{- $name = . -}}
+          {{- $url = printf "/blog/%s/" ($name | urlize) | relURL -}}
+        {{- end -}}
+        {{- if and $name $url -}}
+          <li class="sub-nav-pill-item">
+            <a href="{{ $url }}" class="btn-tertiary">
+              {{- if $flag -}}
+                <span class="btn-flag">{{ $flag }}</span>
+              {{- else if $icon -}}
+                {{- if hasPrefix $icon "<" -}}
+                  <span class="btn-icon">{{ $icon | safeHTML }}</span>
+                {{- else if findRE "^[a-zA-Z0-9_\\-\\(\\)]+$" $icon -}}
+                  {{- $iconName := strings.TrimPrefix "var(--icon-" (strings.TrimSuffix ")" (strings.TrimPrefix "--icon-" (strings.TrimPrefix "icon-" $icon))) -}}
+                  <span class="btn-icon"><span class="btn-icon-mask btn-icon-{{ $iconName }}" style="--icon-url: var(--icon-{{ $iconName }});"></span></span>
+                {{- else -}}
+                  <span class="btn-icon">{{ $icon }}</span>
+                {{- end -}}
+              {{- end -}}
+              <span class="btn-label">{{ $name }}</span>
+            </a>
+          </li>
+        {{- end -}}
+      {{- end -}}
+    </ul>
+  </nav>
+{{- end -}}

@@ -1,0 +1,274 @@
+{{/*
+  Partial: post-carousel.html
+  Wiederverwendbares Blog-Post-Karussell mit flexibler Filterung und responsiver Snap-Navigation.
+
+  Parameter (Dict-Kontext):
+  - category (optional, String): Filtert nach .Params.categories
+  - tag (optional, String): Filtert nach .Params.tags
+  - featured (optional, Bool): Wenn true, nur Beiträge mit featured: true
+  - limit (optional, Int, Default: 6): Maximale Anzahl anzuzeigender Beiträge
+  - show_category / showCategory (optional, Bool, Default: true): Anzeige der Blog-Kategorie steuern
+  - id (optional, String): Eindeutige ID für das Karussell-Element
+*/}}
+
+{{/* 1. Basis-Menge aller regulären Blog-Artikel laden */}}
+{{- $pages := where site.RegularPages "Section" "blog" -}}
+
+{{/* 2. Optionaler Filter: Featured Posts */}}
+{{- if .featured -}}
+  {{- $pages = where $pages ".Params.featured" true -}}
+{{- end -}}
+
+{{/* 3. Optionaler Filter: Kategorie (case-insensitive) */}}
+{{- with .category -}}
+  {{- $targetCat := lower (trim . " ") -}}
+  {{- $filtered := slice -}}
+  {{- range $pages -}}
+    {{- $post := . -}}
+    {{- $matched := false -}}
+    {{- with .Params.categories -}}
+      {{- range . -}}
+        {{- if eq (lower .) $targetCat -}}
+          {{- $matched = true -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $matched -}}
+      {{- $filtered = $filtered | append $post -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $pages = $filtered -}}
+{{- end -}}
+
+{{/* 4. Optionaler Filter: Tag (case-insensitive) */}}
+{{- with .tag -}}
+  {{- $targetTag := lower (trim . " ") -}}
+  {{- $filtered := slice -}}
+  {{- range $pages -}}
+    {{- $post := . -}}
+    {{- $matched := false -}}
+    {{- with .Params.tags -}}
+      {{- range . -}}
+        {{- if eq (lower .) $targetTag -}}
+          {{- $matched = true -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $matched -}}
+      {{- $filtered = $filtered | append $post -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $pages = $filtered -}}
+{{- end -}}
+
+{{/* 5. Sortierung: Neueste Beiträge zuerst */}}
+{{- $pages = $pages.ByDate.Reverse -}}
+
+{{/* 6. Limitierung: Standardwert 6 oder benutzerdefiniert */}}
+{{- $limit := 6 -}}
+{{- if isset . "limit" -}}
+  {{- $limit = .limit | int -}}
+{{- end -}}
+{{- if gt $limit 0 -}}
+  {{- $pages = $pages | first $limit -}}
+{{- end -}}
+
+{{/* 7. Steuerung der Kategorieanzeige (Default: true) */}}
+{{- $showCategory := true -}}
+{{- if isset . "show_category" -}}
+  {{- $showCategory = .show_category -}}
+{{- else if isset . "showCategory" -}}
+  {{- $showCategory = .showCategory -}}
+{{- else if isset . "show_categories" -}}
+  {{- $showCategory = .show_categories -}}
+{{- end -}}
+
+{{/* 8. Karussell nur rendern, wenn gefilterte Posts vorhanden sind */}}
+{{- if gt (len $pages) 0 -}}
+  {{- $carouselId := .id | default (printf "post-carousel-%d" (now.UnixNano)) -}}
+  <div class="post-carousel{{ if not $showCategory }} post-carousel--hide-categories{{ end }}" id="{{ $carouselId }}">
+    {{/* Karussell-Track mit CSS Scroll Snap */}}
+    <div class="post-carousel-track" tabindex="0" aria-label="Blog posts carousel" role="region">
+      {{- range $index, $post := $pages -}}
+        <div class="post-carousel-item" data-index="{{ $index }}">
+          {{/* Standard-Kartenkomponente inklusive Badges & Cover rendern */}}
+          {{- partial "post-card.html" (dict "page" $post "show_category" $showCategory "use_secondary_metadata" true "show_affiliate" true) -}}
+        </div>
+      {{- end -}}
+    </div>
+
+    {{/* Navigation unter dem Karussell (dynamisch via JS gesteuert und bei <= 1 Seite ausgeblendet) */}}
+    {{- if gt (len $pages) 1 -}}
+    <div class="carousel-footer-nav" aria-label="Carousel navigation">
+      {{/* Vorherige Seite */}}
+      <button class="slider-btn slider-btn--prev carousel-btn-prev" type="button" aria-label="Previous page">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>
+      </button>
+
+      {{/* Indikator-Dots mit aktiver Seiten-Synchronisation */}}
+      <div class="slider-dots carousel-dots" role="tablist" aria-label="Carousel page navigation"></div>
+
+      {{/* Nächste Seite */}}
+      <button class="slider-btn slider-btn--next carousel-btn-next" type="button" aria-label="Next page">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </button>
+    </div>
+    {{- end -}}
+  </div>
+
+  {{/* Steuerung via Vanilla JS für seitenbasierte Paginierung, Responsive Auto-Hide und Dot-Synchronisation */}}
+  <script>
+  (function() {
+    const carousel = document.getElementById('{{ $carouselId }}');
+    if (!carousel) return;
+    const track = carousel.querySelector('.post-carousel-track');
+    const footerNav = carousel.querySelector('.carousel-footer-nav');
+    const prevBtn = carousel.querySelector('.carousel-btn-prev');
+    const nextBtn = carousel.querySelector('.carousel-btn-next');
+    const dotsContainer = carousel.querySelector('.carousel-dots');
+    const items = carousel.querySelectorAll('.post-carousel-item');
+    if (!track || items.length === 0) return;
+
+    let totalPages = 1;
+    let itemsPerPage = 1;
+    let pageOffsets = [];
+
+    function calculatePages() {
+      const trackWidth = track.clientWidth;
+      const scrollWidth = track.scrollWidth;
+      const maxScroll = Math.max(0, scrollWidth - trackWidth);
+
+      // Falls der gesamte Inhalt ohne Scrollen sichtbar ist (z. B. 3 Karten auf Desktop)
+      if (maxScroll <= 4 || items.length <= 1) {
+        totalPages = 1;
+        itemsPerPage = items.length;
+        pageOffsets = [0];
+        if (footerNav) footerNav.classList.add('carousel-footer-nav--hidden');
+        return;
+      }
+
+      if (footerNav) footerNav.classList.remove('carousel-footer-nav--hidden');
+
+      // Ermitteln, wie viele Karten aktuell pro Viewport nebeneinander Platz haben
+      const itemWidth = items[0].getBoundingClientRect().width;
+      const gap = parseFloat(window.getComputedStyle(track).gap) || 24;
+      itemsPerPage = Math.max(1, Math.round((trackWidth + gap) / (itemWidth + gap)));
+      totalPages = Math.ceil(items.length / itemsPerPage);
+
+      // Berechnen der Ziel-Scrollposition für jede Seite
+      pageOffsets = [];
+      for (let p = 0; p < totalPages; p++) {
+        const targetItemIndex = Math.min(p * itemsPerPage, items.length - 1);
+        const itemLeft = items[targetItemIndex].offsetLeft;
+        const targetScroll = Math.min(itemLeft, maxScroll);
+        pageOffsets.push(targetScroll);
+      }
+
+      renderDots();
+      updateActiveState();
+    }
+
+    function renderDots() {
+      if (!dotsContainer) return;
+      dotsContainer.innerHTML = '';
+
+      if (totalPages <= 1) return;
+
+      for (let i = 0; i < totalPages; i++) {
+        const dot = document.createElement('button');
+        dot.type = 'button';
+        dot.className = 'slider-dot' + (i === 0 ? ' active' : '');
+        dot.setAttribute('data-page', i);
+        dot.setAttribute('role', 'tab');
+        dot.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
+        dot.setAttribute('aria-label', `Go to page ${i + 1} of ${totalPages}`);
+        dot.addEventListener('click', function() {
+          const pageIndex = parseInt(this.getAttribute('data-page'), 10);
+          if (pageOffsets[pageIndex] !== undefined) {
+            track.scrollTo({ left: pageOffsets[pageIndex], behavior: 'smooth' });
+          }
+        });
+        dotsContainer.appendChild(dot);
+      }
+    }
+
+    function getCurrentPageIndex() {
+      if (totalPages <= 1 || pageOffsets.length <= 1) return 0;
+      const currentScroll = track.scrollLeft;
+      let closestPage = 0;
+      let minDistance = Infinity;
+
+      for (let i = 0; i < pageOffsets.length; i++) {
+        const dist = Math.abs(currentScroll - pageOffsets[i]);
+        if (dist < minDistance) {
+          minDistance = dist;
+          closestPage = i;
+        }
+      }
+      return closestPage;
+    }
+
+    function updateActiveState() {
+      const activeIndex = getCurrentPageIndex();
+      const maxScroll = Math.max(0, track.scrollWidth - track.clientWidth);
+
+      if (dotsContainer) {
+        const dots = dotsContainer.querySelectorAll('.slider-dot');
+        dots.forEach(function(dot, i) {
+          const isActive = (i === activeIndex);
+          dot.classList.toggle('active', isActive);
+          dot.setAttribute('aria-selected', isActive ? 'true' : 'false');
+        });
+      }
+
+      if (prevBtn) {
+        const isAtStart = track.scrollLeft <= 5;
+        prevBtn.disabled = isAtStart;
+        prevBtn.setAttribute('aria-disabled', isAtStart ? 'true' : 'false');
+      }
+
+      if (nextBtn) {
+        const isAtEnd = track.scrollLeft >= maxScroll - 5;
+        nextBtn.disabled = isAtEnd;
+        nextBtn.setAttribute('aria-disabled', isAtEnd ? 'true' : 'false');
+      }
+    }
+
+    if (prevBtn) {
+      prevBtn.addEventListener('click', function() {
+        const currentPage = getCurrentPageIndex();
+        const prevPage = Math.max(0, currentPage - 1);
+        track.scrollTo({ left: pageOffsets[prevPage], behavior: 'smooth' });
+      });
+    }
+
+    if (nextBtn) {
+      nextBtn.addEventListener('click', function() {
+        const currentPage = getCurrentPageIndex();
+        const nextPage = Math.min(totalPages - 1, currentPage + 1);
+        track.scrollTo({ left: pageOffsets[nextPage], behavior: 'smooth' });
+      });
+    }
+
+    let scrollTimeout;
+    track.addEventListener('scroll', function() {
+      clearTimeout(scrollTimeout);
+      scrollTimeout = setTimeout(updateActiveState, 40);
+    }, { passive: true });
+
+    let resizeTimeout;
+    window.addEventListener('resize', function() {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(calculatePages, 100);
+    }, { passive: true });
+
+    // Initialisierung beim Laden
+    calculatePages();
+    window.addEventListener('load', calculatePages);
+  })();
+  </script>
+{{- end -}}

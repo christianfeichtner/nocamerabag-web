@@ -1,0 +1,205 @@
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $headingTag := cond $isFirst "h1" "h2" -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-content-card-grid section-card-grid section--bg-{{ $bgColor }}">
+  <div class="section-container">
+    {{- if or $data.title $data.subtitle $data.description $data.text }}
+    <div class="section-header text-center">
+      {{- with $data.title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+      {{- end }}
+      {{- with $data.subtitle }}
+        <p class="section-subtitle">{{ . | markdownify }}</p>
+      {{- end }}
+      {{- with (or $data.text $data.description) }}
+        {{- if reflect.IsSlice . }}
+          {{- range . }}
+            <p class="section-text">{{ . | markdownify }}</p>
+          {{- end }}
+        {{- else }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- with (or $data.cards $data.items) }}
+    <div class="content-card-grid card-grid">
+      {{- range . }}
+      <div class="gear-card">
+        {{- with (or .image .icon) }}
+          {{- $imgSrc := "" }}
+          {{- $imgAlt := $data.title | default "Card image" }}
+          {{- if reflect.IsMap . }}
+            {{- $imgSrc = .src | default .url }}
+            {{- $imgAlt = .alt | default $imgAlt }}
+          {{- else }}
+            {{- $imgSrc = . }}
+          {{- end }}
+          <div class="gear-card-image">
+            <img src="{{ $imgSrc | relURL }}" alt="{{ $imgAlt }}" loading="lazy">
+          </div>
+        {{- end }}
+
+        {{- with .title }}
+        <h3 id="{{ . | anchorize }}" class="gear-card-title">{{ . }}</h3>
+        {{- end }}
+
+        {{- with (or .text .description) }}
+        <p class="gear-card-text">{{ . | markdownify }}</p>
+        {{- end }}
+
+        {{- $primary := .primary_link | default .primaryLink | default .link }}
+        {{- $secondary := .secondary_link | default .secondaryLink }}
+        {{- $affiliateDomains := slice "apps.apple.com" "amzn.to" "moment.8ocm68.net" "partner.shopmoment.com" "maps.apple.com" "tv.apple.com" "www.go2know.de" "go2know.de" "lightroom.app.link" "adobe.prf.hn" "www.wubenlight.com" "wubenlight.com" "holafly.sjv.io" -}}
+        {{- if or $primary $secondary }}
+        <div class="gear-card-links">
+          {{- with $primary }}
+            {{- $pUrl := .url | default .link | default . }}
+            {{- $pText := .text | default .title | default "More info" }}
+            {{- $isAff := false }}
+            {{- $rawKey := "" }}
+            {{- if strings.HasPrefix $pUrl "aff:" }}
+              {{- $rawKey = strings.TrimPrefix "aff:" $pUrl }}
+            {{- else if and (in $pUrl ":") (not (or (strings.HasPrefix $pUrl "http://") (strings.HasPrefix $pUrl "https://") (strings.HasPrefix $pUrl "mailto:") (strings.HasPrefix $pUrl "tel:") (strings.HasPrefix $pUrl "/") (strings.HasPrefix $pUrl "#"))) }}
+              {{- $rawKey = $pUrl }}
+            {{- end }}
+            {{- if $rawKey }}
+              {{- $dataFile := "affiliates" }}
+              {{- $entryKey := "" }}
+              {{- $subPath := "" }}
+              {{- if strings.Contains $rawKey "://" }}
+                {{- $u := urls.Parse $rawKey }}
+                {{- if eq $u.Scheme "data" }}
+                  {{- $dataFile = $u.Host }}
+                  {{- $rawPath := strings.TrimPrefix "/" $u.Path }}
+                  {{- $parts := split $rawPath "/" }}
+                  {{- $entryKey = index $parts 0 }}
+                  {{- if gt (len $parts) 1 }}
+                    {{- $subPath = delimit (after 1 $parts) "/" }}
+                  {{- end }}
+                {{- else }}
+                  {{- $dataFile = $u.Scheme }}
+                  {{- $entryKey = $u.Host }}
+                  {{- $subPath = strings.TrimPrefix "/" $u.Path }}
+                {{- end }}
+              {{- else if in $rawKey ":" }}
+                {{- $parts := split $rawKey ":" }}
+                {{- if eq (len $parts) 2 }}
+                  {{- $dataFile = index $parts 0 }}
+                  {{- $entryKey = index $parts 1 }}
+                {{- end }}
+              {{- else }}
+                {{- $entryKey = $rawKey }}
+              {{- end }}
+              {{- $fileData := index site.Data $dataFile }}
+              {{- if $fileData }}
+                {{- $item := index $fileData $entryKey }}
+                {{- if $item }}
+                  {{- $target := $item }}
+                  {{- if $subPath }}
+                    {{- $shopKey := strings.TrimPrefix "shops/" $subPath }}
+                    {{- with (or (index $item.shops $shopKey) (index $item.shops $subPath)) }}
+                      {{- $target = . }}
+                    {{- end }}
+                  {{- end }}
+                  {{- $pUrl = $target.url }}
+                  {{- $isAff = true }}
+                {{- end }}
+              {{- end }}
+            {{- end }}
+            {{- $isExt := strings.HasPrefix $pUrl "http" }}
+            {{- if and $isExt (not $isAff) }}
+              {{- range $affiliateDomains }}
+                {{- if in $pUrl . }}{{ $isAff = true }}{{ end }}
+              {{- end }}
+            {{- end }}
+            <a href="{{ if or $isExt $isAff }}{{ $pUrl }}{{ else }}{{ $pUrl | relLangURL }}{{ end }}" class="gear-card-link-primary"{{ if $isAff }} target="_blank" rel="sponsored noopener noreferrer"{{ else if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
+              {{ $pText | safeHTML }}
+            </a>
+          {{- end }}
+
+          {{- with $secondary }}
+            {{- $sUrl := .url | default .link | default . }}
+            {{- $sText := .text | default .title | default "Read review &rsaquo;" }}
+            {{- $sText = replace (replace $sText "&rarr;" "&rsaquo;") "→" "›" }}
+            {{- $isAff := false }}
+            {{- $rawKey := "" }}
+            {{- if strings.HasPrefix $sUrl "aff:" }}
+              {{- $rawKey = strings.TrimPrefix "aff:" $sUrl }}
+            {{- else if and (in $sUrl ":") (not (or (strings.HasPrefix $sUrl "http://") (strings.HasPrefix $sUrl "https://") (strings.HasPrefix $sUrl "mailto:") (strings.HasPrefix $sUrl "tel:") (strings.HasPrefix $sUrl "/") (strings.HasPrefix $sUrl "#"))) }}
+              {{- $rawKey = $sUrl }}
+            {{- end }}
+            {{- if $rawKey }}
+              {{- $dataFile := "affiliates" }}
+              {{- $entryKey := "" }}
+              {{- $subPath := "" }}
+              {{- if strings.Contains $rawKey "://" }}
+                {{- $u := urls.Parse $rawKey }}
+                {{- if eq $u.Scheme "data" }}
+                  {{- $dataFile = $u.Host }}
+                  {{- $rawPath := strings.TrimPrefix "/" $u.Path }}
+                  {{- $parts := split $rawPath "/" }}
+                  {{- $entryKey = index $parts 0 }}
+                  {{- if gt (len $parts) 1 }}
+                    {{- $subPath = delimit (after 1 $parts) "/" }}
+                  {{- end }}
+                {{- else }}
+                  {{- $dataFile = $u.Scheme }}
+                  {{- $entryKey = $u.Host }}
+                  {{- $subPath = strings.TrimPrefix "/" $u.Path }}
+                {{- end }}
+              {{- else if in $rawKey ":" }}
+                {{- $parts := split $rawKey ":" }}
+                {{- if eq (len $parts) 2 }}
+                  {{- $dataFile = index $parts 0 }}
+                  {{- $entryKey = index $parts 1 }}
+                {{- end }}
+              {{- else }}
+                {{- $entryKey = $rawKey }}
+              {{- end }}
+              {{- $fileData := index site.Data $dataFile }}
+              {{- if $fileData }}
+                {{- $item := index $fileData $entryKey }}
+                {{- if $item }}
+                  {{- $target := $item }}
+                  {{- if $subPath }}
+                    {{- $shopKey := strings.TrimPrefix "shops/" $subPath }}
+                    {{- with (or (index $item.shops $shopKey) (index $item.shops $subPath)) }}
+                      {{- $target = . }}
+                    {{- end }}
+                  {{- end }}
+                  {{- $sUrl = $target.url }}
+                  {{- $isAff = true }}
+                {{- end }}
+              {{- end }}
+            {{- end }}
+            {{- $isExt := strings.HasPrefix $sUrl "http" }}
+            {{- if and $isExt (not $isAff) }}
+              {{- range $affiliateDomains }}
+                {{- if in $sUrl . }}{{ $isAff = true }}{{ end }}
+              {{- end }}
+            {{- end }}
+            <a href="{{ if or $isExt $isAff }}{{ $sUrl }}{{ else }}{{ $sUrl | relLangURL }}{{ end }}" class="gear-card-link-secondary"{{ if $isAff }} target="_blank" rel="sponsored noopener noreferrer"{{ else if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
+              {{ $sText | safeHTML }}
+            </a>
+          {{- end }}
+        </div>
+        {{- end }}
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
+
+    {{- with (or $data.button $data.cta) }}
+    <div class="section-action text-center">
+      <a href="{{ .url | default .link | default "/blog/" | relLangURL }}" class="btn {{ if eq .style "secondary" }}btn-secondary{{ else }}btn-primary{{ end }} btn-wide"{{ with .target }} target="{{ . }}" rel="noopener"{{ end }}>
+        {{ .text | default "View More" | safeHTML }}
+      </a>
+    </div>
+    {{- end }}
+  </div>
+</section>

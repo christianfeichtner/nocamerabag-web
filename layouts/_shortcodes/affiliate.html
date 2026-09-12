@@ -1,0 +1,102 @@
+{{/*
+  Affiliate Shortcode
+  Renders an inline affiliate link resolving entry data from data/<dataFile>.yaml dynamically.
+  Uses the shopping bag icon from design tokens / custom.css and prevents orphan icon wrapping.
+
+  Usage Examples:
+    - Default from data/affiliates.yaml: {{< affiliate "affiliates://procamera-app" >}}
+    - Custom text override: {{< affiliate "affiliates://procamera-app" "ProCamera App from the App Store" >}}
+    - Named params: {{< affiliate id="affiliates://procamera-app" text="ProCamera App from the App Store" >}}
+    - Custom YAML file (e.g. data/gear.yaml): {{< affiliate "gear://tripod" >}}
+    - Shorthand (defaults to data/affiliates.yaml): {{< affiliate "procamera-app" >}}
+*/}}
+{{- $rawId := "" -}}
+{{- $customText := "" -}}
+
+{{- if .IsNamedParams -}}
+  {{- $rawId = .Get "id" -}}
+  {{- $customText = .Get "text" -}}
+{{- else -}}
+  {{- $rawId = .Get 0 -}}
+  {{- if ge (len .Params) 2 -}}
+    {{- $customText = .Get 1 -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $rawId -}}
+  {{- errorf "affiliate shortcode: Missing 'id' parameter on page '%s'" (or .Page.File.Path .Page.Path) -}}
+{{- end -}}
+
+{{- $dataFile := "affiliates" -}}
+{{- $entryKey := "" -}}
+{{- $subPath := "" -}}
+
+{{- if strings.Contains $rawId "://" -}}
+  {{- $u := urls.Parse $rawId -}}
+  {{- if eq $u.Scheme "data" -}}
+    {{- $dataFile = $u.Host -}}
+    {{- $rawPath := strings.TrimPrefix "/" $u.Path -}}
+    {{- $parts := split $rawPath "/" -}}
+    {{- $entryKey = index $parts 0 -}}
+    {{- if gt (len $parts) 1 -}}
+      {{- $subPath = delimit (after 1 $parts) "/" -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $dataFile = $u.Scheme -}}
+    {{- $entryKey = $u.Host -}}
+    {{- $subPath = strings.TrimPrefix "/" $u.Path -}}
+  {{- end -}}
+{{- else if in $rawId ":" -}}
+  {{- $parts := split $rawId ":" -}}
+  {{- if ne (len $parts) 2 -}}
+    {{- errorf "affiliate shortcode: Invalid ID format '%s' on page '%s'. Expected format: 'scheme://entry_id' (e.g. 'affiliates://procamera-app') or 'filename:entry_id'" $rawId (or .Page.File.Path .Page.Path) -}}
+  {{- end -}}
+  {{- $dataFile = index $parts 0 -}}
+  {{- $entryKey = index $parts 1 -}}
+{{- else -}}
+  {{- $entryKey = $rawId -}}
+{{- end -}}
+
+{{- $fileData := index site.Data $dataFile -}}
+{{- if not $fileData -}}
+  {{- errorf "affiliate shortcode: Data file 'data/%s.yaml' (or .json/.toml) not found on page '%s'" $dataFile (or .Page.File.Path .Page.Path) -}}
+{{- end -}}
+
+{{- $item := index $fileData $entryKey -}}
+{{- if not $item -}}
+  {{- errorf "affiliate shortcode: Entry '%s' not found in data/%s.yaml on page '%s'" $entryKey $dataFile (or .Page.File.Path .Page.Path) -}}
+{{- end -}}
+
+{{- $target := $item -}}
+{{- if $subPath -}}
+  {{- $shopKey := strings.TrimPrefix "shops/" $subPath -}}
+  {{- with (or (index $item.shops $shopKey) (index $item.shops $subPath)) -}}
+    {{- $target = . -}}
+  {{- else -}}
+    {{- errorf "affiliate shortcode: Shop '%s' not found under entry '%s' in data/%s.yaml on page '%s'" $subPath $entryKey $dataFile (or .Page.File.Path .Page.Path) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if not $target.url -}}
+  {{- errorf "affiliate shortcode: Entry '%s' in data/%s.yaml is missing required 'url' property on page '%s'" $entryKey $dataFile (or .Page.File.Path .Page.Path) -}}
+{{- end -}}
+
+{{- $linkText := or $customText $target.label $target.name $target.title $target.text $item.label $item.name $item.title $item.text -}}
+{{- if not $linkText -}}
+  {{- errorf "affiliate shortcode: Entry '%s' in data/%s.yaml has no 'label', 'name', 'title' or 'text' and no text parameter was provided on page '%s'" $entryKey $dataFile (or .Page.File.Path .Page.Path) -}}
+{{- end -}}
+
+{{- $words := split (trim $linkText " ") " " -}}
+{{- $wordCount := len $words -}}
+{{- if gt $wordCount 1 -}}
+  {{- $leadingWords := slice -}}
+  {{- range $i, $w := $words -}}
+    {{- if lt $i (sub $wordCount 1) -}}
+      {{- $leadingWords = $leadingWords | append $w -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $lastWord := index $words (sub $wordCount 1) -}}
+<a href="{{ $target.url | safeURL }}" class="affiliate-inline-link" target="_blank" rel="noopener sponsored">{{ delimit $leadingWords " " }} <span class="affiliate-inline-nowrap">{{ $lastWord }}<svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg></span></a>
+{{- else -}}
+<a href="{{ $target.url | safeURL }}" class="affiliate-inline-link" target="_blank" rel="noopener sponsored"><span class="affiliate-inline-nowrap">{{ $linkText }}<svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg></span></a>
+{{- end -}}

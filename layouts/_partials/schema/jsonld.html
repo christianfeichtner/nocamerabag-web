@@ -1,0 +1,821 @@
+{{- if .Params.schema_json -}}
+<script type="application/ld+json">
+{{ .Params.schema_json | safeJS }}
+</script>
+{{- else if .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.BaseURL | absURL }}#website",
+      "url": "{{ site.BaseURL | absURL }}",
+      "name": {{ .Title | default site.Title | jsonify }},
+      "description": {{ .Description | default site.Params.description | jsonify }},
+      "publisher": {
+        "@id": "{{ site.BaseURL | absURL }}#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": {{ .Title | jsonify }},
+      "description": {{ .Description | default site.Params.description | jsonify }},
+      "isPartOf": {
+        "@id": "{{ site.BaseURL | absURL }}#website"
+      },
+      "about": {
+        "@id": "{{ site.BaseURL | absURL }}#person"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "{{ site.BaseURL | absURL }}#organization",
+      "name": "No CameraBag",
+      "url": "{{ site.BaseURL | absURL }}",
+      "logo": "{{ "images/misc/profile-photo-chris-feichtner.jpeg" | absURL }}",
+      "sameAs": [
+        "https://www.facebook.com/nocamerabag",
+        "https://twitter.com/nocamerabag",
+        "https://x.com/nocamerabag",
+        "https://www.instagram.com/nocamerabag",
+        "https://www.pinterest.com/nocamerabag",
+        "https://www.flickr.com/photos/chrisfeichtner",
+        "https://www.youtube.com/channel/UCkDMT-AZECflgxRfZCml8hg"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ site.BaseURL | absURL }}#person",
+      "name": "Chris Feichtner",
+      "url": "{{ "about/" | absURL }}",
+      "jobTitle": "iPhone Photographer",
+      "image": "{{ "images/misc/profile-photo-chris-feichtner.jpeg" | absURL }}",
+      "sameAs": [
+        "https://www.facebook.com/nocamerabag",
+        "https://twitter.com/nocamerabag",
+        "https://x.com/nocamerabag",
+        "https://www.instagram.com/nocamerabag",
+        "https://www.pinterest.com/nocamerabag",
+        "https://www.flickr.com/photos/chrisfeichtner",
+        "https://www.youtube.com/channel/UCkDMT-AZECflgxRfZCml8hg"
+      ],
+      "knowsAbout": [
+        "Photography",
+        "iPhone Photography",
+        "Mobile Photography",
+        "Landscape Photography",
+        "Cityscape Photography",
+        "Lost Places Photography"
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "{{ site.BaseURL | absURL }}#organization"
+      }
+    }
+  ]
+}
+</script>
+{{- else if or (eq .Section "about") (eq .Layout "about") (in .RelPermalink "/about") -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "AboutPage",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": {{ .Title | jsonify }},
+      "description": {{ .Description | default site.Params.description | jsonify }},
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "{{ site.BaseURL | absURL }}#website",
+        "name": {{ site.Title | jsonify }},
+        "url": "{{ site.BaseURL | absURL }}"
+      },
+      "mainEntity": {
+        "@id": "{{ site.BaseURL | absURL }}#person"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ site.BaseURL | absURL }}#person",
+      "name": "Chris Feichtner",
+      "url": "{{ "about/" | absURL }}",
+      "jobTitle": "iPhone Photographer",
+      "image": "{{ "images/misc/profile-photo-chris-feichtner.jpeg" | absURL }}",
+      "sameAs": [
+        "https://www.facebook.com/nocamerabag",
+        "https://twitter.com/nocamerabag",
+        "https://x.com/nocamerabag",
+        "https://www.instagram.com/nocamerabag",
+        "https://www.pinterest.com/nocamerabag",
+        "https://www.flickr.com/photos/chrisfeichtner",
+        "https://www.youtube.com/channel/UCkDMT-AZECflgxRfZCml8hg"
+      ],
+      "knowsAbout": [
+        "Photography",
+        "iPhone Photography",
+        "Mobile Photography",
+        "Landscape Photography",
+        "Cityscape Photography",
+        "Lost Places Photography"
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "{{ site.BaseURL | absURL }}#organization",
+        "name": "No CameraBag",
+        "url": "{{ site.BaseURL | absURL }}"
+      }
+    }
+  ]
+}
+</script>
+{{- else if and .IsPage (or (eq .Section "blog") (eq .Type "blog") (eq .Section "posts") (eq .Type "posts")) -}}
+{{- /* Resolve linked affiliate / tour if present */ -}}
+{{- $affKey := "" -}}
+{{- with or .Params.affiliate_id .Params.tour .Params.affiliate -}}
+  {{- $rawKey := . -}}
+  {{- if strings.Contains $rawKey "://" -}}
+    {{- $u := urls.Parse $rawKey -}}
+    {{- if eq $u.Scheme "data" -}}
+      {{- $rawPath := strings.TrimPrefix "/" $u.Path -}}
+      {{- $parts := split $rawPath "/" -}}
+      {{- $affKey = index $parts 0 -}}
+    {{- else -}}
+      {{- $affKey = $u.Host -}}
+    {{- end -}}
+  {{- else if strings.HasPrefix $rawKey "aff:" -}}
+    {{- $affKey = strings.TrimPrefix "aff:" $rawKey -}}
+  {{- else if in $rawKey ":" -}}
+    {{- $parts := split $rawKey ":" -}}
+    {{- if eq (len $parts) 2 -}}
+      {{- $affKey = index $parts 1 -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $affKey = $rawKey -}}
+  {{- end -}}
+{{- end -}}
+{{- $affItem := "" -}}
+{{- if $affKey -}}
+  {{- $affItem = index site.Data.affiliates $affKey -}}
+{{- end -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.BaseURL | absURL }}#website",
+      "name": {{ site.Title | jsonify }},
+      "url": "{{ site.BaseURL | absURL }}"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": {{ .Title | jsonify }},
+      "description": {{ .Description | default .Summary | jsonify }},
+      "isPartOf": {
+        "@id": "{{ site.BaseURL | absURL }}#website"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "{{ .Permalink }}#article",
+      "isPartOf": {
+        "@id": "{{ site.BaseURL | absURL }}#website"
+      },
+      "mainEntityOfPage": {
+        "@id": "{{ .Permalink }}#webpage"
+      },
+      "headline": {{ .Title | jsonify }},
+      "name": {{ .Title | jsonify }},
+      "description": {{ .Description | default .Summary | jsonify }},
+      "url": "{{ .Permalink }}",
+      {{- if not .Date.IsZero }}
+      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+      {{- end }}
+      {{- $lastmod := .Lastmod | default .Date }}
+      {{- if not $lastmod.IsZero }}
+      "dateModified": "{{ $lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+      {{- end }}
+      {{- $postImg := .Params.cover.image | default .Params.cover | default .Params.teaser | default .Params.image -}}
+      {{- if reflect.IsMap $postImg -}}
+        {{- $postImg = $postImg.image | default $postImg.src | default "" -}}
+      {{- end -}}
+      {{- if not $postImg -}}
+        {{- with .File -}}
+          {{- with resources.GetMatch (printf "images/teaser/%s.*" .TranslationBaseName) -}}
+            {{- $postImg = .RelPermalink -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- with $postImg }}
+      "image": "{{ . | absURL }}",
+      {{- end }}
+      {{- with .Params.keywords | default .Params.tags }}
+      "keywords": {{ . | jsonify }},
+      {{- end }}
+      "author": {
+        "@type": "Person",
+        "@id": "{{ site.BaseURL | absURL }}#person",
+        "name": "Chris Feichtner",
+        "url": "{{ "about/" | absURL }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "{{ site.BaseURL | absURL }}#organization",
+        "name": "No CameraBag",
+        "url": "{{ site.BaseURL | absURL }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ "images/misc/profile-photo-chris-feichtner.jpeg" | absURL }}"
+        }
+      }
+      {{- /* Build-Time AggregateRating for BlogPosting if threshold is met */ -}}
+      {{- $ratingsConfig := site.Params.ratings | default dict -}}
+      {{- if and ($ratingsConfig.enabled | default true) (eq $.Section "blog") $.IsPage -}}
+        {{- $apiUrl := $ratingsConfig.api_url | default "http://192.168.1.90:8788" -}}
+        {{- $minAverage := cast.ToFloat ($ratingsConfig.min_average | default 4.2) -}}
+        {{- $minVotes := cast.ToInt ($ratingsConfig.min_votes | default 2) -}}
+        {{- $slug := $.RelPermalink -}}
+
+        {{- $baseEndpoints := slice -}}
+        {{- if $apiUrl -}}
+          {{- $baseEndpoints = $baseEndpoints | append (printf "%s/ratings" (strings.TrimRight "/" $apiUrl)) -}}
+        {{- end -}}
+        {{- range (slice "http://host.docker.internal:8788/ratings" "http://192.168.1.90:8788/ratings" "http://127.0.0.1:8788/ratings" "http://localhost:8788/ratings" "http://172.17.0.1:8788/ratings") -}}
+          {{- if not (in $baseEndpoints .) -}}
+            {{- $baseEndpoints = $baseEndpoints | append . -}}
+          {{- end -}}
+        {{- end -}}
+
+        {{- $ratingData := dict -}}
+        {{- range $baseEndpoints -}}
+          {{- if eq (len $ratingData) 0 -}}
+            {{- $reqUrl := printf "%s?slug=%s" . ($slug | urlquery) -}}
+            {{- with try (resources.GetRemote $reqUrl) -}}
+              {{- with .Value -}}
+                {{- if and .Data (eq .Data.StatusCode 200) -}}
+                  {{- $content := strings.TrimLeft " \t\r\n" .Content -}}
+                  {{- if strings.HasPrefix $content "{" -}}
+                    {{- $unmarshaled := "" -}}
+                    {{- with try (transform.Unmarshal .) -}}
+                      {{- with .Value -}}
+                        {{- $unmarshaled = . -}}
+                      {{- end -}}
+                    {{- end -}}
+                    {{- if not $unmarshaled -}}
+                      {{- with try (transform.Unmarshal $content) -}}
+                        {{- with .Value -}}
+                          {{- $unmarshaled = . -}}
+                        {{- end -}}
+                      {{- end -}}
+                    {{- end -}}
+                    {{- if reflect.IsMap $unmarshaled -}}
+                      {{- $avg := cast.ToFloat (index $unmarshaled "average" | default 0) -}}
+                      {{- $votes := cast.ToInt (index $unmarshaled "votes" | default 0) -}}
+                      {{- if and (ge $avg $minAverage) (ge $votes $minVotes) -}}
+                        {{- $ratingData = dict "average" $avg "votes" $votes -}}
+                      {{- end -}}
+                    {{- end -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+
+        {{- with $ratingData }},
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {{ printf "%.1f" .average }},
+        "reviewCount": {{ .votes }},
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+        {{- end -}}
+      {{- end -}}
+      {{- /* Build 'about' array containing TouristTrip, Product, Apps, Movies, Services, and/or Photo Spots */ -}}
+      {{- $aboutIds := slice -}}
+      {{- if and $affItem (eq $affItem.type "TouristTrip") -}}
+        {{- $aboutIds = $aboutIds | append (printf "%s#trip" $.Permalink) -}}
+      {{- else if and $affItem (eq $affItem.type "Product") -}}
+        {{- $aboutIds = $aboutIds | append (printf "%s#product" $.Permalink) -}}
+      {{- else if and $affItem (or (eq $affItem.type "MobileApplication") (eq $affItem.type "SoftwareApplication")) -}}
+        {{- $aboutIds = $aboutIds | append (printf "%s#app" $.Permalink) -}}
+      {{- else if and $affItem (eq $affItem.type "Movie") -}}
+        {{- $aboutIds = $aboutIds | append (printf "%s#movie" $.Permalink) -}}
+      {{- else if and $affItem (eq $affItem.type "Service") -}}
+        {{- $aboutIds = $aboutIds | append (printf "%s#service" $.Permalink) -}}
+      {{- end -}}
+      {{- $validSpots := slice -}}
+      {{- with .Params.photo_spots -}}
+        {{- range . -}}
+          {{- if or .title .image .coords -}}
+            {{- $validSpots = $validSpots | append . -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if or (gt (len $aboutIds) 0) (gt (len $validSpots) 0) -}}
+      ,
+      "about": [
+        {{- $renderedAbout := false -}}
+        {{- range $aboutIds -}}
+          {{- if $renderedAbout }},{{ end }}
+          {
+            "@id": {{ . | jsonify }}
+          }
+          {{- $renderedAbout = true -}}
+        {{- end -}}
+        {{- range $validSpots -}}
+          {{- if $renderedAbout }},{{ end }}
+          {
+            "@type": "TouristAttraction",
+            "name": {{ .title | default "Photo Spot" | jsonify }},
+            "publicAccess": true
+            {{- if .coords -}}
+            ,
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": {{ index .coords 0 }},
+              "longitude": {{ index .coords 1 }}
+            }
+            {{- end -}}
+            {{- if .image -}}
+            ,
+            "image": {
+              "@type": "ImageObject",
+              "contentUrl": {{ .image | absURL | jsonify }},
+              "name": {{ .title | jsonify }},
+              "creator": {
+                "@type": "Person",
+                "name": "Christian Feichtner"
+              },
+              "copyrightNotice": "Christian Feichtner - nocamerabag.com",
+              "license": "https://nocamerabag.com/license",
+              "acquireLicensePage": "https://nocamerabag.com/contact"
+              {{- if .coords -}}
+              ,
+              "contentLocation": {
+                "@type": "Place",
+                "name": {{ .title | jsonify }},
+                "geo": {
+                  "@type": "GeoCoordinates",
+                  "latitude": {{ index .coords 0 }},
+                  "longitude": {{ index .coords 1 }}
+                }
+              }
+              {{- end -}}
+            }
+            {{- end -}}
+          }
+          {{- $renderedAbout = true -}}
+        {{- end -}}
+      ]
+      {{- end -}}
+    }
+    {{- if and $affItem (eq $affItem.type "TouristTrip") }}
+    ,
+    {
+      "@type": "TouristTrip",
+      "@id": "{{ .Permalink }}#trip",
+      "name": {{ $affItem.name | jsonify }},
+      "url": {{ $affItem.url | jsonify }}
+      {{- with $affItem.touristType }}
+      ,
+      "touristType": {{ . | jsonify }}
+      {{- end }}
+      {{- with $affItem.provider }}
+      ,
+      "provider": {
+        "@type": "Organization",
+        "name": {{ .name | jsonify }},
+        "url": {{ .url | jsonify }}
+      }
+      {{- end }}
+      {{- with $affItem.location }}
+      ,
+      "itinerary": {
+        "@type": "Place",
+        "name": {{ .name | jsonify }}
+        {{- if or .region .country }}
+        ,
+        "address": {
+          "@type": "PostalAddress"
+          {{- with .region }}, "addressRegion": {{ . | jsonify }}{{ end }}
+          {{- with .country }}, "addressCountry": {{ . | jsonify }}{{ end }}
+        }
+        {{- end }}
+      }
+      {{- end }}
+      ,
+      "offers": {
+        "@type": "Offer",
+        "url": {{ $affItem.url | jsonify }},
+        "category": "https://schema.org/Affiliate"
+      }
+    }
+    {{- else if and $affItem (eq $affItem.type "Product") }}
+    ,
+    {
+      "@type": "Product",
+      "@id": "{{ .Permalink }}#product",
+      "name": {{ $affItem.name | jsonify }}
+      {{- with $affItem.brand }}
+      ,
+      "brand": {
+        "@type": "Brand",
+        "name": {{ . | jsonify }}
+      }
+      {{- end }}
+      {{- with $postImg }}
+      ,
+      "image": "{{ . | absURL }}"
+      {{- end }}
+      {{- with .Description | default .Summary }}
+      ,
+      "description": {{ . | jsonify }}
+      {{- end }}
+      {{- if $affItem.shops }}
+      ,
+      "offers": [
+        {
+          "@type": "Offer",
+          "url": {{ $affItem.url | jsonify }}
+          {{- with $affItem.shop }}
+          ,
+          "seller": {
+            "@type": "Organization",
+            "name": {{ . | jsonify }}
+          }
+          {{- end }}
+          ,
+          "category": "https://schema.org/Affiliate"
+        }
+        {{- range $k, $shopItem := $affItem.shops }}
+        ,
+        {
+          "@type": "Offer",
+          "url": {{ $shopItem.url | jsonify }}
+          {{- with $shopItem.shop }}
+          ,
+          "seller": {
+            "@type": "Organization",
+            "name": {{ . | jsonify }}
+          }
+          {{- end }}
+          ,
+          "category": "https://schema.org/Affiliate"
+        }
+        {{- end }}
+      ]
+      {{- else }}
+      ,
+      "offers": {
+        "@type": "Offer",
+        "url": {{ $affItem.url | jsonify }}
+        {{- with $affItem.shop }}
+        ,
+        "seller": {
+          "@type": "Organization",
+          "name": {{ . | jsonify }}
+        }
+        {{- end }}
+        ,
+        "category": "https://schema.org/Affiliate"
+      }
+      {{- end }}
+    }
+    {{- else if and $affItem (or (eq $affItem.type "MobileApplication") (eq $affItem.type "SoftwareApplication")) }}
+    ,
+    {
+      "@type": {{ $affItem.type | jsonify }},
+      "@id": "{{ .Permalink }}#app",
+      "name": {{ $affItem.name | jsonify }},
+      "operatingSystem": {{ $affItem.operatingSystem | default (cond (eq $affItem.type "MobileApplication") "iOS" "macOS") | jsonify }},
+      "applicationCategory": {{ $affItem.applicationCategory | default "https://schema.org/PhotographyApplication" | jsonify }},
+      "url": {{ $affItem.url | jsonify }}
+      {{- with $postImg }}
+      ,
+      "image": "{{ . | absURL }}"
+      {{- end }}
+      {{- with .Description | default .Summary }}
+      ,
+      "description": {{ . | jsonify }}
+      {{- end }}
+      {{- with $affItem.publisher }}
+      ,
+      "publisher": {
+        "@type": "Organization",
+        "name": {{ . | jsonify }}
+      }
+      {{- end }}
+      ,
+      "offers": {
+        "@type": "Offer",
+        "url": {{ $affItem.url | jsonify }},
+        "seller": {
+          "@type": "Organization",
+          "name": {{ $affItem.shop | default "App Store" | jsonify }}
+        },
+        "category": "https://schema.org/Affiliate"
+      }
+    }
+    {{- else if and $affItem (eq $affItem.type "Movie") }}
+    ,
+    {
+      "@type": "Movie",
+      "@id": "{{ .Permalink }}#movie",
+      "name": {{ $affItem.name | jsonify }},
+      "url": {{ $affItem.url | jsonify }},
+      "offers": {
+        "@type": "Offer",
+        "url": {{ $affItem.url | jsonify }},
+        "seller": {
+          "@type": "Organization",
+          "name": {{ $affItem.shop | default "Apple TV" | jsonify }}
+        },
+        "category": "https://schema.org/Affiliate"
+      }
+    }
+    {{- else if and $affItem (eq $affItem.type "Service") }}
+    ,
+    {
+      "@type": "Service",
+      "@id": "{{ .Permalink }}#service",
+      "name": {{ $affItem.name | jsonify }},
+      "url": {{ $affItem.url | jsonify }}
+      {{- with $affItem.serviceType }}
+      ,
+      "serviceType": {{ . | jsonify }}
+      {{- end }}
+      {{- with $affItem.provider }}
+      ,
+      "provider": {
+        "@type": "Organization",
+        "name": {{ .name | jsonify }}
+        {{- with .url }}, "url": {{ . | jsonify }}{{ end }}
+      }
+      {{- end }}
+      {{- with $postImg }}
+      ,
+      "image": "{{ . | absURL }}"
+      {{- end }}
+      {{- with .Description | default .Summary }}
+      ,
+      "description": {{ . | jsonify }}
+      {{- end }}
+      ,
+      "offers": {
+        "@type": "Offer",
+        "url": {{ $affItem.url | jsonify }}
+        {{- with $affItem.shop }}
+        ,
+        "seller": {
+          "@type": "Organization",
+          "name": {{ . | jsonify }}
+        }
+        {{- end }}
+        ,
+        "category": "https://schema.org/Affiliate"
+      }
+    }
+    {{- end }}
+  ]
+}
+</script>
+{{- else if or (eq .Layout "theme-page") .Params.sections -}}
+{{- /* Collect FAQ, Gallery, and ItemList data dynamically from .Params.sections */ -}}
+{{- $faqItems := slice -}}
+{{- $galleryItems := slice -}}
+{{- $gridItems := slice -}}
+{{- $carouselItems := slice -}}
+
+{{- range .Params.sections -}}
+  {{- if partial "is-published.html" . -}}
+    {{- if eq .type "faq" -}}
+      {{- $rawFaqItems := or .items .faqs .questions .faq -}}
+      {{- range $rawFaqItems -}}
+        {{- $q := or .question .title .q -}}
+        {{- $a := or .answer .text .a -}}
+        {{- if and $q $a -}}
+          {{- $ansStr := "" -}}
+          {{- if reflect.IsSlice $a -}}
+            {{- $ansStr = delimit $a "\n\n" -}}
+          {{- else -}}
+            {{- $ansStr = printf "%v" $a -}}
+          {{- end -}}
+          {{- $faqItems = $faqItems | append (dict "question" ($q | plainify) "answer" ($ansStr | plainify)) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else if eq .type "lightbox-gallery" -}}
+      {{- range .items -}}
+        {{- if .image -}}
+          {{- $galleryItems = $galleryItems | append . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else if eq .type "gallery-grid" -}}
+      {{- range .items -}}
+        {{- if or .text .alt .image -}}
+          {{- $gridItems = $gridItems | append . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else if eq .type "post-carousel" -}}
+      {{- if .title -}}
+        {{- $carouselItems = $carouselItems | append . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.BaseURL | absURL }}#website",
+      "name": {{ site.Title | jsonify }},
+      "url": "{{ site.BaseURL | absURL }}"
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": {{ .Title | jsonify }},
+      "description": {{ .Description | default site.Params.description | jsonify }},
+      "isPartOf": {
+        "@id": "{{ site.BaseURL | absURL }}#website"
+      },
+      "about": {
+        "@id": "{{ site.BaseURL | absURL }}#person"
+      }
+      {{- if gt (len $faqItems) 0 -}}
+      ,
+      "mainEntity": {
+        "@id": "{{ .Permalink }}#faq"
+      }
+      {{- else if gt (len $galleryItems) 0 -}}
+      ,
+      "mainEntity": {
+        "@id": "{{ .Permalink }}#gallery"
+      }
+      {{- else if or (gt (len $gridItems) 0) (gt (len $carouselItems) 0) -}}
+      ,
+      "mainEntity": {
+        "@id": "{{ .Permalink }}#list"
+      }
+      {{- end -}}
+    }
+    {{- if gt (len $faqItems) 0 }}
+    ,
+    {
+      "@type": "FAQPage",
+      "@id": "{{ .Permalink }}#faq",
+      "isPartOf": {
+        "@id": "{{ .Permalink }}#webpage"
+      },
+      "mainEntity": [
+        {{- range $i, $faq := $faqItems -}}
+          {{- if $i }},{{ end }}
+          {
+            "@type": "Question",
+            "name": {{ $faq.question | jsonify }},
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": {{ $faq.answer | jsonify }}
+            }
+          }
+        {{- end }}
+      ]
+    }
+    {{- end }}
+    {{- if gt (len $galleryItems) 0 }}
+    ,
+    {
+      "@type": "ImageGallery",
+      "@id": "{{ .Permalink }}#gallery",
+      "name": {{ .Title | jsonify }},
+      "description": {{ .Description | default site.Params.description | jsonify }},
+      "isPartOf": {
+        "@id": "{{ .Permalink }}#webpage"
+      },
+      "image": [
+        {{- range $i, $img := $galleryItems -}}
+          {{- if $i }},{{ end }}
+          {
+            "@type": "ImageObject",
+            "contentUrl": {{ $img.image | absURL | jsonify }},
+            "name": {{ ($img.alt | default $img.caption | plainify) | jsonify }},
+            "creator": {
+              "@type": "Person",
+              "name": "Chris Feichtner",
+              "@id": "{{ site.BaseURL | absURL }}#person"
+            },
+            "copyrightNotice": "Christian Feichtner - nocamerabag.com",
+            "license": "https://nocamerabag.com/license",
+            "acquireLicensePage": "https://nocamerabag.com/contact"
+          }
+        {{- end }}
+      ]
+    }
+    {{- end }}
+    {{- if gt (len $gridItems) 0 }}
+    ,
+    {
+      "@type": "ItemList",
+      "@id": "{{ .Permalink }}#list",
+      "name": {{ .Title | jsonify }},
+      "itemListElement": [
+        {{- range $i, $item := $gridItems -}}
+          {{- if $i }},{{ end }}
+          {
+            "@type": "ListItem",
+            "position": {{ add $i 1 }},
+            "name": {{ ($item.alt | default $item.text | plainify) | jsonify }}
+            {{- with $item.url }}, "url": {{ . | absURL | jsonify }}{{ end }}
+            {{- with $item.image }}, "image": {{ . | absURL | jsonify }}{{ end }}
+          }
+        {{- end }}
+      ]
+    }
+    {{- else if and (eq (len $galleryItems) 0) (gt (len $carouselItems) 0) }}
+    ,
+    {
+      "@type": "ItemList",
+      "@id": "{{ .Permalink }}#list",
+      "name": {{ .Title | jsonify }},
+      "itemListElement": [
+        {{- range $i, $item := $carouselItems -}}
+          {{- if $i }},{{ end }}
+          {
+            "@type": "ListItem",
+            "position": {{ add $i 1 }},
+            "name": {{ $item.title | jsonify }}
+            {{- with $item.description }}, "description": {{ . | jsonify }}{{ end }}
+            {{- with $item.button }}
+              {{- with .url }}, "url": {{ . | absURL | jsonify }}{{ end }}
+            {{- end }}
+          }
+        {{- end }}
+      ]
+    }
+    {{- end }}
+  ]
+}
+</script>
+{{- else if or (eq .Section "contact") (in .RelPermalink "/contact") -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.BaseURL | absURL }}#website",
+      "name": {{ site.Title | jsonify }},
+      "url": "{{ site.BaseURL | absURL }}"
+    },
+    {
+      "@type": "ContactPage",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": {{ .Title | jsonify }},
+      "description": {{ .Description | default site.Params.description | jsonify }},
+      "isPartOf": {
+        "@id": "{{ site.BaseURL | absURL }}#website"
+      },
+      "mainEntity": {
+        "@id": "{{ site.BaseURL | absURL }}#organization"
+      }
+    }
+  ]
+}
+</script>
+{{- else -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.BaseURL | absURL }}#website",
+      "name": {{ site.Title | jsonify }},
+      "url": "{{ site.BaseURL | absURL }}"
+    },
+    {
+      "@type": {{ cond (or .IsSection .IsNode (eq .Kind "taxonomy") (eq .Kind "term") (eq .Kind "section")) "CollectionPage" "WebPage" | jsonify }},
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": {{ .Title | jsonify }},
+      "description": {{ .Description | default site.Params.description | jsonify }},
+      "isPartOf": {
+        "@id": "{{ site.BaseURL | absURL }}#website"
+      }
+    }
+  ]
+}
+</script>
+{{- end -}}

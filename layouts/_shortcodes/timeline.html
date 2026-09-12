@@ -1,0 +1,33 @@
+{{- $open := .Get "open" | default false -}}
+{{- $title := .Get "title" | default "Historical Timeline & Decline" -}}
+<details class="callout-box timeline-collapsible"{{ if or (eq $open true) (eq $open "true") }} open{{ end }}>
+  <summary class="timeline-header">
+    <div class="timeline-header-title">
+      <svg class="timeline-header-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <polyline points="12 6 12 12 16 14"></polyline>
+      </svg>
+      <span>{{ $title }}</span>
+    </div>
+    <svg class="timeline-toggle-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="6 9 12 15 18 9"></polyline>
+    </svg>
+  </summary>
+  <div class="timeline-body">
+    <div class="timeline-track">
+      {{- range seq 1 7 -}}
+        {{- $prefix := printf "t%d_" . -}}
+        {{- $year := $.Get (printf "%syear" $prefix) -}}
+        {{- $itemTitle := $.Get (printf "%stitle" $prefix) -}}
+        {{- $desc := $.Get (printf "%sdesc" $prefix) -}}
+        {{- if or $year $itemTitle -}}
+          <div class="timeline-step">
+            {{- with $year }}<div class="timeline-year">{{ . }}</div>{{ end -}}
+            {{- with $itemTitle }}<div class="timeline-title">{{ . }}</div>{{ end -}}
+            {{- with $desc }}<div class="timeline-desc">{{ . | markdownify }}</div>{{ end -}}
+          </div>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</details>

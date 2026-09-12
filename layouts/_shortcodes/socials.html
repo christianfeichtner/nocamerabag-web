@@ -1,0 +1,3 @@
+{{- $class := .Get "class" | default "social-icons" -}}
+{{- $size := .Get "size" | default 20 -}}
+{{- partial "social-icons.html" (dict "class" $class "icon_size" $size) -}}

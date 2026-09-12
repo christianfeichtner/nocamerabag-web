@@ -1,0 +1,53 @@
+{{- if not (.Param "hideFooter") }}
+<footer class="site-footer">
+  <div class="footer-container footer-columns footer-grid">
+    <!-- Spalte 1: About & The Fine Print -->
+    <div class="footer-col">
+      <h3>About</h3>
+      <p>
+        No CameraBag, launched in 2012, is a blog about mobile photography featuring reviews, tutorials, travel photospots and urban exploration.
+      </p>
+      <p>
+        Read more <a href="{{ "/about/" | relLangURL }}">about this site</a>.
+      </p>
+      <div class="footer-legal">
+        <ul>
+          <li><a href="{{ "/imprint/" | relLangURL }}">Imprint</a></li>
+          <li><a href="{{ "/legal/" | relLangURL }}">Privacy & Legal Policy</a></li>
+          <li><a href="{{ "/license/" | relLangURL }}">Image Licensing & Terms of Use</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Spalte 2: Getting Started -->
+    <div class="footer-col">
+      <h3>Blog posts for getting started</h3>
+      <p>Popular articles for first-time visitors:</p>
+      <ul>
+        <li><a href="/blog/recommended-iphone-camera-apps/">Recommended iPhone Camera Apps</a></li>
+        <li><a href="/blog/recommended-iphone-photo-editing-apps/">Recommended iPhone Photo Editing Apps</a></li>
+        <li><a href="/blog/recommended-iphone-photo-accessories/">Recommended iPhone Photo Accessories</a></li>
+        <li><a href="/iphone-photography/evolution/">iPhone Photography Evolution Timeline</a></li>
+        <li><a href="/blog/essential-photo-composition-techniques/">Essential Photo Composition Techniques</a></li>
+        <li><a href="/portfolio/">Travel Photo Spots Portfolio</a></li>
+        <li><a href="/urbex-tours/">Urbex Tours I've Attended</a></li>
+      </ul>
+    </div>
+
+    <!-- Spalte 3: Social Media -->
+    <div class="footer-col">
+      <h3>Social Media</h3>
+      <p>If you like my photos, check my social media profiles for more mobile photography:</p>
+      <p><strong>Find and follow me:</strong></p>
+      <div class="footer-social-icons">
+        {{ partial "social-icons.html" (dict "class" "social-icons footer-social-icons" "icon_size" 18) }}
+      </div>
+      <p style="margin-top: 1.25rem; font-size: var(--font-size-xs);">Links with the <svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="color: var(--color-accent); vertical-align: -1px; margin: 0 2px;"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg> symbol may be <span class="popover-box" style="--popover-bg: var(--color-white); --popover-color: var(--color-black); --popover-link-color: var(--color-accent);" tabindex="0">affiliate links<span class="popover-content">If you purchase through these links, I may earn a small commission at no extra cost to you. Read the full <a href="/legal/">Privacy &amp; Legal Policy</a> for details.</span></span>.</p>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; {{ now.Format "2006" }} {{ site.Title }}. All rights reserved.</p>
+  </div>
+</footer>
+{{- end }}

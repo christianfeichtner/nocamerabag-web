@@ -1,0 +1,268 @@
+{{- $post := . -}}
+{{- $showCategory := true -}}
+{{- $useSecondaryMetadata := false -}}
+{{- $showAffiliate := false -}}
+{{- $showRating := false -}}
+{{- if reflect.IsMap . -}}
+  {{- if isset . "page" -}}
+    {{- $post = .page -}}
+  {{- end -}}
+  {{- if isset . "showCategory" -}}
+    {{- $showCategory = .showCategory -}}
+  {{- else if isset . "show_category" -}}
+    {{- $showCategory = .show_category -}}
+  {{- end -}}
+  {{- if isset . "useSecondaryMetadata" -}}
+    {{- $useSecondaryMetadata = .useSecondaryMetadata -}}
+  {{- else if isset . "use_secondary_metadata" -}}
+    {{- $useSecondaryMetadata = .use_secondary_metadata -}}
+  {{- else if isset . "isCarousel" -}}
+    {{- $useSecondaryMetadata = .isCarousel -}}
+  {{- else if isset . "is_carousel" -}}
+    {{- $useSecondaryMetadata = .is_carousel -}}
+  {{- end -}}
+  {{- if isset . "showAffiliate" -}}
+    {{- $showAffiliate = .showAffiliate -}}
+  {{- else if isset . "show_affiliate" -}}
+    {{- $showAffiliate = .show_affiliate -}}
+  {{- else if $useSecondaryMetadata -}}
+    {{- $showAffiliate = true -}}
+  {{- end -}}
+  {{- if isset . "showRating" -}}
+    {{- $showRating = .showRating -}}
+  {{- else if isset . "show_rating" -}}
+    {{- $showRating = .show_rating -}}
+  {{- end -}}
+{{- else -}}
+  {{- if eq $post.Section "blog" -}}
+    {{- $showRating = true -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $imgSrc := "" -}}
+{{- $imgAlt := $post.Title -}}
+{{- $imgWidth := "" -}}
+{{- $imgHeight := "" -}}
+
+{{- /* 1. Check Front Matter (.Params.cover.image, .Params.teaser, .Params.image, .Params.featured_image) */ -}}
+{{- if $post.Params.cover -}}
+  {{- if reflect.IsMap $post.Params.cover -}}
+    {{- $imgSrc = $post.Params.cover.image | default $post.Params.cover.src | default "" -}}
+    {{- $imgAlt = $post.Params.cover.alt | default $post.Title -}}
+  {{- else -}}
+    {{- $imgSrc = $post.Params.cover -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and (not $imgSrc) $post.Params.teaser -}}
+  {{- if reflect.IsMap $post.Params.teaser -}}
+    {{- $imgSrc = $post.Params.teaser.image | default $post.Params.teaser.src | default "" -}}
+    {{- $imgAlt = $post.Params.teaser.alt | default $post.Title -}}
+  {{- else -}}
+    {{- $imgSrc = $post.Params.teaser -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and (not $imgSrc) $post.Params.image -}}
+  {{- if reflect.IsMap $post.Params.image -}}
+    {{- $imgSrc = $post.Params.image.image | default $post.Params.image.src | default "" -}}
+    {{- $imgAlt = $post.Params.image.alt | default $post.Title -}}
+  {{- else -}}
+    {{- $imgSrc = $post.Params.image -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and (not $imgSrc) $post.Params.featured_image -}}
+  {{- if reflect.IsMap $post.Params.featured_image -}}
+    {{- $imgSrc = $post.Params.featured_image.image | default $post.Params.featured_image.src | default "" -}}
+    {{- $imgAlt = $post.Params.featured_image.alt | default $post.Title -}}
+  {{- else -}}
+    {{- $imgSrc = $post.Params.featured_image -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* 2. Fallback: Automatic teaser detection from assets/images/teaser/<baseName>.* */ -}}
+{{- if not $imgSrc -}}
+  {{- $baseName := "" -}}
+  {{- with $post.File -}}
+    {{- $baseName = .TranslationBaseName -}}
+  {{- end -}}
+  {{- if $baseName -}}
+    {{- $teaserRes := resources.GetMatch (printf "images/teaser/%s.*" $baseName) -}}
+    {{- with $teaserRes -}}
+      {{- $imgSrc = .RelPermalink -}}
+      {{- $imgWidth = .Width -}}
+      {{- $imgHeight = .Height -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and $imgSrc (not $imgWidth) -}}
+  {{- $resPath := strings.TrimPrefix "/" $imgSrc -}}
+  {{- with resources.Get $resPath -}}
+    {{- $imgWidth = .Width -}}
+    {{- $imgHeight = .Height -}}
+  {{- end -}}
+{{- end -}}
+
+<article class="blog-card">
+  {{- if $imgSrc -}}
+    <div class="blog-card-cover">
+      <a href="{{ $post.RelPermalink }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ $imgSrc | relURL }}" alt="{{ $imgAlt }}" loading="lazy" decoding="async" class="post-card-image"{{ with $imgWidth }} width="{{ . }}"{{ end }}{{ with $imgHeight }} height="{{ . }}"{{ end }}>
+      </a>
+      {{- $flag := "" -}}
+      {{- $countryName := "" -}}
+      {{- if and $post.Params.categories (in $post.Params.categories "Photo Spots") -}}
+        {{- with $post.Params.tags -}}
+          {{- range . -}}
+            {{- if not $flag -}}
+              {{- with (index site.Data.flags .) -}}
+                {{- $flag = .flag -}}
+                {{- $countryName = .name | default . -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $hasMap := $post.Params.photo_spots -}}
+      {{- $hasUrbex := and $post.Params.tags (in $post.Params.tags "Urbex Tour") -}}
+      {{- $ratingData := dict -}}
+      {{- if $showRating -}}
+        {{- $ratingData = partial "get-rating.html" $post -}}
+      {{- end -}}
+
+      {{- if or $flag $hasMap $hasUrbex $ratingData }}
+      <div class="image-overlay-bar">
+        <div class="overlay-actions img-badges-overlay">
+          {{- if $flag }}
+          <span class="card-flag-badge badge-flag" title="{{ $countryName }}" data-tooltip="{{ $countryName }}" aria-label="{{ $countryName }}">{{ $flag }}</span>
+          {{- end }}
+          {{- if $hasMap }}
+          <span class="overlay-badge card-map-badge">
+            <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2.2" fill="none" aria-hidden="true">
+              <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+              <line x1="8" y1="2" x2="8" y2="18"></line>
+              <line x1="16" y1="6" x2="16" y2="22"></line>
+            </svg>
+            <span>Map available</span>
+          </span>
+          {{- else if $hasUrbex }}
+          <span class="overlay-badge badge-image-overlay-br">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2z"/>
+              <path d="M13 5v2"/>
+              <path d="M13 17v2"/>
+              <path d="M13 11v2"/>
+            </svg>
+            <span>Public Urbex Tour</span>
+          </span>
+          {{- end }}
+          {{- with $ratingData }}
+          <span class="overlay-badge card-rating-badge" title="{{ printf "Rating: %.1f from %d votes" .average .votes }}">
+            <svg class="rating-badge-star" viewBox="0 0 24 24" width="12" height="12" fill="#f59e0b" aria-hidden="true">
+              <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+            </svg>
+            <span class="card-rating-score">{{ printf "%.1f" .average }}</span>
+            <span class="card-rating-votes">({{ .votes }})</span>
+          </span>
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+    </div>
+  {{- end -}}
+
+  <div class="blog-card-body">
+    {{- if $showCategory -}}
+      {{- with $post.Params.categories }}
+      <div class="blog-card-category">
+        {{- range . }}
+        <a href="{{ printf "/blog/%s/" (. | urlize) | relURL }}" class="post-category-badge">
+          <svg class="category-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+          </svg>
+          {{ . }}
+        </a>
+        {{- end }}
+      </div>
+      {{- end }}
+    {{- end -}}
+
+    {{/* 1. Titel (optional via secondary_title / carousel_title überschreibbar) */}}
+    {{- $cardTitle := $post.Title -}}
+    {{- if and $useSecondaryMetadata (or $post.Params.secondary_title $post.Params.carousel_title) -}}
+      {{- $cardTitle = $post.Params.secondary_title | default $post.Params.carousel_title -}}
+    {{- end -}}
+    <h2 class="blog-card-title">
+      <a href="{{ $post.RelPermalink }}">{{ $cardTitle }}</a>
+    </h2>
+
+    {{/* 2. Teaser-Beschreibung (optional via secondary_description / carousel_description überschreibbar) */}}
+    {{- if (ne ($post.Param "hideSummary") true) }}
+      {{- $cardSummary := $post.Description | default ($post.Summary | truncate 120) -}}
+      {{- if and $useSecondaryMetadata (or $post.Params.secondary_description $post.Params.carousel_description) -}}
+        {{- $cardSummary = $post.Params.secondary_description | default $post.Params.carousel_description -}}
+      {{- end -}}
+    <div class="blog-card-summary">
+      <p>{{ $cardSummary | plainify | htmlUnescape }}</p>
+    </div>
+    {{- end }}
+
+    <div class="blog-card-footer">
+      {{/* 3. Optionaler Affiliate-Link aus data/<datei>.yaml */}}
+      {{- if $showAffiliate }}
+        {{- with $post.Params.affiliate_id }}
+          {{- $rawKey := . }}
+          {{- $dataFile := "affiliates" }}
+          {{- $entryKey := "" }}
+          {{- $subPath := "" }}
+          {{- if strings.Contains $rawKey "://" }}
+            {{- $u := urls.Parse $rawKey }}
+            {{- if eq $u.Scheme "data" }}
+              {{- $dataFile = $u.Host }}
+              {{- $rawPath := strings.TrimPrefix "/" $u.Path }}
+              {{- $parts := split $rawPath "/" }}
+              {{- $entryKey = index $parts 0 }}
+              {{- if gt (len $parts) 1 }}
+                {{- $subPath = delimit (after 1 $parts) "/" }}
+              {{- end }}
+            {{- else }}
+              {{- $dataFile = $u.Scheme }}
+              {{- $entryKey = $u.Host }}
+              {{- $subPath = strings.TrimPrefix "/" $u.Path }}
+            {{- end }}
+          {{- else if in $rawKey ":" }}
+            {{- $parts := split $rawKey ":" }}
+            {{- if eq (len $parts) 2 }}
+              {{- $dataFile = index $parts 0 }}
+              {{- $entryKey = index $parts 1 }}
+            {{- end }}
+          {{- else }}
+            {{- $entryKey = $rawKey }}
+          {{- end }}
+          {{- $fileData := index site.Data $dataFile }}
+          {{- if $fileData }}
+            {{- $aff := index $fileData $entryKey }}
+            {{- if $aff }}
+              {{- $target := $aff }}
+              {{- if $subPath }}
+                {{- $shopKey := strings.TrimPrefix "shops/" $subPath }}
+                {{- with (or (index $aff.shops $shopKey) (index $aff.shops $subPath)) }}
+                  {{- $target = . }}
+                {{- end }}
+              {{- end }}
+            <div class="carousel-affiliate-wrap">
+              <a href="{{ $target.url }}" target="_blank" rel="noopener sponsored" class="carousel-affiliate-link">
+                <span>{{ $post.Params.affiliate_label | default $target.label | default $target.name | default $aff.label | default $aff.name }}</span>
+              </a>
+            </div>
+            {{- end }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+      <a class="blog-card-read-more read-more" href="{{ $post.RelPermalink }}">Read more {{ partial "icons/arrow-right.html" $post }}</a>
+    </div>
+  </div>
+</article>

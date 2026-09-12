@@ -1,0 +1,12 @@
+{{- $ratingData := partial "get-rating.html" . -}}
+{{- with $ratingData -}}
+  <div class="rating-badge" title="{{ printf "Rating: %.1f from %d votes" .average .votes }}">
+    <svg class="rating-badge-star" viewBox="0 0 24 24" width="14" height="14" fill="#f59e0b" aria-hidden="true">
+      <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+    </svg>
+    <span class="rating-badge-score">{{ printf "%.1f" .average }}</span>
+    <span class="rating-badge-votes">({{ .votes }} {{ if eq .votes 1 }}vote{{ else }}votes{{ end }})</span>
+  </div>
+{{- end -}}
+
+

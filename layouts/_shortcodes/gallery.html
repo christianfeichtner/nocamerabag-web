@@ -1,0 +1,105 @@
+{{- /*
+  Flexible Gallery Shortcode for Hugo
+  Usage:
+    {{< gallery
+      src1="img1.jpg" alt1="Alt 1" caption1="Image 1 description for lightbox"
+      src2="img2.jpg" alt2="Alt 2" caption2="Image 2 description for lightbox"
+      src3="img3.jpg" caption3="Image 3 description for lightbox"
+      caption="Optional general gallery caption shown below grid"
+    >}}
+*/ -}}
+
+{{- $rawImages := slice -}}
+{{- $caption := .Get "caption" | default "" -}}
+
+{{- if .IsNamedParams -}}
+  {{- range $i := slice 1 2 3 4 -}}
+    {{- $srcKey := printf "src%d" $i -}}
+    {{- $altKey := printf "alt%d" $i -}}
+    {{- $capKey := printf "caption%d" $i -}}
+    {{- $src := $.Get $srcKey -}}
+    {{- if $src -}}
+      {{- $imgCaption := $.Get $capKey | default "" -}}
+      {{- $alt := $.Get $altKey | default $imgCaption | default "" -}}
+      {{- $rawImages = $rawImages | append (dict "src" $src "alt" $alt "caption" $imgCaption) -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- range $i := seq 0 (sub (len .Params) 1) -}}
+    {{- $param := index $.Params $i -}}
+    {{- if $param -}}
+      {{- $rawImages = $rawImages | append (dict "src" $param "alt" "" "caption" "") -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $count := len $rawImages -}}
+
+{{- if gt $count 0 -}}
+  {{- $processedImages := slice -}}
+
+  {{- range $idx, $item := $rawImages -}}
+    {{- $src := $item.src -}}
+    {{- $cleanSrc := strings.TrimPrefix "/" $src -}}
+    {{- $alt := $item.alt -}}
+    {{- $imgCaption := $item.caption -}}
+
+    {{- /* 1. Look up image resource (Page Bundle first, then Global assets) */ -}}
+    {{- $imgRes := $.Page.Resources.GetMatch $src -}}
+    {{- if not $imgRes -}}
+      {{- $imgRes = $.Page.Resources.GetMatch $cleanSrc -}}
+    {{- end -}}
+    {{- if not $imgRes -}}
+      {{- $imgRes = resources.Get $src -}}
+    {{- end -}}
+    {{- if not $imgRes -}}
+      {{- $imgRes = resources.Get $cleanSrc -}}
+    {{- end -}}
+
+    {{- $thumbUrl := "" -}}
+    {{- $fullUrl := "" -}}
+    {{- $width := "" -}}
+    {{- $height := "" -}}
+
+    {{- if and $imgRes (ne $imgRes.MediaType.SubType "svg") (ne $imgRes.MediaType.SubType "svg+xml") -}}
+      {{- /* Image Processing: Square Thumbnail (800x800 smart webp) and Fullscreen Fit (2400x2400 webp) */ -}}
+      {{- $thumb := $imgRes.Fill "800x800 webp smart" -}}
+      {{- $full := $imgRes.Fit "2400x2400 webp" -}}
+      {{- $thumbUrl = $thumb.RelPermalink -}}
+      {{- $fullUrl = $full.RelPermalink -}}
+      {{- $width = $thumb.Width -}}
+      {{- $height = $thumb.Height -}}
+    {{- else if $imgRes -}}
+      {{- $thumbUrl = $imgRes.RelPermalink -}}
+      {{- $fullUrl = $imgRes.RelPermalink -}}
+    {{- else -}}
+      {{- /* Fallback for static/external assets */ -}}
+      {{- if or (hasPrefix $src "http://") (hasPrefix $src "https://") -}}
+        {{- $thumbUrl = $src -}}
+        {{- $fullUrl = $src -}}
+      {{- else -}}
+        {{- $thumbUrl = $src | relURL -}}
+        {{- $fullUrl = $src | relURL -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if not $alt -}}
+      {{- $alt = $imgCaption | default $caption | default (printf "Gallery image %d" (add $idx 1)) -}}
+    {{- end -}}
+
+    {{- $processedImages = $processedImages | append (dict "thumb" $thumbUrl "full" $fullUrl "alt" $alt "caption" $imgCaption "width" $width "height" $height) -}}
+  {{- end -}}
+
+  <figure class="post-gallery post-gallery--count-{{ $count }}">
+    <div class="post-gallery__grid">
+      {{- range $processedImages }}
+        <a href="{{ .full }}" class="post-gallery__item" data-lightbox-trigger data-full="{{ .full }}" data-alt="{{ .alt }}" {{- with .caption }} data-caption="{{ . }}"{{ end }} aria-label="{{ .caption | default .alt | default "Open image in lightbox" }}">
+          <img src="{{ .thumb }}" alt="{{ .alt }}" loading="lazy" decoding="async" {{- with .width }} width="{{ . }}"{{ end }}{{- with .height }} height="{{ . }}"{{ end }} class="post-gallery__img">
+        </a>
+      {{- end }}
+    </div>
+    {{- with $caption }}
+      <figcaption class="post-gallery__caption">{{ . | markdownify }}</figcaption>
+    {{- end }}
+  </figure>
+{{- end -}}

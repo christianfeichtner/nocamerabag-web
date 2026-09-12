@@ -1,0 +1,137 @@
+{{- if not .IsHome -}}
+  {{- $breadcrumbItems := slice -}}
+  {{- $homeItem := dict "name" (i18n "home" | default "Home") "url" ("" | absLangURL) -}}
+  {{- $blogUrl := "/blog/" | absLangURL -}}
+  {{- $blogName := "Blog" -}}
+  {{- with site.GetPage "/blog" -}}
+    {{- $blogUrl = .Permalink -}}
+  {{- end -}}
+  {{- $blogItem := dict "name" $blogName "url" $blogUrl -}}
+
+  {{- $isBlogPost := and .IsPage (or (eq .Section "blog") (eq .Section "posts") (in (site.Params.mainSections | default (slice "blog" "posts")) .Section)) -}}
+  {{- $isTaxonomyOrTerm := or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Type "categories") (eq .Type "tags") (eq .Data.Singular "category") (eq .Data.Singular "tag") -}}
+  {{- $isBlogSection := and (eq .Kind "section") (or (eq .Section "blog") (eq .Section "posts")) -}}
+
+  {{- if $isBlogPost -}}
+    {{- /* 1. Home */ -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append $homeItem -}}
+
+    {{- /* 2. Blog */ -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append $blogItem -}}
+
+    {{- /* 3. Erste Kategorie (falls vorhanden) */ -}}
+    {{- $cat := "" -}}
+    {{- with .Params.categories -}}
+      {{- if reflect.IsSlice . -}}
+        {{- if gt (len .) 0 -}}
+          {{- $cat = index . 0 -}}
+        {{- end -}}
+      {{- else -}}
+        {{- $cat = . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $cat -}}
+      {{- $catPage := site.GetPage (printf "/categories/%s" ($cat | urlize)) -}}
+      {{- if $catPage -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $catPage.Title "url" $catPage.Permalink) -}}
+      {{- else -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $cat "url" (printf "/blog/%s/" ($cat | urlize) | absURL)) -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- /* 4. Erster Tag (falls vorhanden) */ -}}
+    {{- $tag := "" -}}
+    {{- with .Params.tags -}}
+      {{- if reflect.IsSlice . -}}
+        {{- if gt (len .) 0 -}}
+          {{- $tag = index . 0 -}}
+        {{- end -}}
+      {{- else -}}
+        {{- $tag = . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $tag -}}
+      {{- $tagPage := site.GetPage (printf "/tags/%s" ($tag | urlize)) -}}
+      {{- if $tagPage -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $tagPage.Title "url" $tagPage.Permalink) -}}
+      {{- else -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $tag "url" (printf "/blog/%s/" ($tag | urlize) | absURL)) -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- /* 5. Aktueller Post-Titel */ -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink "isCurrent" true) -}}
+
+  {{- else if or $isTaxonomyOrTerm (hasPrefix .RelPermalink "/blog/") (hasPrefix .RelPermalink "/categories/") (hasPrefix .RelPermalink "/tags/") -}}
+    {{- /* Blog-Taxonomien (Kategorien, Tags) & Blog-Unterseiten: kein 'Categories' oder 'Tags' Zwischenschritt */ -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append $homeItem -}}
+
+    {{- if not $isBlogSection -}}
+      {{- $breadcrumbItems = $breadcrumbItems | append $blogItem -}}
+    {{- end -}}
+
+    {{- /* Falls es verschachtelte Ancestors gibt (ohne 'Categories' / 'Tags') */ -}}
+    {{- range .Ancestors.Reverse -}}
+      {{- if not (or .IsHome (eq .Section "categories") (eq .Section "tags") (eq .Type "categories") (eq .Type "tags") (eq .Data.Plural "categories") (eq .Data.Plural "tags") (eq .RelPermalink "/categories/") (eq .RelPermalink "/tags/") (eq .RelPermalink "/blog/")) -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink) -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink "isCurrent" true) -}}
+
+  {{- else -}}
+    {{- /* Standard-Hierarchie für sonstige Seiten: Home -> .Ancestors.Reverse -> .Title */ -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append $homeItem -}}
+    {{- range .Ancestors.Reverse -}}
+      {{- if not (or .IsHome (eq .Section "categories") (eq .Section "tags") (eq .Type "categories") (eq .Type "tags") (eq .Data.Plural "categories") (eq .Data.Plural "tags")) -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink "isCurrent" true) -}}
+  {{- end -}}
+
+<div class="breadcrumb-bar">
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+      {{- range $index, $item := $breadcrumbItems -}}
+        {{- $position := add $index 1 -}}
+        {{- if gt $index 0 -}}
+          <li class="sep" aria-hidden="true">/</li>
+        {{- end -}}
+        {{- if $item.isCurrent -}}
+          <li class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page">
+            <span itemprop="name">{{ $item.name }}</span>
+            <link itemprop="item" href="{{ $item.url }}" />
+            <meta itemprop="position" content="{{ $position }}">
+          </li>
+        {{- else -}}
+          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemprop="item" href="{{ $item.url }}">
+              <span itemprop="name">{{ $item.name }}</span>
+            </a>
+            <meta itemprop="position" content="{{ $position }}">
+          </li>
+        {{- end -}}
+      {{- end -}}
+    </ol>
+  </nav>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{- range $i, $item := $breadcrumbItems }}
+      {{- if $i }},{{ end }}
+      {
+        "@type": "ListItem",
+        "position": {{ add $i 1 }},
+        "name": {{ $item.name | jsonify }},
+        "item": {{ $item.url | jsonify }}
+      }
+    {{- end }}
+  ]
+}
+</script>
+{{- end -}}

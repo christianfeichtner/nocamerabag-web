@@ -1,0 +1,85 @@
+{{- $data := .data | default . -}}
+{{- $isFirst := .isFirst | default false -}}
+{{- $headingTag := cond $isFirst "h1" "h2" -}}
+{{- $bgColor := $data.bg_color | default "white" -}}
+{{- $sectionID := $data.id | default $data.ID -}}
+{{- $title := $data.title | default "Media Coverage" -}}
+{{- $subtitle := $data.subtitle | default "A selection of websites, podcasts, and magazines that featured my work:" -}}
+
+<section {{ with $sectionID }}id="{{ . }}"{{ end }} class="section section-media-coverage section-press section-logo-list section--bg-{{ $bgColor }}">
+  <div class="section-container">
+    {{- if or $data.title $data.subtitle $data.description $data.text }}
+    <div class="section-header text-center">
+      {{- with $title }}
+        {{- $headingID := $data.id | default (. | anchorize) -}}
+        {{- if $isFirst }}<h1 id="{{ $headingID }}" class="section-title">{{ . }}</h1>{{ else }}<h2 id="{{ $headingID }}" class="section-title">{{ . }}</h2>{{ end }}
+      {{- end }}
+      {{- with (or $data.subtitle $subtitle) }}
+        <p class="section-subtitle">{{ . | markdownify }}</p>
+      {{- end }}
+      {{- with (or $data.text $data.description) }}
+        {{- if reflect.IsSlice . }}
+          {{- range . }}
+            <p class="section-text">{{ . | markdownify }}</p>
+          {{- end }}
+        {{- else }}
+          <div class="section-text">{{ . | markdownify }}</div>
+        {{- end }}
+      {{- end }}
+    </div>
+    {{- end }}
+
+    <div class="press-logos-grid">
+      {{- $items := $data.items | default $data.logos -}}
+      {{- if $items -}}
+        {{- /* 1. Definierte Liste aus Frontmatter / Params */ -}}
+        {{- range $items -}}
+          {{- $name := .name | default .title | default "Press Logo" -}}
+          {{- $imgSrc := .image | default .src -}}
+          {{- $url := .url | default .link -}}
+          {{- $logoRes := "" -}}
+          {{- if $imgSrc -}}
+            {{- $logoRes = resources.Get $imgSrc -}}
+          {{- end -}}
+
+          {{- if $url }}
+            <a href="{{ $url }}" class="press-logo-item" target="_blank" rel="noopener" aria-label="{{ $name }}">
+          {{- else }}
+            <div class="press-logo-item">
+          {{- end }}
+
+          {{- if $logoRes }}
+            <img src="{{ $logoRes.RelPermalink }}" alt="{{ $name }}" width="{{ $logoRes.Width }}" height="{{ $logoRes.Height }}" loading="lazy">
+          {{- else if $imgSrc }}
+            <img src="{{ $imgSrc | relURL }}" alt="{{ $name }}" loading="lazy">
+          {{- else }}
+            <span class="press-logo-text">{{ $name }}</span>
+          {{- end }}
+
+          {{- if $url }}
+            </a>
+          {{- else }}
+            </div>
+          {{- end }}
+        {{- end -}}
+      {{- else -}}
+        {{- /* 2. Dynamisches Laden aller Bildressourcen aus assets/images/press/ */ -}}
+        {{- $pressLogos := resources.Match "images/press/*" -}}
+        {{- range $pressLogos -}}
+          {{- $rawName := .Name | path.Base | strings.TrimSuffix (path.Ext .) -}}
+          {{- $cleanName := $rawName | replaceRE "-logo(-png)?" "" | replaceRE "[-_]" " " | humanize | title -}}
+          {{- if eq $rawName "journalism-co-uk-logo" }}{{ $cleanName = "journalism.co.uk" }}{{ end -}}
+          {{- if eq $rawName "diyphotography-logo" }}{{ $cleanName = "DIY Photography" }}{{ end -}}
+          {{- if eq $rawName "iphonegraphy-central-logo" }}{{ $cleanName = "iPhoneography Central" }}{{ end -}}
+          {{- if eq $rawName "petapixel-logo" }}{{ $cleanName = "PetaPixel" }}{{ end -}}
+          {{- if eq $rawName "procamera-logo" }}{{ $cleanName = "ProCamera" }}{{ end -}}
+          {{- if eq $rawName "xataka-photo-logo" }}{{ $cleanName = "Xataka Foto" }}{{ end -}}
+          {{- if eq $rawName "aipic-logo" }}{{ $cleanName = "AIPIC" }}{{ end -}}
+          <div class="press-logo-item">
+            <img src="{{ .RelPermalink }}" alt="{{ $cleanName }}" width="{{ .Width }}" height="{{ .Height }}" loading="lazy">
+          </div>
+        {{- end -}}
+      {{- end -}}
+    </div>
+  </div>
+</section>

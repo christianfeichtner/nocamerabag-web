@@ -1,0 +1,95 @@
+{{- $dest := .Destination -}}
+{{- $isAffiliate := false -}}
+{{- $isExternal := false -}}
+
+{{- $rawKey := "" -}}
+{{- if strings.HasPrefix $dest "aff:" -}}
+  {{- $rawKey = strings.TrimPrefix "aff:" $dest -}}
+{{- else if and (in $dest ":") (not (or (strings.HasPrefix $dest "http://") (strings.HasPrefix $dest "https://") (strings.HasPrefix $dest "//") (strings.HasPrefix $dest "mailto:") (strings.HasPrefix $dest "tel:") (strings.HasPrefix $dest "/") (strings.HasPrefix $dest "#"))) -}}
+  {{- $rawKey = $dest -}}
+{{- end -}}
+
+{{- if $rawKey -}}
+  {{- $dataFile := "affiliates" -}}
+  {{- $entryKey := "" -}}
+  {{- $subPath := "" -}}
+  {{- if strings.Contains $rawKey "://" -}}
+    {{- $u := urls.Parse $rawKey -}}
+    {{- if eq $u.Scheme "data" -}}
+      {{- $dataFile = $u.Host -}}
+      {{- $rawPath := strings.TrimPrefix "/" $u.Path -}}
+      {{- $parts := split $rawPath "/" -}}
+      {{- $entryKey = index $parts 0 -}}
+      {{- if gt (len $parts) 1 -}}
+        {{- $subPath = delimit (after 1 $parts) "/" -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $dataFile = $u.Scheme -}}
+      {{- $entryKey = $u.Host -}}
+      {{- $subPath = strings.TrimPrefix "/" $u.Path -}}
+    {{- end -}}
+  {{- else if in $rawKey ":" -}}
+    {{- $parts := split $rawKey ":" -}}
+    {{- if eq (len $parts) 2 -}}
+      {{- $dataFile = index $parts 0 -}}
+      {{- $entryKey = index $parts 1 -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $entryKey = $rawKey -}}
+  {{- end -}}
+  {{- $fileData := index site.Data $dataFile -}}
+  {{- if $fileData -}}
+    {{- $item := index $fileData $entryKey -}}
+    {{- if $item -}}
+      {{- $target := $item -}}
+      {{- if $subPath -}}
+        {{- $shopKey := strings.TrimPrefix "shops/" $subPath -}}
+        {{- with (or (index $item.shops $shopKey) (index $item.shops $subPath)) -}}
+          {{- $target = . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $dest = $target.url -}}
+      {{- $isAffiliate = true -}}
+    {{- else -}}
+      {{- warnf "Affiliate link ID '%s' not found in data/%s.yaml on page %s" $entryKey $dataFile (or .Page.File.Path .Page.Path) -}}
+    {{- end -}}
+  {{- else -}}
+    {{- warnf "Affiliate data file 'data/%s.yaml' not found on page %s" $dataFile (or .Page.File.Path .Page.Path) -}}
+  {{- end -}}
+{{- else if or (strings.HasPrefix $dest "http://") (strings.HasPrefix $dest "https://") (strings.HasPrefix $dest "//") -}}
+  {{- $parsedURL := urls.Parse $dest -}}
+  {{- $siteHost := (urls.Parse site.BaseURL).Host -}}
+  {{- if and $parsedURL.Host (ne $parsedURL.Host $siteHost) (ne $parsedURL.Host "nocamerabag.com") (ne $parsedURL.Host "www.nocamerabag.com") -}}
+    {{- $isExternal = true -}}
+    {{- $affiliateDomains := slice "apps.apple.com" "amzn.to" "moment.8ocm68.net" "partner.shopmoment.com" "maps.apple.com" "tv.apple.com" "www.go2know.de" "go2know.de" "lightroom.app.link" "adobe.prf.hn" "www.wubenlight.com" "wubenlight.com" "holafly.sjv.io" -}}
+    {{- range $affiliateDomains -}}
+      {{- if in $dest . -}}
+        {{- $isAffiliate = true -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $isAffiliate -}}
+  {{- $rawText := .Text | safeHTML -}}
+  {{- if or (strings.Contains $rawText "<img") (strings.Contains $rawText "<svg") (strings.Contains $rawText "<figure") -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer">{{ $rawText }}</a>
+  {{- else -}}
+    {{- $words := split (trim (string .Text) " ") " " -}}
+    {{- $wordCount := len $words -}}
+    {{- if gt $wordCount 1 -}}
+      {{- $leadingWords := slice -}}
+      {{- range $i, $w := $words -}}
+        {{- if lt $i (sub $wordCount 1) -}}
+          {{- $leadingWords = $leadingWords | append $w -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $lastWord := index $words (sub $wordCount 1) -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer">{{ delimit $leadingWords " " | safeHTML }} <span class="affiliate-inline-nowrap">{{ $lastWord | safeHTML }}<svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg></span></a>
+    {{- else -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer"><span class="affiliate-inline-nowrap">{{ $rawText }}<svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg></span></a>
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

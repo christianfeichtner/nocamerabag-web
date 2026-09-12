@@ -1,0 +1,30 @@
+comments_title:
+  other: "Discussion"
+comments_count_suffix:
+  other: "Comments"
+comments_placeholder:
+  other: "Leave a comment on this post..."
+comments_btn_submit_step1:
+  other: "Submit Comment →"
+comments_modal_title:
+  other: "Just one more step"
+comments_modal_desc:
+  other: "Please enter your name and email address. Your email will never be published."
+comments_label_name:
+  other: "Your Name *"
+comments_ph_name:
+  other: "e.g. Alex"
+comments_label_email:
+  other: "Email Address *"
+comments_ph_email:
+  other: "name@example.com"
+comments_btn_cancel:
+  other: "Cancel"
+comments_btn_publish:
+  other: "Publish Now"
+comments_btn_reply:
+  other: "Reply"
+comments_empty_state:
+  other: "No comments yet. Be the first to share your thoughts!"
+comments_success_notice:
+  other: "Thank you! Your comment has been saved and will appear after moderation."

@@ -1,0 +1,19 @@
+{{- $class := "social-icons" -}}
+{{- $size := 18 -}}
+{{- if reflect.IsMap . -}}
+  {{- with .class }}{{ $class = . }}{{ end -}}
+  {{- with .icon_size }}{{ $size = . }}{{ end -}}
+{{- else if . -}}
+  {{- $class = . -}}
+{{- end -}}
+
+{{- $socials := site.Data.socials -}}
+{{- with $socials -}}
+<div class="{{ $class }}">
+  {{- range . }}
+  <a href="{{ .url | safeURL }}" target="_blank" rel="noopener" aria-label="{{ .title | default .name }}" title="{{ .title | default .name }}" class="social-icon-link social-icon--{{ .icon }}">
+    <svg width="{{ $size }}" height="{{ $size }}" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="{{ .path }}"/></svg>
+  </a>
+  {{- end }}
+</div>
+{{- end -}}

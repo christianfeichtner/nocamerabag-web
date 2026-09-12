@@ -1,0 +1,55 @@
+{{- $ratingsConfig := site.Params.ratings | default dict -}}
+{{- $ratingData := dict -}}
+{{- if and ($ratingsConfig.enabled | default true) (eq .Section "blog") -}}
+  {{- $apiUrl := $ratingsConfig.api_url | default "http://192.168.1.90:8788" -}}
+  {{- $minAverage := cast.ToFloat ($ratingsConfig.min_average | default 4.2) -}}
+  {{- $minVotes := cast.ToInt ($ratingsConfig.min_votes | default 2) -}}
+  {{- $slug := .RelPermalink -}}
+
+  {{- /* Candidate-Endpoints für den Build-Time Abruf aus unterschiedlichen Docker/Host-Umgebungen */ -}}
+  {{- $baseEndpoints := slice -}}
+  {{- if $apiUrl -}}
+    {{- $baseEndpoints = $baseEndpoints | append (printf "%s/ratings" (strings.TrimRight "/" $apiUrl)) -}}
+  {{- end -}}
+  {{- range (slice "http://host.docker.internal:8788/ratings" "http://192.168.1.90:8788/ratings" "http://127.0.0.1:8788/ratings" "http://localhost:8788/ratings" "http://172.17.0.1:8788/ratings") -}}
+    {{- if not (in $baseEndpoints .) -}}
+      {{- $baseEndpoints = $baseEndpoints | append . -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- range $baseEndpoints -}}
+    {{- if eq (len $ratingData) 0 -}}
+      {{- $reqUrl := printf "%s?slug=%s" . ($slug | urlquery) -}}
+      {{- with try (resources.GetRemote $reqUrl) -}}
+        {{- with .Value -}}
+          {{- if and .Data (eq .Data.StatusCode 200) -}}
+            {{- $content := strings.TrimLeft " \t\r\n" .Content -}}
+            {{- if strings.HasPrefix $content "{" -}}
+              {{- $unmarshaled := "" -}}
+              {{- with try (transform.Unmarshal .) -}}
+                {{- with .Value -}}
+                  {{- $unmarshaled = . -}}
+                {{- end -}}
+              {{- end -}}
+              {{- if not $unmarshaled -}}
+                {{- with try (transform.Unmarshal $content) -}}
+                  {{- with .Value -}}
+                    {{- $unmarshaled = . -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+              {{- if reflect.IsMap $unmarshaled -}}
+                {{- $avg := cast.ToFloat (index $unmarshaled "average" | default 0) -}}
+                {{- $votes := cast.ToInt (index $unmarshaled "votes" | default 0) -}}
+                {{- if and (ge $avg $minAverage) (ge $votes $minVotes) -}}
+                  {{- $ratingData = dict "average" $avg "votes" $votes -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $ratingData -}}

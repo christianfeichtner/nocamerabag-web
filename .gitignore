@@ -1,0 +1,25 @@
+# Hugo Build-Ordner & Cache
+public/
+resources/
+.hugo_build.lock
+
+# macOS Systemdateien & SMB-Metadaten
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Node/Tools
+node_modules/
+npm-debug.log*
+
+# Temporäre Skript-Dateien & lokale ENV-Dateien
+*.log
+.env
+.env.local
+
+# Editor-Einstellungen
+.vscode/
+.idea/

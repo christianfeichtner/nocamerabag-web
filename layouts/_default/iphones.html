@@ -1,0 +1,140 @@
+{{- define "main" }}
+<article class="section-container iphones-page">
+  <header class="page-header iphones-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{- with .Description }}
+    <p class="section-subtitle">{{ . }}</p>
+    {{- end }}
+    {{- if .Content }}
+    <div class="iphones-intro">
+      {{ .Content }}
+    </div>
+    {{- end }}
+  </header>
+
+  <div class="timeline-container">
+    <div class="timeline-track">
+      {{- range $index, $item := site.Data.iphones }}
+      <div class="timeline-item" id="item-{{ $item.model | urlize }}">
+        <div class="timeline-node-wrapper">
+          <div class="timeline-year-node">
+            <span class="timeline-year-text">{{ $item.year }}</span>
+          </div>
+          <div class="timeline-vertical-line" aria-hidden="true"></div>
+        </div>
+
+        <div class="timeline-card">
+          <div class="timeline-card-header">
+            <h2 id="{{ $item.model | urlize }}" class="model-title">{{ $item.model }}</h2>
+          </div>
+
+          <div class="specs-list">
+            <span class="specs-title">Photographic Features:</span>
+            {{/* Wide / Main Camera */}}
+            {{- with $item.cameras.wide }}
+              {{- if .available }}
+              <div class="light-info-pill spec-wide">
+                <span class="spec-label">Wide:</span>
+                <span class="spec-mp">{{ .mp }} MP</span>
+                {{- if .proraw }}
+                <span class="spec-tag spec-proraw">ProRAW</span>
+                {{- else if .raw }}
+                <span class="spec-tag spec-raw">RAW</span>
+                {{- end }}
+              </div>
+              {{- end }}
+            {{- end }}
+
+            {{/* Ultrawide Camera */}}
+            {{- with $item.cameras.ultrawide }}
+              {{- if .available }}
+              <div class="light-info-pill spec-ultrawide">
+                <span class="spec-label">Ultra Wide:</span>
+                <span class="spec-mp">{{ .mp }} MP</span>
+                {{- if .proraw }}
+                <span class="spec-tag spec-proraw">ProRAW</span>
+                {{- else if .raw }}
+                <span class="spec-tag spec-raw">RAW</span>
+                {{- end }}
+              </div>
+              {{- end }}
+            {{- end }}
+
+            {{/* Telephoto Camera */}}
+            {{- with $item.cameras.telephoto }}
+              {{- if .available }}
+              <div class="light-info-pill spec-telephoto">
+                <span class="spec-label">Tele:</span>
+                <span class="spec-mp">{{ with .zoom }}{{ . }} · {{ end }}{{ .mp }} MP</span>
+                {{- if .proraw }}
+                <span class="spec-tag spec-proraw">ProRAW</span>
+                {{- else if .raw }}
+                <span class="spec-tag spec-raw">RAW</span>
+                {{- end }}
+              </div>
+              {{- end }}
+            {{- end }}
+          </div>
+
+          {{- with $item.description }}
+          <p class="timeline-description">{{ . }}</p>
+          {{- end }}
+
+          {{- with $item.photos }}
+          <div class="photo-grid">
+            {{- range $photoIndex, $photoItem := . }}
+            {{- $photoPath := "" -}}
+            {{- $caption := "" -}}
+            {{- if reflect.IsMap $photoItem -}}
+              {{- $photoPath = $photoItem.image | default $photoItem.src | default $photoItem.url | default $photoItem.photo -}}
+              {{- $caption = $photoItem.caption | default $photoItem.title | default "" -}}
+            {{- else -}}
+              {{- $photoPath = $photoItem -}}
+            {{- end -}}
+            {{- $cleanPath := strings.TrimPrefix "/" $photoPath -}}
+            {{- $img := resources.Get $cleanPath -}}
+            {{- if not $img -}}
+              {{- $img = resources.GetMatch (printf "**%s*" $cleanPath) -}}
+            {{- end -}}
+            {{- $imgSrc := $photoPath | relURL -}}
+            {{- with $img -}}
+              {{- $imgSrc = .RelPermalink -}}
+            {{- end -}}
+            {{- $altText := $caption | default (printf "Sample photo captured with %s - Photo %d." $item.model (add $photoIndex 1)) -}}
+            <div class="photo-slot has-lightbox">
+              <button type="button" class="photo-slot-trigger lightbox-trigger" aria-label="Open fullscreen photo: {{ $altText | plainify }}" data-full="{{ $imgSrc }}" data-alt="{{ $altText | plainify }}" {{- with $caption }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }}>
+                <img src="{{ $imgSrc }}" alt="{{ $altText | plainify }}" loading="lazy" width="600" height="600">
+              </button>
+              <div class="image-overlay-bar">
+                {{- if $caption }}
+                <figcaption class="overlay-caption image-caption-pill">
+                  <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <line x1="12" y1="16" x2="12" y2="12"></line>
+                    <line x1="12" y1="8" x2="12.01" y2="8"></line>
+                  </svg>
+                  <span>{{ $caption | safeHTML }}</span>
+                </figcaption>
+                {{- end }}
+                <div class="overlay-actions img-badges-overlay">
+                  <button class="action-btn badge-lightbox lightbox-trigger" type="button" data-full="{{ $imgSrc }}" data-alt="{{ $altText | plainify }}" {{- with $caption }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }} data-tooltip="View Large" aria-label="View Large">
+                    <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                      <polyline points="15 3 21 3 21 9"></polyline>
+                      <polyline points="9 21 3 21 3 15"></polyline>
+                      <line x1="21" y1="3" x2="14" y2="10"></line>
+                      <line x1="3" y1="21" x2="10" y2="14"></line>
+                    </svg>
+                  </button>
+                </div>
+              </div>
+            </div>
+            {{- end }}
+          </div>
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</article>
+{{- end }}

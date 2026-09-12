@@ -1,0 +1,30 @@
+comments_title:
+  other: "Diskussion"
+comments_count_suffix:
+  other: "Beiträge"
+comments_placeholder:
+  other: "Schreibe einen Kommentar zum Artikel..."
+comments_btn_submit_step1:
+  other: "Kommentar abgeben →"
+comments_modal_title:
+  other: "Nur noch ein Schritt"
+comments_modal_desc:
+  other: "Gib bitte deinen Namen und deine E-Mail-Adresse an. Deine E-Mail wird niemals veröffentlicht."
+comments_label_name:
+  other: "Dein Name *"
+comments_ph_name:
+  other: "z. B. Alex"
+comments_label_email:
+  other: "E-Mail-Adresse *"
+comments_ph_email:
+  other: "name@beispiel.de"
+comments_btn_cancel:
+  other: "Abbrechen"
+comments_btn_publish:
+  other: "Jetzt veröffentlichen"
+comments_btn_reply:
+  other: "Antworten"
+comments_empty_state:
+  other: "Noch keine Kommentare vorhanden. Schreibe den ersten Beitrag!"
+comments_success_notice:
+  other: "Danke! Dein Kommentar wurde gespeichert und wird nach Prüfung freigeschaltet."

@@ -1,0 +1,25 @@
+{{/* layouts/_partials/is-published.html */}}
+{{- $now := now -}}
+{{- $isPublished := true -}}
+
+{{/* Datumsangaben flexibel auslesen (unterstützt Page-Objekte, Maps, TOML/YAML-Datumsangaben und Strings) */}}
+{{- $pubDate := or .PublishDate .publishDate .publishdate .start_date .startdate .startDate .online_date .onlinedate -}}
+{{- $expDate := or .ExpiryDate .expiryDate .expirydate .end_date .enddate .endDate .offline_date .offlinedate -}}
+
+{{/* 1. publishDate prüfen: Wenn das Datum in der Zukunft liegt, noch nicht anzeigen */}}
+{{- with $pubDate -}}
+  {{- $t := time . -}}
+  {{- if and (not $t.IsZero) ($now.Before $t) -}}
+    {{- $isPublished = false -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* 2. expiryDate prüfen: Wenn das Ablaufdatum in der Vergangenheit liegt, nicht mehr anzeigen */}}
+{{- with $expDate -}}
+  {{- $t := time . -}}
+  {{- if and (not $t.IsZero) ($now.After $t) -}}
+    {{- $isPublished = false -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $isPublished -}}

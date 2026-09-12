@@ -1,0 +1,917 @@
+amazon-prime-30-days:
+  name: "Amazon Prime (30 Days Free Trial)"
+  url: "https://amzn.to/2MizCzv"
+  shop: "Amazon"
+  type: "Service"
+  serviceType: "Subscription Service"
+  provider:
+    name: "Amazon"
+    url: "https://www.amazon.com"
+
+amazonbasics-travel-tripod:
+  name: "AmazonBasics Lightweight Travel Tripod"
+  url: "http://amzn.to/2rjTNnM"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Amazon Basics"
+
+anker-521-magnetic-battery:
+  name: "Anker 521 magnetic battery"
+  url: "https://amzn.to/3y6fbgj"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+anker-610-magnetic-phone-grip:
+  name: "Anker 610 Magnetic Phone Grip (MagSafe compatible)"
+  url: "https://amzn.to/3HYvyTq"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+anker-622-in-different-colors:
+  name: "Anker 622 in different colors with a 7.5W charging speed"
+  url: "https://amzn.to/3zdahRi"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+anker-633-magnetic-battery:
+  name: "Anker 633 magnetic battery"
+  url: "https://amzn.to/3zd9lMH"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+anker-nano-charger:
+  name: "Anker Nano Charger"
+  url: "https://amzn.to/3yUNVRL"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+anker-powerwave-7-5-wireless-charger:
+  name: "Anker PowerWave 7.5 Wireless Charger"
+  url: "https://amzn.to/34YhVOk"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+anker-powerwave-pad-i-got:
+  name: "Anker PowerWave Pad I got"
+  url: "https://amzn.to/3pNdpgb"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+apple-magsafe-charger:
+  name: "Apple MagSafe Charger"
+  url: "https://amzn.to/3127sE3"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Apple"
+
+apple-storefront-amazon:
+  name: "Apple Storefront on Amazon"
+  url: "https://amzn.to/2xVvjXS"
+  shop: "Amazon"
+  type: "OnlineStore"
+
+apple-tv-hanna:
+  label: "Watch Hanna on Apple TV"
+  name: "Hanna"
+  url: "https://tv.apple.com/movie/hanna/umc.cmc.177hbwellqfsytftj1yk35j3l?itsct=tv_box_link&itscg=30200&ct=hanna-spreepark"
+  shop: "Apple TV"
+  type: "Movie"
+
+apple-tv-haunted-hospital-heilstaetten:
+  label: "Watch Haunted Hospital - Heilstätten on Apple TV"
+  name: "Haunted Hospital - Heilstätten"
+  url: "https://tv.apple.com/movie/haunted-hospital-heilstatten/umc.cmc.5qzj5rryxu58vr2uicxgxhpvq?itsct=tv_box_link&itscg=30200&at=11lcrR&ct=filmlocations"
+  shop: "Apple TV"
+  type: "Movie"
+
+apple-tv-season-of-the-witch:
+  label: "Watch Season of the Witch on Apple TV"
+  name: "Season of the Witch"
+  url: "https://tv.apple.com/movie/season-of-the-witch/umc.cmc.41fh5wcczcz18vwa96dl6is0b?itsct=tv_box_link&itscg=30200&at=11lcrR&ct=filmlocation"
+  shop: "Apple TV"
+  type: "Movie"
+
+apple-tv-the-island:
+  label: "Watch The Island on Apple TV"
+  name: "The Island"
+  url: "https://tv.apple.com/movie/the-island/umc.cmc.zsdn6gfy1mpn2lkd6ok4a35d?itsct=tv_box_link&itscg=30200&at=11lcrR"
+  shop: "Apple TV"
+  type: "Movie"
+
+available-implements-at-the-roxon:
+  name: "available implements at the Roxon Store"
+  url: "https://amzn.to/4k8BHwP"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Roxon"
+
+bellroy-field-notes-cover:
+  name: "Bellroy Field Notes Cover"
+  url: "http://amzn.to/2sY8c74"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Bellroy"
+
+bellroy-venture-case-iphone-16-pro:
+  name: "Bellroy Venture Case for iPhone 16 Pro"
+  url: "https://amzn.to/3YS1LnF"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Bellroy"
+
+bellroy-venture-case-iphone-16-pro-max:
+  name: "Bellroy Venture Case for iPhone 16 Pro Max"
+  url: "https://amzn.to/4hBmC5Q"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Bellroy"
+
+big-lens-app:
+  name: "Big Lens"
+  url: "https://apps.apple.com/app/big-lens/id470460905"
+  shop: "App Store"
+  type: "MobileApplication"
+
+bluetooth-remote-shutters:
+  name: "Bluetooth Remote Shutters"
+  url: "https://amzn.to/2ub4kp6"
+  shop: "Amazon"
+  type: "Product"
+
+brushed-chrome-bullet-space-pen:
+  name: "Brushed Chrome Bullet Space Pen"
+  url: "https://amzn.to/2ThrvpX"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Fisher Space Pen"
+
+joby-griptight-pro-2:
+  name: "Joby GripTight PRO 2"
+  url: "https://amzn.to/2xY1PbB"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+crossen_tour:
+  name: "Book a Photo Tour at Crossen Palace"
+  label: "Book Photo Tour"
+  url: "https://www.go2know.de/fototouren/schloss-crossen/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Schloss Crossen"
+    region: "Thüringen"
+    country: "DE"
+
+darkroom-app:
+  name: "Darkroom: Photo & Video Editor"
+  url: "https://apps.apple.com/app/darkroom-photo-video-editor/id953286746"
+  shop: "App Store"
+  type: "MobileApplication"
+
+buy-the-lens-pen:
+  name: "buy the lens pen"
+  url: "https://amzn.to/2MnvKPx"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Lenspen"
+
+buy-the-phone-tether-tabs:
+  name: "buy the phone tether tabs"
+  url: "https://amzn.to/3UBPjWB"
+  shop: "Amazon"
+  type: "Product"
+
+joby-griptight-one:
+  name: "Joby GripTight ONE Mount"
+  url: "https://amzn.to/2UMbIid"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+joby-griptight-pro:
+  name: "Joby GripTight PRO Mount"
+  url: "https://amzn.to/2Ldfbqp"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+anker-powercore-slim-10000:
+  name: "Anker PowerCore II Slim 10.000 mAh Power Bank"
+  url: "http://amzn.to/2wJXzHr"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+field-notes-memo-books:
+  name: "Field Notes Memo Books"
+  url: "https://amzn.to/2u4CdI9"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Field Notes"
+
+fisher-space-pen-bullet:
+  name: "Fisher Space Pen Bullet"
+  url: "https://amzn.to/2Yrczqk"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Fisher Space Pen"
+
+fisher-space-pen-bullet-refills:
+  name: "Fisher Space Pen Bullet Refills"
+  url: "https://amzn.to/2YClpWg"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Fisher Space Pen"
+
+fisher-space-pen-with-stylus:
+  name: "Fisher Space Pen with Stylus"
+  url: "https://amzn.to/2ynLpWR"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Fisher Space Pen"
+
+get-the-sony-dsc-qx10:
+  name: "get the Sony DSC-QX10"
+  url: "https://amzn.to/2LRvCY4"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Sony"
+
+go2know-barockschloss-elster:
+  name: "Go2Know Tour: Barockschloss an der Elster"
+  url: "https://www.go2know.de/event/das-barockschloss-an-der-elster/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Schloss Crossen"
+    region: "Thüringen"
+    country: "DE"
+
+go2know-beelitz-heilstaetten:
+  name: "Go2Know Tour: Beelitz Heilstätten"
+  url: "https://www.go2know.de/event/beelitz-heilstaetten/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Beelitz-Heilstätten"
+    region: "Brandenburg"
+    country: "DE"
+
+go2know-das-alte-hubertusbad:
+  name: "Go2Know Tour: Das Alte Hubertusbad"
+  url: "https://www.go2know.de/event/das-alte-hubertusbad/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Altes Hubertusbad (Stadtbad Lichtenberg)"
+    region: "Berlin"
+    country: "DE"
+
+go2know-feintuchwerke-forst:
+  name: "Go2Know Tour: Feintuchwerke Forst"
+  url: "https://www.go2know.de/event/feintuchwerke-forst/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Feintuchwerke Forst"
+    region: "Brandenburg"
+    country: "DE"
+
+go2know-fliegerhorst-schoenwalde:
+  name: "Go2Know Tour: Verlassener Fliegerhorst Schönwalde"
+  url: "https://www.go2know.de/event/der-verlassene-fliegerhorst-bei-berlin/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Fliegerhorst Schönwalde"
+    region: "Brandenburg"
+    country: "DE"
+
+go2know-flugplatz-rangsdorf:
+  name: "Go2Know Tour: Alter Flugplatz Rangsdorf"
+  url: "https://www.go2know.de/event/der-alte-flugplatz-rangsdorf/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Flugplatz Rangsdorf"
+    region: "Brandenburg"
+    country: "DE"
+
+go2know-objekt-7001-bunker:
+  name: "Go2Know Tour: Objekt 7001 Bunker Freudenberg"
+  url: "https://www.go2know.de/event/objekt-7001/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Bunker Freudenberg (Objekt 7001)"
+    region: "Brandenburg"
+    country: "DE"
+
+go2know-papierfabrik-scheufelen:
+  name: "Go2Know Tour: Papierfabrik Scheufelen"
+  url: "https://www.go2know.de/event/die-papierfabrik-scheufelen/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Papierfabrik Scheufelen"
+    region: "Baden-Württemberg"
+    country: "DE"
+
+go2know-schloss-henriette:
+  name: "Go2Know Tour: Schloss Henriette"
+  url: "https://www.go2know.de/event/das-schloss-henriette/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Schloss Henriette"
+    region: "Sachsen-Anhalt"
+    country: "DE"
+
+go2know-stasi-haftkrankenhaus:
+  name: "Go2Know Tour: Stasi-Haftkrankenhaus Hohenschönhausen"
+  url: "https://www.go2know.de/event/stasi-haftkrankenhaus/"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Stasi-Haftkrankenhaus Berlin-Hohenschönhausen"
+    region: "Berlin"
+    country: "DE"
+
+go2know-tours:
+  name: "Go2Know Lost Place Tours"
+  url: "https://www.go2know.de"
+  shop: "Go2Know"
+  type: "TouristTrip"
+  provider:
+    name: "Go2Know"
+    url: "https://www.go2know.de"
+  touristType:
+    - "Photographers"
+    - "Urban Explorers"
+  location:
+    name: "Deutschland"
+    country: "DE"
+
+gonex-35l-foldable-backpack:
+  name: "Gonex 35L foldable backpack"
+  url: "https://amzn.to/2Nrdx2q"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Gonex"
+
+gorillapod-and-griptight-one-bundle:
+  name: "Gorillapod and Griptight One Bundle"
+  url: "https://amzn.to/30RaFST"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+gorillapod-magnetic:
+  label: "Joby GorillaPod Magnetic"
+  name: "Joby GorillaPod Magnetic"
+  url: "https://amzn.to/2rkvciJ"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+gorillapod-magnetic-mini:
+  name: "Gorillapod Magnetic Mini"
+  url: "https://amzn.to/35V3vAA"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+grip-without-remote-shutter-release:
+  name: "grip without remote shutter release, you can get it"
+  url: "https://amzn.to/4blpnG1"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Neewer"
+
+griptight-auto-vent-clip:
+  label: "Joby GripTight Auto Vent Clip"
+  name: "Joby GripTight Auto Vent Clip"
+  url: "https://amzn.to/3KDUWfj"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+halide-mark-ii-pro-camera-app:
+  name: "Halide Mark Ii Pro Camera"
+  url: "https://apps.apple.com/app/halide-mark-ii-pro-camera/id885697368"
+  shop: "App Store"
+  type: "MobileApplication"
+
+holafly-esim:
+  label: "Holafly eSIM"
+  name: "Holafly eSIM for Travelers"
+  url: "https://holafly.sjv.io/XmdrXb"
+  shop: "Holafly"
+  type: "Service"
+  serviceType: "Prepaid eSIM for International Travelers"
+  provider:
+    name: "Holafly"
+    url: "https://holafly.com"
+
+hydra-2-ai-camera-raw-hdr-app:
+  name: "Hydra 2 Ai Camera Raw Hdr"
+  url: "https://apps.apple.com/app/hydra-2-ai-camera-raw-hdr/id1575702881"
+  shop: "App Store"
+  type: "MobileApplication"
+
+ipad-mini-2021-e-g:
+  name: "iPad mini 2021 e.g.,"
+  url: "https://amzn.to/3D34Vau"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Apple"
+
+iphone-11:
+  name: "iPhone 11"
+  url: "https://amzn.to/2mwhBED"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Apple"
+
+iphone-11-pro-is-also:
+  name: "iPhone 11 pro is also available"
+  url: "https://amzn.to/2l5KCXm"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Apple"
+
+iphone-14-pro-max-renewed:
+  name: "iPhone 14 Pro Max (renewed) also"
+  url: "https://amzn.to/40vOm2g"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Apple"
+
+iphone-14-pro-renewed:
+  name: "iPhone 14 Pro (renewed)"
+  url: "https://amzn.to/40s7uhD"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Apple"
+
+joby-griptight-gorillapod:
+  name: "Joby GripTight GorillaPod"
+  url: "https://amzn.to/2Pj8lwX"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+joby-impulse-wireless-remote-shutter:
+  name: "Joby Impulse wireless remote shutter for a few bucks"
+  url: "https://amzn.to/2Gj1As3"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Joby"
+
+laimcall-magnetic-phone-holder-amazon:
+  name: "Laimcall Magnetic Phone Holder (Amazon)"
+  url: "https://amzn.to/3JGkSbr"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Lamicall"
+
+lens-air-blower:
+  name: "Camera Lens Air Blower"
+  url: "https://amzn.to/2SQWKbl"
+  shop: "Amazon"
+  type: "Product"
+
+lensflare-studio-mac-app:
+  name: "LensFlare Studio (Mac App Store)"
+  url: "https://apps.apple.com/app/lensflare-studio/id558397661?mt=12"
+  shop: "App Store"
+  type: "SoftwareApplication"
+
+lenslight-visual-effects-app:
+  name: "Lenslight Visual Effects"
+  url: "https://apps.apple.com/app/lenslight-visual-effects/id419518259"
+  shop: "App Store"
+  type: "MobileApplication"
+
+luminar-ki-bilder-bearbeiten-app:
+  name: "Luminar Ki Bilder Bearbeiten"
+  url: "https://apps.apple.com/app/luminar-ki-bilder-bearbeiten/id6476109261"
+  shop: "App Store"
+  type: "MobileApplication"
+
+moment-14mm-fisheye-lens:
+  label: "Moment 14mm Fisheye Lens"
+  name: "Moment 14mm Fisheye Lens (M-Series)"
+  url: "https://amzn.to/36FNkoQ"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Moment"
+  shops:
+    moment:
+      label: "Buy at Moment Store"
+      name: "Moment 14mm Fisheye Lens (M-Series)"
+      url: "https://moment.8ocm68.net/ncb-fisheye"
+      shop: "Moment"
+
+moment-15mm-fisheye-lens:
+  label: "Moment 15mm Fisheye Lens"
+  name: "Moment 15mm Fisheye Lens"
+  url: "https://amzn.to/2T8NyR7"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Moment"
+  shops:
+    moment:
+      label: "Buy at Moment Store"
+      name: "Moment 15mm Fisheye Lens"
+      url: "https://moment.8ocm68.net/ncb-fisheye-15"
+      shop: "Moment"
+
+moment-18mm-wide-lens:
+  label: "Moment 18mm Wide Lens"
+  name: "Moment 18mm Wide Lens"
+  url: "https://amzn.to/32of8wA"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Moment"
+  shops:
+    moment:
+      label: "Buy at Moment Store"
+      name: "Moment 18mm Wide Lens"
+      url: "https://moment.8ocm68.net/ncb-wide"
+      shop: "Moment"
+
+moment-58mm-tele-lens:
+  label: "Moment 58mm Tele Lens"
+  name: "Moment 58mm Tele Lens"
+  url: "https://amzn.to/2NqeuuY"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Moment"
+  shops:
+    moment:
+      label: "Buy at Moment Store"
+      name: "Moment 58mm Tele Lens"
+      url: "https://moment.8ocm68.net/ncb-tele"
+      shop: "Moment"
+
+moment-iphone-12-pro-max-case:
+  name: "Moment iPhone 12 Pro Max Case"
+  url: "https://moment.8ocm68.net/ncb-12promaxcase"
+  shop: "Moment"
+  type: "Product"
+  brand: "Moment"
+
+moment-magsafe-tripod-mount:
+  label: "Moment MagSafe Tripod Mount"
+  name: "Moment MagSafe Tripod Mount"
+  url: "https://partner.shopmoment.com/ncb-tripodmountmagsafe"
+  shop: "Moment"
+  type: "Product"
+  brand: "Moment"
+
+moment-pro-camera-app:
+  name: "Moment Pro Camera"
+  url: "https://apps.apple.com/app/moment-pro-camera/id927098908"
+  shop: "App Store"
+  type: "MobileApplication"
+
+mous-limitless-3-0-case:
+  name: "Mous Limitless 3.0 Case for iPhone 12 and iPhone 12 Pro directly"
+  url: "https://amzn.to/3kI97To"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Mous"
+
+mous-limitless-3-iphone-12-pro-max:
+  name: "Mous Limitless 3.0 Case for iPhone 12 Pro Max"
+  url: "https://amzn.to/3pEMLpA"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Mous"
+
+neewer-grip-with-remote-shutter:
+  name: "Neewer grip with remote shutter release is also available"
+  url: "https://amzn.to/3ERrsNo"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Neewer"
+
+neewer-iphone-cage-with-lens:
+  name: "Neewer iPhone cage with lens mount (for different iPhone models) directly"
+  url: "https://amzn.to/3CVH6qv"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Neewer"
+
+newer-powercore-model-with-even:
+  name: "newer PowerCore+ model with even faster charging"
+  url: "https://amzn.to/2pZrhWI"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+obscura-3-pro-camera-app:
+  name: "Obscura 3 Pro Camera"
+  url: "https://apps.apple.com/app/obscura-3-pro-camera/id1579306989"
+  shop: "App Store"
+  type: "MobileApplication"
+
+older-power-core-26800-mah:
+  name: "„older“ Power Core 26800 mAh model I have"
+  url: "https://amzn.to/2CSwM1W"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Anker"
+
+olight-magnetic-charging-cable:
+  name: "Olight magnetic charging cable"
+  url: "https://amzn.to/2qc8QSa"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Olight"
+
+olight-s1r-baton-i:
+  name: "Olight S1R Baton I"
+  url: "https://amzn.to/33KYGr3"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Olight"
+
+olight-s1r-baton-ii:
+  name: "Olight S1R Baton II"
+  url: "https://amzn.to/2KKJann"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Olight"
+
+olight-s30r-iii:
+  label: "Olight S30R III"
+  name: "Olight S30R III Flashlight"
+  url: "https://amzn.to/2IQ3lPk"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Olight"
+
+photomator-photo-editor-app:
+  name: "Photomator Photo Editor"
+  url: "https://apps.apple.com/app/photomator-photo-editor/id1444636541"
+  shop: "App Store"
+  type: "MobileApplication"
+
+pitch-black-field-notes-memo:
+  name: "Pitch Black Field Notes Memo Books"
+  url: "https://amzn.to/2Q7VrF3"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Field Notes"
+
+sandisk-ixpand-flash-drive:
+  name: "SanDisk iXpand Flash Drive"
+  url: "https://amzn.to/2cgqY24"
+  shop: "Amazon"
+  type: "Product"
+  brand: "SanDisk"
+
+procamera-app:
+  name: "ProCamera"
+  url: "https://apps.apple.com/app/procamera-professional-camera/id694647259"
+  shop: "App Store"
+  type: "MobileApplication"
+
+fisher-space-pen-cherry:
+  name: "Fisher Space Pen Bullet (Cherry Red)"
+  url: "https://amzn.to/2SR1YUs"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Fisher Space Pen"
+
+reeflex-pro-camera-app:
+  name: "Reeflex Pro Camera"
+  url: "https://apps.apple.com/app/reeflex-pro-camera/id1550960155"
+  shop: "App Store"
+  type: "MobileApplication"
+
+reeheld-long-exposure-camera-app:
+  name: "Reeheld Long Exposure Camera"
+  url: "https://apps.apple.com/app/reeheld-long-exposure-camera/id1667982131"
+  shop: "App Store"
+  type: "MobileApplication"
+
+reexpose-raw-long-exposure-app:
+  name: "Reexpose Raw Long Exposure"
+  url: "https://apps.apple.com/app/reexpose-raw-long-exposure/id1624485209"
+  shop: "App Store"
+  type: "MobileApplication"
+
+shoulderpod:
+  name: "ShoulderPod"
+  url: "https://amzn.to/2PxNfgF"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Shoulderpod"
+
+skrwt-app:
+  name: "Skrwt"
+  url: "https://apps.apple.com/app/skrwt/id834248867"
+  shop: "App Store"
+  type: "MobileApplication"
+
+slow-shutter-cam-app:
+  name: "Slow Shutter Cam"
+  url: "https://apps.apple.com/app/slow-shutter-cam/id357404131"
+  shop: "App Store"
+  type: "MobileApplication"
+
+smart-battery-case-for-the:
+  name: "Smart Battery Case for the iPhone 11 Pro"
+  url: "https://amzn.to/2YSXeTt"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Apple"
+
+smartphone-gloves:
+  name: "Touchscreen Smartphone Gloves"
+  url: "http://amzn.to/2jBmDxo"
+  shop: "Amazon"
+  type: "Product"
+
+snapseed-app:
+  name: "Snapseed"
+  url: "https://apps.apple.com/app/snapseed/id439438619"
+  shop: "App Store"
+  type: "MobileApplication"
+
+sony-qx1:
+  name: "Sony QX1"
+  url: "https://amzn.to/2xJTOUb"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Sony"
+
+sony-qx100:
+  name: "Sony QX100"
+  url: "https://amzn.to/2XI2mFv"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Sony"
+
+spectre-camera-app:
+  name: "Spectre Camera"
+  url: "https://apps.apple.com/app/spectre-camera/id1450074595"
+  shop: "App Store"
+  type: "MobileApplication"
+
+sun-surveyor-sun-moon-app:
+  name: "Sun Surveyor Sun Moon"
+  url: "https://apps.apple.com/app/sun-surveyor-sun-moon/id525176875"
+  shop: "App Store"
+  type: "MobileApplication"
+
+superimpose-app:
+  name: "Superimpose"
+  url: "https://apps.apple.com/app/superimpose/id435913585"
+  shop: "App Store"
+  type: "MobileApplication"
+
+touchretouch-app:
+  name: "Touchretouch"
+  url: "https://apps.apple.com/app/touchretouch/id373311252"
+  shop: "App Store"
+  type: "MobileApplication"
+
+touchretouch-mac-app:
+  name: "TouchRetouch for Mac"
+  url: "https://apps.apple.com/app/touchretouch/id671595950"
+  shop: "App Store"
+  type: "SoftwareApplication"
+
+vijim-vl120-rgb-light:
+  name: "VIJIM VL120 RGB Photo Light"
+  url: "https://amzn.to/3ZLam8X"
+  shop: "Amazon"
+  type: "Product"
+  brand: "VIJIM"
+
+moment-photo-case:
+  label: "Moment Photo Case"
+  name: "Moment Photo Case"
+  url: "https://partner.shopmoment.com/ncb-moment-phone-cases"
+  shop: "ShopMoment"
+  type: "Product"
+  brand: "Moment"
+
+rollei-compact-carbon-tripod:
+  label: "Rollei Compact Carbon Tripod"
+  name: "Rollei Compact No. 1 Traveller Carbon Tripod"
+  url: "https://amzn.to/31RWs8t"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Rollei"
+
+osprey-farpoint-40:
+  label: "Osprey Farpoint 40"
+  name: "Osprey Farpoint 40 Carry-On Backpack"
+  url: "https://amzn.to/36jKdp5"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Osprey"
+
+wuben-x1-falcon:
+  label: "Wuben X1 Falcon"
+  name: "Wuben X1 Falcon 12000 Lumens Tactical Flashlight"
+  url: "https://amzn.to/455mJzj"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Wuben"
+  shops:
+    wuben:
+      label: "directly from Wubenlight"
+      name: "Wuben X1 Falcon 12000 Lumens Tactical Flashlight"
+      url: "https://www.wubenlight.com/products/wuben-x1-small-and-powerful-ecl-flashlight-12000-lumens?ref=341vgjo7"
+      shop: "Wuben"
+
+roxon-flex-companion:
+  label: "Roxon Flex Companion"
+  name: "Roxon Flex Companion Modular Multitool"
+  url: "https://amzn.to/4jc6Bmo"
+  shop: "Amazon"
+  type: "Product"
+  brand: "Roxon"
+
+
+

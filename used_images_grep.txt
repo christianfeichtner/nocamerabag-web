@@ -1,0 +1,926 @@
+content/_index.md:      src: "images/cityscapes/germany/photo-spots-cologne-cathedral.jpeg"
+content/_index.md:      src: "images/misc/profile-photo-chris-feichtner.jpeg"
+content/_index.md:      src: "images/cityscapes/scotland/photo-spots-scotland-lossiemouth-light-tower.jpeg"
+content/about/_index.md:      src: "images/cityscapes/austria/linz-austria-fireworks-1.jpeg"
+content/about/_index.md:      src: "images/misc/profile-photo-chris-feichtner.jpeg"
+content/about/_index.md:      src: "images/shot-on-film/maldives-palm-tree-shon-on-film.jpeg"
+content/about/_index.md:      - src: "images/shot-on-film/clownfish-shot-on-film.jpeg"
+content/about/_index.md:      - src: "images/shot-on-film/pike-erlaufsee-austria.jpeg"
+content/about/_index.md:      - src: "images/shot-on-film/coral-red-sea-eilat-shot-on-film.jpeg"
+content/about/_index.md:      src: "images/concert/shaggy-concert-vienna.jpeg"
+content/about/_index.md:      - src: "images/concert/shaggy-concert-vienna.jpeg"
+content/about/_index.md:      - src: "images/concert/kris-nu-pagadi-concert-vienna.jpeg"
+content/about/_index.md:      - src: "images/concert/christina-stuermer-concert-vienna.jpeg"
+content/about/_index.md:      src: "/images/iphone-photography/usa/best-camera-apps-iphone.webp"
+content/about/_index.md:      - src: "/images/cityscapes/slovakia/inverted-pyramid-building-bratislava-bw.jpg"
+content/about/_index.md:      - src: "/images/lost-places/germany/car-graveyard-neandertal.jpeg"
+content/about/_index.md:      - src: "images/landscapes/ireland/gleninchaquin-waterfall-ireland.jpeg"
+content/about/_index.md:      src: "images/lost-places/germany/beelitz-hospitals-dentist-chair.jpeg"
+content/about/_index.md:      - src: "images/lost-places/ukraine/gas-mask-chernobyl-ukraine.jpeg"
+content/about/_index.md:      - src: "images/lost-places/germany/abandoned-townbath-berlin.jpeg"
+content/about/_index.md:      - src: "images/lost-places/usa/cook-bank-building-rhyolite-nevada.jpeg"
+content/blog/castle-ruins-lower-austria.md:  image: /images/lost-places/austria/castle-ruin-aggstein.webp
+content/blog/castle-ruins-lower-austria.md:![Castle Ruin Dürnstein](/images/lost-places/austria/castle-ruin-durnstein.webp)
+content/blog/castle-ruins-lower-austria.md:![Castle Ruin Aggstein](/images/lost-places/austria/castle-ruin-aggstein.webp)
+content/blog/castle-ruins-lower-austria.md:![Castle Ruin Hinterhaus](/images/lost-places/austria/castle-ruin-hinterhaus.webp)
+content/blog/castle-ruins-lower-austria.md:![Castle Ruin Plankenstein](/images/lost-places/austria/castle-ruin-plankenstein.webp)
+content/blog/castle-ruins-lower-austria.md:![Castle Ruin Kollmitz](/images/lost-places/austria/castle-ruin-kollmitz.webp)
+content/blog/castle-ruins-lower-austria.md:![Castle Ruin Schauenstein](/images/lost-places/austria/castle-ruin-schauenstein.webp)
+content/blog/castle-ruins-lower-austria.md:![Castle Kreuzenstein](/images/lost-places/austria/castle-kreuzenstein.webp)
+content/blog/cec-palace-bucharest-workflow.md:  image: /images/tutorials/romania/cec-palace-bucharest-workflow.webp
+content/blog/cec-palace-bucharest-workflow.md:![CEC Palace in Bucharest, Romania, shot on iPhone 6s Plus](/images/tutorials/romania/cec-palace-in-bucharest-romania-shot-on-iphone-6s-plus.webp)
+content/blog/classic-car-graveyard-germany.md:![Remains of a white Jaguar XK120](/images/lost-places/germany/car-graveyard-jaguar-xk120.webp)
+content/blog/classic-car-graveyard-germany.md:![Two classic cars with major accidents: an Oldsmobile 88 (left) and a Moskvitch 400-420 (right)](/images/lost-places/germany/car-graveyard-oldsmobile-88-and-moskvitch-400.webp)
+content/blog/classic-car-graveyard-germany.md:![A Chevrolet Fleetline at the car graveyard in Germany](/images/lost-places/germany/car-graveyard-chevrolet-fleetline.webp)
+content/blog/classic-car-graveyard-germany.md:![Open door and smashed window of a Buick Super](/images/lost-places/germany/car-graveyard-chevrolet-styleline.webp)
+content/blog/classic-car-graveyard-germany.md:![Citroen Traction Avant at its final parking position at the classic car graveyard in Germany](/images/lost-places/germany/car-graveyard-citroen-traction-avant.webp)
+content/blog/classic-car-graveyard-germany.md:![A Ford pickup decaying](/images/lost-places/germany/car-graveyard-ford-pickup.webp)
+content/blog/classic-car-graveyard-germany.md:![Porsche 356 at the classic car graveyard “Auto-Skulpturen-Park, Neanderthal”](/images/lost-places/germany/car-graveyard-porsche-356.webp)
+content/blog/create-an-hdr-from-bracketed-shots-using-an-iphone-or-ipad.md:  image: /images/tutorials/usa/create-an-hdr-from-bracketed-shots-using-an-iphone.webp
+content/blog/create-an-hdr-from-bracketed-shots-using-an-iphone-or-ipad.md:![](/images/tutorials/usa/create-an-hdr-from-bracketed-shots-using-an-iphone.webp)
+content/blog/create-an-hdr-from-bracketed-shots-using-an-iphone-or-ipad.md:![](/images/tutorials/usa/adjust-hdr-pro-hdr.webp)
+content/blog/devin-castle-ruin-bratislava.md:  image: /images/lost-places/slovakia/7ae0b901-7d97-46db-8bf3-b0062d6e602e.webp
+content/blog/devin-castle-ruin-bratislava.md:![Devin Castle on the top of a small hill](/images/lost-places/slovakia/devin-castle-on-the-top-of-a-small-hill.webp)
+content/blog/devin-castle-ruin-bratislava.md:![Landmark of Devin Castle](/images/lost-places/slovakia/landmark-of-devin-castle.webp)
+content/blog/devin-castle-ruin-bratislava.md:![Small Watchtower of Devin Castle](/images/lost-places/slovakia/small-watchtower-of-devin-castle.webp)
+content/blog/essential-photo-composition-techniques.md:  image: /images/tutorials/general/statue-of-liberty-new-york.webp
+content/blog/essential-photo-composition-techniques.md:![Example of a photo containing a foreground, middle ground and background](/images/tutorials/general/uncropped-photo-statue-of-liberty.webp)
+content/blog/essential-photo-composition-techniques.md:![](/images/tutorials/general/rule-of-thirds-new-york.webp)
+content/blog/essential-photo-composition-techniques.md:![Example of the framing technique in photography](/images/tutorials/usa/fountains-bellagio-window.webp)
+content/blog/essential-photo-composition-techniques.md:![Light as leading lines and frame to highlight the main subject](/images/tutorials/general/light-as-a-guideing-line.webp)
+content/blog/filming-location-a-cure-for-wellness.md:  image: /images/iphone-photography/general/why-i-love-the-square-photo-format-5.webp
+content/blog/filming-location-a-cure-for-wellness.md:![Film Location of A Cure for Wellness decaying](/images/lost-places/germany/film-location-of-a-cure-for-wellness-decaying.webp)
+content/blog/filming-location-a-cure-for-wellness.md:![Someone knocked a bit too hard at Beelitz?](/images/lost-places/germany/someone-knocked-a-bit-too-hard-at-beelitz.webp)
+content/blog/filming-location-a-cure-for-wellness.md:![Communal Water Tap as seen in the film](/images/lost-places/germany/communal-water-tap-as-seen-in-the-film.webp)
+content/blog/filming-location-a-cure-for-wellness.md:![At the end of the film, this hall burns down.](/images/lost-places/germany/at-the-end-of-the-film-this-hall-burns-down.webp)
+content/blog/filming-location-a-cure-for-wellness.md:![Bathhouse seen in A Cure for Wellness](/images/lost-places/germany/bathhouse-seen-in-a-cure-for-wellness.webp)
+content/blog/filming-location-a-cure-for-wellness.md:![Hospital Entrance Hall seen in A Cure for Wellness](/images/lost-places/germany/hospital-entrance-hall-seen-in-a-cure-for-wellness.webp)
+content/blog/filming-locations-in-vienna-castle-kreuzenstein.md:  image: /images/lost-places/austria/castle-kreuzenstein-1.webp
+content/blog/filming-locations-in-vienna-castle-kreuzenstein.md:![Castle Kreuzenstein as seen in the film “The last Witch” at minute 14:53](/images/lost-places/austria/castle-kreuzenstein-as-seen-in-the-film-the-last-witch-at.webp)
+content/blog/filming-locations-in-vienna-castle-kreuzenstein.md:![Castle moat at Castle Kreuzenstein](/images/lost-places/austria/castle-moat-at-castle-kreuzenstein.webp)
+content/blog/filming-locations-in-vienna-castle-kreuzenstein.md:![Determining best light using Sun Surveyor App](/images/lost-places/austria/determining-best-light-using-sun-surveyor-app.webp)
+content/blog/filming-locations-in-vienna-castle-kreuzenstein.md:![Castle Gate at Kreuzenstein shot on Moment](/images/lost-places/austria/castle-gate-at-kreuzenstein-shot-on-moment.webp)
+content/blog/fisher-space-pen-bullet-review.md:  image: /images/reviews/usa/fisher-space-pen-teaser.webp
+content/blog/fisher-space-pen-bullet-review.md:![Fisher Bullet Space Pens I use with my current Field Notes Travel Journal](/images/reviews/usa/fisher-bullet-space-pens-i-use-with-my-current-field-notes-t.webp)
+content/blog/fisher-space-pen-bullet-review.md:![Bullet Space Pen size comparison (from l.t.r.): With cap on the back, normal click pen, with cap closed.](/images/reviews/usa/bullet-space-pen-size-comparison-from-l-t-r-with-cap-on.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:  image: /images/iphone-photography/general/how-to-fix-perspective-distortion-iphon-e.webp
+content/blog/fix-perspective-distortions-iphone-apps.md:![Example of vertical perspective distortion: Converging Lines](/images/iphone-photography/general/example-of-vertical-perspective-distortion-converging-lines.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Example of horizontal perspective distortion](/images/iphone-photography/general/example-of-horizontal-perspective-distortion.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Example of barrel distortion from a Fisheye Lens](/images/iphone-photography/general/example-of-barrel-distortion-from-a-fisheye-lens.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Fix barrel distortion in SKRWT App](/images/iphone-photography/general/fix-barrel-distortion-in-skrwt-app.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Fixing different kinds of perspective distortions in Adobe Lightroom Mobile](/images/iphone-photography/general/fixing-different-kinds-of-perspective-distortions-in-adobe-l.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Fixing perspective distortion in Photos App without re-cropping.](/images/iphone-photography/general/fixing-perspective-distortion-in-photos-app-without-re-cropp.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Resolution of photo with perspective correction and no re-cropping.](/images/iphone-photography/general/resolution-of-photo-with-perspective-correction-and-no-re-cr.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Fixing perspective distortion in Photos App with re-cropping applied.](/images/iphone-photography/general/fixing-perspective-distortion-in-photos-app-with-re-cropping.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Resolution of a photo with perspective correction applied and re-cropped.](/images/iphone-photography/general/resolution-of-a-photo-with-perspective-correction-applied-an.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![How to use perspective correction in Photos Apps](/images/iphone-photography/general/how-to-use-perspective-correction-in-photos-apps.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![](/images/iphone-photography/general/fix-perspective-distortions-iphone-apps.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Using the transformation tool to fix perspective distortions in Photoshop on iPad](/images/iphone-photography/general/using-the-transformation-tool-to-fix-perspective-distortions.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Use the free-form transformation tool to fix perspective distortions on Photoshop iPad](/images/iphone-photography/general/use-the-free-form-transformation-tool-to-fix-perspective-dis.webp)
+content/blog/fix-perspective-distortions-iphone-apps.md:![Perspective Correction in Photoshop Express](/images/iphone-photography/general/perspective-correction-photoshop-express.webp)
+content/blog/flak-towers-vienna-photo-spots.md:    image: "/images/cityscapes/austria/the-vienna-aquarium-was-built-inside-and-around-a-former-lea.webp"
+content/blog/flak-towers-vienna-photo-spots.md:    image: "/images/cityscapes/austria/the-lead-tower-at-augarten-can-you-spot-the-people.webp"
+content/blog/flak-towers-vienna-photo-spots.md:    image: "/images/cityscapes/austria/the-combat-flak-tower-at-augarten-notice-the-cables-around.webp"
+content/blog/flak-towers-vienna-photo-spots.md:    image: "/images/cityscapes/austria/the-lead-flak-tower-at-arenabergpark-in-vienna.webp"
+content/blog/flak-towers-vienna-photo-spots.md:    image: "/images/cityscapes/austria/the-combat-flak-tower-at-arenabergpark-in-vienna.webp"
+content/blog/flak-towers-vienna-photo-spots.md:![The Vienna Aquarium was built inside and around a former lead flak tower](/images/cityscapes/austria/the-vienna-aquarium-was-built-inside-and-around-a-former-lea.webp)
+content/blog/flak-towers-vienna-photo-spots.md:![The lead tower at Augarten. Can you spot the people?](/images/cityscapes/austria/the-lead-tower-at-augarten-can-you-spot-the-people.webp)
+content/blog/flak-towers-vienna-photo-spots.md:![The combat flak tower at Augarten. Notice the cables around the top](/images/cityscapes/austria/the-combat-flak-tower-at-augarten-notice-the-cables-around.webp)
+content/blog/flak-towers-vienna-photo-spots.md:![The lead flak tower at Arenabergpark in Vienna](/images/cityscapes/austria/the-lead-flak-tower-at-arenabergpark-in-vienna.webp)
+content/blog/flak-towers-vienna-photo-spots.md:![The combat flak tower at Arenabergpark in Vienna](/images/cityscapes/austria/the-combat-flak-tower-at-arenabergpark-in-vienna.webp)
+content/blog/ghost-effect-with-iphone-workflow.md:  image: /images/tutorials/general/ghost-effect-with-iphone-workflow.webp
+content/blog/ghost-effect-with-iphone-workflow.md:![The Ghost Train; (cc) by-nc squics.com.](/images/tutorials/general/the-ghost-train-cc-by-nc-squics-com.webp)
+content/blog/ghost-effect-with-iphone-workflow.md:![Settings for motion blur in Slow Shutter Cam App](/images/tutorials/general/slow-shuttercam-app-settings-ghost-train-photo.webp)
+content/blog/ghost-effect-with-iphone-workflow.md:![Adjusting the motion blur effect in Slow Shutter Cam App](/images/tutorials/adjust-freeze-slow-shutter-cam-app.webp)
+content/blog/ghost-effect-with-iphone-workflow.md:![Each light effect is a single layer in Lenslight](/images/tutorials/general/each-light-effect-is-a-single-layer-in-lenslight.webp)
+content/blog/ghost-effect-with-iphone-workflow.md:![First headlight added in Lenslight](/images/tutorials/general/first-headlight-added-in-lenslight.webp)
+content/blog/ghost-effect-with-iphone-workflow.md:![Converting the final photo to black and white with iOS8](/images/tutorials/general/converting-the-final-photo-to-black-and-white-with-ios8.webp)
+content/blog/ghost-towns-chernobyl-exclusion-zone.md:  image: /images/lost-places/ukraine/childrens-sleeping-room-in-chernobyl.webp
+content/blog/ghost-towns-chernobyl-exclusion-zone.md:![Sleeping Room in a residential building in Zalyssia](/images/lost-places/ukraine/sleeping-room-in-a-residential-building-in-zalyssia.webp)
+content/blog/ghost-towns-chernobyl-exclusion-zone.md:![Broken Windows in Zalyssia in the Chernobyl Exclusion Zone](/images/lost-places/ukraine/broken-windows-in-zalyssia-in-the-chernobyl-exclusion-zone.webp)
+content/blog/ghost-towns-chernobyl-exclusion-zone.md:![Abandoned Palace of Culture in Zalyssia](/images/lost-places/ukraine/abandoned-palace-of-culture-in-zalyssia.webp)
+content/blog/ghost-towns-chernobyl-exclusion-zone.md:![High radiation area in the Chernobyl Exclusion Zone](/images/lost-places/ukraine/high-radiation-area-in-the-chernobyl-exclusion-zone.webp)
+content/blog/ghost-towns-chernobyl-exclusion-zone.md:![Children’s Sleeping Room in Chernobyl](/images/lost-places/ukraine/childrens-sleeping-room-in-chernobyl.webp)
+content/blog/ghost-towns-chernobyl-exclusion-zone.md:![Exploded Reactor in Chernobyl](/images/lost-places/ukraine/exploded-reactor-in-chernobyl.webp)
+content/blog/ghost-towns-chernobyl-exclusion-zone.md:![Last Sight before leaving Chernobyl](/images/lost-places/ukraine/last-photo-chernobyl.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:  image: /images/tutorials/general/tutorial-high-key-edit-lightroom-mobile.webp
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![High-Key edit of an abandoned ballroom.](/images/tutorials/general/abandoned-ballroom-high-key.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![A face with a High-Key edit applied.](/images/tutorials/general/facade-vienna-high-key-edit.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![A High-Key edit take in a library in Vienna.](/images/tutorials/general/library-university-of-economics-vienna-high-key.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![The unedited photo of the library in Stuttgart](/images/tutorials/general/high-key-lightroom-step-0.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![Increasing Whites is the first step for a High-Key edit in Lightroom](/images/tutorials/general/high-key-lightroom-step-1.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![Increase the Blacks](/images/tutorials/general/high-key-lightroom-step-2.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![Lifting the shadows is a great way to improve a high key edit](/images/tutorials/general/high-key-lightroom-step-3.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![Adding haze is the secret sauce for a high-key photo edit](/images/tutorials/general/high-key-lightroom-step-4.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![Desaturate more colors for a high key look](/images/tutorials/general/high-key-lightroom-step-5.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![Fix dedicated areas using masks](/images/tutorials/general/high-key-lightroom-step-6.webp)
+content/blog/high-key-edit-lightroom-mobile-tutorial.md:![Final high-key edit of the Library in Stuttgart](/images/tutorials/general/stuttgart-library-high-key.webp)
+content/blog/hiking-down-schafberg-mountain.md:![View from Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/view-from-schafberg-mountain-shot-on-iphone-7-plus.webp)
+content/blog/hiking-down-schafberg-mountain.md:![View on your hike down from Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/view-on-your-hike-down-from-schafberg-mountain-shot-on-ipho.webp)
+content/blog/hiking-down-schafberg-mountain.md:![Railroad Cog bringing the next bunch of hikers. Shot on iPhone 7 Plus](/images/landscapes/austria/railroad-cog-bringing-the-next-bunch-of-hikers-shot-on-ipho.webp)
+content/blog/hiking-down-schafberg-mountain.md:![Time to take a rest at Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/time-to-take-a-rest-at-schafberg-mountain-shot-on-iphone-7.webp)
+content/blog/hiking-down-schafberg-mountain.md:![For the last hour, be prepared to hike here. Shot on iPhone 7 Plus](/images/landscapes/austria/for-the-last-hour-be-prepared-to-hike-here-shot-on-iphone.webp)
+content/blog/hiking-liechtensteinklamm.md:  image: /images/landscapes/austria/liechtensteinklamm-1.webp
+content/blog/hiking-liechtensteinklamm.md:![Waterfall at the end of the hike through Liechtensteinklamm](/images/landscapes/austria/waterfall-at-the-end-of-the-hike-through-liechtensteinklamm.webp)
+content/blog/hiking-liechtensteinklamm.md:![Wooden walkways lead through the gorge](/images/landscapes/austria/wooden-walkways-lead-through-the-gorge.webp)
+content/blog/hiking-liechtensteinklamm.md:![Careful. Walkways can be slippery.](/images/landscapes/austria/careful-walkways-can-be-slippery.webp)
+content/blog/hiking-liechtensteinklamm.md:![Entrance to Liechtensteinklamm](/images/landscapes/austria/entrance-to-liechtensteinklamm.webp)
+content/blog/hiking-oetscher-gorge.md:  image: /images/landscapes/austria/08653c16-5190-4878-ab57-c2029c8adfd8.webp
+content/blog/hiking-oetscher-gorge.md:![Footbridge over the Ötscher Creek](/images/landscapes/austria/footbridge-oetscher-gorge.webp)
+content/blog/hiking-oetscher-gorge.md:![Hiking down into the Ötscher Gorge](/images/landscapes/austria/hiking-down-oetscher-gorge.webp)
+content/blog/hiking-oetscher-gorge.md:![Bottom of the Ötscher Gorge](/images/landscapes/austria/bottom-oetscher-gorge.webp)
+content/blog/hiking-oetscher-gorge.md:![Waterfall at the Ötscher Gorge](/images/landscapes/austria/waterfall-oetscher-gorge.webp)
+content/blog/hiking-rock-city-czech-republic.md:![Rock Formation; (cc) by-nc squics.com](/images/landscapes/czech-republic/hiking-rock-city-czech-republic.webp)
+content/blog/hiking-rock-city-czech-republic.md:![Rock City; (cc) by-nc squics.com](/images/landscapes/czech-republic/rock-city-czech-republic-2.webp)
+content/blog/hiking-rock-city-czech-republic.md:![The huge rock; (cc) by-nc squics.com](/images/landscapes/czech-republic/huge-stone-rock-city.webp)
+content/blog/hiking-rock-city-czech-republic.md:![The Gate; (cc) by-nc squics.com](/images/landscapes/czech-republic/the-gate-cc-by-nc-squics-com.webp)
+content/blog/hiking-rock-city-czech-republic.md:![Wooden Stairs; (cc) by-nc squics.com](/images/landscapes/czech-republic/stairs-rock-city-czech-republic.webp)
+content/blog/hiking-rock-city-czech-republic.md:![Narrow and Tall; (cc) by-nc squics.com](/images/landscapes/czech-republic/narrow-and-tall-cc-by-nc-squics-com.webp)
+content/blog/holafly-esim-review.md:  image: /images/reviews/general/holafly-esim-review-teaser.webp
+content/blog/holafly-esim-review.md:![Add the Holafly eSim by tapping add eSim in the cellular settings on your iPhone](/images/reviews/general/add-esim-iphone.webp)
+content/blog/holafly-esim-review.md:![Chose the option Use QR Code and take a photo of the eSim QR Code received via eMail.](/images/reviews/general/add-esim-using-qrcode-iphone.webp)
+content/blog/holafly-esim-review.md:![Enable the Holafly eSim at the destination](/images/reviews/general/turn-on-line-iphone.webp)
+content/blog/holafly-esim-review.md:![Set the cellular data to use your Holafly eSim](/images/reviews/general/select-data-sim-iphone.webp)
+content/blog/how-to-add-lights-and-light-effects.md:  image: /images/tutorials/usa/how-to-add-lights-and-light-effects-2.webp
+content/blog/how-to-add-lights-and-light-effects.md:![](/images/tutorials/usa/how-to-add-lights-and-light-effects-2.webp)
+content/blog/how-to-add-lights-and-light-effects.md:![](/images/tutorials/usa/how-to-add-lights-and-light-effects-3.webp)
+content/blog/how-to-add-lights-and-light-effects.md:![](/images/tutorials/usa/how-to-add-lights-and-light-effects-4.webp)
+content/blog/how-to-add-lights-and-light-effects.md:![](/images/tutorials/usa/how-to-add-lights-and-light-effects-5.webp)
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:  image: /images/tutorials/general/how-to-change-the-color-of-water-with-lightroom-mobile.webp
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:![Original shot I took in New York. The color of the water needs some adjustment](/images/tutorials/general/original-shot-i-took-in-new-york-the-color-of-the-water-nee.webp)
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:![Color of water adjusted](/images/tutorials/general/color-of-water-adjusted.webp)
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:![Tap to enter selective adjustments mode](/images/tutorials/general/tap-to-enter-selective-adjustments-mode.webp)
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:![Three options for selective adjustments](/images/tutorials/general/three-options-for-selective-adjustments.webp)
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:![Set brush size and feathering](/images/tutorials/general/set-brush-size-and-feathering.webp)
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:![Paint to select the area for which you want to change the color](/images/tutorials/general/paint-to-select-the-area-for-which-you-want-to-change-the-co.webp)
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:![Ooops! Use eraser to correct mistakes when selecting an area](/images/tutorials/general/ooops-use-eraser-to-correct-mistakes-when-selecting-an-area.webp)
+content/blog/how-to-change-the-color-of-water-lightroom-mobile.md:![Select any color you like](/images/tutorials/general/select-any-color-you-like.webp)
+content/blog/how-to-convert-to-black-and-white-in-lightroom-mobile.md:  image: /images/tutorials/general/how-to-convert-black-and-white-lightroom.webp
+content/blog/how-to-convert-to-black-and-white-in-lightroom-mobile.md:![Black and White Photo of modern Architecture in Vienna](/images/tutorials/general/black-and-white-photo-of-modern-architecture-in-vienna.webp)
+content/blog/how-to-convert-to-black-and-white-in-lightroom-mobile.md:![The Saxophone Player looks so much better in Black and White](/images/tutorials/usa/saxophone-player-leading-lines.webp)
+content/blog/how-to-convert-to-black-and-white-in-lightroom-mobile.md:![Inverted Pyramid in Bratislava converted to Black and White](/images/tutorials/general/inverted-pyramid-in-bratislava-converted-to-black-and-white.webp)
+content/blog/how-to-convert-to-black-and-white-in-lightroom-mobile.md:![](/images/tutorials/general/how-to-convert-to-black-and-white-in-lightroom-mob.webp)
+content/blog/how-to-convert-to-black-and-white-in-lightroom-mobile.md:![](/images/tutorials/general/how-to-convert-to-black-and-white-in-lightroom-mob-2.webp)
+content/blog/how-to-convert-to-black-and-white-in-lightroom-mobile.md:![](/images/tutorials/general/how-to-convert-to-black-and-white-in-lightroom-mob-3.webp)
+content/blog/how-to-create-a-faux-moving-clouds-effect-on-ipad.md:  image: /images/tutorials/general/how-to-create-a-moving-clouds-effect-photoshop-touch-ipad.webp
+content/blog/how-to-create-a-faux-moving-clouds-effect-on-ipad.md:![](/images/tutorials/general/how-to-create-a-faux-moving-clouds-effect-on-ipad.webp)
+content/blog/how-to-create-a-faux-moving-clouds-effect-on-ipad.md:![](/images/tutorials/general/how-to-create-a-faux-moving-clouds-effect-on-ipad-2.webp)
+content/blog/how-to-create-a-faux-moving-clouds-effect-on-ipad.md:![Final black and white photo with faux moving clouds effect](/images/tutorials/how-to-create-a-faux-moving-clouds-effect-on-ipad.webp "Final black and white photo with faux moving clouds effect.")
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:  image: /images/tutorials/general/create-a-reflection-superimposex-tutorial.webp
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![Duplicate Layer in SuperimposeX App](/images/tutorials/general/duplicate-layer-in-superimposex-app.webp)
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![Hiding a Layer in SuperimposeX App](/images/tutorials/general/hiding-a-layer-in-superimposex-app.webp)
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![](/images/tutorials/general/how-to-create-a-water-reflection-with-superimposex.webp)
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![Creating a mask in SuperimposeX App](/images/tutorials/general/creating-a-mask-in-superimposex-app.webp)
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![Flip a Layer in SuperimposeX App](/images/tutorials/general/flip-a-layer-in-superimposex-app.webp)
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![Moving a Layer in SuperimposeX App](/images/tutorials/general/moving-a-layer-in-superimposex-app.webp)
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![Applying adjustments to a Layer in SuperimposeX app](/images/tutorials/general/applying-adjustments-to-a-layer-in-superimposex-app.webp)
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![Applying blue to make the reflection look more realsistic](/images/tutorials/general/applying-blue-to-make-the-reflection-look-more-realsistic.webp)
+content/blog/how-to-create-a-water-reflection-with-superimposex.md:![Adulting the strength of the blur](/images/tutorials/general/adulting-the-strength-of-the-blur.webp)
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:  image: /images/tutorials/general/selective-coloring-pixelmator-ios-hero-shot.webp
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:![](/images/tutorials/general/how-to-do-selective-coloring-with-pixelmator-ios.webp)
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:![](/images/tutorials/general/how-to-do-selective-coloring-with-pixelmator-ios-2.webp)
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:![](/images/tutorials/general/how-to-do-selective-coloring-with-pixelmator-ios-3.webp)
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:![](/images/tutorials/general/how-to-do-selective-coloring-with-pixelmator-ios-4.webp)
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:![](/images/tutorials/general/how-to-do-selective-coloring-with-pixelmator-ios-5.webp)
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:![](/images/tutorials/general/how-to-do-selective-coloring-with-pixelmator-ios-6.webp)
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:![](/images/tutorials/general/how-to-do-selective-coloring-with-pixelmator-ios.webp)
+content/blog/how-to-do-selective-coloring-with-pixelmator-ios.md:![](/images/tutorials/general/how-to-do-selective-coloring-with-pixelmator-ios-7.webp)
+content/blog/how-to-edit-videos-lightroom-mobile.md:  image: /images/tutorials/general/video-editing-lightroom-mobile-teaser.webp
+content/blog/how-to-edit-videos-lightroom-mobile.md:![Importing a video into Lightroom mobile - step 1](/images/tutorials/general/import-video-lightroom-mobile.webp)
+content/blog/how-to-edit-videos-lightroom-mobile.md:![Importing a video into Lightroom mobile - step 2](/images/tutorials/general/select-video-import-lightroom.webp)
+content/blog/how-to-edit-videos-lightroom-mobile.md:![Videos will display a filmstrip icon in Lightroom mobile](/images/tutorials/general/icon-imported-video-lightroom.webp)
+content/blog/how-to-edit-videos-lightroom-mobile.md:![Only some adjustments are enabled for video editing in Lightroom mobile](/images/tutorials/general/adjustments-for-video-editing-lightroom.webp)
+content/blog/how-to-edit-videos-lightroom-mobile.md:![Trimming a video in Lightroom mobile](/images/tutorials/general/trim-video-lightroom-mobile.webp)
+content/blog/how-to-edit-videos-lightroom-mobile.md:![Rotating a video in Lightroom mobile](/images/tutorials/general/rotate-video-lightroom-mobile.webp)
+content/blog/how-to-edit-videos-lightroom-mobile.md:![Applying a preset to a video in Lightroom mobile](/images/tutorials/general/presets-video-lightroom-mobile.webp)
+content/blog/how-to-find-your-places-and-lists-from-google-trips-in-google-maps.md:  image: /images/tutorials/general/google-trips-to-google-maps-teaser.webp
+content/blog/how-to-find-your-places-and-lists-from-google-trips-in-google-maps.md:![Save Places feature from Google Trips in Google Maps.](/images/tutorials/general/save-places-feature-from-google-trips-in-google-maps.webp)
+content/blog/how-to-find-your-places-and-lists-from-google-trips-in-google-maps.md:![Find Saved Places in Google Maps app under Your Places.](/images/tutorials/general/find-saved-places-in-google-maps-app-under-your-places.webp)
+content/blog/how-to-find-your-places-and-lists-from-google-trips-in-google-maps.md:![Tap saved to access the lists containing saved places from Google Trips in Google Maps](/images/tutorials/general/tap-saved-to-access-the-lists-containing-saved-places-from-g.webp)
+content/blog/how-to-find-your-places-and-lists-from-google-trips-in-google-maps.md:![Past trips from Google Trips is available under https://google.com/travel](/images/tutorials/general/past-trips-from-google-trips-is-available-under-https-goog.webp)
+content/blog/how-to-get-a-nice-bokeh-with-the-iphone-camera.md:  image: /images/iphone-photography/general/how-to-get-a-nice-bokeh-with-the-iphone-camera.webp
+content/blog/how-to-get-a-nice-bokeh-with-the-iphone-camera.md:![](/images/iphone-photography/general/how-to-get-a-nice-bokeh-with-the-iphone-camera.webp)
+content/blog/how-to-manage-photos-with-iphone.md:  image: /images/tutorials/general/manage-photos-iphone-teaser.webp
+content/blog/how-to-manage-photos-with-iphone.md:![25.000+ photos in the camera roll](/images/tutorials/general/25-000-photos-in-the-camera-roll.webp)
+content/blog/how-to-manage-photos-with-iphone.md:![Selected album used to collect photos for editing](/images/tutorials/general/selected-album-used-to-collect-photos-for-editing.webp)
+content/blog/how-to-manage-photos-with-iphone.md:![Keywords assigned to a photo in Lightroom Mobile](/images/tutorials/general/keywords-assigned-to-a-photo-in-lightroom-mobile.webp)
+content/blog/how-to-manage-photos-with-iphone.md:![Assigning flags in Lightroom Mobile](/images/tutorials/general/assigning-flags-in-lightroom-mobile.webp)
+content/blog/how-to-manage-photos-with-iphone.md:![Applying a filter to an album in Lightroom Mobile](/images/tutorials/general/applying-a-filter-to-an-album-in-lightroom-mobile.webp)
+content/blog/how-to-manage-photos-with-iphone.md:![Places album to re-discover photos](/images/tutorials/general/places-album-to-re-discover-photos.webp)
+content/blog/how-to-manage-photos-with-iphone.md:![Searching for locations in photos app](/images/tutorials/general/searching-for-locations-in-photos-app.webp)
+content/blog/how-to-manage-photos-with-iphone.md:![Automatically backup photos from iPhone to Amazon Prime](/images/tutorials/general/automatically-backup-photos-from-iphone-to-amazon-prime.webp)
+content/blog/how-to-photograph-fairground-rides-at-night-with-iphone.md:  image: /images/portfolio/general/prater-iphone7plus.webp
+content/blog/how-to-photograph-fairground-rides-at-night-with-iphone.md:![A long exposure of a Ferris wheel shot with a DSLR. We'll apply the same technique to iPhone photography](/images/tutorials/general/a-long-exposure-of-a-ferris-wheel-shot-with-a-dslr-we-ll-ap.webp)
+content/blog/how-to-photograph-fairground-rides-at-night-with-iphone.md:![Fairground ride ](/images/portfolio/general/prater-iphone7plus.webp)
+content/blog/how-to-photograph-fairground-rides-at-night-with-iphone.md:![A 40 second long exposure of the London Eye at night](/images/reviews/a-long-exposure-of-the-london-eye-shot-on-iphone-6-using-slo.webp "A 40-second long exposure of the London Eye at night.")
+content/blog/how-to-photograph-fairground-rides-at-night-with-iphone.md:![Long exposure of a small Ferris wheel in Vienna. Taken with Slow Shutter Cam App](/images/tutorials/general/long-exposure-of-a-small-ferris-wheel-in-vienna-taken-with.webp)
+content/blog/how-to-photograph-fairground-rides-at-night-with-iphone.md:![Long Exposure of a carousel ride photographed at night with iPhone and Slow Shutter Cam App](/images/tutorials/general/long-exposure-of-a-carousel-ride-photographed-at-night-with.webp)
+content/blog/how-to-photograph-fireworks-with-iphone.md:  image: /images/tutorials/general/slow-shutter-cam-app-fireworks.webp
+content/blog/how-to-photograph-fireworks-with-iphone.md:![Fireworks shot on iPhone (1)](/images/tutorials/general/fireworks-shot-on-iphone-1.webp)
+content/blog/how-to-photograph-fireworks-with-iphone.md:![Fireworks shot on iPhone (2)](/images/cityscapes/austria/linz-austria-fireworks-1.jpeg "Fireworks over Linz shot on iPhone.")
+content/blog/how-to-photograph-fireworks-with-iphone.md:![Fireworks shot on iPhone (3)](/images/tutorials/general/fireworks-shot-on-iphone-3.webp)
+content/blog/how-to-photograph-fireworks-with-iphone.md:![Settings I used for photographing a firework with Slow Shutter Cam App](/images/tutorials/general/settings-i-used-for-photographing-a-firework-with-slow-shutt.webp)
+content/blog/how-to-photograph-fireworks-with-iphone.md:![AE and AF lock in Slow Shutter Cam App](/images/tutorials/general/ae-and-af-lock-in-slow-shutter-cam-app.webp)
+content/blog/how-to-photograph-fireworks-with-iphone.md:![Multiple exposures in a single frame taken with Slow Shutter Cam App](/images/tutorials/slow-shutter-cam-app-fireworks.webp "Multiple exposures of fireworks in a single frame taken with Slow Shutter Cam App.")
+content/blog/how-to-photograph-waterfall-iphone.md:  image: /images/landscapes/general/rainbow-skogafoss-waterfall-iceland.webp
+content/blog/how-to-photograph-waterfall-iphone.md:![Long exposure photo of a waterfall in Berlin. Shot on iPhone 7 Plus using Slow Shutter Cam App](/images/landscapes/general/long-exposure-waterfall-berlin.webp)
+content/blog/how-to-photograph-waterfall-iphone.md:![Gleninchaquin Waterfall in Ireland](/images/landscapes/ireland/gleninchaquin-waterfall-ireland.jpeg)
+content/blog/how-to-photograph-waterfall-iphone.md:![Rainbow at the Skogafoss waterfall in Iceland. Shot on iPhone 6 Plus.](/images/landscapes/general/rainbow-skogafoss-waterfall-iceland-2.webp)
+content/blog/how-to-photograph-waterfall-iphone.md:![Walk behind a waterfall](/images/landscapes/general/seljalandsfoss-iceland.webp)
+content/blog/how-to-photograph-waterfall-iphone.md:![](/images/landscapes/general/gollinger-waterfall-black-and-white.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:  image: /images/tutorials/general/remove-people-from-photos-teaser.webp
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Switch to editing mode in Photos App](/images/tutorials/general/photos-app-editing-mode.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Tap the Clean Up Tool](/images/tutorials/general/photos-app-clean-up-tool.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Tap selected people](/images/tutorials/general/photos-app-clean-up-tap-selected.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Selected people removed](/images/tutorials/general/photos-app-clean-up-people-removed.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![If people were not selected, circle them](/images/tutorials/general/photos-app-circle-people.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Tap Objects in the toolbar](/images/tutorials/general/touch-retouch-open-photo.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Select “Erase AI”](/images/tutorials/general/touch-retouch-erase-ai.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![To erase a selection, use the eraser tool](/images/tutorials/general/touch-retouch-erase-selection.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Once you tapped “Go” the selected people will be removed](/images/tutorials/general/touch-retouch-people-removed.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Use the Lightroom Mobile eraser tool to remove people](/images/tutorials/general/lightroom-mobile-eraser-tool.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Use the eraser tool with generative AI option enabled](/images/tutorials/general/lightroom-mobile-eraser-tool-settings.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Refine generative AI pattern used to remove people](/images/tutorials/general/lightroom-mobile-refine-genrative-ai.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Shadows are often missed by AI selections](/images/tutorials/general/touch-retouch-shadow-not-selected.webp)
+content/blog/how-to-remove-people-from-photos-on-your-iphone.md:![Generative AI sometimes creates artifacts when removing people](/images/tutorials/general/photos-app-clean-up-artifact.webp)
+content/blog/how-to-remove-power-lines.md:  image: /images/tutorials/general/how-to-remove-power-lines-touchretouch.webp
+content/blog/how-to-remove-power-lines.md:![Launch TouchRetouch as a photo extension, step 1](/images/tutorials/general/launch-touchretouch-as-a-photo-extension-step-1.webp)
+content/blog/how-to-remove-power-lines.md:![Launch TouchRetouch as a Photo Extension, Part 2](/images/tutorials/general/launch-touchretouch-as-a-photo-extension-part-2.webp)
+content/blog/how-to-remove-power-lines.md:![Chose Line Removal Tool in Touch Retouch](/images/tutorials/general/chose-line-removal-tool-in-touch-retouch.webp)
+content/blog/how-to-remove-power-lines.md:![Touchretoouch Line Removal Tool Options](/images/tutorials/general/touchretoouch-line-removal-tool-options.webp)
+content/blog/how-to-remove-power-lines.md:![Draw near the line you want to remove](/images/tutorials/general/draw-near-the-line-you-want-to-remove.webp)
+content/blog/how-to-remove-power-lines.md:![Detected line will be marked with green color](/images/tutorials/general/detected-line-will-be-marked-with-green-color.webp)
+content/blog/how-to-remove-power-lines.md:![Remove line in front of building using TouchRetouch](/images/tutorials/general/remove-line-in-front-of-building-using-touchretouch.webp)
+content/blog/how-to-remove-power-lines.md:![Can you spot the glitch?](/images/tutorials/general/can-you-spot-the-glitch.webp)
+content/blog/how-to-remove-power-lines.md:![Final photo of the Vienna State Opera with lines removed](/images/cityscapes/austria/photo-spots-vienna-2.webp)
+content/blog/how-to-replace-the-background-of-a-photo-on-iphone.md:  image: /images/tutorials/general/6c777e6d-6be1-4b79-a946-b05bfdea667e.webp
+content/blog/how-to-replace-the-background-of-a-photo-on-iphone.md:![Load two photos in Superimpose to replace the background: A background and a foreground photo](/images/tutorials/general/load-two-photos-in-superimpose-to-replace-the-background-a.webp)
+content/blog/how-to-replace-the-background-of-a-photo-on-iphone.md:![Transform the foreground image in Superimpose](/images/tutorials/general/transform-the-foreground-image-in-superimpose.webp)
+content/blog/how-to-replace-the-background-of-a-photo-on-iphone.md:![Create a mask in Superimpose to replace the background](/images/tutorials/general/create-a-mask-in-superimpose-to-replace-the-background.webp)
+content/blog/how-to-replace-the-background-of-a-photo-on-iphone.md:![](/images/tutorials/general/how-to-replace-the-background-of-a-photo-on-iphone.webp)
+content/blog/how-to-replace-the-background-of-a-photo-on-iphone.md:![Add the searchlight with Lenslight](/images/tutorials/general/add-the-searchlight-with-lenslight.webp)
+content/blog/how-to-shoot-bracketed-photos-with-a-sony-qx-camera.md:  image: /images/tutorials/general/how-to-shoot-bracketed-photos-with-a-sony-qx-camer.webp
+content/blog/how-to-shoot-bracketed-photos-with-a-sony-qx-camera.md:![The Charles Bridge; (cc) by-nc squics.com](/images/tutorials/general/the-charles-bridge-cc-by-nc-squics-com.webp)
+content/blog/how-to-shoot-bracketed-photos-with-a-sony-qx-camera.md:![Manual bracketing mode with a Sony QX attachable lens style camera.](/images/tutorials/general/manual-bracketing-mode-with-a-sony-qx-attachable-lens-style.webp)
+content/blog/how-to-shoot-bracketed-photos-with-an-iphone.md:  image: /images/tutorials/an-hdr-created-from-3-exposures-taken-with-645-pro-mk-ii-app.webp
+content/blog/how-to-shoot-bracketed-photos-with-an-iphone.md:![An HDR created from 3 exposures taken with 645 Pro MK II App](/images/tutorials/an-hdr-created-from-3-exposures-taken-with-645-pro-mk-ii-app.webp)
+content/blog/how-to-shoot-raw-iphone.md:  image: /images/tutorials/general/7-questions-and-answers-shooting-raw-iphone-teaser.webp
+content/blog/how-to-shoot-raw-iphone.md:![Abandoned textile factory. 48 megapixel Apple ProRAW shot on iPhone 14 Pro](/images/tutorials/general/collapsed-roof-textile-factory-forst-lausitz.webp)
+content/blog/how-to-shoot-raw-iphone.md:![Kaiserwasser in Vienna shot as a 12 megapixel RAW on iPhone using ProCamera App](/images/cityscapes/austria/kaiserwasser-vienna.webp "Kaiserwasser in Vienna shot as a 12 megapixel RAW on iPhone using ProCamera App.")
+content/blog/how-to-shoot-raw-iphone.md:![Nature takes back. 12 megapixel Apple ProRAW shot on iPhone 12 Pro Max using stock camera app](/images/tutorials/general/nature-takes-back-12-megapixel-apple-proraw-shot-on-iphone.webp)
+content/blog/how-to-shoot-raw-iphone.md:![Unedited RAW photo in Lightroom Mobile](/images/tutorials/general/unedited-raw-photo-in-lightroom-mobile.webp)
+content/blog/how-to-shoot-raw-iphone.md:![Developed RAW Photo in Lightroom Mobile](/images/tutorials/general/developed-raw-photo-in-lightroom-mobile.webp)
+content/blog/how-to-shoot-raw-iphone.md:![Enable shooting RAW with the stock camera app on iOS 14.3 and iPhone 12](/images/tutorials/general/enable-shooting-raw-with-the-stock-camera-app-on-ios-14-3-an.webp)
+content/blog/how-to-shoot-raw-iphone.md:![Inside of a church with low light shot as RAW photo on iPhone](/images/tutorials/inside-votiv-church.webp)
+content/blog/how-to-shoot-raw-iphone.md:![RAW Sticker iOS Photos App](/images/tutorials/general/raw-sticker-ios-photos-app.webp)
+content/blog/inside-votiv-church-workflow.md:  image: /images/tutorials/inside-votiv-church.webp
+content/blog/inside-votiv-church-workflow.md:![Inside Votiv Church, Vienna, Shot on iPhone XS](/images/tutorials/inside-votiv-church.webp)
+content/blog/inside-votiv-church-workflow.md:![Votiv Church, Vienna, Shot on iPhone XS](/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp)
+content/blog/inside-votiv-church-workflow.md:![Unedited RAW in Lightroom Mobile](/images/tutorials/general/unedited-raw-in-lightroom-mobile.webp)
+content/blog/inside-votiv-church-workflow.md:![Anti-Shake Shutter Release in ProCamera App](/images/tutorials/general/anti-shake-shutter-release-in-procamera-app.webp)
+content/blog/inside-votiv-church-workflow.md:![Enable Anti-Shake Shutter Release in ProCamera App](/images/tutorials/general/enable-anti-shake-shutter-release-in-procamera-app.webp)
+content/blog/ipad-mini-2021-review.md:  image: /images/reviews/usa/ipad-mini-2021-review.webp
+content/blog/ipad-mini-2021-review.md:![Tablet sizes. From left to right: iPad Pro 11 from 2018, iPad mini 2021, Kindle Oasis](/images/reviews/usa/tablet-sizes-from-left-to-right-ipad-pro-11-from-2018-ipa.webp)
+content/blog/ipad-mini-2021-review.md:![iPad mini 2021 with Apple Pencil running Lightroom Mobile](/images/reviews/usa/ipad-mini-2021-with-apple-pencil-running-lightroom-mobile.webp)
+content/blog/iphone-14-pro-review.md:  image: /images/reviews/usa/iphone-14-pro-review.webp
+content/blog/iphone-14-pro-review.md:![A photo converted from an 48-megapixel ProRAW](/images/reviews/usa/mensa-abandoned-textile-factory.webp)
+content/blog/iphone-14-pro-review.md:![iPhone 14 Pro Dynamic Island with Apple Maps navigation active](/images/reviews/usa/iphone-14-pro-dynamic-island-navigation.webp)
+content/blog/iphone-14-pro-review.md:![iPhone 14 Pro Dynamic Island with Apple Maps navigation and Music active](/images/reviews/usa/iphone-14-pro-dynamic-island-navigation-and-music.webp)
+content/blog/iphone-14-pro-review.md:![Apple Maps always-on iPhone 14 Pro](/images/reviews/usa/always-on-apple-maps.webp)
+content/blog/iphone-14-pro-review.md:![Remaining Storage on my iPhone 14 Pro](/images/reviews/usa/iphone-14-pro-storage-remaining.webp)
+content/blog/iphone-night-mode-camera.md:  image: /images/reviews/france/peters-church-iphone-night-mode.webp
+content/blog/iphone-night-mode-camera.md:![Inside of St. Peter Church in Vienna shot using iPhone Night Mode Camera](/images/reviews/france/inside-of-st-peter-church-in-vienna-shot-using-iphone-night.webp)
+content/blog/iphone-night-mode-camera.md:![A bridge in Bratislava at night photographed using iPhone Night Mode Camera](/images/reviews/a-bridge-in-bratislava-at-night-photographed-using-iphone-ni.webp)
+content/blog/iphone-night-mode-camera.md:![The Hofburg Palace in Vienna at night shot using iPhone Night Mode](/images/reviews/france/the-hofburg-palace-in-vienna-at-night-shot-using-iphone-nigh.webp)
+content/blog/iphone-night-mode-camera.md:![Belvedere Castle in Vienna at night shot on iPhone using night mode.](/images/reviews/france/belvedere-castle-in-vienna-at-night-shot-on-iphone-using-nig.webp)
+content/blog/iphone-night-mode-camera.md:![New crosshairs guide for iOS14 night mode](/images/reviews/france/new-crosshairs-guide-for-ios14-night-mode.webp)
+content/blog/iphone-night-mode-camera.md:![Night Mode enabled but not activated](/images/reviews/france/night-mode-enabled-but-not-activated.webp)
+content/blog/iphone-night-mode-camera.md:![Night mode enabled and activated](/images/reviews/france/night-mode-enabled-and-activated.webp)
+content/blog/iphone-night-mode-camera.md:![Night Mode enabled but deactivated](/images/reviews/france/night-mode-enabled-but-deactivated.webp)
+content/blog/iphone-night-mode-camera.md:![Night Mode disabled](/images/reviews/france/night-mode-disabled.webp)
+content/blog/iphone-night-mode-camera.md:![Test scene for iPhone night camera mode (photographed without night mode)](/images/reviews/france/test-scene-for-iphone-night-camera-mode-photographed-withou.webp)
+content/blog/iphone-night-mode-camera.md:![Sample photo taken with iPhone using night camera mode](/images/reviews/france/sample-photo-taken-with-iphone-using-night-camera-mode.webp)
+content/blog/iphone-night-mode-camera.md:![iPhone night camera mode](/images/reviews/france/iphone-night-camera-mode.webp)
+content/blog/iphone-night-mode-camera.md:![ProCamera Low Light Mode](/images/reviews/france/procamera-low-light-mode.webp)
+content/blog/iphone-night-mode-camera.md:![Details iPhone night camera mode](/images/reviews/france/details-iphone-night-camera-mode.webp)
+content/blog/iphone-night-mode-camera.md:![Details ProCamera low light mode](/images/reviews/france/details-procamera-low-light-mode.webp)
+content/blog/iphone-night-mode-camera.md:![Noise iPhone night camera mode](/images/reviews/france/noise-iphone-night-camera-mode.webp)
+content/blog/iphone-night-mode-camera.md:![Noise ProCamera low light mode.](/images/reviews/france/noise-procamera-low-light-mode.webp)
+content/blog/iphone-photo-workflow-church-golden-hour.md:  image: /images/tutorials/general/russion-orthodox-church-vienna-golden-hour.webp
+content/blog/iphone-photo-workflow-church-golden-hour.md:![Church at sunset in Vienna shot on iPhone](/images/tutorials/general/church-at-sunset-in-vienna-shot-on-iphone.webp)
+content/blog/iphone-photo-workflow-church-golden-hour.md:![Clone brush settings in Touch Retouch App](/images/tutorials/general/clone-brush-settings-in-touch-retouch-app.webp)
+content/blog/iphone-photo-workflow-church-golden-hour.md:![Wall remove in Touch Retouch App](/images/tutorials/general/wall-remove-in-touch-retouch-app.webp)
+content/blog/iphone-photo-workflow-church-golden-hour.md:![Guided perspective correction in Lightroom Mobile](/images/tutorials/general/guided-perspective-correction-in-lightroom-mobile.webp)
+content/blog/iphone-photo-workflow-church-golden-hour.md:![Fix aspect ratio in Lightroom Mobile](/images/tutorials/general/fix-aspect-ratio-in-lightroom-mobile.webp)
+content/blog/iphone-photo-workflow-church-golden-hour.md:![Adjust temperature in Lightroom Mobile](/images/tutorials/general/adjust-temperature-in-lightroom-mobile.webp)
+content/blog/iphone-photo-workflow-church-golden-hour.md:![Final edit of the church at sunset shot and edited on iPhone](/images/tutorials/general/final-edit-of-the-church-at-sunset-shot-and-edited-on-iphone.webp)
+content/blog/iphone-photo-workflow-old-mill.md:  image: /images/tutorials/final-edit-of-the-old-mill-in-lightroom-mobile.webp
+content/blog/iphone-photo-workflow-old-mill.md:![Using the rule of thirds for photo composition](/images/tutorials/general/using-the-rule-of-thirds-for-photo-composition.webp)
+content/blog/iphone-photo-workflow-old-mill.md:![Using local adjustments in Lightroom to make the stones more grayish](/images/tutorials/general/using-local-adjustments-in-lightroom-to-make-the-stones-more.webp)
+content/blog/iphone-photo-workflow-old-mill.md:![Using local adjustments in Lightroom Mobile to make the plants greener](/images/tutorials/general/using-local-adjustments-in-lightroom-mobile-to-make-the-plan.webp)
+content/blog/iphone-photo-workflow-old-mill.md:![Using local adjustments in Lightroom Mobile for the trees](/images/tutorials/general/using-local-adjustments-in-lightroom-mobile-for-the-trees.webp)
+content/blog/iphone-photo-workflow-old-mill.md:![Final edit of “The old mill” in Lightroom Mobile](/images/tutorials/final-edit-of-the-old-mill-in-lightroom-mobile.webp)
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:  image: /images/tutorials/hungary/iphone-photo-workflow-budapest-final.webp
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:![iPhone Workflow Tutorial about how I composed, shot and edited this photo of the Parliament in Budapest](/images/tutorials/hungary/iphone-workflow-tutorial-about-how-i-composed-shot-and-edit.webp)
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:![Photo out of Slow Shutter Cam App](/images/tutorials/hungary/photo-out-of-slow-shutter-cam-app.webp)
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:![Photo Resolution in Lightroom](/images/tutorials/hungary/photo-resolution-in-lightroom.webp)
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:![Lightroom Mobile Premium Feature: Geometry rotate](/images/tutorials/hungary/lightroom-mobile-premium-feature-geometry-rotate.webp)
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:![Correct vertical perspective distortion in Lightroom Mobile](/images/tutorials/hungary/correct-vertical-perspective-distortion-in-lightroom-mobile.webp)
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:![Scale Slider in Lightroom Mobile Premium](/images/tutorials/hungary/scale-slider-in-lightroom-mobile-premium.webp)
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:![Curve Adjustment in Lightroom Mobile](/images/tutorials/hungary/curve-adjustment-in-lightroom-mobile.webp)
+content/blog/iphone-photography-workflow-tutorial-parliament-budapest.md:![Final Photo of the Parliament in Budapest. Show on Slow Shutter Cam App. Edited with Lightroom Mobile](/images/tutorials/hungary/final-photo-of-the-parliament-in-budapest-show-on-slow-shut.webp)
+content/blog/kilchurn-castle-ruin-scotland.md:  image: /images/lost-places/scotland/kilchurn-castle-ruin-scotland.webp
+content/blog/kilchurn-castle-ruin-scotland.md:![Sign from car park to Kilchurn Castle](/images/lost-places/scotland/sign-to-kilchurn-castle.webp)
+content/blog/kilchurn-castle-ruin-scotland.md:![Trail to Kilchurn Castle](/images/lost-places/scotland/trail-to-kilchurn-castle.webp)
+content/blog/kilchurn-castle-ruin-scotland.md:![Closeup of Kilchurn Castle in the Scottish Highlands](/images/lost-places/scotland/kilchurn-castle-close.webp)
+content/blog/kilchurn-castle-ruin-scotland.md:![AMEB Mode in ProCamera](/images/lost-places/scotland/ameb-mode-procamera-app.webp)
+content/blog/kruunuvuori-ghost-town-finnland.md:  image: /images/lost-places/finland/abandoned-house-kruunuvuori.webp
+content/blog/kruunuvuori-ghost-town-finnland.md:![](/images/lost-places/finland/kruunuvuori-ghost-town-finnland.webp)
+content/blog/kruunuvuori-ghost-town-finnland.md:![An abandoned villa in Kruunuvuori, Helsinki, Finland](/images/lost-places/finland/an-abandoned-villa-in-kruunuvuori-helsinki-finland.webp)
+content/blog/kruunuvuori-ghost-town-finnland.md:![Remains of a house in Kruunuvuori, Helsinki, Finnland](/images/lost-places/finland/remains-of-a-house-in-kruunuvuori-helsinki-finnland.webp)
+content/blog/kruunuvuori-ghost-town-finnland.md:![Abandoned trail in Kruunuvuori, Helsinki, Finnland](/images/lost-places/finland/abandoned-trail-in-kruunuvuori-helsinki-finnland.webp)
+content/blog/live-photo-to-long-exposure.md:  image: /images/tutorials/general/convert-live-photo-to-long-exposure-teaser.webp
+content/blog/live-photo-to-long-exposure.md:![Long exposure of the Cologne Cathedral taken using Live Photos](/images/cityscapes/germany/cologne-cathedral-long-exposure-live-photo-day.jpeg)
+content/blog/live-photo-to-long-exposure.md:![Long exposure of a waterfall converted from a Live Photo](/images/tutorials/general/long-exposure-of-a-waterfall-converted-from-a-live-photo.webp)
+content/blog/live-photo-to-long-exposure.md:![A long exposure of a train converted from a Live Photo](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp)
+content/blog/live-photo-to-long-exposure.md:![Format and resolution selector in iOS26](/images/tutorials/general/ios26-format-and-resolution-selector.webp)
+content/blog/live-photo-to-long-exposure.md:![Display camera options in iOS 26](/images/tutorials/general/ios26-photo-options-menu.webp)
+content/blog/live-photo-to-long-exposure.md:![Photo options to enable Live Photos in iOS26](/images/tutorials/general/ios26-enable-live-photos.webp)
+content/blog/live-photo-to-long-exposure.md:![Live Photos Album in iOS26](/images/tutorials/general/ios26-live-photos-album.webp)
+content/blog/live-photo-to-long-exposure.md:![Long Exposure Effect for Live Photo](/images/tutorials/general/ios26-live-photo-mode-selector.webp)
+content/blog/live-photo-to-long-exposure.md:![Long Exposure Album in iOS26](/images/tutorials/general/ios26-long-exposure-album.webp)
+content/blog/long-exposure-iphone-apps.md:  image: /images/tutorials/general/how-to-create-long-exposure-iphone.webp
+content/blog/long-exposure-iphone-apps.md:![40 second long exposure taken with Slow Shutter Cam App](/images/tutorials/general/london-eye-long-exposure.webp)
+content/blog/long-exposure-iphone-apps.md:![Flowing water captured with Reeheld Camera App](/images/tutorials/general/devils-mouth-cascais.webp)
+content/blog/long-exposure-iphone-apps.md:![Long exposure of a train entering a tunnel converted from a Live Photo](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp)
+content/blog/long-exposure-iphone-apps.md:![40 Second long exposure of the London Eye shot using Slow Shutter Cam App and iPhone 6](/images/tutorials/general/london-eye-long-exposure.webp)
+content/blog/long-exposure-iphone-apps.md:![Live Photo Long Exposure of a streetcar entering a tunnel taken with iPhone 11 Pro](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp)
+content/blog/long-exposure-iphone-apps.md:![Long exposure of flowing water taken with Reeheld Camera App and iPhone 14 Pro](/images/tutorials/general/devils-mouth-cascais.webp)
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/bath-cabins-stadtbad-lichtenberg-berlin.webp"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/spreeblitz-dragon.webp"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/hohenschoenhausen-memorial-cell.webp"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/long-corridors-at-beelitz-heilstaetten.webp"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/red-sofa-dark-heilstaetten-grabowsee.webp"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/communication-device-bunker-airfield-rangsdorf.jpeg"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/leftover-soviet-uniforms-in-wuensdorf.webp"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/collapsed-roof-textile-factory-forst-lausitz.webp"
+content/blog/must-see-lost-places-berlin.md:    image: "/images/lost-places/germany/collapsed-control-room.webp"
+content/blog/must-see-lost-places-berlin.md:![Bath tube at the abandoned Stadtbad Lichtenberg](/images/lost-places/germany/bath-cabins-stadtbad-lichtenberg-berlin.webp)
+content/blog/must-see-lost-places-berlin.md:![Spreeblitz roller coaster at the abandoned Spreepark in Berlin](/images/lost-places/germany/spreeblitz-dragon.webp)
+content/blog/must-see-lost-places-berlin.md:![Prison cell at the Hohenschönhausen memorial](/images/lost-places/germany/hohenschoenhausen-memorial-cell.webp)
+content/blog/must-see-lost-places-berlin.md:![Abandoned surveillance station at the Teufelsberg in Berlin](/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp)
+content/blog/must-see-lost-places-berlin.md:![Long hallway at the abandoned Beelitz Heilstätten](/images/lost-places/germany/long-corridors-at-beelitz-heilstaetten.webp)
+content/blog/must-see-lost-places-berlin.md:![The iconic red sofa at the abandoned Heilstätten Grabowsee](/images/lost-places/germany/red-sofa-dark-heilstaetten-grabowsee.webp)
+content/blog/must-see-lost-places-berlin.md:![Communication devices in a bunker at the airport Rangsdorf](/images/lost-places/germany/communication-device-bunker-airfield-rangsdorf.jpeg)
+content/blog/must-see-lost-places-berlin.md:![Decayed hangar the abandoned airport Schönwalde](/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg)
+content/blog/must-see-lost-places-berlin.md:![Boots in a building in the forbidden city Wünsdorf](/images/lost-places/germany/leftover-soviet-uniforms-in-wuensdorf.webp)
+content/blog/must-see-lost-places-berlin.md:![Collapsed roof at the abandoned textile factory in Forst](/images/lost-places/germany/collapsed-roof-textile-factory-forst-lausitz.webp)
+content/blog/must-see-lost-places-berlin.md:![Collapsed control room at the Freudenberg Bunker](/images/lost-places/germany/collapsed-control-room.webp)
+content/blog/new-york-photo-spots.md:    image: "/images/cityscapes/usa/radio-city-music-call-neon-sign.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/cityscapes/usa/top-of-the-rock-new-york.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/cityscapes/usa/9-11-memorial-new-york-city.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/tutorials/usa/architectural-leading-lines.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/cityscapes/usa/new-york-public-library-movie-location.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/cityscapes/usa/new-york-city-skyline-from-dumbo-2.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/cityscapes/usa/bow-bridge-instagram-spot.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/tutorials/usa/empire-state-building-framed.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/cityscapes/usa/morgue-abandoned-immigration-hospital-ellis-island.webp"
+content/blog/new-york-photo-spots.md:    image: "/images/cityscapes/usa/statue-of-libery-rule-of-thirds.webp"
+content/blog/new-york-photo-spots.md:![Radio City Music Call in New York City](/images/cityscapes/usa/radio-city-music-call-neon-sign.webp)
+content/blog/new-york-photo-spots.md:![New York at Night as seen from the Top of the Rock](/images/cityscapes/usa/top-of-the-rock-new-york.webp)
+content/blog/new-york-photo-spots.md:![9-11 Memorial](/images/cityscapes/usa/9-11-memorial-new-york-city.webp)
+content/blog/new-york-photo-spots.md:![The iconic Manhattan Bridge View](/images/tutorials/usa/architectural-leading-lines.webp)
+content/blog/new-york-photo-spots.md:![The Opening Scene of Ghostbusters (1984) was filmed at the New York Public Library](/images/cityscapes/usa/new-york-public-library-movie-location.webp)
+content/blog/new-york-photo-spots.md:![A long exposure of the New York Skyline as seen from Dumbo](/images/cityscapes/usa/new-york-city-skyline-from-dumbo-2.webp)
+content/blog/new-york-photo-spots.md:![Bow Bridge aka Marriage Bridge in the Central Park](/images/cityscapes/usa/bow-bridge-instagram-spot.webp)
+content/blog/new-york-photo-spots.md:![The Chrysler Building, captured using an architectural frame](/images/tutorials/usa/empire-state-building-framed.webp)
+content/blog/new-york-photo-spots.md:![Morgue at the abandoned Immigration Hospital at Ellis Island](/images/cityscapes/usa/morgue-abandoned-immigration-hospital-ellis-island.webp)
+content/blog/new-york-photo-spots.md:![Statue of Liberty as seen from Ellis Island](/images/cityscapes/usa/statue-of-libery-rule-of-thirds.webp)
+content/blog/night-photography-iphone-apps.md:  image: /images/tutorials/general/night-photography-iphone.webp
+content/blog/night-photography-iphone-apps.md:![View from the Shard at night shot on iPhone 6S Plus using ProCamera Low Light Mode](/images/reviews/london-at-night-shot-on-iphone-6s-plus-using-procamera-low-l.webp)
+content/blog/night-photography-iphone-apps.md:![Music Theatre in Vienna during a lockdown shot on iPhone 11 Pro using night mode](/images/cityscapes/austria/musikverein-vienna-at-night.jpg)
+content/blog/night-photography-iphone-apps.md:![Parliament in Budapest at night shot on iPhone Xs using Slow Shutter Camera App](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp)
+content/blog/night-photography-iphone-apps.md:![Night mode indicator in the iPhone’s stock camera app](/images/tutorials/general/night-mode-indicator-iphone-camera-app.webp)
+content/blog/night-photography-iphone-apps.md:![Night Mode exposure slider](/images/tutorials/general/exposure-slider-night-mode-camera-iphone.webp)
+content/blog/night-photography-iphone-apps.md:![Vintage Style Cinema in Vienna at night shot on iPhone XS using ProCamera Low Light Mode](/images/tutorials/general/vintage-style-cinema-shot-using-procamera-low-light-mode.webp)
+content/blog/night-photography-iphone-apps.md:![Enable Low Light+ in ProCamera App](/images/tutorials/general/enable-low-light-procamera.webp)
+content/blog/night-photography-iphone-apps.md:![Enable Lux+ in ProCamera App](/images/tutorials/general/procamera-exposure-compensation-night-mode.webp)
+content/blog/night-photography-iphone-apps.md:![Parliament in Budapest shot on iPhone XS using Slow Shutter Cam App](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp)
+content/blog/noise-reduction-in-lightroom-mobile-tutorial.md:  image: /images/tutorials/usa/tutorial-noise-reduction-lightroom-mobile.webp
+content/blog/noise-reduction-in-lightroom-mobile-tutorial.md:![Noisy Photo in Lightroom Mobile](/images/tutorials/usa/noisy-photo-in-lightroom-mobile.webp)
+content/blog/noise-reduction-in-lightroom-mobile-tutorial.md:![Color Noise Slider in Lightroom Mobile](/images/tutorials/usa/color-noise-slider-in-lightroom-mobile.webp)
+content/blog/noise-reduction-in-lightroom-mobile-tutorial.md:![Color Noise fixed Lightroom Mobile](/images/tutorials/usa/color-noise-fixed-lightroom-mobile.webp)
+content/blog/noise-reduction-in-lightroom-mobile-tutorial.md:![Luminance Noise Slider in Lightroom Mobile](/images/tutorials/usa/luminance-noise-slider-in-lightroom-mobile.webp)
+content/blog/noise-reduction-in-lightroom-mobile-tutorial.md:![Luminance Noise Slider in Lightroom set to 35](/images/tutorials/usa/luminance-noise-slider-in-lightroom-set-to-35.webp)
+content/blog/noise-reduction-in-lightroom-mobile-tutorial.md:![Luminance Detail Slider set to 75](/images/tutorials/usa/luminance-detail-slider-set-to-75.webp)
+content/blog/noise-reduction-in-lightroom-mobile-tutorial.md:![Final Photo with noise reduction applied](/images/tutorials/usa/final-photo-with-noise-reduction-applied.webp)
+content/blog/old-wardour-castle-a-filming-location-for-robin-hood.md:  image: /images/lost-places/england/wardour-castle-still-intact.webp
+content/blog/old-wardour-castle-a-filming-location-for-robin-hood.md:![Locksley Castle in England](/images/lost-places/england/wardour-castle-is-locksley-castle.webp)
+content/blog/old-wardour-castle-a-filming-location-for-robin-hood.md:![Intact half of Old Wardour Castle](/images/lost-places/england/intact-half-of-old-wardour-castle.webp)
+content/blog/old-wardour-castle-a-filming-location-for-robin-hood.md:![Gate and Stairs at Old Wardour Castle in England](/images/lost-places/england/gate-and-stairs-at-old-wardour-castle-in-england.webp)
+content/blog/old-wardour-castle-a-filming-location-for-robin-hood.md:![View from the top of Old Wardour Castle](/images/lost-places/england/view-from-the-top-of-old-wardour-castle.webp)
+content/blog/old-wardour-castle-a-filming-location-for-robin-hood.md:![Bench in front of Locksley Castle aka Old Wardour Castle](/images/lost-places/england/bench-in-front-of-locksley-castle-aka-old-wardour-castle.webp)
+content/blog/photo-spots-17-mile-drive.md:  image: /images/landscapes/usa/photo-spots-17-mile-drive.webp
+content/blog/photo-spots-17-mile-drive.md:![Squirrel at 17 Mile Drive; maybe wondering where it hid its supplies?](/images/landscapes/usa/squirres-at-17-mile-drive-california.webp)
+content/blog/photo-spots-17-mile-drive.md:![Posing squirrel at the 17 mile drive; (cc) by-nc squics.com](/images/landscapes/usa/photo-spots-17-mile-drive.webp)
+content/blog/photo-spots-17-mile-drive.md:![Rock looking like a huge crocodile; (cc) by-nc squics.com](/images/landscapes/usa/crocodile-rock-pebble-beach.webp)
+content/blog/photo-spots-17-mile-drive.md:![The lone cypress at the 17 mile drive](/images/landscapes/usa/lone-cypress-pebble-beach.webp)
+content/blog/photo-spots-berlin.md:    image: "/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp"
+content/blog/photo-spots-berlin.md:    image: "/images/lost-places/germany/spreeblitz-dragon.webp"
+content/blog/photo-spots-berlin.md:    image: "/images/cityscapes/germany/old-radio-tower-in-berlin-shot-on-iphone-xs.webp"
+content/blog/photo-spots-berlin.md:    image: "/images/cityscapes/germany/victory-column-berlin-shot-on-iphone-7-plus.webp"
+content/blog/photo-spots-berlin.md:    image: "/images/iphone-photography/general/federal-chancellery-in-berlin-during-the-holden-hour.webp"
+content/blog/photo-spots-berlin.md:    image: "/images/cityscapes/germany/18th-of-march-square-shot-on-iphone-6-plus.webp"
+content/blog/photo-spots-berlin.md:    image: "/images/cityscapes/germany/berlin-dome-shot-on-iphone-7-plus.webp"
+content/blog/photo-spots-berlin.md:    image: "/images/cityscapes/germany/waterfall-at-victoria-park-in-berlin-shot-on-iphone-7-plus.webp"
+content/blog/photo-spots-berlin.md:![Abandoned listening outpost in Berlin. Shot on iPhone 7 Plus](/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp)
+content/blog/photo-spots-berlin.md:![Dragonhead at an abandoned amusement park in Berlin](/images/lost-places/germany/spreeblitz-dragon.webp)
+content/blog/photo-spots-berlin.md:![Old Radio Tower in Berlin. Shot on iPhone XS](/images/cityscapes/germany/old-radio-tower-in-berlin-shot-on-iphone-xs.webp)
+content/blog/photo-spots-berlin.md:![Victory Column Berlin. Shot on iPhone 7 Plus](/images/cityscapes/germany/victory-column-berlin-shot-on-iphone-7-plus.webp)
+content/blog/photo-spots-berlin.md:![German Chancellery. Shot on iPhone 7 Plus](/images/iphone-photography/general/federal-chancellery-in-berlin-during-the-holden-hour.webp)
+content/blog/photo-spots-berlin.md:![18th of March Square. Shot on iPhone 6 Plus](/images/cityscapes/germany/18th-of-march-square-shot-on-iphone-6-plus.webp)
+content/blog/photo-spots-berlin.md:![Berlin Dome. Shot on iPhone 7 Plus](/images/cityscapes/germany/berlin-dome-shot-on-iphone-7-plus.webp)
+content/blog/photo-spots-berlin.md:![Waterfall at Victoria Park in Berlin. Shot on iPhone 7 Plus](/images/cityscapes/germany/waterfall-at-victoria-park-in-berlin-shot-on-iphone-7-plus.webp)
+content/blog/photo-spots-bratislava.md:    image: "/images/reviews/ufo-bridge-in-bratislava-shot-on-iphone-mounted-to-the-rolle.webp"
+content/blog/photo-spots-bratislava.md:    image: "/images/reviews/a-bridge-in-bratislava-at-night-photographed-using-iphone-ni.webp"
+content/blog/photo-spots-bratislava.md:    image: "/images/cityscapes/slovakia/inverted-pyramid-building-bratislava-bw.jpg"
+content/blog/photo-spots-bratislava.md:    image: "/images/cityscapes/slovakia/abandoned-hospital-in-bratislava.webp"
+content/blog/photo-spots-bratislava.md:    image: "/images/cityscapes/slovakia/blue-church-in-bratislava.webp"
+content/blog/photo-spots-bratislava.md:    image: "/images/cityscapes/slovakia/castle-tunnel-in-bratislava.webp"
+content/blog/photo-spots-bratislava.md:    image: "/images/cityscapes/slovakia/bratislava-castle-iphone-11-pro.webp"
+content/blog/photo-spots-bratislava.md:![UFO Bridge Bratislava](/images/reviews/ufo-bridge-in-bratislava-shot-on-iphone-mounted-to-the-rolle.webp)
+content/blog/photo-spots-bratislava.md:![The old bridge in Bratislava](/images/reviews/a-bridge-in-bratislava-at-night-photographed-using-iphone-ni.webp)
+content/blog/photo-spots-bratislava.md:![The inverted Pyramid in Bratislava](/images/cityscapes/slovakia/inverted-pyramid-building-bratislava-bw.jpg)
+content/blog/photo-spots-bratislava.md:![Abandoned Hospital in Bratislava](/images/cityscapes/slovakia/abandoned-hospital-in-bratislava.webp)
+content/blog/photo-spots-bratislava.md:![Blue Church in Bratislava](/images/cityscapes/slovakia/blue-church-in-bratislava.webp)
+content/blog/photo-spots-bratislava.md:![Castle Tunnel in Bratislava](/images/cityscapes/slovakia/castle-tunnel-in-bratislava.webp)
+content/blog/photo-spots-bratislava.md:![Long Exposure of a tram entering the tunnel](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp)
+content/blog/photo-spots-bratislava.md:![Bratislava Castle](/images/cityscapes/slovakia/bratislava-castle-iphone-11-pro.webp)
+content/blog/photo-spots-budapest.md:    image: "/images/cityscapes/hungary/rear-of-the-vajdahunyad-castle-budapest-hungary.webp"
+content/blog/photo-spots-budapest.md:    image: "/images/cityscapes/hungary/vajdahunyad-castle-with-person-removed-from-the-lower-right.webp"
+content/blog/photo-spots-budapest.md:    image: "/images/reviews/st-stephens-basilica-budapest-shot-on-iphone-with-moment.webp"
+content/blog/photo-spots-budapest.md:    image: "/images/cityscapes/hungary/edificio-parisi-udvar-in-budapest-hungary.webp"
+content/blog/photo-spots-budapest.md:    image: "/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp"
+content/blog/photo-spots-budapest.md:    image: "/images/cityscapes/hungary/chain-bridge-in-budapest-at-night.webp"
+content/blog/photo-spots-budapest.md:![Rear of the Vajdahunyad Castle, Budapest, Hungary](/images/cityscapes/hungary/rear-of-the-vajdahunyad-castle-budapest-hungary.webp)
+content/blog/photo-spots-budapest.md:![Vajdahunyad Castle with person removed from the lower right corner using Toch Retouch](/images/cityscapes/hungary/vajdahunyad-castle-with-person-removed-from-the-lower-right.webp)
+content/blog/photo-spots-budapest.md:![St. Stephan’s Basilica, Budapest, Hungary](/images/reviews/st-stephens-basilica-budapest-shot-on-iphone-with-moment.webp)
+content/blog/photo-spots-budapest.md:![Edificio Párisi Udvar in Budapest, Hungary](/images/cityscapes/hungary/edificio-parisi-udvar-in-budapest-hungary.webp)
+content/blog/photo-spots-budapest.md:![Parliament in Budapest shot on iPhone using Slow Shutter Cam App](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp)
+content/blog/photo-spots-budapest.md:![Chain Bridge in Budapest at night](/images/cityscapes/hungary/chain-bridge-in-budapest-at-night.webp)
+content/blog/photo-spots-cologne.md:    image: "/images/cityscapes/germany/cologne-cathedral-sunset.jpeg"
+content/blog/photo-spots-cologne.md:    image: "/images/cityscapes/germany/cologne-cathedrahl-rheinboulevard-blue-hour.jpeg"
+content/blog/photo-spots-cologne.md:    image: "/images/cityscapes/germany/love-locks-hohenzollern-bridge-cologne.jpeg"
+content/blog/photo-spots-cologne.md:    image: "/images/cityscapes/germany/cologne-central-station.jpeg"
+content/blog/photo-spots-cologne.md:    image: "/images/cityscapes/germany/tunnel-turner-street-cologne.jpeg"
+content/blog/photo-spots-cologne.md:    image: "/images/cityscapes/germany/st-alban-church-ruin-cologne.jpeg"
+content/blog/photo-spots-cologne.md:    image: "/images/cityscapes/germany/severins-bridge-cologne.jpeg"
+content/blog/photo-spots-cologne.md:    image: "/images/cityscapes/germany/hospitals-rheinauhafen-cologne.jpeg"
+content/blog/photo-spots-cologne.md:![Cologne Cathedrahl photographed from the Cologne Triangle](/images/cityscapes/germany/cologne-cathedral-sunset.jpeg "<strong>KölnTriangle</strong> — Sunset view of Cologne Cathedral and the Hohenzollern Bridge from the observation deck.")
+content/blog/photo-spots-cologne.md:![Cologne Cathedrahl shot from the Rheinboulevard during the blue hour](/images/cityscapes/germany/cologne-cathedrahl-rheinboulevard-blue-hour.jpeg "<strong>Rheinboulevard</strong> — Cologne Cathedral and Hohenzollern Bridge illuminated during the blue hour.")
+content/blog/photo-spots-cologne.md:![Cologne Cathedrahl photographed from the Rheinboulevard during the day](/images/cityscapes/germany/cologne-cathedral-long-exposure-live-photo-day.jpeg "<strong>Rheinboulevard</strong> — Daytime long exposure view of the cathedral and bridge across the Rhine.")
+content/blog/photo-spots-cologne.md:![Lovelocks at the Hohenzollern Bridge](/images/cityscapes/germany/love-locks-hohenzollern-bridge-cologne.jpeg "<strong>Hohenzollern Bridge</strong> — Padlocks attached to the bridge railings with the cathedral in the background.")
+content/blog/photo-spots-cologne.md:![Cologne Central Station](/images/cityscapes/germany/cologne-central-station.jpeg "<strong>Cologne Central Station</strong> — View of the train tracks and arched glass roof from the bridge.")
+content/blog/photo-spots-cologne.md:![Tunnel at the Turiner Straße/Ursulastraße](/images/cityscapes/germany/tunnel-turner-street-cologne.jpeg "<strong>Turiner Straße Tunnel</strong> — Nighttime perspective highlighting the illuminated steel strut architecture.")
+content/blog/photo-spots-cologne.md:![Church ruin St. Alban](/images/cityscapes/germany/st-alban-church-ruin-cologne.jpeg "<strong>Alt St. Alban</strong> — Preserved interior of the memorial church ruin in the city center.")
+content/blog/photo-spots-cologne.md:![Severinsbrücke](/images/cityscapes/germany/severins-bridge-cologne.jpeg "<strong>Severinsbrücke</strong> — Night view of the illuminated cable-stayed bridge seen from Rheinauhafen.")
+content/blog/photo-spots-cologne.md:![Hospitals at the Rheinauhafen](/images/cityscapes/germany/hospitals-rheinauhafen-cologne.jpeg "<strong>Rheinauhafen</strong> — Distinctive modern waterfront architecture viewed from the Deutz riverbank.")
+content/blog/photo-spots-iceland.md:  image: /images/misc/iceland/photo-spots-iceland-teaser.webp
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/seljalandsfoss-iceland.webp"
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/skogafoss-iceland.webp"
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/black-beach-iceland.webp"
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/svartifoss-icland.webp"
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/glacier-lagoon-iceland.webp"
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/hallgrimskirkja-church.webp"
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/strokkur-geysir.webp"
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/gullfoss-waterfall-iceland.webp"
+content/blog/photo-spots-iceland.md:    image: "/images/misc/iceland/hraunfossar-waterfall-iceland.webp"
+content/blog/photo-spots-iceland.md:![Seljalandsfoss in Iceland](/images/misc/iceland/seljalandsfoss-iceland.webp)
+content/blog/photo-spots-iceland.md:![Skogafoss Waterfall](/images/misc/iceland/skogafoss-iceland.webp)
+content/blog/photo-spots-iceland.md:![Waves breaking at the Black Beach in Iceland](/images/misc/iceland/black-beach-iceland.webp)
+content/blog/photo-spots-iceland.md:![Svartifoss Waterfall as seen after a one-hour hike](/images/misc/iceland/svartifoss-icland.webp)
+content/blog/photo-spots-iceland.md:![Flipped iceberg at Jökulsárlón Glacier Lagoon](/images/misc/iceland/glacier-lagoon-iceland.webp)
+content/blog/photo-spots-iceland.md:![Hallgrímskirkja in Reykjavík](/images/misc/iceland/hallgrimskirkja-church.webp)
+content/blog/photo-spots-iceland.md:![Strokkur Geysir eruption](/images/misc/iceland/strokkur-geysir.webp)
+content/blog/photo-spots-iceland.md:![Gulfoss Waterfall is huge](/images/misc/iceland/gullfoss-waterfall-iceland.webp)
+content/blog/photo-spots-iceland.md:![Long Exposure of Hraunfossar waterfall](/images/misc/iceland/hraunfossar-waterfall-iceland.webp)
+content/blog/photo-spots-in-bucharest-romania.md:    image: "/images/cityscapes/romania/pigeon-swarm-at-the-ateneul-roman-in-bucharest-romania.webp"
+content/blog/photo-spots-in-bucharest-romania.md:    image: "/images/cityscapes/romania/black-and-white-baserab-bridge-in-bucharest-romania.webp"
+content/blog/photo-spots-in-bucharest-romania.md:    image: "/images/cityscapes/romania/national-bank-in-bucharest-romania.webp"
+content/blog/photo-spots-in-bucharest-romania.md:    image: "/images/cityscapes/romania/palace-of-parliament-in-bucharest-romania.webp"
+content/blog/photo-spots-in-bucharest-romania.md:    image: "/images/cityscapes/romania/beautiful-fountain-in-bucharest-romania.webp"
+content/blog/photo-spots-in-bucharest-romania.md:    image: "/images/cityscapes/romania/potatio-on-a-stick-in-bucharest-romania.webp"
+content/blog/photo-spots-in-bucharest-romania.md:    image: "/images/cityscapes/romania/new-building-inside-old-building-in-bucharest-romania.webp"
+content/blog/photo-spots-in-bucharest-romania.md:![Pigeon Swarm at the Ateneul Român in Bucharest, Romania](/images/cityscapes/romania/pigeon-swarm-at-the-ateneul-roman-in-bucharest-romania.webp)
+content/blog/photo-spots-in-bucharest-romania.md:![Black and White Baserab bridge in Bucharest, Romania](/images/cityscapes/romania/black-and-white-baserab-bridge-in-bucharest-romania.webp)
+content/blog/photo-spots-in-bucharest-romania.md:![National Bank in Bucharest, Romania](/images/cityscapes/romania/national-bank-in-bucharest-romania.webp)
+content/blog/photo-spots-in-bucharest-romania.md:![Palace of Parliament in Bucharest, Romania](/images/cityscapes/romania/palace-of-parliament-in-bucharest-romania.webp)
+content/blog/photo-spots-in-bucharest-romania.md:![Beautiful Fountain in Bucharest, Romania](/images/cityscapes/romania/beautiful-fountain-in-bucharest-romania.webp)
+content/blog/photo-spots-in-bucharest-romania.md:![Potatio on a stick in Bucharest, Romania](/images/cityscapes/romania/potatio-on-a-stick-in-bucharest-romania.webp)
+content/blog/photo-spots-in-bucharest-romania.md:![New building inside old building in Bucharest, Romania](/images/cityscapes/romania/new-building-inside-old-building-in-bucharest-romania.webp)
+content/blog/photo-spots-in-minsk-belarus.md:    image: "/images/cityscapes/belarus/victory-square-in-minks-belarus-during-the-blue-hour.webp"
+content/blog/photo-spots-in-minsk-belarus.md:    image: "/images/cityscapes/belarus/gorky-park-in-minsk-belarus-in-fall.webp"
+content/blog/photo-spots-in-minsk-belarus.md:    image: "/images/cityscapes/belarus/ferris-wheel-at-the-gorki-park-in-minsk-belarus.webp"
+content/blog/photo-spots-in-minsk-belarus.md:    image: "/images/cityscapes/belarus/palace-of-the-republic-in-minsk-belarus.webp"
+content/blog/photo-spots-in-minsk-belarus.md:    image: "/images/cityscapes/belarus/bolshoi-theatre-minsk-belarus.webp"
+content/blog/photo-spots-in-minsk-belarus.md:    image: "/images/cityscapes/belarus/photo-spots-in-minsk-belarus.webp"
+content/blog/photo-spots-in-minsk-belarus.md:![Victory Square in Minks, Belarus during the blue hour.](/images/cityscapes/belarus/victory-square-in-minks-belarus-during-the-blue-hour.webp)
+content/blog/photo-spots-in-minsk-belarus.md:![Gorky Park in Minsk, Belarus, in fall.](/images/cityscapes/belarus/gorky-park-in-minsk-belarus-in-fall.webp)
+content/blog/photo-spots-in-minsk-belarus.md:![Ferris wheel at the Gorki Park in Minsk, Belarus](/images/cityscapes/belarus/ferris-wheel-at-the-gorki-park-in-minsk-belarus.webp)
+content/blog/photo-spots-in-minsk-belarus.md:![Palace of the Republic in Minsk, Belarus](/images/cityscapes/belarus/palace-of-the-republic-in-minsk-belarus.webp)
+content/blog/photo-spots-in-minsk-belarus.md:![Bolshoi Theatre Minsk, Belarus](/images/cityscapes/belarus/bolshoi-theatre-minsk-belarus.webp)
+content/blog/photo-spots-in-minsk-belarus.md:![](/images/cityscapes/belarus/photo-spots-in-minsk-belarus.webp)
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/long-room-library-trinty-college-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/rock-of-cashel-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/hore-abbey-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/landscapes/ireland/gleninchaquin-waterfall-ireland.jpeg"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/kerry-cliffs-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/ballycarberry-castle-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/ennis-friary-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/cliffs-of-moher-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/house-of-tyrone-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/dowpatrick-head-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/bad-eddie-shipwreck-ireland.webp"
+content/blog/photo-spots-ireland.md:    image: "/images/lost-places/ireland/dark-hedges-ireland.webp"
+content/blog/photo-spots-ireland.md:![Long Room Library at Trintiy College, Dublin](/images/lost-places/ireland/long-room-library-trinty-college-ireland.webp)
+content/blog/photo-spots-ireland.md:![Rock of Cashel, Ireland](/images/lost-places/ireland/rock-of-cashel-ireland.webp)
+content/blog/photo-spots-ireland.md:![Hore Abbey, Ireland](/images/lost-places/ireland/hore-abbey-ireland.webp)
+content/blog/photo-spots-ireland.md:![Gleninchaquin waterfall, Ireland](/images/landscapes/ireland/gleninchaquin-waterfall-ireland.jpeg)
+content/blog/photo-spots-ireland.md:![Kerry Cliffs, Ireland](/images/lost-places/ireland/kerry-cliffs-ireland.webp)
+content/blog/photo-spots-ireland.md:![Ballyberry Castle, Ireland](/images/lost-places/ireland/ballycarberry-castle-ireland.webp)
+content/blog/photo-spots-ireland.md:![Ennis Friary, Irland](/images/lost-places/ireland/ennis-friary-ireland.webp)
+content/blog/photo-spots-ireland.md:![Cliffs of Moher, Ireland](/images/lost-places/ireland/cliffs-of-moher-ireland.webp)
+content/blog/photo-spots-ireland.md:![House of Tyrone, Ireland](/images/lost-places/ireland/house-of-tyrone-ireland.webp)
+content/blog/photo-spots-ireland.md:![Downpatrick Head, Ireland](/images/lost-places/ireland/dowpatrick-head-ireland.webp)
+content/blog/photo-spots-ireland.md:![Bad Eddie, Ireland](/images/lost-places/ireland/bad-eddie-shipwreck-ireland.webp)
+content/blog/photo-spots-ireland.md:![Dark Hedges, Ireland](/images/lost-places/ireland/dark-hedges-ireland.webp)
+content/blog/photo-spots-ireland.md:![Popular times feature in Google Maps for the Cliffs of Moher](/images/lost-places/ireland/busy-times-google-maps.webp)
+content/blog/photo-spots-las-vegas.md:    image: "/images/cityscapes/usa/wynn-encore-shot-on-iphone.webp"
+content/blog/photo-spots-las-vegas.md:    image: "/images/cityscapes/usa/stratosphere-tower-las-vegas-shot-with-pro-hdr-on-iphone-5.webp"
+content/blog/photo-spots-las-vegas.md:    image: "/images/cityscapes/usa/mandalay-bay-las-vegas-shot-on-iphone-5.webp"
+content/blog/photo-spots-las-vegas.md:    image: "/images/cityscapes/usa/mirage-vulcano-shot-at-night-using-iphone-5.webp"
+content/blog/photo-spots-las-vegas.md:    image: "/images/cityscapes/usa/silhouettes-in-front-of-the-fountains-of-bellagio-shot-on-i.webp"
+content/blog/photo-spots-las-vegas.md:    image: "/images/cityscapes/usa/mirage-las-vegas-shot-on-iphone-6-plus.webp"
+content/blog/photo-spots-las-vegas.md:    image: "/images/cityscapes/usa/eiffel-tower-las-vegas.webp"
+content/blog/photo-spots-las-vegas.md:![Wynn @ Encore Las Vegas, Shot on iPhone 5](/images/cityscapes/usa/wynn-encore-shot-on-iphone.webp)
+content/blog/photo-spots-las-vegas.md:![Stratosphere Tower Las Vegas shot with Pro HDR on iPhone 5](/images/cityscapes/usa/stratosphere-tower-las-vegas-shot-with-pro-hdr-on-iphone-5.webp)
+content/blog/photo-spots-las-vegas.md:![Mandalay Bay Las Vegas shot on iPhone 5](/images/cityscapes/usa/mandalay-bay-las-vegas-shot-on-iphone-5.webp)
+content/blog/photo-spots-las-vegas.md:![Mirage Vulcano shot at night using iPhone 5](/images/cityscapes/usa/mirage-vulcano-shot-at-night-using-iphone-5.webp)
+content/blog/photo-spots-las-vegas.md:![Silhouettes in front of the Fountains of Bellagio. Shot on iPhone 6 Plus](/images/cityscapes/usa/silhouettes-in-front-of-the-fountains-of-bellagio-shot-on-i.webp)
+content/blog/photo-spots-las-vegas.md:![Mirage Las Vegas shot on iPhone 6 Plus](/images/cityscapes/usa/mirage-las-vegas-shot-on-iphone-6-plus.webp)
+content/blog/photo-spots-las-vegas.md:![Eiffel Tower Las Vegas](/images/cityscapes/usa/eiffel-tower-las-vegas.webp)
+content/blog/photo-spots-lisbon.md:    image: "/images/cityscapes/portugal/monument-of-christ-the-king-alamada.webp"
+content/blog/photo-spots-lisbon.md:    image: "/images/cityscapes/portugal/25-de-abril-bridge-lisbon.webp"
+content/blog/photo-spots-lisbon.md:    image: "/images/cityscapes/portugal/abandoned-winery-almada-lisbon.webp"
+content/blog/photo-spots-lisbon.md:    image: "/images/cityscapes/portugal/torre-de-belem-lighthouse-lisbon.webp"
+content/blog/photo-spots-lisbon.md:    image: "/images/cityscapes/portugal/triumphal-arch-jardim-marcelino-de-mesquita.webp"
+content/blog/photo-spots-lisbon.md:    image: "/images/cityscapes/portugal/devils-mouth-cascais.webp"
+content/blog/photo-spots-lisbon.md:    image: "/images/cityscapes/portugal/beach-cabo-da-roca-portugal.webp"
+content/blog/photo-spots-lisbon.md:![Monument of Christ the King in Almada](/images/cityscapes/portugal/monument-of-christ-the-king-alamada.webp)
+content/blog/photo-spots-lisbon.md:![25 de Abril Bridge connecting the city of Lisbon with Almada](/images/cityscapes/portugal/25-de-abril-bridge-lisbon.webp)
+content/blog/photo-spots-lisbon.md:![House at the abandoned winery in Almada](/images/cityscapes/portugal/abandoned-winery-almada-lisbon.webp)
+content/blog/photo-spots-lisbon.md:![Torre de Belém Lighthouse](/images/cityscapes/portugal/torre-de-belem-lighthouse-lisbon.webp)
+content/blog/photo-spots-lisbon.md:![Triumphal Arch and aqueduct near Jardim Marcelino de Mesquita](/images/cityscapes/portugal/triumphal-arch-jardim-marcelino-de-mesquita.webp)
+content/blog/photo-spots-lisbon.md:![Long exposure of the rock formation at the Devils Mouth in Cascais](/images/cityscapes/portugal/devils-mouth-cascais.webp)
+content/blog/photo-spots-lisbon.md:![Beach at the Cabo da Roca](/images/cityscapes/portugal/beach-cabo-da-roca-portugal.webp)
+content/blog/photo-spots-london.md:    image: "/images/cityscapes/england/big-ben-london.webp"
+content/blog/photo-spots-london.md:    image: "/images/cityscapes/england/view-from-the-shard-london.webp"
+content/blog/photo-spots-london.md:    image: "/images/cityscapes/england/london-eye-long-exposure.webp"
+content/blog/photo-spots-london.md:    image: "/images/cityscapes/england/tower-bridge-london-shot-on-iphone.webp"
+content/blog/photo-spots-london.md:    image: "/images/cityscapes/england/long-exposure-london-bus.webp"
+content/blog/photo-spots-london.md:![Big Ben London at Night shot on iPhone 6](/images/cityscapes/england/big-ben-london.webp)
+content/blog/photo-spots-london.md:![View from the Shard shot with ProCamera App](/images/cityscapes/england/view-from-the-shard-london.webp)
+content/blog/photo-spots-london.md:![Long exposure of the London Eye](/images/cityscapes/england/london-eye-long-exposure.webp)
+content/blog/photo-spots-london.md:![Tower Bridge shot on iPhone](/images/cityscapes/england/tower-bridge-london-shot-on-iphone.webp)
+content/blog/photo-spots-london.md:![Long exposure of a red double-decker bus](/images/cityscapes/england/long-exposure-london-bus.webp)
+content/blog/photo-spots-prague.md:    image: "/images/cityscapes/czech-republic/dancing-house-prague-at-night.jpeg"
+content/blog/photo-spots-prague.md:    image: "/images/cityscapes/czech-republic/national-museum-prague-cc-by-nc-squics-com.webp"
+content/blog/photo-spots-prague.md:    image: "/images/cityscapes/czech-republic/charles-bridge-tower-prague-cc-by-nc-squics-com.webp"
+content/blog/photo-spots-prague.md:![Dancing House, Prague](/images/cityscapes/czech-republic/dancing-house-prague-at-night.jpeg)
+content/blog/photo-spots-prague.md:![National Museum | Prague; (cc) by-nc squics.com](/images/cityscapes/czech-republic/national-museum-prague-cc-by-nc-squics-com.webp)
+content/blog/photo-spots-prague.md:![Charles Bridge Tower | Prague; (cc) by-nc squics.com](/images/cityscapes/czech-republic/charles-bridge-tower-prague-cc-by-nc-squics-com.webp)
+content/blog/photo-spots-san-francisco.md:  image: /images/cityscapes/usa/photo-spots-san-francisco.webp
+content/blog/photo-spots-san-francisco.md:    image: "/images/cityscapes/usa/skyscraper.webp"
+content/blog/photo-spots-san-francisco.md:    image: "/images/cityscapes/usa/marshalls-beach-san-francisco.webp"
+content/blog/photo-spots-san-francisco.md:    image: "/images/cityscapes/usa/fire-escape-stairs-san-francisco.webp"
+content/blog/photo-spots-san-francisco.md:    image: "/images/cityscapes/usa/alcatraz-pirson-cells.webp"
+content/blog/photo-spots-san-francisco.md:    image: "/images/cityscapes/usa/golden-gate-bridge-boat-tour.webp"
+content/blog/photo-spots-san-francisco.md:    image: "/images/cityscapes/usa/palace-of-fine-arts.webp"
+content/blog/photo-spots-san-francisco.md:    image: "/images/cityscapes/usa/coit-tower-san-francisco.webp"
+content/blog/photo-spots-san-francisco.md:![Fine Art edit of a skyscraper in San Francisco](/images/cityscapes/usa/skyscraper.webp)
+content/blog/photo-spots-san-francisco.md:![Marshall’s Beach San Francisco](/images/cityscapes/usa/marshalls-beach-san-francisco.webp)
+content/blog/photo-spots-san-francisco.md:![Fire Escape Stairs](/images/cityscapes/usa/fire-escape-stairs-san-francisco.webp)
+content/blog/photo-spots-san-francisco.md:![Prison Cells on Alcatraz Island](/images/cityscapes/usa/alcatraz-pirson-cells.webp)
+content/blog/photo-spots-san-francisco.md:![Golden Gate Bridge photographed during a boat tour](/images/cityscapes/usa/golden-gate-bridge-boat-tour.webp)
+content/blog/photo-spots-san-francisco.md:![Palace of Fine Arts in San Francisco](/images/cityscapes/usa/palace-of-fine-arts.webp)
+content/blog/photo-spots-san-francisco.md:![Coit Tower San Francisco](/images/cityscapes/usa/coit-tower-san-francisco.webp)
+content/blog/photo-spots-tallinn.md:    image: "/images/cityscapes/estonia/the-abandoned-pirita-convent-in-tallinn.webp"
+content/blog/photo-spots-tallinn.md:    image: "/images/cityscapes/estonia/the-port-gate-in-tallinn-at-night.webp"
+content/blog/photo-spots-tallinn.md:    image: "/images/cityscapes/estonia/remains-of-an-abandoned-house-at-kopli-lines-in-tallinn.webp"
+content/blog/photo-spots-tallinn.md:    image: "/images/cityscapes/estonia/linnahall-in-tallinn.webp"
+content/blog/photo-spots-tallinn.md:    image: "/images/cityscapes/estonia/ancient-city-walls-in-tallinn.webp"
+content/blog/photo-spots-tallinn.md:    image: "/images/cityscapes/estonia/alexander-nevsky-cathedral-in-tallinn.webp"
+content/blog/photo-spots-tallinn.md:    image: "/images/cityscapes/estonia/st-cathrines-passage-tallinn.webp"
+content/blog/photo-spots-tallinn.md:![The abandoned Pirita Convent in Tallinn](/images/cityscapes/estonia/the-abandoned-pirita-convent-in-tallinn.webp)
+content/blog/photo-spots-tallinn.md:![The Port Gate in Tallinn at night](/images/cityscapes/estonia/the-port-gate-in-tallinn-at-night.webp)
+content/blog/photo-spots-tallinn.md:![Remains of an abandoned house at Kopli Lines in Tallinn](/images/cityscapes/estonia/remains-of-an-abandoned-house-at-kopli-lines-in-tallinn.webp)
+content/blog/photo-spots-tallinn.md:![Linnahall in Tallinn](/images/cityscapes/estonia/linnahall-in-tallinn.webp)
+content/blog/photo-spots-tallinn.md:![Ancient City Walls in Tallinn](/images/cityscapes/estonia/ancient-city-walls-in-tallinn.webp)
+content/blog/photo-spots-tallinn.md:![Alexander Nevsky Cathedral in Tallinn](/images/cityscapes/estonia/alexander-nevsky-cathedral-in-tallinn.webp)
+content/blog/photo-spots-tallinn.md:![St. Cathrine’s Passage Tallinn](/images/cityscapes/estonia/st-cathrines-passage-tallinn.webp)
+content/blog/photo-spots-tirana-albania.md:    image: "/images/cityscapes/albania/pyramid-of-tirana-shot-on-iphone-6s-plus.webp"
+content/blog/photo-spots-tirana-albania.md:    image: "/images/cityscapes/albania/et-hem-bey-mosque-during-the-blue-hour.webp"
+content/blog/photo-spots-tirana-albania.md:    image: "/images/cityscapes/albania/national-museum-of-history-shot-on-iphone-6s-plus.webp"
+content/blog/photo-spots-tirana-albania.md:    image: "/images/cityscapes/albania/tanners-bridge-in-tirana.webp"
+content/blog/photo-spots-tirana-albania.md:    image: "/images/cityscapes/albania/church-of-resurrection-in-tirana-albania.webp"
+content/blog/photo-spots-tirana-albania.md:    image: "/images/tutorials/usa/skyscraper-shell-tirana.webp"
+content/blog/photo-spots-tirana-albania.md:    image: "/images/cityscapes/albania/abandoned-theatre-in-the-grand-park-of-tirana.webp"
+content/blog/photo-spots-tirana-albania.md:![Pyramid of Tirana; shot on iPhone 6s Plus](/images/cityscapes/albania/pyramid-of-tirana-shot-on-iphone-6s-plus.webp)
+content/blog/photo-spots-tirana-albania.md:![Et'hem Bey Mosque during the Blue Hour](/images/cityscapes/albania/et-hem-bey-mosque-during-the-blue-hour.webp)
+content/blog/photo-spots-tirana-albania.md:![National Museum of History; shot on iPhone 6s Plus](/images/cityscapes/albania/national-museum-of-history-shot-on-iphone-6s-plus.webp)
+content/blog/photo-spots-tirana-albania.md:![Tanner’s Bridge in Tirana](/images/cityscapes/albania/tanners-bridge-in-tirana.webp)
+content/blog/photo-spots-tirana-albania.md:![Church of Resurrection in Tirana, Albania](/images/cityscapes/albania/church-of-resurrection-in-tirana-albania.webp)
+content/blog/photo-spots-tirana-albania.md:![Under Construction in Tirana, Albania](/images/tutorials/usa/skyscraper-shell-tirana.webp)
+content/blog/photo-spots-tirana-albania.md:![Abandoned Theatre in the Grand Park of Tirana](/images/cityscapes/albania/abandoned-theatre-in-the-grand-park-of-tirana.webp)
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/roman-ruin-fountain-schoenbrunn.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/upper-belvedere-palace.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/kaiserwasser-vienna.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/hundertwasserhaus-vienna.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/dc-tower-1-vienna-modern-architecture.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/modern-architecture-district-2.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/library-university-of-economics-vienna-high-key.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/oeamtc-headquarters-vienna.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/district-court-vienna-modern.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/vienna-arsenal.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/portfolio/general/prater-iphone7plus.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/narrow-street-in-the-city-center-of-vienna.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/st-francis-of-assisi-church.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/uniqa-tower-in-vienna.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/vintage-style-photo-of-the-film-casino.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/hofburg-in-vienna.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/huge-fountain-at-schwarzenbergplatz-vienna.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/photo-spots-vienna.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/charles-church-lockdown-iphone11pro.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/volkstheater-metro-station-during-the-lockdown.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/photo-spots-vienna-2.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/musikverein-vienna-at-night.jpg"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/cherry-blossom-vienna-hainburger-weg.jpeg"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/long-exposure-photography-waterfall-shot-on-iphone-5s.webp"
+content/blog/photo-spots-vienna.md:    image: "/images/cityscapes/austria/the-combat-flak-tower-at-augarten-notice-the-cables-around.webp"
+content/blog/photo-spots-vienna.md:![Fountain Ruin Schönbrunn Castle Gardens](/images/cityscapes/austria/roman-ruin-fountain-schoenbrunn.webp)
+content/blog/photo-spots-vienna.md:![Belvedere Palace (Upper Belvedere) in Vienna](/images/cityscapes/austria/upper-belvedere-palace.webp)
+content/blog/photo-spots-vienna.md:![Votiv Church](/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp)
+content/blog/photo-spots-vienna.md:![Kaiserwasser Vienna](/images/cityscapes/austria/kaiserwasser-vienna.webp)
+content/blog/photo-spots-vienna.md:![The Hundertwasserhaus in Vienna’s third district](/images/cityscapes/austria/hundertwasserhaus-vienna.webp)
+content/blog/photo-spots-vienna.md:![DC Tower 1 in Vienna](/images/cityscapes/austria/dc-tower-1-vienna-modern-architecture.webp)
+content/blog/photo-spots-vienna.md:![Quarter 2 Vienna](/images/cityscapes/austria/modern-architecture-district-2.webp)
+content/blog/photo-spots-vienna.md:![Library of the University of Economics](/images/cityscapes/austria/library-university-of-economics-vienna-high-key.webp)
+content/blog/photo-spots-vienna.md:![Headquarters of the Austrian Automobile Association at night](/images/cityscapes/austria/oeamtc-headquarters-vienna.webp)
+content/blog/photo-spots-vienna.md:![](/images/cityscapes/austria/district-court-vienna-modern.webp)
+content/blog/photo-spots-vienna.md:![The Vienna Arsenal](/images/cityscapes/austria/vienna-arsenal.webp)
+content/blog/photo-spots-vienna.md:![Long exposure of a fairground ride at the Prater, Vienna.](/images/portfolio/general/prater-iphone7plus.webp)
+content/blog/photo-spots-vienna.md:![Narrow street in the city center of Vienna](/images/cityscapes/austria/narrow-street-in-the-city-center-of-vienna.webp)
+content/blog/photo-spots-vienna.md:![St. Francis of Assisi Church](/images/cityscapes/austria/st-francis-of-assisi-church.webp)
+content/blog/photo-spots-vienna.md:![Uniqa Tower in Vienna](/images/cityscapes/austria/uniqa-tower-in-vienna.webp)
+content/blog/photo-spots-vienna.md:![Vintage style photo of the Film Casino](/images/cityscapes/austria/vintage-style-photo-of-the-film-casino.webp)
+content/blog/photo-spots-vienna.md:![Hofburg in Vienna](/images/cityscapes/austria/hofburg-in-vienna.webp)
+content/blog/photo-spots-vienna.md:![Huge fountain at Schwarzenbergplatz, Vienna](/images/cityscapes/austria/huge-fountain-at-schwarzenbergplatz-vienna.webp)
+content/blog/photo-spots-vienna.md:![](/images/cityscapes/austria/photo-spots-vienna.webp)
+content/blog/photo-spots-vienna.md:![](/images/cityscapes/austria/charles-church-lockdown-iphone11pro.webp)
+content/blog/photo-spots-vienna.md:![Volkstheater Metro Station during the lockdown](/images/cityscapes/austria/volkstheater-metro-station-during-the-lockdown.webp)
+content/blog/photo-spots-vienna.md:![](/images/cityscapes/austria/photo-spots-vienna-2.webp)
+content/blog/photo-spots-vienna.md:![Vienna Musikverein](/images/cityscapes/austria/musikverein-vienna-at-night.jpg)
+content/blog/photo-spots-vienna.md:![Cherry blossom in Vienna at the Hainburger Weg](/images/cityscapes/austria/cherry-blossom-vienna-hainburger-weg.jpeg)
+content/blog/photo-spots-vienna.md:![Small waterfall at the Setagayapark in Vienna](/images/cityscapes/austria/long-exposure-photography-waterfall-shot-on-iphone-5s.webp)
+content/blog/photo-spots-vienna.md:![Using leading lines for the abandoned flak tower at Augarten](/images/cityscapes/austria/the-combat-flak-tower-at-augarten-notice-the-cables-around.webp)
+content/blog/photo-spots-warsaw-poland.md:    image: "/images/cityscapes/poland/spire-skyscraper-in-warsaw-poland-photographed-with-moment.webp"
+content/blog/photo-spots-warsaw-poland.md:    image: "/images/portfolio/general/palace-of-culture-and-science-iphonex.webp"
+content/blog/photo-spots-warsaw-poland.md:    image: "/images/cityscapes/poland/photo-spots-warsaw-poland.webp"
+content/blog/photo-spots-warsaw-poland.md:![Spire Skyscraper in Warsaw, Poland, photographed with Moment Superfish lens](/images/cityscapes/poland/spire-skyscraper-in-warsaw-poland-photographed-with-moment.webp)
+content/blog/photo-spots-warsaw-poland.md:![Long exposure of the Palace of Culture using Slow Shutter Cam App](/images/portfolio/general/palace-of-culture-and-science-iphonex.webp)
+content/blog/photo-spots-warsaw-poland.md:![](/images/cityscapes/poland/photo-spots-warsaw-poland.webp)
+content/blog/photo-workflow-london-eye.md:  image: /images/tutorials/england/london-eye-long-exposure.webp
+content/blog/photo-workflow-london-eye.md:![Long Exposure of the London Eye out of the camera (app)](/images/tutorials/england/london-eye-long-exposure-workflow-unedited.webp)
+content/blog/photo-workflow-london-eye.md:![Using the clone stamp tool to remove the cables](/images/tutorials/england/using-the-clone-stamp-tool-to-remove-the-cables.webp)
+content/blog/photo-workflow-london-eye.md:![Final long exposure of the London Eye](/images/tutorials/england/london-eye-long-exposure-2.webp)
+content/blog/photo-workflow-pottendorf.md:  image: /images/tutorials/general/castle-pottendorf.webp
+content/blog/photo-workflow-pottendorf.md:![Castle Pottendorf is a beautiful abandoned castle in Lower Austria](/images/tutorials/general/abandoned-castle-iphone-11-pro.webp)
+content/blog/photo-workflow-pottendorf.md:![Castle Pottendorf out of the iPhone Camera App](/images/tutorials/general/castle-pottendorf-out-of-the-iphone-camera-app.webp)
+content/blog/photo-workflow-pottendorf.md:![Adjustments from the Lights adjustment group](/images/tutorials/general/adjustments-from-the-lights-adjustment-group.webp)
+content/blog/photo-workflow-pottendorf.md:![Fix the blue sky with color adjustments in Lightroom Mobile](/images/tutorials/general/fix-the-blue-sky-with-color-adjustments-in-lightroom-mobile.webp)
+content/blog/photo-workflow-pottendorf.md:![Fixing the saturation and luminance of the grass](/images/tutorials/general/fixing-the-saturation-and-luminance-of-the-grass.webp)
+content/blog/photo-workflow-pottendorf.md:![Adjust the tone of the facade](/images/tutorials/general/adjust-the-tone-of-the-facade.webp)
+content/blog/photo-workflow-pottendorf.md:![Use selective adjustments to adjust objects](/images/tutorials/general/use-selective-adjustments-to-adjust-objects.webp)
+content/blog/photo-workflow-pottendorf.md:![Castle Pottendorf shot on iPhone 11 Pro](/images/tutorials/general/castle-pottendorf-shot-on-iphone-11-pro.webp)
+content/blog/pripyat-ghost-town-ukraine.md:  image: /images/lost-places/ukraine/enlight1.webp
+content/blog/pripyat-ghost-town-ukraine.md:![Polyssia Hotel in Pripyat](/images/lost-places/ukraine/polyssia-hotel-in-pripyat.webp)
+content/blog/pripyat-ghost-town-ukraine.md:![Theatre in the Palace of Culture in Pripyat](/images/lost-places/ukraine/theatre-in-the-palace-of-culture-in-pripyat.webp)
+content/blog/pripyat-ghost-town-ukraine.md:![Swimming Hall in the Palace of Culture in Pripyat](/images/lost-places/ukraine/swimming-hall-in-the-palace-of-culture-in-pripyat.webp)
+content/blog/pripyat-ghost-town-ukraine.md:![Ferris wheel at the fairground in Pripyat](/images/lost-places/ukraine/ferris-wheel-at-the-fairground-in-pripyat.webp)
+content/blog/pripyat-ghost-town-ukraine.md:![Classroom in a school in Pripyat](/images/lost-places/ukraine/classroom-in-a-school-in-pripyat.webp)
+content/blog/pripyat-ghost-town-ukraine.md:![Gas Masks found in the School in Pripyat](/images/lost-places/ukraine/gas-masks-found-in-the-school-in-pripyat.webp)
+content/blog/pripyat-ghost-town-ukraine.md:![Former residential building in Prypiat](/images/lost-places/ukraine/former-residential-building-in-prypiat.webp)
+content/blog/procamera-app-review.md:  image: /images/reviews/general/procamera-app-review.webp
+content/blog/procamera-app-review.md:![Abandoned Pool. Shot on iPhone 15 Pro Max using ProCamera App](/images/reviews/general/mens-pool-stadtbad-lichtenberg-berlin.webp)
+content/blog/procamera-app-review.md:![Dark Hedges, Ireland. Shot on iPhone 15 Pro Max using ProCamera App](/images/reviews/general/dark-hedges-ireland.webp)
+content/blog/procamera-app-review.md:![Nightly London shot using ProCamera Low Light Mode](/images/cityscapes/england/view-from-the-shard-london.webp)
+content/blog/procamera-app-review.md:![](/images/reviews/general/procamera-48-megapixel-toggle.webp)
+content/blog/procamera-app-review.md:![ProCamera's 2x digital zoom supports 48 megapixels](/images/reviews/general/procamera-48-megapixels-digital-zoom.webp)
+content/blog/procamera-app-review.md:![Votiv Church shot using ProCamera App using anti-shake shutter release](/images/reviews/general/votiv-church-shot-using-procamera-app-using-anti-shake-shutt.webp)
+content/blog/procamera-app-review.md:![Anti-shake shutter release in ProCamera App](/images/reviews/general/anti-shake-shutter-release-in-procamera-app.webp)
+content/blog/procamera-app-review.md:![Secondary shutter release setting in ProCamera App](/images/reviews/general/secondary-shutter-release-setting-in-procamera-app.webp)
+content/blog/procamera-app-review.md:![London at night as seen from the Shard. Shot on ProCamera App using Night Mode](/images/cityscapes/england/view-from-the-shard-london.webp)
+content/blog/procamera-app-review.md:![File Format selector in ProCamera App](/images/reviews/general/procamera-file-format-selector.webp)
+content/blog/procamera-app-review.md:![ProCamera User Interface (bottom)](/images/reviews/general/procamera-user-interface-bottom.webp)
+content/blog/procamera-app-review.md:![ProCamera User Interface (top)](/images/reviews/general/procamera-user-interface-top.webp)
+content/blog/procamera-app-review.md:![ProCamera Main Menu](/images/reviews/general/procamera-main-menu.webp)
+content/blog/raw-workflow-lightroom-mobile.md:  image: /images/tutorials/general/raw-workflow-iphone.webp
+content/blog/raw-workflow-lightroom-mobile.md:![Apple ProRAW in Lightroom Mobile without ProRAW profile](/images/tutorials/general/apple-proraw-in-lightroom-mobile-without-proraw-profile.webp)
+content/blog/raw-workflow-lightroom-mobile.md:![Apple ProRAW Profile in Lightroom Mobile](/images/tutorials/general/apple-proraw-profile-in-lightroom-mobile.webp)
+content/blog/raw-workflow-lightroom-mobile.md:![Light Adjustments in Lightroom Mobile](/images/tutorials/general/light-adjustments-in-lightroom-mobile.webp)
+content/blog/raw-workflow-lightroom-mobile.md:![Crop the photo in Lightroom Mobile](/images/tutorials/general/crop-the-photo-in-lightroom-mobile.webp)
+content/blog/raw-workflow-lightroom-mobile.md:![Adjustier Colors in Lightroom Mobile](/images/tutorials/general/adjustier-colors-in-lightroom-mobile.webp)
+content/blog/raw-workflow-lightroom-mobile.md:![Applying Clarity and Texture](/images/tutorials/general/applying-clarity-and-texture.webp)
+content/blog/raw-workflow-lightroom-mobile.md:![Fixing geometry in Lightroom](/images/tutorials/general/fixing-geometry-in-lightroom.webp)
+content/blog/raw-workflow-lightroom-mobile.md:![Adjustier Curves as the final touch](/images/tutorials/general/adjustier-curves-as-the-final-touch.webp)
+content/blog/raw-workflow-lightroom-mobile.md:![Tagging Photo in Lightroom Mobile](/images/tutorials/general/tagging-photo-in-lightroom-mobile.webp)
+content/blog/recommended-camera-apps.md:  image: /images/iphone-photography/usa/best-camera-apps-iphone.webp
+content/blog/recommended-camera-apps.md:  src1="/images/iphone-photography/usa/neighbors-cat-shot-on-iphone.webp"
+content/blog/recommended-camera-apps.md:  src2="/images/iphone-photography/usa/collapsed-roof-textile-factory-forst-lausitz.webp"
+content/blog/recommended-camera-apps.md:  src3="/images/iphone-photography/usa/clouds-mountain-hike.webp"
+content/blog/recommended-camera-apps.md:  src1="/images/cityscapes/england/view-from-the-shard-london.webp"
+content/blog/recommended-camera-apps.md:  src2="/images/cityscapes/germany/cologne-cathedral-sunset.jpeg"
+content/blog/recommended-camera-apps.md:  src3="/images/iphone-photography/usa/hairdressers-room-basement-abandoned-hubertusbad-berlin.webp"
+content/blog/recommended-camera-apps.md:  src1="/images/reviews/long-exposure-of-a-fireworks-shot-on-iphone-xs-using-slow-sh.webp"
+content/blog/recommended-camera-apps.md:  src2="/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp"
+content/blog/recommended-camera-apps.md:  src3="/images/reviews/brooklyn-bridge-with-moving-clouds-shot-on-iphone-7-plus-usi.webp"
+content/blog/recommended-camera-apps.md:  src1="/images/iphone-photography/usa/waterfall-shot-on-reeheld-camera-app.webp"
+content/blog/recommended-camera-apps.md:  src2="/images/iphone-photography/usa/long-exposure-ferris-wheel-reeheld-app.webp"
+content/blog/recommended-camera-apps.md:  src3="/images/iphone-photography/usa/devils-mouth-cascais.webp"
+content/blog/recommended-iphone-photo-accessoires.md:  image: /images/iphone-photography/general/iphone-photo-accessories.webp
+content/blog/recommended-iphone-photo-accessoires.md:![Neewer iPhone Cage for photographing in lost places](/images/iphone-photography/general/newer-iphone-cage-with-light-and-grip.webp)
+content/blog/recommended-iphone-photo-accessoires.md:![iPhone 11 used with Moment Gorillapod Magnetic](/images/reviews/iphone-11-with-gorillapod-magnetic-attached-to-a-window-fram.webp)
+content/blog/recommended-iphone-photo-accessoires.md:![Three Anker MagGo battery packs I use](/images/iphone-photography/general/three-anker-maggo-powerbanks.webp)
+content/blog/recommended-photo-editing-apps.md:  image: /images/iphone-photography/usa/best-iphone-photo-editing-apps.webp
+content/blog/recommended-photo-editing-apps.md:![Photomator is one of the best photo editing apps on iPhone and iPad](/images/iphone-photography/usa/photomator-teaser.webp)
+content/blog/recommended-photo-editing-apps.md:![TouchRetouch on iPad and iPhone](/images/iphone-photography/usa/screenshot-touchretouch-iphone-ipad.webp)
+content/blog/recommended-photo-editing-apps.md:![Screenshot SKRWT on iPad and iPhone showing 4PNTS and SKRWT modules](/images/iphone-photography/usa/screenshot-skrwt-iphone-ipad.webp)
+content/blog/review-adobe-lightroom-mobile-premium.md:  image: /images/reviews/general/lightroom-mobile-review-teaser.webp
+content/blog/review-adobe-lightroom-mobile-premium.md:![Example of a selective adjustment in Adobe Lightroom Mobile Premium](/images/reviews/general/selective-adjustments-lightroom-mobile.webp)
+content/blog/review-adobe-lightroom-mobile-premium.md:![Fix perspective distortions in Lightroom Mobile Premium](/images/reviews/general/fix-perspective-distortion-lightroom-moblile.webp)
+content/blog/review-adobe-lightroom-mobile-premium.md:![Using the Healing Brush with generative AI in Lightroom Mobile](/images/reviews/general/generative-remove-lightroom-mobile.webp)
+content/blog/review-adobe-photoshop-express.md:  image: /images/reviews/general/photoshop-express-review-teaser.webp
+content/blog/review-adobe-photoshop-express.md:![Adobe Photoshop Express launched from Camera Roll](/images/reviews/general/adobe-photoshop-express-launched-from-camera-roll.webp)
+content/blog/review-adobe-photoshop-express.md:![Adobe Photoshop Express looks (here: HDR looks)](/images/reviews/general/adobe-photoshop-express-looks-here-hdr-looks.webp)
+content/blog/review-adobe-photoshop-express.md:![Applying an adjustment in Photoshop Express.](/images/reviews/general/applying-an-adjustment-in-photoshop-express.webp)
+content/blog/review-adobe-photoshop-express.md:![Photoshop Express launched as a standalone app](/images/reviews/general/photoshop-express-launched-as-a-standalone-app.webp)
+content/blog/review-amazon-basics-travel-tripod.md:  image: /images/reviews/general/amazonbasics-travel-tripod-for-iphone-photographers.webp
+content/blog/review-amazon-basics-travel-tripod.md:![40 Second long exposure of the London Eye at night](/images/reviews/a-long-exposure-of-the-london-eye-shot-on-iphone-6-using-slo.webp "40-second long exposure of the London Eye at night.")
+content/blog/review-amazon-basics-travel-tripod.md:![56 second long exposure of the New York Skyline](/images/reviews/brooklyn-bridge-with-moving-clouds-shot-on-iphone-7-plus-usi.webp)
+content/blog/review-amazon-basics-travel-tripod.md:![8 second long exposure of the Parliament in Budapest](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp)
+content/blog/review-amazon-basics-travel-tripod.md:![AmazonBasics Travel Tripod on stone wall in Yosemite](/images/reviews/general/amazonbasics-travel-tripod-on-stone-wall-in-yosemite.webp)
+content/blog/review-amazon-basics-travel-tripod.md:![AmazonBasics Travel Tripod with iPhone mounted using Joby Griptight with my old backpack used as a stabilizing weight.](/images/reviews/general/amazonbasics-travel-tripod-with-iphone-mounted-using-joby-gr.webp)
+content/blog/review-anker-610-magnetic-phone-grip.md:  image: /images/reviews/general/anker-610-magnetic-phone-grip-teaser.webp
+content/blog/review-anker-610-magnetic-phone-grip.md:![Anker 610 Magnetic Phone Grip](/images/reviews/general/anker-610-magnetic-grip.webp)
+content/blog/review-anker-610-magnetic-phone-grip.md:![Anker 610 Magnetic Phone Grip attached to my iPhone 14 Pro (with a Moment Case)](/images/reviews/general/anker-610-attached-to-moment-case.webp)
+content/blog/review-anker-power-core-26800-mah-high-capacity-powerbank.md:  image: /images/reviews/general/anker-power-core-26800-review.webp
+content/blog/review-anker-power-core-26800-mah-high-capacity-powerbank.md:![Anker Power Core 26800 mAh powerbank](/images/reviews/general/anker-power-core-26800-mah-powerbank.webp)
+content/blog/review-anker-powercore-ii-slim-10000-mah-power-bank.md:  image: /images/reviews/general/anker-powercore-ii-slim-10000-slim-960.webp
+content/blog/review-anker-powercore-ii-slim-10000-mah-power-bank.md:![Anker PowerCore II Slim 10.000 mAh in front vs. AmazonBasics power bank in the back](/images/reviews/general/anker-powercore-ii-slim-10-000-mah-in-front-vs-amazonbasics.webp)
+content/blog/review-anker-powercore-ii-slim-10000-mah-power-bank.md:![Anker PowerCore II Slim 10.000 mAh in the front and AmazonBasics power bank in the back](/images/reviews/general/anker-powercore-ii-slim-10-000-mah-in-the-front-and-amazonba.webp)
+content/blog/review-anker-powercore-magnetic-5k.md:  image: /images/reviews/general/anker-powercore-magnetic-5k.webp
+content/blog/review-anker-powercore-magnetic-5k.md:![Anker Powercore magnetic 5K attached to an iPhone 12 Pro Max](/images/reviews/general/anker-521-magnetic-battery-attached-to-iphone.webp)
+content/blog/review-anker-powercore-magnetic-5k.md:![Status LEDs of the Anker Powercore magnetic 5K](/images/reviews/general/leds-anker-521-magnetic-battery.webp)
+content/blog/review-anker-powercore-magnetic-5k.md:![Technical details of the Anker PowerCore Magnetic 5K](/images/reviews/general/technical-details-of-the-anker-powercore-magnetic-5k.webp)
+content/blog/review-anker-powercore-magnetic-5k.md:![Technical details of the Apple MagSafe battery pack](/images/reviews/general/technical-details-of-the-apple-magsafe-battery-pack.webp)
+content/blog/review-apple-smart-battery-case.md:  image: /images/reviews/general/review-apple-smart-battery-case.webp
+content/blog/review-apple-smart-battery-case.md:![My broken iPhone XS](/images/reviews/general/my-broken-iphone-xs.webp)
+content/blog/review-apple-smart-battery-case.md:![Charging indicator for Apple Smart Battery Case](/images/reviews/general/charging-indicator-for-apple-smart-battery-case.webp)
+content/blog/review-apple-smart-battery-case.md:![Smart Battery Case Thickness](/images/reviews/general/smart-battery-case-thickness.webp)
+content/blog/review-auto-perspective-correction-in-procamera-app.md:  image: /images/reviews/general/procamera-perspective-distortion-fix-teaser.webp
+content/blog/review-auto-perspective-correction-in-procamera-app.md:![Perspective distortion (red lines) from a building](/images/reviews/general/perspective-distortion-red-lines-from-a-building.webp)
+content/blog/review-auto-perspective-correction-in-procamera-app.md:![Perspective distortion (red lines) in a forest.](/images/reviews/general/perspective-distortion-red-lines-in-a-forest.webp)
+content/blog/review-auto-perspective-correction-in-procamera-app.md:![](/images/reviews/general/rossauer-barracks.webp)
+content/blog/review-auto-perspective-correction-in-procamera-app.md:![Icon indicating if fixing perspective distortion is turned on or off in ProCamera](/images/reviews/general/icon-indicating-if-fixing-perspective-distortion-is-turned-o.webp)
+content/blog/review-auto-perspective-correction-in-procamera-app.md:![](/images/reviews/general/review-auto-perspective-correction-in-procamera-ap.webp)
+content/blog/review-auto-perspective-correction-in-procamera-app.md:![Return to original photo without perspective distortion fixed in iOS camera roll](/images/reviews/general/return-to-original-photo-without-perspective-distortion-fixe.webp)
+content/blog/review-auto-perspective-correction-in-procamera-app.md:![Tap and hold photo with perspective distortion fixed in edit mode to see original shot](/images/reviews/general/tap-and-hold-photo-with-perspective-distortion-fixed-in-edit.webp)
+content/blog/review-blue-hour-calculators-iphone.md:  image: /images/iphone-photography/general/blue-hour-calculator-sun-surveyor.webp
+content/blog/review-blue-hour-calculators-iphone.md:![A mosque in Tirana, Albania, during the blue hour](/images/iphone-photography/general/a-mosque-in-tirana-albania-during-the-blue-hour.webp)
+content/blog/review-blue-hour-calculators-iphone.md:![Federal Chancellery in Berlin during the holden hour](/images/iphone-photography/general/federal-chancellery-in-berlin-during-the-holden-hour.webp)
+content/blog/review-blue-hour-calculators-iphone.md:![An abandoned ship in Vienna during the blue hour](/images/iphone-photography/general/an-abandoned-ship-in-vienna-during-the-blue-hour.webp)
+content/blog/review-blue-hour-calculators-iphone.md:![ProCamera App widget with blue hour timings](/images/iphone-photography/general/procamera-app-widget-with-blue-hour-timings.webp)
+content/blog/review-blue-hour-calculators-iphone.md:![Adding the ProCamera widget to your widget screen on iPhone](/images/iphone-photography/general/adding-the-procamera-widget-to-your-widget-screen-on-iphone.webp)
+content/blog/review-blue-hour-calculators-iphone.md:![Golden and Blue Hour in Sun Surveyor App](/images/iphone-photography/general/golden-and-blue-hour-in-sun-surveyor-app.webp)
+content/blog/review-camera-reflect-app.md:  image: /images/reviews/general/reflect-mirror-camera-app-review-teaser.webp
+content/blog/review-camera-reflect-app.md:![Tap ](/images/reviews/general/review-camera-reflect-app.webp)
+content/blog/review-camera-reflect-app.md:![Using the four buttons in the toolbar you can adjust the material settings used for reflection.](/images/reviews/general/using-the-four-buttons-in-the-toolbar-you-can-adjust-the-mat.webp)
+content/blog/review-camera-reflect-app.md:![](/images/reviews/general/review-camera-reflect-app-2.webp)
+content/blog/review-camera-reflect-app.md:![Use the ](/images/reviews/general/use-the.webp)
+content/blog/review-camera-reflect-app.md:![By using the ](/images/reviews/general/by-using-the.webp)
+content/blog/review-camera-reflect-app.md:![Using the ](/images/reviews/general/using-the.webp)
+content/blog/review-camera-reflect-app.md:![The app offers three different kinds of fog. Use the slider to set the intensity of the fog.](/images/reviews/general/the-app-offers-three-different-kinds-of-fog-use-the-slider.webp)
+content/blog/review-field-notes-notebooks.md:  image: /images/reviews/usa/review-field-notes-memo-books-travel.webp
+content/blog/review-field-notes-notebooks.md:![A tiny selection of the Field Notes Memo books I own.](/images/reviews/usa/a-tiny-selection-of-the-field-notes-memo-books-i-own.webp)
+content/blog/review-field-notes-notebooks.md:![A Field Notes Note Book (left) compared to a Field Notes Memo Book (right)](/images/reviews/usa/a-field-notes-note-book-left-compared-to-a-field-notes-mem.webp)
+content/blog/review-field-notes-notebooks.md:![A Field Notes Memo Book filled with Experiences and Travel Notes](/images/reviews/usa/a-field-notes-memo-book-filled-with-experiences-and-travel-n.webp)
+content/blog/review-field-notes-notebooks.md:![Bellroy Field Notes Cover for Memo Books](/images/reviews/usa/bellroy-field-notes-cover-for-memo-books.webp)
+content/blog/review-gonex-packable-backpack.md:  image: /images/reviews/general/gonex-packable-backpack-teaser.webp
+content/blog/review-gonex-packable-backpack.md:![Gonex packable Backpack packs into itself](/images/reviews/general/gonex-packable-backpack-packs-into-itself.webp)
+content/blog/review-gonex-packable-backpack.md:![Mounting Rings and sternum strap on the Gonex packable Backpack](/images/reviews/general/mounting-rings-and-sternum-strap-on-the-gonex-packable-backp.webp)
+content/blog/review-gonex-packable-backpack.md:![Sidestraps on the Gonex packable Backpack can be used in a variety of ways](/images/reviews/general/sidestraps-on-the-gonex-packable-backpack-can-be-used-in-a-v.webp)
+content/blog/review-google-trips-app-for-planning-trips.md:  image: /images/reviews/usa/review-google-trips-app.webp
+content/blog/review-google-trips-app-for-planning-trips.md:![Creating a trip in Google Trips](/images/reviews/usa/creating-a-trip-in-google-trips.webp)
+content/blog/review-google-trips-app-for-planning-trips.md:![Google Trips overview](/images/reviews/usa/google-trips-overview.webp)
+content/blog/review-google-trips-app-for-planning-trips.md:![Bookmarking locations in Google Trips](/images/reviews/usa/bookmarking-locations-in-google-trips.webp)
+content/blog/review-google-trips-app-for-planning-trips.md:![Select a list for a bookmark in Google Trips](/images/reviews/usa/select-a-list-for-a-bookmark-in-google-trips.webp)
+content/blog/review-google-trips-app-for-planning-trips.md:![Display bookmarked locations on a map in Google Trips](/images/reviews/usa/display-bookmarked-locations-on-a-map-in-google-trips.webp)
+content/blog/review-google-trips-app-for-planning-trips.md:![Day plans in Google Trips](/images/reviews/usa/day-plans-in-google-trips.webp)
+content/blog/review-google-trips-app-for-planning-trips.md:![Getting directions in Google Trips](/images/reviews/usa/getting-directions-in-google-trips.webp)
+content/blog/review-hydra-app.md:  image: /images/reviews/general/hydra-app-teaser.webp
+content/blog/review-hydra-app.md:![Half Dome in Yosemite shot on iPhone 7 Plus using Hydra Camera App](/images/reviews/general/half-dome-in-yosemite-shot-on-iphone-7-plus-using-hydra-came.webp)
+content/blog/review-hydra-app.md:![Abandoned Piano near Berline shot on iPhone XS using Hydra Camera App](/images/reviews/general/abandoned-piano-near-berline-shot-on-iphone-xs-using-hydra-c.webp)
+content/blog/review-hydra-app.md:![Abandoned Sauna in Leipzig show on iPhone X using Hydra Camera App](/images/reviews/general/abandoned-sauna-in-leipzig-show-on-iphone-x-using-hydra-came.webp)
+content/blog/review-hydra-app.md:![Votiv Church in Vienna shot on iPhone XS using Hydra Camera App](/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp)
+content/blog/review-hydra-app.md:![32 Megapixel photo shot with Hydra edited in Lightroom](/images/reviews/general/32-megapixel-photo-shot-with-hydra-edited-in-lightroom.webp)
+content/blog/review-hydra-app.md:![Hydra App User Interface](/images/reviews/general/hydra-app-user-interface.webp)
+content/blog/review-hydra-app.md:![Hydra App takes up to 100 photos](/images/reviews/general/hydra-app-takes-up-to-100-photos.webp)
+content/blog/review-hydra-app.md:![Hydra App on Apple Watch](/images/reviews/general/hydra-app-on-apple-watch.webp)
+content/blog/review-iphone-11-pro-photography.md:  image: /images/reviews/general/review-iphone-11-pro-teaser.webp
+content/blog/review-iphone-11-pro-photography.md:![Cathedral shot on iPhone 11 telephoto lens](/images/reviews/general/cathedral-shot-on-iphone-11-telephoto-lens.webp)
+content/blog/review-iphone-11-pro-photography.md:![Cathedral shot on iPhone 11 wide lens](/images/reviews/general/cathedral-shot-on-iphone-11-wide-lens.webp)
+content/blog/review-iphone-11-pro-photography.md:![Cathedral shot on iPhone 11 ultra-wide lens](/images/reviews/general/cathedral-shot-on-iphone-11-ultra-wide-lens.webp)
+content/blog/review-iphone-11-pro-photography.md:![Lost Place shot on iPhone 11 telephoto lens](/images/reviews/general/lost-place-shot-on-iphone-11-telephoto-lens.webp)
+content/blog/review-iphone-11-pro-photography.md:![Lost place shot on iPhone 11 wide lens](/images/reviews/general/lost-place-shot-on-iphone-11-wide-lens.webp)
+content/blog/review-iphone-11-pro-photography.md:![Lost Place shot on iPhone 11 ultra-wide lens](/images/reviews/general/lost-place-shot-on-iphone-11-ultra-wide-lens.webp)
+content/blog/review-iphone-11-pro-photography.md:![Icon indicating a photo captured outside the frame](/images/reviews/general/icon-indicating-a-photo-captured-outside-the-frame.webp)
+content/blog/review-iphone-11-pro-photography.md:![iPhone night camera mode icon](/images/reviews/general/iphone-night-camera-mode-icon.webp)
+content/blog/review-iphone12-pro-max.md:  image: /images/reviews/general/iphone-12-pro-max-review.webp
+content/blog/review-iphone12-pro-max.md:![Hotel Sacher shot on iPhone 12 Pro Max](/images/reviews/general/hotel-sacher-shot-on-iphone-12-pro-max.webp)
+content/blog/review-iphone12-pro-max.md:![Cupreous Horseman shot on iPhone 12 Pro Max](/images/reviews/general/cupreous-horseman-shot-on-iphone-12-pro-max.webp)
+content/blog/review-iphone12-pro-max.md:![Nature takes back shot on iPhone 12 Pro Max](/images/reviews/general/nature-takes-back-shot-on-iphone-12-pro-max.webp)
+content/blog/review-iphone12-pro-max.md:![iPhone 12 Pro Max (left) vs. iPhone 11 Pro (right)](/images/reviews/general/iphone-12-pro-max-left-vs-iphone-11-pro-right.webp)
+content/blog/review-joby-gorillapod-magnetic.md:  image: /images/reviews/general/review-joby-griptight-one-magnetic-impulse-gorillapod-hero.webp
+content/blog/review-joby-gorillapod-magnetic.md:![View from the Shard photography using Gorillapod mounted to handrail](/images/cityscapes/england/view-from-the-shard-london.webp)
+content/blog/review-joby-gorillapod-magnetic.md:![Old ship photographed by mounting Gorillapod magnetic to metal handrail of the bridge](/images/iphone-photography/general/an-abandoned-ship-in-vienna-during-the-blue-hour.webp)
+content/blog/review-joby-gorillapod-magnetic.md:![Joby Gorillapod Magnetic with iPhone 11 Pro at a lost place](/images/reviews/general/joby-gorillapod-magnetic-with-iphone-11-pro-at-a-lost-place.webp)
+content/blog/review-joby-gorillapod-magnetic.md:![iPhone 11 with Gorillapod Magnetic attached to a window frame at an abandoned factory](/images/reviews/iphone-11-with-gorillapod-magnetic-attached-to-a-window-fram.webp)
+content/blog/review-joby-griptight-tripod-mounts.md:  image: /images/reviews/general/review-griptight-tripod-mount.webp
+content/blog/review-joby-griptight-tripod-mounts.md:![Joby Griptight One and Griptight Pro iPhone tripod mounts](/images/reviews/general/joby-griptight-one-and-griptight-pro-iphone-tripod-mounts.webp)
+content/blog/review-joby-griptight-tripod-mounts.md:![Joby Griptight One iPhone Tripod Mount](/images/reviews/general/joby-griptight-one-iphone-tripod-mount.webp)
+content/blog/review-joby-griptight-tripod-mounts.md:![Back of Joby Griptight Pro iPhone tripod mount](/images/reviews/general/back-of-joby-griptight-pro-iphone-tripod-mount.webp)
+content/blog/review-joby-griptight-tripod-mounts.md:![iPhone with Moment Case in Joby Griptight Pro iPhone tripod mount](/images/reviews/general/iphone-with-moment-case-in-joby-griptight-pro-iphone-tripod.webp)
+content/blog/review-low-light-modes-procamera-app.md:  image: /images/reviews/general/procamera-app-review-low-light-mode-teaser.webp
+content/blog/review-low-light-modes-procamera-app.md:![London at Night shot on iPhone 6s Plus using ProCamera Low Light Mode](/images/reviews/london-at-night-shot-on-iphone-6s-plus-using-procamera-low-l.webp)
+content/blog/review-low-light-modes-procamera-app.md:![Radio City Music Hall in New York shot on iPhone 7 Plus using ProCamera Night Mode](/images/reviews/general/radio-city-music-hall-in-new-york-shot-on-iphone-7-plus-usin.webp)
+content/blog/review-low-light-modes-procamera-app.md:![New York Skyline shot on iPhone 7 Plus using ProCamera Low Light Mode](/images/reviews/general/new-york-skyline-shot-on-iphone-7-plus-using-procamera-low-l.webp)
+content/blog/review-low-light-modes-procamera-app.md:![Narrow passage in Tallinn shot on iPhone X using ProCamera Low Light Mode](/images/reviews/general/narrow-passage-in-tallinn-shot-on-iphone-x-using-procamera-l.webp)
+content/blog/review-low-light-modes-procamera-app.md:![Comparison of different shooting modes with ProCamera.](/images/reviews/general/comparison-of-different-shooting-modes-with-procamera.webp)
+content/blog/review-low-light-modes-procamera-app.md:![Palace of Culture in Sofia, Bulgaria, shot with Low Light+ and ProCamers](/images/reviews/general/palace-of-culture-in-sofia-bulgaria-shot-with-low-light-a.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:  image: /images/reviews/general/moment-superfish-lens-case.webp
+content/blog/review-moment-14mm-fisheye-lens.md:![Abandoned elevator shot on iPhone using Moment Superfish](/images/reviews/general/abandoned-elevator-shot-on-iphone-using-moment-superfish.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Abandoned church photographed using Moment Superfish Lens](/images/reviews/general/abandoned-church-photographed-using-moment-superfish-lens.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Medieval cemetery shot using Moment Superfish Lens.](/images/reviews/general/medieval-cemetery-shot-using-moment-superfish-lens.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Bent lines at an abandoned church near Leipzig](/images/reviews/general/bent-lines-at-an-abandoned-church-near-leipzig.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Bent lines at an abandoned public bath in Leipzig](/images/reviews/general/bent-lines-at-an-abandoned-public-bath-in-leipzig.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Box contents of the Moment Superfish lens](/images/reviews/general/box-contents-of-the-moment-superfish-lens.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Schönbrunn Palace at night shot with iPhone 11 Ultra-Wide Lens](/images/reviews/general/schonbrunn-palace-at-night-shot-with-iphone-11-ultra-wide-le.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Schönbrunn Palace at night shot on Moment 14mm Fisheye Lens](/images/reviews/general/schonbrunn-palace-at-night-shot-on-moment-14mm-fisheye-lens.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Using SKRWT to fix bent lines](/images/reviews/general/using-skrwt-to-fix-bent-lines.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Select “Fisheye” in SKRWT](/images/reviews/general/select-fisheye-in-skrwt.webp)
+content/blog/review-moment-14mm-fisheye-lens.md:![Use the slider to fix the bent lines effect](/images/reviews/general/use-the-slider-to-fix-the-bent-lines-effect.webp)
+content/blog/review-moment-photo-case.md:  image: /images/reviews/general/moment-iphone-14-case.webp
+content/blog/review-moment-photo-case.md:![Moment iPhone Cases for older iPhone models](/images/reviews/general/moment-iphone-cases-for-older-iphone-models.webp)
+content/blog/review-moment-photo-case.md:![Remove the frame before your add the drop in lens mount](/images/reviews/general/remove-the-frame-before-your-add-the-drop-in-lens-mount.webp)
+content/blog/review-moment-photo-case.md:![Align the drop in lens mount and press firmly](/images/reviews/general/align-the-drop-in-lens-mount-and-press-firmly.webp)
+content/blog/review-moment-photo-case.md:![Moment Case for iPhone 15 with attached wrist strap](/images/reviews/general/moment-case-iphone-15-wrist-strap.webp)
+content/blog/review-moment-tele-lens.md:  image: /images/reviews/general/moment-zoom-lens-case.webp
+content/blog/review-moment-tele-lens.md:![St. Stephen’s Basilica (Budapest) shot on iPhone with Moment Telephoto Lens](/images/reviews/st-stephens-basilica-budapest-shot-on-iphone-with-moment.webp)
+content/blog/review-moment-tele-lens.md:![A closeup of a snake shot on iPhone using Moment Telephoto Lens](/images/reviews/general/a-closeup-of-a-snake-shot-on-iphone-using-moment-telephoto-l.webp)
+content/blog/review-moment-tele-lens.md:![Chrysler Building in New York, shot on iPhone using Moment Telephoto Lens](/images/reviews/general/chrysler-building-in-new-york-shot-on-iphone-using-moment-t.webp)
+content/blog/review-moment-tele-lens.md:![Chrysler Building photographed from “Top of the Rock” with iPhone 2x Zoom](/images/reviews/general/chrysler-building-photographed-from-top-of-the-rock-with-i.webp)
+content/blog/review-moment-tele-lens.md:![Chrysler Building photographed from “Top of the Rock” with iPhone 2x Zoom + Moment Tele using ProCamera App.](/images/reviews/general/chrysler-building-photographed-from-top-of-the-rock-with-i-2.webp)
+content/blog/review-moment-wide-lens.md:  image: /images/reviews/general/moment-wide-lens-case.webp
+content/blog/review-moment-wide-lens.md:![Gulfoss, Iceland, without Moment wide lens](/images/reviews/general/gulfoss-iceland-without-moment-wide-lens.webp)
+content/blog/review-moment-wide-lens.md:![Tunnel view without Moment wide angle lens](/images/reviews/general/tunnel-view-without-moment-wide-angle-lens.webp)
+content/blog/review-moment-wide-lens.md:![Gulfoss, Iceland, with Moment wide lens](/images/reviews/general/gulfoss-iceland-with-moment-wide-lens.webp)
+content/blog/review-moment-wide-lens.md:![Tunnel view with Moment wide anglelens.](/images/reviews/general/tunnel-view-with-moment-wide-anglelens.webp)
+content/blog/review-mous-limitless-3-case.md:  image: /images/reviews/usa/mous-limitless-3-0-iphone-case-with-wrist-strap-sim-tray-pi.webp
+content/blog/review-mous-limitless-3-case.md:![Mous Limitless 3.0 iPhone Case with wrist strap, sim-tray pin and sim notches](/images/reviews/usa/mous-limitless-3-0-iphone-case-with-wrist-strap-sim-tray-pi.webp)
+content/blog/review-mous-limitless-3-case.md:![Use a wrist strap with a thin loop](/images/reviews/usa/use-a-wrist-strap-with-a-thin-loop.webp)
+content/blog/review-neewer-iphone-cage.md:  image: /images/reviews/general/neewer-iphone-cage-review-teaser.webp
+content/blog/review-neewer-iphone-cage.md:![Kerry Cliffs, Ireland](/images/reviews/general/kerry-cliffs-ireland.webp)
+content/blog/review-neewer-iphone-cage.md:![Abandoned control room, Berlin](/images/reviews/general/collapsed-control-room.webp)
+content/blog/review-neewer-iphone-cage.md:![Abandoned hangar, Berlin](/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg)
+content/blog/review-neewer-iphone-cage.md:![Neewer iPhone cage (for iPhone 16 Pro Max)](/images/reviews/general/neewer-iphone-cage.webp)
+content/blog/review-neewer-iphone-cage.md:![Two ways to attach a wrist strap to the Neewer iPhone Cage](/images/reviews/general/wrist-strap-attached-to-neewer-iphone-cage.webp)
+content/blog/review-neewer-iphone-cage.md:![Neewer iPhone Cage with two grips attached](/images/reviews/general/neewer-iphone-cage-with-two-grips.webp)
+content/blog/review-neewer-iphone-cage.md:![Neewer iPhone cage with wrist-strap, light and grip with remote shutter release](/images/reviews/general/newer-iphone-cage-with-light-and-grip.webp)
+content/blog/review-neewer-iphone-cage.md:![Protective rubber (orange) for the iPhone camera button](/images/reviews/general/neewer-iphone-cage-button.webp)
+content/blog/review-neewer-iphone-cage.md:![Neewer iPhone cage with openend flap to insert iPhone](/images/reviews/general/cage-flap.webp)
+content/blog/review-olight-s1r-baton.md:  image: /images/reviews/general/olight-s1r-flashlight.webp
+content/blog/review-olight-s1r-baton.md:![Olight S1R Baton I Packaging](/images/reviews/general/olight-s1r-baton-i-packaging.webp)
+content/blog/review-olight-s1r-baton.md:![Olight S1R Baton I size](/images/revi

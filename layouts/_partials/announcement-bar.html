@@ -1,0 +1,32 @@
+{{ with site.Data.announcement }}
+  {{ if and .enable (partial "is-published.html" .) }}
+    <aside id="site-announcement" 
+           class="announcement-wrapper" 
+           data-nosnippet 
+           data-campaign-id="{{ .id }}" 
+           data-cookie-days="{{ .cookie_days | default 30 }}" 
+           aria-label="Announcement">
+      <div class="announcement-inner">
+        <div class="announcement-content">
+          {{ with .badge }}<span class="announcement-badge">{{ . }}</span>{{ end }}
+          <span class="announcement-text">{{ .text | markdownify }}</span>
+          {{ if .link_url }}
+            <a href="{{ .link_url | relLangURL }}" class="announcement-link">{{ .link_text | default "Read more" | safeHTML }}</a>
+          {{ end }}
+        </div>
+        <button id="announcement-close" class="announcement-close" aria-label="Close">&times;</button>
+      </div>
+    </aside>
+
+    {{- $announcementJS := resources.Get "js/announcement.js" }}
+    {{- if $announcementJS }}
+      {{- if not site.Params.assets.disableFingerprinting }}
+        {{- $announcementJS = $announcementJS | minify | fingerprint }}
+        <script defer src="{{ $announcementJS.RelPermalink }}" integrity="{{ $announcementJS.Data.Integrity }}"></script>
+      {{- else }}
+        {{- $announcementJS = $announcementJS | minify }}
+        <script defer src="{{ $announcementJS.RelPermalink }}"></script>
+      {{- end }}
+    {{- end }}
+  {{ end }}
+{{ end }}

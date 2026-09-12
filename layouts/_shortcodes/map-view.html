@@ -1,0 +1,46 @@
+{{- $page := .Page -}}
+{{- $spots := $page.Params.photo_spots -}}
+{{- $spotCount := 0 -}}
+{{- with $spots -}}
+  {{- $spotCount = len . -}}
+{{- end -}}
+
+{{- $title := .Get "title" | default "Interactive Photo Spots Map" -}}
+{{- $defaultText := "Explore all photo spots from this guide on an interactive map." -}}
+{{- if gt $spotCount 0 -}}
+  {{- $defaultText = printf "Explore all %d photo spots from this guide on an interactive map." $spotCount -}}
+{{- end -}}
+
+{{- $innerText := "" -}}
+{{- with .Inner -}}
+  {{- $innerText = . | markdownify -}}
+{{- end -}}
+
+{{- $text := .Get "text" | default $innerText | default $defaultText -}}
+
+{{- $defaultBtn := "Open Map View" -}}
+{{- if gt $spotCount 0 -}}
+  {{- $defaultBtn = printf "Open Map View (%d %s)" $spotCount (cond (eq $spotCount 1) "Spot" "Spots") -}}
+{{- end -}}
+{{- $buttonText := .Get "button" | default (.Get "button_text") | default $defaultBtn -}}
+
+<div class="callout callout-info callout-map">
+  <div class="callout-icon-wrapper">
+    <svg class="callout-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+      <line x1="8" y1="2" x2="8" y2="18"></line>
+      <line x1="16" y1="6" x2="16" y2="22"></line>
+    </svg>
+  </div>
+  <div class="callout-content">
+    <span class="callout-title">{{ $title }}</span>
+    {{- if $text }}
+      <p class="callout-text">{{ $text | safeHTML }}</p>
+    {{- end }}
+    <div class="callout-action">
+      <button class="map-callout-btn open-map-btn" type="button" aria-haspopup="dialog" aria-controls="map-modal">
+        {{ $buttonText }}
+      </button>
+    </div>
+  </div>
+</div>

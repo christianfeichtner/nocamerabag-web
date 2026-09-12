@@ -1,0 +1,388 @@
+- model: "iPhone 5"
+  year: 2012
+  description: "Upgraded to an enhanced 8-megapixel sensor with improved low-light sensitivity and a scratch-resistant sapphire crystal lens cover. Introduced dynamic Panorama mode in iOS 6, allowing seamless high-resolution wide-angle stitches directly on the device. Faster shot-to-shot times and improved noise reduction noticeably refined everyday shots."
+  cameras:
+    wide:
+      available: true
+      mp: 8
+      raw: false
+      proraw: false
+    ultrawide:
+      available: false
+      mp: null
+      raw: false
+      proraw: false
+    telephoto:
+      available: false
+      zoom: null
+      mp: null
+      raw: false
+      proraw: false
+  photos:
+    - image: "/images/cityscapes/usa/wynn-encore-shot-on-iphone.webp"
+      caption: "Wynn & Encore, Las Vegas"
+    - image: "/images/cityscapes/usa/mandalay-bay-las-vegas-nevada.jpeg"
+      caption: "Mandalay Bay, Las Vegas"
+    - image: "/images/landscapes/austria/oetscher-canyon-overview.jpg"
+      caption: "Ötscher Gorge, Austria"
+
+- model: "iPhone 5s"
+  year: 2013
+  description: "Introduced a 15% larger sensor with 1.5µm pixels and a wider f/2.2 aperture for superior low-light gathering. Debuted the dual-LED True Tone flash alongside a 10 fps burst mode to effortlessly capture fast-moving subjects. Powered by the A7 image processor, it brought notable improvements in dynamic range and autofocus speed."
+  cameras:
+    wide:
+      available: true
+      mp: 8
+      raw: false
+      proraw: false
+    ultrawide:
+      available: false
+      mp: null
+      raw: false
+      proraw: false
+    telephoto:
+      available: false
+      zoom: null
+      mp: null
+      raw: false
+      proraw: false
+  photos:
+    - image: "/images/portfolio/general/ghost-train-iphone5s.webp"
+      caption: "Ghost Train, Vienna"
+    - image: "/images/cityscapes/austria/dc-tower-1-vienna-modern-architecture.webp"
+      caption: "DC Tower, Vienna"
+    - image: "/images/cityscapes/austria/long-exposure-photography-waterfall-shot-on-iphone-5s.webp"
+      caption: "Small Waterfall, Vienna"
+
+- model: "iPhone 6 Plus"
+  year: 2014
+  description: "Introduced Focus Pixels (phase-detection autofocus) for rapid and precise autofocus across dynamic scenes. Paired with iOS 8's manual exposure controls and native time-lapse mode, it gave photographers deeper creative flexibility in the field. Advanced tone mapping and improved noise reduction produced well-balanced travel and street images."
+  cameras:
+    wide:
+      available: true
+      mp: 8
+      raw: false
+      proraw: false
+    ultrawide:
+      available: false
+      mp: null
+      raw: false
+      proraw: false
+    telephoto:
+      available: false
+      zoom: null
+      mp: null
+      raw: false
+      proraw: false
+  photos:
+    - image: "/images/tutorials/usa/fountains-bellagio-window.webp"
+      caption: "Bellagio Fountains, Las Vegas"
+    - image: "/images/landscapes/general/rainbow-skogafoss-waterfall-iceland-2.webp"
+      caption: "Rainbow Waterfall, Skogafoss"
+    - image: "/images/reviews/general/a-long-exposure-of-the-london-eye-shot-on-iphone-6-using-slo.webp"
+      caption: "London Eye, London"
+
+- model: "iPhone 6s Plus"
+  year: 2015
+  description: "Stepped up to a 12-megapixel sensor with Deep Trench Isolation for sharper details and reduced pixel crosstalk. Introduced Live Photos and 4K video recording, while iOS 10 later unlocked native DNG RAW capture for third-party camera apps. This marked a vital turning point for professional mobile post-processing workflows."
+  cameras:
+    wide:
+      available: true
+      mp: 12
+      raw: true # Ab iOS 10 via 3rd-Party DNG
+      proraw: false
+    ultrawide:
+      available: false
+      mp: null
+      raw: false
+      proraw: false
+    telephoto:
+      available: false
+      zoom: null
+      mp: null
+      raw: false
+      proraw: false
+  photos:
+    - image: "/images/portfolio/general/mosque-tirana-albania-iphone6s-plus.webp"
+      caption: "Mosque Tirana, Albania"
+    - image: "/images/reviews/london-at-night-shot-on-iphone-6s-plus-using-procamera-low-l.webp"
+      caption: "London at Night, London"
+    - image: "/images/portfolio/general/theatre-chernobyl-exclusion-zone.webp"
+      caption: "Theatre Chernobyl Exclusion Zone"
+
+- model: "iPhone 7 Plus"
+  year: 2016
+  description: "Debuted Apple’s first dual-camera system, pairing a 28mm wide lens with an optical 2x telephoto lens (56mm). Introduced Portrait Mode, using machine learning and dual-lens disparity mapping to generate computational background blur (bokeh). The optical focal length versatility opened up new creative possibilities for portraits and architectural details."
+  cameras:
+    wide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: false
+    ultrawide:
+      available: false
+      mp: null
+      raw: false
+      proraw: false
+    telephoto:
+      available: true
+      zoom: "2x"
+      mp: 12
+      raw: true
+      proraw: false
+  photos:
+    - image: "/images/cityscapes/usa/saxophone-player-central-park-new-york.jpeg"
+      caption: "Saxophone Player, New York"
+    - image: "/images/reviews/usa/dachstein-glacier-shot-with-iphone-7-plus-wide-lens.webp"
+      caption: "Dachstein Glacier, Austria"
+    - image: "/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp"
+      caption: "Listening Outpost, Berlin"
+
+- model: "iPhone X"
+  year: 2017
+  description: "Added optical image stabilization to the telephoto lens alongside a faster f/2.4 aperture for sharper low-light zoom shots. Leveraged the A11 Bionic Neural Engine for more accurate depth estimation in Portrait Mode. Compact, agile, and stabilized across both lenses, it became a reliable powerhouse for nocturnal street photography."
+  cameras:
+    wide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: false
+    ultrawide:
+      available: false
+      mp: null
+      raw: false
+      proraw: false
+    telephoto:
+      available: true
+      zoom: "2x"
+      mp: 12
+      raw: true
+      proraw: false
+  photos:
+    - image: "/images/lost-places/slovakia/kitchen-window.jpeg"
+      caption: "Abandoned Kitchen, Slovakia"
+    - image: "/images/reviews/general/abandoned-sauna-in-leipzig-show-on-iphone-x-using-hydra-came.webp"
+      caption: "Abandoned Sauna, Leipzig"
+    - image: "/images/cityscapes/czech-republic/dancing-house-prague-at-night.jpeg"
+      caption: "Dancing House, Prague"
+
+- model: "iPhone XS"
+  year: 2018
+  description: "Introduced Smart HDR powered by multi-frame buffering and the Neural Engine for outstanding dynamic range in extreme backlight. Featured a larger 1.4µm pixel sensor for improved shadow detail and lower noise in dim conditions. Added adjustable Depth Control in iOS 12, allowing photographers to adjust aperture and bokeh post-capture."
+  cameras:
+    wide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: false
+    ultrawide:
+      available: false
+      mp: null
+      raw: false
+      proraw: false
+    telephoto:
+      available: true
+      zoom: "2x"
+      mp: 12
+      raw: true
+      proraw: false
+  photos:
+    - image: "/images/cityscapes/austria/cherry-blossom-vienna-hainburger-weg.jpeg"
+      caption: "Cherry Blossom, Vienna"
+    - image: "/images/animals/bird-in-flight-shot-on-iphone.jpeg"
+      caption: "Bird in Flight, Austria"
+    - image: "/images/cityscapes/czech-republic/charles-bridge-prague-at-night.jpeg"
+      caption: "Charles Bridge, Prague"
+
+- model: "iPhone 11 Pro"
+  year: 2019
+  description: "Apple's first triple-camera setup introduced a 13mm ultra-wide lens alongside the wide and 2x telephoto lenses. Debuted Night mode with automated multi-frame exposure merging and Deep Fusion for intricate pixel-level texture rendering. The unified camera pipeline enabled seamless framing and third-party RAW capture across all three focal lengths."
+  cameras:
+    wide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: false
+    ultrawide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: false
+    telephoto:
+      available: true
+      zoom: "2x"
+      mp: 12
+      raw: true
+      proraw: false
+  photos:
+    - image: "/images/cityscapes/slovakia/inverted-pyramid-building-bratislava-bw.jpg"
+      caption: "Inverted Pyramid, Bratislava"
+    - image: "/images/cityscapes/austria/musikverein-vienna-at-night.jpg"
+      caption: "Musikverein, Vienna"
+    - image: "/images/lost-places/austria/castle-pottendorf-stairs.jpg"
+      caption: "Abandoned Castle, Pottendorf"
+
+- model: "iPhone 12 Pro Max"
+  year: 2020
+  description: "Premiered Apple ProRAW, combining multi-frame computational photography (Smart HDR 3 and Deep Fusion) with the full color and dynamic latitude of 12-bit DNG files. Added a LiDAR Scanner for up to 6x faster low-light autofocus and dedicated Night mode Portraits. Expanded Night mode and Deep Fusion processing across all camera modules."
+  cameras:
+    wide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: true
+    ultrawide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: true
+    telephoto:
+      available: true
+      zoom: "2x"
+      mp: 12
+      raw: true
+      proraw: true
+  photos:
+    - image: "/images/landscapes/austria/hiking-trail-schneeberg.jpg"
+      caption: "Hiking Trail, Schneeberg"
+    - image: "/images/lost-places/germany/abandoned-operating-room-hohenschoenhausen-berlin.jpg"
+      caption: "Operating Room, Hohenschönhausen"
+    - image: "/images/lost-places/austria/castle-pottendorf-stairs.jpg"
+      caption: "Castle Pottendorf, Austria"
+
+- model: "iPhone 13 Pro Max"
+  year: 2021
+  description: "Equipped with larger sensors, Sensor-Shift stabilization, and a longer 3x (77mm) telephoto lens for natural portrait perspective. Added dedicated Macro Photography to the ultra-wide lens, focusing down to 2cm for dramatic close-ups. iOS 15 introduced Photographic Styles, applying personalized tone and warmth adjustments directly inside the capture pipeline."
+  cameras:
+    wide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: true
+    ultrawide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: true
+    telephoto:
+      available: true
+      zoom: "3x"
+      mp: 12
+      raw: true
+      proraw: true
+  photos:
+    - image: "/images/cityscapes/austria/apartment-building-high-key-vienna.jpg"
+      caption: "Apartment Building, Vienna"
+    - image: "/images/lost-places/germany/building-abandoned-airfield-rangsdorf.jpg"
+      caption: "Abandoned Airfield, Rangsdorf"
+    - image: "/images/lost-places/austria/abandoned-excavator-austria.jpg"
+      caption: "Abandoned Excavator, Austria"
+
+- model: "iPhone 14 Pro"
+  year: 2022
+  description: "Made a massive leap with a 48-megapixel quad-pixel main sensor and the Photonic Engine image processing pipeline. Enabled stunning 48MP ProRAW captures with exceptional resolving power and an optical-quality 2x crop (48mm) mode. Low-light performance improved dramatically across all cameras, setting a new benchmark for mobile landscape work."
+  cameras:
+    wide:
+      available: true
+      mp: 48
+      raw: true
+      proraw: true
+    ultrawide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: true
+    telephoto:
+      available: true
+      zoom: "3x"
+      mp: 12
+      raw: true
+      proraw: true
+  photos:
+    - image: "/images/cityscapes/portugal/beach-cabo-da-roca-portugal.webp"
+      caption: "Beach, Cabo da Roca"
+    - image: "/images/cityscapes/germany/stuttgart-library-high-key.webp"
+      caption: "Library, Stuttgart"
+    - image: "/images/lost-places/germany/collapsed-roof-textile-factory-forst-lausitz.webp"
+      caption: "Abandoned Factory, Germany"
+
+- model: "iPhone 15 Pro Max"
+  year: 2023
+  description: "Introduced 24MP super-high-resolution default captures that balance rich detail with multi-frame HDR blending. Offered customizable standard focal lengths (24mm, 28mm, and 35mm) and a nanoscale lens coating to combat lens flare. Next-generation portraits automatically captured depth information without needing to switch shooting modes."
+  cameras:
+    wide:
+      available: true
+      mp: 48
+      raw: true
+      proraw: true
+    ultrawide:
+      available: true
+      mp: 12
+      raw: true
+      proraw: true
+    telephoto:
+      available: true
+      zoom: "3x"
+      mp: 12
+      raw: true
+      proraw: true
+  photos:
+    - image: "/images/landscapes/ireland/dark-hedges-ireland.webp"
+      caption: "Dark Hedges, Ireland"
+    - image: "/images/portfolio/general/abnadoned-municipal-pool-berlin.webp"
+      caption: "Municipal Pool, Berlin"
+    - image: "/images/cityscapes/austria/vienna-skyline.jpg"
+      caption: "Skyline, Vienna"
+
+- model: "iPhone 16 Pro Max"
+  year: 2024
+  description: "Upgraded the ultra-wide camera to 48 megapixels and unified the 5x tetraprism optical telephoto lens across both Pro sizes. Debuted the dedicated Camera Control button for rapid tactile control over exposure, zoom, and depth of field. Advanced Photographic Styles introduced real-time color grading and skin-tone preserving tone adjustments."
+  cameras:
+    wide:
+      available: true
+      mp: 48
+      raw: true
+      proraw: true
+    ultrawide:
+      available: true
+      mp: 48
+      raw: true
+      proraw: true
+    telephoto:
+      available: true
+      zoom: "5x"
+      mp: 12
+      raw: true
+      proraw: true
+  photos:
+    - image: "/images/lost-places/germany/sickbed-castle-henriette.jpeg"
+      caption: "Sickbed Castle, Henriette"
+    - image: "/images/lost-places/germany/abandoned-car-meets-tree.jpg"
+      caption: "Abandoned Car Meets Tree"
+    - image: "/images/cityscapes/sweden/rainbow-metro-station-stockholm.jpg"
+      caption: "Rainbow Metro Station, Stockholm"
+
+- model: "iPhone 17 Pro Max"
+  year: 2025
+  description: "Features an all-48-megapixel triple-camera system across wide, ultra-wide, and telephoto lenses for uniform high resolution. Enables native 48MP ProRAW captures across the entire focal range, ensuring uncompromising optical detail and generous crop flexibility. Next-generation computational photography delivers class-leading dynamic range and clean shadow recovery."
+  cameras:
+    wide:
+      available: true
+      mp: 48
+      raw: true
+      proraw: true
+    ultrawide:
+      available: true
+      mp: 48
+      raw: true
+      proraw: true
+    telephoto:
+      available: true
+      zoom: "4x"
+      mp: 48
+      raw: true
+      proraw: true
+  photos:
+    - "/images/timeline/iphone-17-pro-1.webp"
+    - "/images/timeline/iphone-17-pro-2.webp"
+    - "/images/timeline/iphone-17-pro-3.webp"

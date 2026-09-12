@@ -1,0 +1,134 @@
+{{- with .cxt }}
+  {{- $isHidden := or ($.isHidden | default false) ($.IsSingle | default false) }}
+  {{- if not $isHidden }}
+    {{- $imgSrc := "" -}}
+    {{- $imgAlt := .Title -}}
+    {{- $imgWidth := "" -}}
+    {{- $imgHeight := "" -}}
+
+    {{- /* 1. Check Front Matter (.Params.cover.image, .Params.teaser, .Params.image, .Params.featured_image) */ -}}
+    {{- if .Params.cover -}}
+      {{- if reflect.IsMap .Params.cover -}}
+        {{- $imgSrc = .Params.cover.image | default .Params.cover.src | default "" -}}
+        {{- $imgAlt = .Params.cover.alt | default .Title -}}
+      {{- else -}}
+        {{- $imgSrc = .Params.cover -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if and (not $imgSrc) .Params.teaser -}}
+      {{- if reflect.IsMap .Params.teaser -}}
+        {{- $imgSrc = .Params.teaser.image | default .Params.teaser.src | default "" -}}
+        {{- $imgAlt = .Params.teaser.alt | default .Title -}}
+      {{- else -}}
+        {{- $imgSrc = .Params.teaser -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if and (not $imgSrc) .Params.image -}}
+      {{- if reflect.IsMap .Params.image -}}
+        {{- $imgSrc = .Params.image.image | default .Params.image.src | default "" -}}
+        {{- $imgAlt = .Params.image.alt | default .Title -}}
+      {{- else -}}
+        {{- $imgSrc = .Params.image -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if and (not $imgSrc) .Params.featured_image -}}
+      {{- if reflect.IsMap .Params.featured_image -}}
+        {{- $imgSrc = .Params.featured_image.image | default .Params.featured_image.src | default "" -}}
+        {{- $imgAlt = .Params.featured_image.alt | default .Title -}}
+      {{- else -}}
+        {{- $imgSrc = .Params.featured_image -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- /* 2. Fallback: Automatic teaser detection from assets/images/teaser/<baseName>.* */ -}}
+    {{- if not $imgSrc -}}
+      {{- $baseName := "" -}}
+      {{- with .File -}}
+        {{- $baseName = .TranslationBaseName -}}
+      {{- end -}}
+      {{- if $baseName -}}
+        {{- $teaserRes := resources.GetMatch (printf "images/teaser/%s.*" $baseName) -}}
+        {{- with $teaserRes -}}
+          {{- $imgSrc = .RelPermalink -}}
+          {{- $imgWidth = .Width -}}
+          {{- $imgHeight = .Height -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if and $imgSrc (not $imgWidth) -}}
+      {{- $resPath := strings.TrimPrefix "/" $imgSrc -}}
+      {{- with resources.Get $resPath -}}
+        {{- $imgWidth = .Width -}}
+        {{- $imgHeight = .Height -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if $imgSrc -}}
+      {{- $finalSrc := $imgSrc | relURL -}}
+
+      <figure class="entry-cover">
+        {{- if not $.IsSingle }}
+          <a href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true">
+            <img src="{{ $finalSrc }}" alt="{{ $imgAlt }}" loading="lazy" decoding="async"{{ with $imgWidth }} width="{{ . }}"{{ end }}{{ with $imgHeight }} height="{{ . }}"{{ end }}>
+          </a>
+          {{- $flag := "" -}}
+          {{- $countryName := "" -}}
+          {{- if and .Params.categories (in .Params.categories "Photo Spots") -}}
+            {{- with .Params.tags -}}
+              {{- range . -}}
+                {{- if not $flag -}}
+                  {{- with (index site.Data.flags .) -}}
+                    {{- $flag = .flag -}}
+                    {{- $countryName = .name | default . -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+
+          {{- $hasMap := .Params.photo_spots -}}
+          {{- $hasUrbex := and .Params.tags (in .Params.tags "Urbex Tour") -}}
+
+          {{- if or $flag $hasMap $hasUrbex }}
+          <div class="image-overlay-bar">
+            <div class="overlay-actions img-badges-overlay">
+              {{- if $flag }}
+              <span class="card-flag-badge badge-flag" title="{{ $countryName }}" data-tooltip="{{ $countryName }}" aria-label="{{ $countryName }}">{{ $flag }}</span>
+              {{- end }}
+              {{- if $hasMap }}
+              <span class="overlay-badge card-map-badge">
+                <svg viewBox="0 0 24 24" width="12" height="12" stroke="currentColor" stroke-width="2.2" fill="none" aria-hidden="true">
+                  <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+                  <line x1="8" y1="2" x2="8" y2="18"></line>
+                  <line x1="16" y1="6" x2="16" y2="22"></line>
+                </svg>
+                <span>Map available</span>
+              </span>
+              {{- else if $hasUrbex }}
+              <span class="overlay-badge badge-image-overlay-br">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <path d="M2 9a3 3 0 0 1 0 6v2a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-2a3 3 0 0 1 0-6V7a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2z"/>
+                  <path d="M13 5v2"/>
+                  <path d="M13 17v2"/>
+                  <path d="M13 11v2"/>
+                </svg>
+                <span>Public Urbex Tour</span>
+              </span>
+              {{- end }}
+            </div>
+          </div>
+          {{- end }}
+        {{- else }}
+          <img src="{{ $finalSrc }}" alt="{{ $imgAlt }}" loading="lazy" decoding="async"{{ with $imgWidth }} width="{{ . }}"{{ end }}{{ with $imgHeight }} height="{{ . }}"{{ end }}>
+          {{- with .Params.cover.caption }}
+            <figcaption>{{ . | markdownify | safeHTML }}</figcaption>
+          {{- end }}
+        {{- end }}
+      </figure>
+    {{- end -}}
+  {{- end }}
+{{- end -}}

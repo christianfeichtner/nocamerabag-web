@@ -1,0 +1,23 @@
+<section class="section latest-posts-section">
+  <div class="section-container">
+    <div class="section-header text-center">
+      <h2 id="latest-posts" class="section-title">Latest Blog Posts</h2>
+      <p class="section-subtitle">Here are the latest articles from my travel iPhone photography blog. Discover new tips, app reviews, and travel stories.</p>
+    </div>
+
+    {{- $mainSections := site.Params.mainSections | default (slice "blog") }}
+    {{- $pages := where site.RegularPages "Type" "in" $mainSections }}
+    {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+    {{- $latestPages := $pages.ByDate.Reverse | first 3 }}
+
+    <div class="recent-posts-grid">
+      {{- range $latestPages }}
+        {{- partial "post-card.html" (dict "page" . "show_affiliate" false) }}
+      {{- end }}
+    </div>
+
+    <div class="section-action text-center">
+      <a href="{{ "/blog/" | relLangURL }}" class="btn btn-primary btn-wide">All Blog Posts</a>
+    </div>
+  </div>
+</section>

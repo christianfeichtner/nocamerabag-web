@@ -1,0 +1,56 @@
+{{- define "main" }}
+
+<header class="blog-list-header">
+  {{- if .Title }}
+  <h1>{{ .Title }}</h1>
+  {{- end }}
+
+  {{- with .Params.subtitle }}
+  <p class="section-subtitle">{{ . | markdownify }}</p>
+  {{- else }}
+    {{- if eq .Data.Plural "categories" }}
+    <p class="section-subtitle">Browse all blog posts by category.</p>
+    {{- else if eq .Data.Plural "tags" }}
+    <p class="section-subtitle">Browse all blog posts by tag.</p>
+    {{- else if .Description }}
+    <p class="section-subtitle">{{ .Description | markdownify }}</p>
+    {{- end }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="blog-list-intro">
+    {{ .Content }}
+  </div>
+  {{- else if and .Description (not .Params.subtitle) }}
+  <div class="blog-list-intro">
+    <p>{{ .Description | markdownify }}</p>
+  </div>
+  {{- end }}
+</header>
+
+<div class="terms-wrapper">
+  <ul class="terms-tags">
+    {{- $type := .Data.Plural | default .Type }}
+    {{- range .Data.Terms.Alphabetical }}
+      {{- $termPage := site.GetPage (printf "/%s/%s" $type (.Name | urlize)) }}
+      {{- $linkUrl := "" }}
+      {{- $linkTitle := .Name }}
+      {{- if $termPage }}
+        {{- $linkUrl = $termPage.Permalink }}
+        {{- $linkTitle = $termPage.Title | default .Name }}
+      {{- else }}
+        {{- $linkUrl = printf "/blog/%s/" (.Name | urlize) | relURL }}
+      {{- end }}
+      <li>
+        <a href="{{ $linkUrl }}" class="terms-tag-link">
+          <span class="terms-tag-name">{{ if eq $type "tags" }}#{{ end }}{{ $linkTitle }}</span>
+          <span class="terms-tag-count">{{ .Count }}</span>
+        </a>
+      </li>
+    {{- end }}
+  </ul>
+</div>
+
+{{- partial "blog-bottom-section.html" . }}
+
+{{- end }}

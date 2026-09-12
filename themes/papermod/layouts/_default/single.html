@@ -1,0 +1,108 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+    
+    <div class="post-meta-container">
+      <div class="meta-main">
+        {{- $metaItems := slice -}}
+        {{- if not .Date.IsZero }}
+          {{- $metaItems = $metaItems | append (printf `<span class="post-date" title="%s">%s</span>` .Date (.Date.Format "Jan 02, 2006")) -}}
+        {{- end }}
+        {{- if .ReadingTime }}
+          {{- $metaItems = $metaItems | append (printf `<span class="post-reading-time">%d min read</span>` .ReadingTime) -}}
+        {{- end }}
+        {{- with .Params.categories }}
+          {{- $cats := slice }}
+          {{- range . }}
+            {{- $cats = $cats | append (printf `<a href="%s">%s</a>` (printf "/blog/%s/" (. | urlize) | relURL) .) }}
+          {{- end }}
+          {{- $metaItems = $metaItems | append (printf `<span class="post-categories">%s</span>` (delimit $cats ", ")) -}}
+        {{- end }}
+        {{- range $i, $item := $metaItems }}
+          {{- if $i }}<span class="meta-dot">·</span>{{ end }}
+          {{ $item | safeHTML }}
+        {{- end }}
+      </div>
+      {{- partial "rating-meta.html" . }}
+    </div>
+
+    {{- with .Description }}
+    <div class="post-description">
+      {{ . }}
+    </div>
+    {{- end }}
+  </header>
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content md-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+
+  {{- partial "extend_post_content.html" . }}
+
+  <footer class="post-footer">
+    {{- $categories := .Params.categories | default slice -}}
+    {{- if not (reflect.IsSlice $categories) -}}
+      {{- $categories = slice $categories -}}
+    {{- end -}}
+
+    {{- $tags := .Params.tags | default slice -}}
+    {{- if not (reflect.IsSlice $tags) -}}
+      {{- $tags = slice $tags -}}
+    {{- end -}}
+    {{- if .Params.photo_spots -}}
+      {{- $filtered := slice -}}
+      {{- range $tags -}}
+        {{- if ne . "Map View" -}}
+          {{- $filtered = $filtered | append . -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $tags = $filtered | append "Map View" -}}
+    {{- end -}}
+
+    {{- if or (gt (len $categories) 0) (gt (len $tags) 0) }}
+    <div class="post-tags-section">
+      <span class="post-tags-label">More Blog Posts about:</span>
+      <div class="post-tags-list">
+        {{- range $categories }}
+          <a href="{{ printf "/blog/%s/" (. | urlize) | relURL }}" class="btn-tertiary">
+            <span class="btn-label">{{ . }}</span>
+          </a>
+        {{- end }}
+        {{- range $tags }}
+          <a href="{{ printf "/blog/%s/" (. | urlize) | relURL }}" class="btn-tertiary">
+            <span class="btn-label">{{ . }}</span>
+          </a>
+        {{- end }}
+      </div>
+    </div>
+    {{- end }}
+
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
+    {{- end }}
+  </footer>
+
+  {{- if eq .Section "blog" }}
+  {{- if not (.Param "disableFeedback") }}
+  {{- partial "feedback-widget.html" . }}
+  {{- end }}
+  {{- end }}
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}{{/* end main */}}
