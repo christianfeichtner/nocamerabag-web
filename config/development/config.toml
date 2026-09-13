@@ -1,0 +1,7 @@
+[params.comments]
+    build_fetch = true
+    api_url = "http://192.168.1.90:8787/api/comments"
+
+[params.ratings]
+    build_fetch = true
+    api_url = "http://192.168.1.90:8788"

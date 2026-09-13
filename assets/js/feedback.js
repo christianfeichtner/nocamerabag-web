@@ -5,8 +5,8 @@
     var widget = document.getElementById('feedbackWidget');
     if (!widget) return;
 
-    // WORKER_URL: Konfigurierbar über data-api-url (aus config.toml) oder Fallback
-    var WORKER_URL = widget.getAttribute('data-api-url') || 'http://192.168.1.90:8788';
+    // WORKER_URL: Dynamisch über data-api-url (aus params.toml)
+    var WORKER_URL = widget.getAttribute('data-api-url') || '';
     var buttons = widget.querySelectorAll('.feedback-btn');
     var messageEl = document.getElementById('feedbackMessage');
     var pathname = window.location.pathname;
@@ -69,6 +69,11 @@
         // 1. Clientseitige Plausibilitätsprüfung
         if (isNaN(parsedRating)) {
           console.error('Invalid rating value:', ratingAttr);
+          return;
+        }
+
+        if (!WORKER_URL) {
+          console.error('Feedback widget: missing data-api-url configuration');
           return;
         }
 

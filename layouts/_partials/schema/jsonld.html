@@ -236,60 +236,8 @@
         }
       }
       {{- /* Build-Time AggregateRating for BlogPosting if threshold is met */ -}}
-      {{- $ratingsConfig := site.Params.ratings | default dict -}}
-      {{- if and ($ratingsConfig.enabled | default true) (eq $.Section "blog") $.IsPage -}}
-        {{- $apiUrl := $ratingsConfig.api_url | default "http://192.168.1.90:8788" -}}
-        {{- $minAverage := cast.ToFloat ($ratingsConfig.min_average | default 4.2) -}}
-        {{- $minVotes := cast.ToInt ($ratingsConfig.min_votes | default 2) -}}
-        {{- $slug := $.RelPermalink -}}
-
-        {{- $baseEndpoints := slice -}}
-        {{- if $apiUrl -}}
-          {{- $baseEndpoints = $baseEndpoints | append (printf "%s/ratings" (strings.TrimRight "/" $apiUrl)) -}}
-        {{- end -}}
-        {{- range (slice "http://host.docker.internal:8788/ratings" "http://192.168.1.90:8788/ratings" "http://127.0.0.1:8788/ratings" "http://localhost:8788/ratings" "http://172.17.0.1:8788/ratings") -}}
-          {{- if not (in $baseEndpoints .) -}}
-            {{- $baseEndpoints = $baseEndpoints | append . -}}
-          {{- end -}}
-        {{- end -}}
-
-        {{- $ratingData := dict -}}
-        {{- range $baseEndpoints -}}
-          {{- if eq (len $ratingData) 0 -}}
-            {{- $reqUrl := printf "%s?slug=%s" . ($slug | urlquery) -}}
-            {{- with try (resources.GetRemote $reqUrl) -}}
-              {{- with .Value -}}
-                {{- if and .Data (eq .Data.StatusCode 200) -}}
-                  {{- $content := strings.TrimLeft " \t\r\n" .Content -}}
-                  {{- if strings.HasPrefix $content "{" -}}
-                    {{- $unmarshaled := "" -}}
-                    {{- with try (transform.Unmarshal .) -}}
-                      {{- with .Value -}}
-                        {{- $unmarshaled = . -}}
-                      {{- end -}}
-                    {{- end -}}
-                    {{- if not $unmarshaled -}}
-                      {{- with try (transform.Unmarshal $content) -}}
-                        {{- with .Value -}}
-                          {{- $unmarshaled = . -}}
-                        {{- end -}}
-                      {{- end -}}
-                    {{- end -}}
-                    {{- if reflect.IsMap $unmarshaled -}}
-                      {{- $avg := cast.ToFloat (index $unmarshaled "average" | default 0) -}}
-                      {{- $votes := cast.ToInt (index $unmarshaled "votes" | default 0) -}}
-                      {{- if and (ge $avg $minAverage) (ge $votes $minVotes) -}}
-                        {{- $ratingData = dict "average" $avg "votes" $votes -}}
-                      {{- end -}}
-                    {{- end -}}
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
-            {{- end -}}
-          {{- end -}}
-        {{- end -}}
-
-        {{- with $ratingData }},
+      {{- $ratingData := partial "get-rating.html" $ -}}
+      {{- with $ratingData }},
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": {{ printf "%.1f" .average }},
@@ -297,7 +245,6 @@
         "bestRating": "5",
         "worstRating": "1"
       }
-        {{- end -}}
       {{- end -}}
       {{- /* Build 'about' array containing TouristTrip, Product, Apps, Movies, Services, and/or Photo Spots */ -}}
       {{- $aboutIds := slice -}}
@@ -806,7 +753,7 @@
       "url": "{{ site.BaseURL | absURL }}"
     },
     {
-      "@type": {{ cond (or .IsSection .IsNode (eq .Kind "taxonomy") (eq .Kind "term") (eq .Kind "section")) "CollectionPage" "WebPage" | jsonify }},
+      "@type": {{ cond (or .IsSection .IsBranch (eq .Kind "taxonomy") (eq .Kind "term") (eq .Kind "section")) "CollectionPage" "WebPage" | jsonify }},
       "@id": "{{ .Permalink }}#webpage",
       "url": "{{ .Permalink }}",
       "name": {{ .Title | jsonify }},

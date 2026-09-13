@@ -20,75 +20,60 @@
 {{- $successNotice := i18n "comments_success_notice" | default (site.Params.comments.success_notice | default "Danke! Dein Kommentar wurde gespeichert und wird nach Prüfung freigeschaltet.") -}}
 
 {{- $pageId := .Params.page_id | default .File.ContentBaseName -}}
-{{- $apiUrl := site.Params.comments.api_url | default "http://host.docker.internal:8787/api/comments" -}}
-{{- $clientApiUrl := site.Params.comments.client_api_url | default "http://localhost:8787/api/comments" -}}
-
-{{- /* Candidate-Endpoints für den Build-Time Abruf aus unterschiedlichen Docker/Host-Umgebungen */ -}}
-{{- $candidateUrls := slice $apiUrl -}}
-{{- if not (in $candidateUrls "http://host.docker.internal:8787/api/comments") -}}
-  {{- $candidateUrls = $candidateUrls | append "http://host.docker.internal:8787/api/comments" -}}
-{{- end -}}
-{{- if not (in $candidateUrls "http://127.0.0.1:8787/api/comments") -}}
-  {{- $candidateUrls = $candidateUrls | append "http://127.0.0.1:8787/api/comments" -}}
-{{- end -}}
-{{- if not (in $candidateUrls "http://localhost:8787/api/comments") -}}
-  {{- $candidateUrls = $candidateUrls | append "http://localhost:8787/api/comments" -}}
-{{- end -}}
-{{- if not (in $candidateUrls "http://172.17.0.1:8787/api/comments") -}}
-  {{- $candidateUrls = $candidateUrls | append "http://172.17.0.1:8787/api/comments" -}}
-{{- end -}}
+{{- $commentsConfig := site.Params.comments | default dict -}}
+{{- $apiUrl := site.Params.comments_api_url | default $commentsConfig.api_url -}}
+{{- $clientApiUrl := site.Params.comments_api_url | default $commentsConfig.client_api_url | default $commentsConfig.api_url -}}
+{{- $buildFetch := $commentsConfig.build_fetch | default false -}}
 
 {{- /* Build-Time Remote Fetch mit robuster JSON-Entpackung */ -}}
 {{- $comments := slice -}}
-{{- range $candidateUrls -}}
-  {{- if eq (len $comments) 0 -}}
-    {{- $reqUrl := printf "%s?page_id=%s" . ($pageId | urlquery) -}}
-    {{- with try (resources.GetRemote $reqUrl) -}}
-      {{- with .Value -}}
-        {{- if and .Data (eq .Data.StatusCode 200) -}}
-          {{- $content := strings.TrimLeft " \t\r\n" .Content -}}
-          {{- if or (strings.HasPrefix $content "[") (strings.HasPrefix $content "{") -}}
-            {{- $unmarshaled := "" -}}
-            {{- with try (transform.Unmarshal .) -}}
+{{- if and $buildFetch $apiUrl -}}
+  {{- $reqUrl := printf "%s?page_id=%s" (strings.TrimRight "/" $apiUrl) ($pageId | urlquery) -}}
+  {{- with try (resources.GetRemote $reqUrl) -}}
+    {{- with .Value -}}
+      {{- if and .Data (eq .Data.StatusCode 200) -}}
+        {{- $content := strings.TrimLeft " \t\r\n" .Content -}}
+        {{- if or (strings.HasPrefix $content "[") (strings.HasPrefix $content "{") -}}
+          {{- $unmarshaled := "" -}}
+          {{- with try (transform.Unmarshal .) -}}
+            {{- with .Value -}}
+              {{- $unmarshaled = . -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if not $unmarshaled -}}
+            {{- with try (transform.Unmarshal $content) -}}
               {{- with .Value -}}
                 {{- $unmarshaled = . -}}
               {{- end -}}
             {{- end -}}
-            {{- if not $unmarshaled -}}
-              {{- with try (transform.Unmarshal $content) -}}
-                {{- with .Value -}}
-                  {{- $unmarshaled = . -}}
-                {{- end -}}
-              {{- end -}}
+          {{- end -}}
+          {{- if reflect.IsSlice $unmarshaled -}}
+            {{- $comments = $unmarshaled -}}
+          {{- else if reflect.IsMap $unmarshaled -}}
+            {{- with index $unmarshaled "results" -}}
+              {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
             {{- end -}}
-            {{- if reflect.IsSlice $unmarshaled -}}
-              {{- $comments = $unmarshaled -}}
-            {{- else if reflect.IsMap $unmarshaled -}}
-              {{- with index $unmarshaled "results" -}}
+            {{- if not $comments -}}
+              {{- with index $unmarshaled "result" -}}
                 {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
               {{- end -}}
-              {{- if not $comments -}}
-                {{- with index $unmarshaled "result" -}}
-                  {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
-                {{- end -}}
+            {{- end -}}
+            {{- if not $comments -}}
+              {{- with index $unmarshaled "comments" -}}
+                {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
               {{- end -}}
-              {{- if not $comments -}}
-                {{- with index $unmarshaled "comments" -}}
-                  {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
-                {{- end -}}
-              {{- end -}}
-              {{- if not $comments -}}
-                {{- with index $unmarshaled "data" -}}
-                  {{- if reflect.IsSlice . -}}
-                    {{- $comments = . -}}
-                  {{- else if reflect.IsMap . -}}
-                    {{- with index . "comments" -}}
+            {{- end -}}
+            {{- if not $comments -}}
+              {{- with index $unmarshaled "data" -}}
+                {{- if reflect.IsSlice . -}}
+                  {{- $comments = . -}}
+                {{- else if reflect.IsMap . -}}
+                  {{- with index . "comments" -}}
+                    {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
+                  {{- end -}}
+                  {{- if not $comments -}}
+                    {{- with index . "results" -}}
                       {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
-                    {{- end -}}
-                    {{- if not $comments -}}
-                      {{- with index . "results" -}}
-                        {{- if reflect.IsSlice . -}}{{- $comments = . -}}{{- end -}}
-                      {{- end -}}
                     {{- end -}}
                   {{- end -}}
                 {{- end -}}
@@ -113,7 +98,7 @@
   {{- end -}}
 {{- end -}}
 
-<section class="comments-wrapper" id="comments" data-page-id="{{ $pageId }}" data-page-url="{{ .Permalink }}" data-slug="{{ .RelPermalink }}" data-api="{{ $clientApiUrl }}">
+<section class="comments-wrapper" id="comments" data-page-id="{{ $pageId }}" data-page-url="{{ .Permalink }}" data-slug="{{ .RelPermalink }}" data-api-url="{{ $clientApiUrl }}" data-api="{{ $clientApiUrl }}">
   <div class="comments-header">
     <h2 class="comments-title">{{ $commentsTitle }}</h2>
     <span class="comments-count-badge" id="commentsCountBadge">{{ len $comments }} {{ $commentsCountSuffix }}</span>

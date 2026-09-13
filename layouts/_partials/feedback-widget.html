@@ -1,4 +1,4 @@
-{{- $apiUrl := site.Params.ratings.api_url | default "http://192.168.1.90:8788" -}}
+{{- $apiUrl := site.Params.ratings_api_url | default site.Params.ratings.api_url -}}
 <div class="feedback-widget" id="feedbackWidget" data-api-url="{{ $apiUrl }}">
   <div class="feedback-header">
     <p class="feedback-title">HOW HELPFUL WAS THIS ARTICLE?</p>

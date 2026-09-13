@@ -10,10 +10,10 @@
     if (!container) return;
 
     const pageId = container.dataset.pageId || '';
-    let apiUrl = container.dataset.api || 'http://localhost:8787/api/comments';
+    let apiUrl = container.dataset.apiUrl || container.dataset.api || '';
 
     // If testing from a local network IP (e.g. 192.168.x.x) and apiUrl is localhost, adapt hostname
-    if (window.location.hostname && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
+    if (apiUrl && window.location.hostname && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
       try {
         const parsedUrl = new URL(apiUrl, window.location.origin);
         if (parsedUrl.hostname === 'localhost' || parsedUrl.hostname === '127.0.0.1') {
@@ -158,6 +158,12 @@
         if (!name) {
           showModalError('Bitte gib deinen Namen ein.');
           if (nameInput) nameInput.focus();
+          return;
+        }
+
+        if (!apiUrl) {
+          console.error('[Comments] Missing API URL configuration');
+          showModalError('Kommentar-Dienst ist zurzeit nicht konfiguriert.');
           return;
         }
 

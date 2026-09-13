@@ -62,7 +62,7 @@
 {{- end -}}
 
 {{/* 5. Sortierung: Neueste Beiträge zuerst */}}
-{{- $pages = $pages.ByDate.Reverse -}}
+{{- $pages = sort $pages "Date" "desc" -}}
 
 {{/* 6. Limitierung: Standardwert 6 oder benutzerdefiniert */}}
 {{- $limit := 6 -}}

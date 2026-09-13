@@ -1,6 +1,5 @@
 baseURL = 'http://nocamerabag.com/'
 locale = 'en-us'
-languageCode = 'en-us'
 title = 'No Camera Bag'
 theme = 'papermod'
 paginate = 9
@@ -42,26 +41,15 @@ paginate = 9
         social_text = "To stay up to date with new and updated blog posts, please consider following on social media. I'm mostly active on [Twitter](https://twitter.com/nocamerabag), [Instagram](https://instagram.com/nocamerabag), followed by [Facebook](https://facebook.com/nocamerabag) and [Pinterest](https://pinterest.com/nocamerabag)."
 
     [params.comments]
-        api_url = "http://host.docker.internal:8787/api/comments"
-        client_api_url = "http://localhost:8787/api/comments"
+        build_fetch = false
+        api_url = ""
 
     [params.ratings]
         enabled = true
-        api_url = "http://192.168.1.90:8788"
+        build_fetch = false
+        api_url = ""
         min_average = 4.2
         min_votes = 2
-        # title = "Diskussion"
-        # count_suffix = "Beiträge"
-        # placeholder = "Schreibe einen Kommentar zum Artikel..."
-        # btn_step1 = "Kommentar abgeben →"
-        # modal_title = "Nur noch ein Schritt"
-        # modal_desc = "Gib bitte deinen Namen und deine E-Mail-Adresse an. Deine E-Mail wird niemals veröffentlicht."
-        # label_name = "Dein Name *"
-        # ph_name = "z. B. Alex"
-        # label_email = "E-Mail-Adresse *"
-        # ph_email = "name@beispiel.de"
-        # btn_cancel = "Abbrechen"
-        # btn_publish = "Jetzt veröffentlichen"
 
 [[menu.main]]
     name = "Blog"
@@ -87,4 +75,3 @@ paginate = 9
     name = "Traveling Light"
     url = "/traveling-light/"
     weight = 5
-
