@@ -7,18 +7,13 @@
    -------------------------------------------------------------------------- */
 :root {
   /* Core Color Variables */
-  /* --color-white: #ffffff;
-  --color-black: #011c3d;
-  --color-dark-accent: #034873;
-  --color-accent: #0077b6;
-  --color-light-accent: #eef5f9; */
-  --color-white: #f8fafc;        /* Heller Schiefer-/Eisweiß-Hintergrund */
-    --color-light-accent: #e2e8f0; /* Klares Hellgrau (Kartenränder & Zeitachse) */
-    --color-accent: #0284c7;       /* Leuchtendes Cyan-Blau (Jahres-Badge, RAW-Pills) */
-    --color-dark-accent: #475569;  /* Kühler Schiefer (Fließtext, Unterzeilen) */
-    --color-black: #0f172a;        /* Deep Slate Navy (Überschriften, Haupttext) */
-    --color-pinterest: #e60023;    /* Pinterest Brand Red */
-    --color-pinterest-icon: #ff4d6d; /* Pinterest Soft Pink Icon */
+  --color-white: #f8fafc;               /* Heller Schiefer-/Eisweiß-Hintergrund */
+  --color-light-accent: #e2e8f0;        /* Klares Hellgrau (Kartenränder & Zeitachse) */
+  --color-accent: #0284c7;              /* Leuchtendes Cyan-Blau (Jahres-Badge, RAW-Pills) */
+  --color-dark-accent: #475569;         /* Kühler Schiefer (Fließtext, Unterzeilen) */
+  --color-black: #0f172a;               /* Deep Slate Navy (Überschriften, Haupttext) */
+  --color-pinterest: #e60023;           /* Pinterest Brand Red */
+  --color-pinterest-icon: #ff4d6d;      /* Pinterest Soft Pink Icon */
 
 
 
@@ -5648,4 +5643,3 @@ body.modal-open {
   from { opacity: 0; transform: translateY(-8px); }
   to { opacity: 1; transform: translateY(0); }
 }
-
