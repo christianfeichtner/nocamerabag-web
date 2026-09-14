@@ -100,6 +100,7 @@
 {{- if and $imgSrc (not $imgWidth) -}}
   {{- $resPath := strings.TrimPrefix "/" $imgSrc -}}
   {{- with resources.Get $resPath -}}
+    {{- $imgSrc = .RelPermalink -}}
     {{- $imgWidth = .Width -}}
     {{- $imgHeight = .Height -}}
   {{- end -}}
