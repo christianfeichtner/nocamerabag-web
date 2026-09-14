@@ -95,7 +95,7 @@
               {{- else }}
                 {{- $entryKey = $rawKey }}
               {{- end }}
-              {{- $fileData := index site.Data $dataFile }}
+              {{- $fileData := index hugo.Data $dataFile }}
               {{- if $fileData }}
                 {{- $item := index $fileData $entryKey }}
                 {{- if $item }}
@@ -161,7 +161,7 @@
               {{- else }}
                 {{- $entryKey = $rawKey }}
               {{- end }}
-              {{- $fileData := index site.Data $dataFile }}
+              {{- $fileData := index hugo.Data $dataFile }}
               {{- if $fileData }}
                 {{- $item := index $fileData $entryKey }}
                 {{- if $item }}

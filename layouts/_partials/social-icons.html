@@ -7,7 +7,7 @@
   {{- $class = . -}}
 {{- end -}}
 
-{{- $socials := site.Data.socials -}}
+{{- $socials := hugo.Data.socials -}}
 {{- with $socials -}}
 <div class="{{ $class }}">
   {{- range . }}

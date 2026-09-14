@@ -124,9 +124,9 @@
 ## 10. Data Files & Data Sources (`data/`)
 - **Ablageort:** Strukturierte Metadaten, Lookups und UI-Zuordnungen liegen ausschließlich als YAML-Dateien im Verzeichnis `data/`.
 - **Datenzugriff in Templates:**
-  - Zugriff in Shortcodes (`layouts/_shortcodes/`) und Partials (`layouts/_partials/`) erfolgt immer über `site.Data.<dateiname>`:
+  - Zugriff in Shortcodes (`layouts/_shortcodes/`) und Partials (`layouts/_partials/`) erfolgt immer über `hugo.Data.<dateiname>`:
     ```go
-    {{ $data := index site.Data "dateiname" }}
+    {{ $data := index hugo.Data "dateiname" }}
     ```
 - **Definierte Datenquellen:**
   - `data/flags.yaml`: Zuordnung von Ländercodes/Namen zu Flaggen-Icons bzw. Emojis für Badges und Pills.

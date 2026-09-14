@@ -57,7 +57,7 @@
   {{- $entryKey = $rawId -}}
 {{- end -}}
 
-{{- $fileData := index site.Data $dataFile -}}
+{{- $fileData := index hugo.Data $dataFile -}}
 {{- if not $fileData -}}
   {{- errorf "affiliate shortcode: Data file 'data/%s.yaml' (or .json/.toml) not found on page '%s'" $dataFile (or .Page.File.Path .Page.Path) -}}
 {{- end -}}

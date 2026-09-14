@@ -75,7 +75,7 @@
             {{- $flag := "" -}}
             {{- $countryName := "" -}}
             {{- with $country -}}
-              {{- with (index site.Data.flags .) -}}
+              {{- with (index hugo.Data.flags .) -}}
                 {{- $flag = .flag -}}
                 {{- $countryName = .name | default . -}}
               {{- else -}}

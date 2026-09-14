@@ -14,7 +14,7 @@
 
   <div class="timeline-container">
     <div class="timeline-track">
-      {{- range $index, $item := site.Data.iphones }}
+      {{- range $index, $item := hugo.Data.iphones }}
       <div class="timeline-item" id="item-{{ $item.model | urlize }}">
         <div class="timeline-node-wrapper">
           <div class="timeline-year-node">

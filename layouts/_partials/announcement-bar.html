@@ -1,4 +1,4 @@
-{{ with site.Data.announcement }}
+{{ with hugo.Data.announcement }}
   {{ if and .enable (partial "is-published.html" .) }}
     <aside id="site-announcement" 
            class="announcement-wrapper" 

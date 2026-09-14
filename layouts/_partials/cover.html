@@ -81,7 +81,7 @@
             {{- with .Params.tags -}}
               {{- range . -}}
                 {{- if not $flag -}}
-                  {{- with (index site.Data.flags .) -}}
+                  {{- with (index hugo.Data.flags .) -}}
                     {{- $flag = .flag -}}
                     {{- $countryName = .name | default . -}}
                   {{- end -}}

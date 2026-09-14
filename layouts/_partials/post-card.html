@@ -117,7 +117,7 @@
         {{- with $post.Params.tags -}}
           {{- range . -}}
             {{- if not $flag -}}
-              {{- with (index site.Data.flags .) -}}
+              {{- with (index hugo.Data.flags .) -}}
                 {{- $flag = .flag -}}
                 {{- $countryName = .name | default . -}}
               {{- end -}}
@@ -242,7 +242,7 @@
           {{- else }}
             {{- $entryKey = $rawKey }}
           {{- end }}
-          {{- $fileData := index site.Data $dataFile }}
+          {{- $fileData := index hugo.Data $dataFile }}
           {{- if $fileData }}
             {{- $aff := index $fileData $entryKey }}
             {{- if $aff }}

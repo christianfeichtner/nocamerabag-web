@@ -160,7 +160,7 @@
 {{- end -}}
 {{- $affItem := "" -}}
 {{- if $affKey -}}
-  {{- $affItem = index site.Data.affiliates $affKey -}}
+  {{- $affItem = index hugo.Data.affiliates $affKey -}}
 {{- end -}}
 <script type="application/ld+json">
 {

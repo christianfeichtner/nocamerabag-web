@@ -9,9 +9,9 @@
 {{- else -}}
   {{- $navDataKey := .Params.show_sub_nav | default .Params.sub_nav | default .Params.shot_sub_nav -}}
   {{- if $navDataKey -}}
-    {{- $sourceData := index site.Data $navDataKey -}}
+    {{- $sourceData := index hugo.Data $navDataKey -}}
     {{- if and (not $sourceData) (or (eq $navDataKey "flaggen") (eq $navDataKey "flags")) -}}
-      {{- $sourceData = site.Data.flags | default site.Data.flaggen -}}
+      {{- $sourceData = hugo.Data.flags | default hugo.Data.flaggen -}}
     {{- end -}}
 
     {{- if $sourceData -}}
