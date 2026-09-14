@@ -7,7 +7,9 @@
   {{- $minVotes := cast.ToInt ($ratingsConfig.min_votes | default 2) -}}
   {{- $slug := .RelPermalink -}}
   {{- $reqUrl := printf "%s/ratings?slug=%s" $apiUrl ($slug | urlquery) -}}
-  {{- with try (resources.GetRemote $reqUrl) -}}
+  {{- $secret := or (os.Getenv "HUGO_BUILD_SECRET") (os.Getenv "BUILD_SECRET") site.Params.build_secret -}}
+  {{- $opts := dict "headers" (dict "X-Build-Secret" ($secret | default "")) -}}
+  {{- with try (resources.GetRemote $reqUrl $opts) -}}
     {{- with .Value -}}
       {{- if and .Data (eq .Data.StatusCode 200) -}}
         {{- $content := strings.TrimLeft " \t\r\n" .Content -}}

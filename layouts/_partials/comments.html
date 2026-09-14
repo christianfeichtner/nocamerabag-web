@@ -25,11 +25,13 @@
 {{- $clientApiUrl := site.Params.comments_api_url | default $commentsConfig.client_api_url | default $commentsConfig.api_url -}}
 {{- $buildFetch := $commentsConfig.build_fetch | default false -}}
 
-{{- /* Build-Time Remote Fetch mit robuster JSON-Entpackung */ -}}
+{{- /* Build-Time Remote Fetch mit robuster JSON-Entpackung & Token-Header */ -}}
 {{- $comments := slice -}}
 {{- if and $buildFetch $apiUrl -}}
   {{- $reqUrl := printf "%s?page_id=%s" (strings.TrimRight "/" $apiUrl) ($pageId | urlquery) -}}
-  {{- with try (resources.GetRemote $reqUrl) -}}
+  {{- $secret := or (os.Getenv "HUGO_BUILD_SECRET") (os.Getenv "BUILD_SECRET") site.Params.build_secret -}}
+  {{- $opts := dict "headers" (dict "X-Build-Secret" ($secret | default "")) -}}
+  {{- with try (resources.GetRemote $reqUrl $opts) -}}
     {{- with .Value -}}
       {{- if and .Data (eq .Data.StatusCode 200) -}}
         {{- $content := strings.TrimLeft " \t\r\n" .Content -}}

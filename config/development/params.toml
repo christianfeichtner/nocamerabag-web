@@ -1,3 +1,5 @@
 # Public API Endpoints for Client-Side Rendering (Local Development / NAS)
 ratings_api_url = "http://192.168.1.90:8788"
 comments_api_url = "http://192.168.1.90:8787"
+build_secret = "dev-build-secret-12345"
+

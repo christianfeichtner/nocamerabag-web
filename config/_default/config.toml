@@ -22,6 +22,8 @@ paginate = 9
         methods = ['(?i)GET|POST']
         urls = ['.*']
         mediaTypes = ['.*']
+    [security.funcs]
+        getenv = ['^HUGO_', '^CI$', '^BUILD_']
 
 [params]
     defaultTheme = "light"

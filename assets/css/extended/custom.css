@@ -883,7 +883,7 @@ h6[id],
 .footer-social-icons {
   display: flex;
   gap: 1rem;
-  margin-top: 1rem;
+  margin: 0;
 }
 
 .footer-social-icons .social-icon-link {
@@ -5643,3 +5643,45 @@ body.modal-open {
   from { opacity: 0; transform: translateY(-8px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+/* --------------------------------------------------------------------------
+   Privacy & Consent Floating Trigger Button
+   -------------------------------------------------------------------------- */
+.consent-trigger-btn {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 9999;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-light-accent);
+  color: var(--color-dark-accent);
+  box-shadow: 0 4px 12px color-mix(in srgb, var(--color-black) 8%, transparent);
+  cursor: pointer;
+  padding: 0;
+  transition: transform 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.consent-trigger-btn:hover {
+  background-color: var(--color-white);
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  transform: scale(1.05);
+}
+
+.consent-trigger-btn:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+.consent-trigger-icon {
+  width: 20px;
+  height: 20px;
+  stroke: currentColor;
+}
+
