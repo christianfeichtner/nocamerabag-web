@@ -1,22 +1,56 @@
 (function () {
   'use strict';
 
-  // Zaraz auto-generates 4-character purpose IDs (screenshot shows HGIg / Hglg).
-  var YOUTUBE_PURPOSE_IDS = ['HGIg', 'Hglg', 'youtube'];
+  function getYouTubePurposeId() {
+    try {
+      if (window.zaraz && window.zaraz.consent && window.zaraz.consent.purposes) {
+        var purposes = window.zaraz.consent.purposes;
+        if (Array.isArray(purposes)) {
+          for (var i = 0; i < purposes.length; i++) {
+            if (purposes[i] && purposes[i].name && purposes[i].name.toLowerCase().includes('youtube')) {
+              return purposes[i].id;
+            }
+          }
+        } else if (typeof purposes === 'object') {
+          for (var id in purposes) {
+            if (Object.prototype.hasOwnProperty.call(purposes, id)) {
+              var p = purposes[id];
+              if (p && ((p.name && p.name.toLowerCase().includes('youtube')) || id.toLowerCase() === 'youtube')) {
+                return id;
+              }
+            }
+          }
+        }
+      }
+    } catch (e) {
+      console.error('Error identifying YouTube purpose in Zaraz:', e);
+    }
+    return 'HGIg';
+  }
 
   function hasYouTubeConsent() {
     try {
       if (window.zaraz && window.zaraz.consent) {
+        var id = getYouTubePurposeId();
+
+        // 1. Check via zaraz.consent.get() - MUST strictly be boolean true
         if (typeof window.zaraz.consent.get === 'function') {
-          for (var i = 0; i < YOUTUBE_PURPOSE_IDS.length; i++) {
-            if (window.zaraz.consent.get(YOUTUBE_PURPOSE_IDS[i])) {
-              return true;
-            }
+          if (window.zaraz.consent.get(id) === true ||
+              window.zaraz.consent.get('HGIg') === true ||
+              window.zaraz.consent.get('Hglg') === true ||
+              window.zaraz.consent.get('youtube') === true) {
+            return true;
           }
         }
-        if (window.zaraz.consent.purposes && typeof window.zaraz.consent.purposes === 'object') {
-          for (var j = 0; j < YOUTUBE_PURPOSE_IDS.length; j++) {
-            if (window.zaraz.consent.purposes[YOUTUBE_PURPOSE_IDS[j]]) {
+
+        // 2. Check via zaraz.consent.getAll() - MUST strictly be boolean true
+        if (typeof window.zaraz.consent.getAll === 'function') {
+          var all = window.zaraz.consent.getAll();
+          if (all && typeof all === 'object') {
+            if (all[id] === true ||
+                all['HGIg'] === true ||
+                all['Hglg'] === true ||
+                all['youtube'] === true) {
               return true;
             }
           }
@@ -31,10 +65,12 @@
   function setYouTubeConsent() {
     try {
       if (window.zaraz && window.zaraz.consent && typeof window.zaraz.consent.set === 'function') {
+        var id = getYouTubePurposeId();
         var consentObj = {};
-        for (var i = 0; i < YOUTUBE_PURPOSE_IDS.length; i++) {
-          consentObj[YOUTUBE_PURPOSE_IDS[i]] = true;
-        }
+        consentObj[id] = true;
+        consentObj['HGIg'] = true;
+        consentObj['Hglg'] = true;
+        consentObj['youtube'] = true;
         window.zaraz.consent.set(consentObj);
       }
     } catch (e) {
@@ -84,6 +120,8 @@
     }
   }
 
+  var initialized = false;
+
   function init() {
     var wrappers = document.querySelectorAll('.yt-consent-wrapper');
     if (!wrappers.length) return;
@@ -93,6 +131,9 @@
       activateAllVideos();
       return;
     }
+
+    if (initialized) return;
+    initialized = true;
 
     // Attach click listeners using event delegation
     document.addEventListener('click', function (e) {
