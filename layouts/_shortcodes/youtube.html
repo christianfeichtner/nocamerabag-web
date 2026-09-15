@@ -22,7 +22,7 @@
 {{- $bg := resources.Get "images/ui/youtube-consent-for-content.svg" -}}
 {{- $bgUrl := "/images/ui/youtube-consent-for-content.svg" -}}
 {{- with $bg }}{{ $bgUrl = .RelPermalink }}{{ end -}}
-<figure class="post-figure youtube-figure">
+<figure class="post-figure post-image-figure youtube-figure">
   <div class="yt-consent-wrapper" data-yt-id="{{ $id }}" data-yt-title="{{ $title }}" style="background-image: url('{{ $bgUrl }}');">
     <div class="yt-consent-modal">
       <p class="yt-consent-notice">{{ $notice }}</p>

@@ -3159,9 +3159,9 @@ details.toc summary .title {
   box-shadow: 0 4px 16px color-mix(in srgb, var(--color-black) 6%, transparent);
 }
 
-figure.post-figure,
-.post-content figure:not(.post-image-figure),
-.entry-content figure:not(.post-image-figure) {
+figure.post-figure:not(.post-image-figure):not(.youtube-figure),
+.post-content figure:not(.post-image-figure):not(.youtube-figure),
+.entry-content figure:not(.post-image-figure):not(.youtube-figure) {
   display: table !important;
   margin: 2.5rem auto !important;
   max-width: 88% !important; /* Etwas schmaler als der Fließtext */
@@ -4086,11 +4086,15 @@ figcaption.overlay-caption a:hover {
 /* ==========================================================================
    YouTube / Video Responsive Container & Zaraz Consent
    ========================================================================== */
-figure.youtube-figure {
+figure.youtube-figure,
+.post-content figure.youtube-figure,
+.entry-content figure.youtube-figure {
   display: block !important;
-  width: 100% !important;
-  max-width: 88% !important;
   margin: 2.5rem auto !important;
+  padding: 0 !important;
+  max-width: 88% !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
 }
 
 figure.youtube-figure figcaption.image-caption {
@@ -4100,19 +4104,26 @@ figure.youtube-figure figcaption.image-caption {
 
 /* Two-Click Consent Wrapper */
 .yt-consent-wrapper {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  overflow: hidden;
-  border-radius: 12px;
-  background: var(--color-white) url('/images/ui/youtube-consent-for-content.svg') center / cover no-repeat;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: relative !important;
+  width: 100% !important;
+  aspect-ratio: 16 / 9 !important;
+  overflow: hidden !important;
+  border-radius: 16px !important;
+  background-color: var(--color-white) !important;
+  background-image: url('/images/ui/youtube-consent-for-content.svg') !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-shadow: 0 4px 16px color-mix(in srgb, var(--color-black) 6%, transparent) !important;
+  box-sizing: border-box !important;
 }
 
 .yt-consent-wrapper.is-loaded {
-  background: none;
+  background-image: none !important;
+  background-color: var(--color-black) !important;
 }
 
 /* Centered Modal / Overlay */

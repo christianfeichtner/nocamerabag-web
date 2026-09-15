@@ -1,6 +1,9 @@
 (function () {
   'use strict';
 
+  var STORAGE_KEY = 'ncb_youtube_consent';
+  var DEFAULT_ID = 'HGIg';
+
   function getYouTubePurposeId() {
     try {
       if (window.zaraz && window.zaraz.consent && window.zaraz.consent.purposes) {
@@ -25,30 +28,67 @@
     } catch (e) {
       console.error('Error identifying YouTube purpose in Zaraz:', e);
     }
-    return 'HGIg';
+    return DEFAULT_ID;
+  }
+
+  function getConsentFromCookie() {
+    try {
+      var match = document.cookie.match(/(?:^|;\s*)cf_consent=([^;]+)/);
+      if (match && match[1]) {
+        var parsed = JSON.parse(decodeURIComponent(match[1]));
+        if (parsed && typeof parsed === 'object') {
+          var id = getYouTubePurposeId();
+          if (parsed[id] === true || parsed[DEFAULT_ID] === true || parsed['Hglg'] === true || parsed['youtube'] === true) {
+            return true;
+          }
+          if (parsed[id] === false || parsed[DEFAULT_ID] === false) {
+            return false;
+          }
+        }
+      }
+    } catch (e) {}
+    return null;
   }
 
   function hasYouTubeConsent() {
+    // 1. Check if Zaraz cookie explicitly denied consent
+    var cookieConsent = getConsentFromCookie();
+    if (cookieConsent === false) {
+      try { localStorage.removeItem(STORAGE_KEY); } catch (e) {}
+      return false;
+    }
+
+    // 2. Check local storage persistence
+    try {
+      if (localStorage.getItem(STORAGE_KEY) === 'true') {
+        return true;
+      }
+    } catch (e) {}
+
+    // 3. Check cookie consent if granted
+    if (cookieConsent === true) {
+      return true;
+    }
+
+    // 4. Check Zaraz Consent API
     try {
       if (window.zaraz && window.zaraz.consent) {
         var id = getYouTubePurposeId();
 
-        // 1. Check via zaraz.consent.get() - MUST strictly be boolean true
         if (typeof window.zaraz.consent.get === 'function') {
           if (window.zaraz.consent.get(id) === true ||
-              window.zaraz.consent.get('HGIg') === true ||
+              window.zaraz.consent.get(DEFAULT_ID) === true ||
               window.zaraz.consent.get('Hglg') === true ||
               window.zaraz.consent.get('youtube') === true) {
             return true;
           }
         }
 
-        // 2. Check via zaraz.consent.getAll() - MUST strictly be boolean true
         if (typeof window.zaraz.consent.getAll === 'function') {
           var all = window.zaraz.consent.getAll();
           if (all && typeof all === 'object') {
             if (all[id] === true ||
-                all['HGIg'] === true ||
+                all[DEFAULT_ID] === true ||
                 all['Hglg'] === true ||
                 all['youtube'] === true) {
               return true;
@@ -59,18 +99,22 @@
     } catch (e) {
       console.error('Error checking Zaraz consent:', e);
     }
+
     return false;
   }
 
   function setYouTubeConsent() {
+    // 1. Store in localStorage for instant persistence
+    try {
+      localStorage.setItem(STORAGE_KEY, 'true');
+    } catch (e) {}
+
+    // 2. Persist in Zaraz
     try {
       if (window.zaraz && window.zaraz.consent && typeof window.zaraz.consent.set === 'function') {
         var id = getYouTubePurposeId();
         var consentObj = {};
         consentObj[id] = true;
-        consentObj['HGIg'] = true;
-        consentObj['Hglg'] = true;
-        consentObj['youtube'] = true;
         window.zaraz.consent.set(consentObj);
       }
     } catch (e) {
@@ -126,7 +170,6 @@
     var wrappers = document.querySelectorAll('.yt-consent-wrapper');
     if (!wrappers.length) return;
 
-    // Check if consent has already been granted
     if (hasYouTubeConsent()) {
       activateAllVideos();
       return;
@@ -135,7 +178,6 @@
     if (initialized) return;
     initialized = true;
 
-    // Attach click listeners using event delegation
     document.addEventListener('click', function (e) {
       var acceptBtn = e.target.closest('.yt-consent-btn-accept');
       if (acceptBtn) {
@@ -160,7 +202,7 @@
     init();
   }
 
-  // Listen for Zaraz consent events if Zaraz API initializes or updates choices asynchronously
+  // Re-check when Zaraz events fire or after short delay
   document.addEventListener('zarazConsentAPIReady', function () {
     if (hasYouTubeConsent()) {
       activateAllVideos();
@@ -168,8 +210,21 @@
   });
 
   document.addEventListener('zarazConsentChoicesUpdated', function () {
+    var id = getYouTubePurposeId();
+    if (window.zaraz && window.zaraz.consent && typeof window.zaraz.consent.get === 'function') {
+      if (window.zaraz.consent.get(id) === false) {
+        try { localStorage.removeItem(STORAGE_KEY); } catch (e) {}
+        return;
+      }
+    }
     if (hasYouTubeConsent()) {
       activateAllVideos();
     }
   });
+
+  setTimeout(function () {
+    if (hasYouTubeConsent()) {
+      activateAllVideos();
+    }
+  }, 300);
 })();
