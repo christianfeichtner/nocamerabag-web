@@ -25,7 +25,7 @@ Here's the original, unedited photo:
 
 ![Church at sunset in Vienna shot on iPhone](/images/tutorials/general/church-at-sunset-in-vienna-shot-on-iphone.webp)
 
-If you'd like to plan ahead and see, when the blue and golden hours are, check out my review of the [blue hour calculators for iPhone](/blog/review-blue-hour-calculators-iphone) - one of them, [Sun Surveyor App](/blog/review-blue-hour-calculators-iphone#sunsurveyor), also works great for the golden hour.
+If you'd like to plan ahead and see, when the blue and golden hours are, check out my review of the [blue hour calculators for iPhone](/blog/review-blue-hour-calculators-iphone) - one of them, [Sun Surveyor App](/blog/review-blue-hour-calculators-iphone/#sun-surveyor-app-helps-you-to-discover-then-the-golden-hour-and-the-blue-hour-starts), also works great for the golden hour.
 
 ## Composition
 

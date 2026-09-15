@@ -19,7 +19,7 @@ cover:
   image: /images/reviews/general/moment-zoom-lens-case.webp
   alt: 'Review: Moment Telephoto Lens (including sample photos)'
 ---
-I originally wrote this review of the Moment Tele Lens back in 2015. A few things changed since then, except one: The Moment Tele is still a great telephoto lens for iPhone photographers, and it's one of the three [iPhone Camera Lenses](/iphone-photography#iphone-photography/lenses) I use regularly.
+I originally wrote this review of the Moment Tele Lens back in 2015. A few things changed since then, except one: The Moment Tele is still a great telephoto lens for iPhone photographers, and it's one of the three [iPhone Camera Lenses](/blog/lenses/) I use regularly.
 
 Here are some sample photos I shot using different iPhone models and different versions of the Moment Tele Lens (click for a larger view):
 

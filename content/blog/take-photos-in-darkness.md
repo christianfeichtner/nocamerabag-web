@@ -21,7 +21,7 @@ Sometimes, when exploring a lost place, I find rooms and corners that probably h
 
 So, in this blog post, I‘ll show you a simple way how to take photos in almost dark rooms with iPhone. And here‘s what you need:
 
-* A [tripod for iPhone](/blog/recommended-iphone-photo-accessoires#recommended-tripods-for-iphone) like the ones I use
+* A [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography) like the ones I use
 * [Slow Shutter Cam App](/blog/review-slow-shutter-cam-app)
 * A flashlight with adjustable intensity like the [Olight S30R III](/blog/review-olight-s30r-iii) or [Olight S1R](/blog/review-olight-s1r-baton) that I use.
 * Remote Shutter Release, e.g., Apple Watch

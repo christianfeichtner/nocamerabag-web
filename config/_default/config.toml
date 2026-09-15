@@ -1,8 +1,9 @@
-baseURL = 'http://nocamerabag.com/'
+baseURL = 'https://nocamerabag.com/'
 locale = 'en-us'
 title = 'No Camera Bag'
 theme = 'papermod'
 paginate = 9
+enableRobotsTXT = true
 
 [taxonomies]
     category = "categories"

@@ -50,7 +50,7 @@ So I set Slow Shutter Cam App to *Motion Blur* mode with ISO reduced to ISO 200 
 
 Using my Apple Watch as a remote shutter release, I could see the photo develop right on the iPhone screen and close the shutter once the picture looked good for me.
 
-Of course, With such a long exposure time, using a [tripod for iPhone](/iphone-photography#iphone-photography/tripods) is essential.
+Of course, With such a long exposure time, using a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography) is essential.
 
 ## How I edited the Photo of the Parliament Building in Budapest
 

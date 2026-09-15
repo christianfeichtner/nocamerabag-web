@@ -80,7 +80,7 @@ Getting good shots was challenging in Pripyat. We didn't have much time (and you
 
 I used the [Moment Wide Lens](/blog/review-moment-wide-lens) almost for each photo and primarily to photograph inside the buildings. Inside the buildings I photographed with [Pro Camera App] using [Low Light](/blog/review-low-light-modes-procamera-app) & HDR mode (worth the in app purchase!) that magically combines a long exposure with an HDR reducing the noise of the final image under low light conditions.
 
-Of course, I also used a [tripod to photograph with iPhone](/iphone-photography#iphone-photography/tripods) - knowing that I may have to leave it at one of the checkpoints if it was found to be contaminated - which wasn't the case.
+Of course, I also used a [tripod to photograph with iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography) - knowing that I may have to leave it at one of the checkpoints if it was found to be contaminated - which wasn't the case.
 
 Oh yes, and one final word: Don't go there on your own. Book a tour; it's much safer. It's not only about the radioactivity but also about wild animals that you may encounter (We almost had such an encounter).
 

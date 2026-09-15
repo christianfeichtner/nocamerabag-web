@@ -4,7 +4,7 @@ draft: false
 layout: "simple-page"
 ---
 
-I have prepared this Privacy Policy in accordance with the requirements of the European General Data Protection Regulation (EU) 2016/679 (GDPR / DSGVO), the Austrian Data Protection Act (*Datenschutzgesetz* – DSG), and § 165 of the Austrian Telecommunications Act (*Telekommunikationsgesetz* – TKG 2021) to inform you transparently about what personal data is processed, for what purposes, on what legal bases, and what rights you have as a visitor to [nocamerabag.com](https://nocamerabag.com/) ("this website" or "this site").
+I have prepared this Privacy Policy in accordance with the requirements of the European General Data Protection Regulation (EU) 2016/679 (GDPR / DSGVO), the Austrian Data Protection Act (*Datenschutzgesetz* – DSG), and § 165 of the Austrian Telecommunications Act (*Telekommunikationsgesetz* – TKG 2021) to inform you transparently about what personal data is processed, for what purposes, on what legal bases, and what rights you have as a visitor to [nocamerabag.com](/) ("this website" or "this site").
 
 I strive to explain complex technical and privacy concepts as clearly, concisely, and transparently as possible.
 
@@ -17,7 +17,7 @@ The controller responsible for data processing on this website within the meanin
 **Christian Feichtner**  
 Vienna, Austria  
 Email: [hello@nocamerabag.com](mailto:hello@nocamerabag.com)  
-Website: [nocamerabag.com](https://nocamerabag.com/)
+Website: [nocamerabag.com](/)
 
 For additional contact details and legal disclosures, please see my [Imprint & Legal Disclosure](/imprint/).
 
@@ -192,7 +192,7 @@ My website provides interactive features including blog article comments and sta
 ## 8. Affiliate Links & Amazon Associates Program
 
 ### Disclosure & Operation
-[nocamerabag.com](https://nocamerabag.com/) participates in affiliate partner programs, most notably the **Amazon Associates Program**. On certain review, gear, and tutorial pages, I use affiliate links marked with an affiliate shopping bag icon or clearly indicated as affiliate/sponsored links in text.
+[nocamerabag.com](/) participates in affiliate partner programs, most notably the **Amazon Associates Program**. On certain review, gear, and tutorial pages, I use affiliate links marked with an affiliate shopping bag icon or clearly indicated as affiliate/sponsored links in text.
 
 When you click an affiliate link to an Amazon site, Amazon uses cookies and session parameters to track that you arrived from my website so that any qualified purchases can generate a small commission for me at no additional cost to you.
 

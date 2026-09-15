@@ -250,4 +250,4 @@ And there's even more in ProCamera App than what I could cover in this review. P
 
 I've tried many different camera apps over the years, but ProCamera app was and still is, in my opinion, the best camera app for iPhone Photographers, and, as always, you can get {{< affiliate "affiliates://procamera-app" "ProCamera App from the App Store" >}}.
 
-Finally, if you plan to use ProCamera in low light mode, don't forget to use a [tripod for iPhone](/iphone-photography#iphone-photography/tripods)! Otherwise, your photos might be a bit blurry.
+Finally, if you plan to use ProCamera in low light mode, don't forget to use a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography)! Otherwise, your photos might be a bit blurry.

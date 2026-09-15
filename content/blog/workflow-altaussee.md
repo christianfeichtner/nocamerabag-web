@@ -37,7 +37,7 @@ Using a lower angle, the lakeshore would have been visible; and I wanted to avoi
 
 ## iPhone Camera App used for this photo
 
-[ProCamera App](/blog/procamera-app-review) is one of my [recommended iPhone camera apps](/iphone-photography#iphone-photography/camera-apps) and I also used to take this photo in RAW. And to capture the entire beauty of the scene, I used a [Moment Wide Lens](/blog/review-moment-wide-lens) when I took this photo with my iPhone 7 Plus. Here's the unedited version:
+[ProCamera App](/blog/procamera-app-review) is one of my [recommended iPhone camera apps](/blog/recommended-camera-apps/) and I also used to take this photo in RAW. And to capture the entire beauty of the scene, I used a [Moment Wide Lens](/blog/review-moment-wide-lens) when I took this photo with my iPhone 7 Plus. Here's the unedited version:
 
 ![Unedited Photo out of the Camera](/images/tutorials/austria/unedited-photo-out-of-the-camera.webp)
 
@@ -45,7 +45,7 @@ If you'd like to know more about RAW and iPhone, here's a blog post about [how t
 
 ## iPhone Photo Editing Apps used for this photo
 
-As you can see from the unedited photo, there were some branches in the foreground. Thanks to [Touch Retouch App](/blog/review-touch-retouch), one of my [recommended iPhone photo editing apps](/iphone-photography#iphone-photography/photo-editing-apps), I could remove them in no time.
+As you can see from the unedited photo, there were some branches in the foreground. Thanks to [Touch Retouch App](/blog/review-touch-retouch), one of my [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps/), I could remove them in no time.
 
 ![Removing Branches with Touch Retouch App](/images/tutorials/austria/removing-branches-with-touch-retouch-app.webp)
 

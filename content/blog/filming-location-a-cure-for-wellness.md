@@ -100,7 +100,7 @@ You’ll also get to see the entrance area and hall a few times through the film
 
 Because of the sometimes tricky light in the building, I took some of these photos using one of my recommended iPhone camera Apps, [ProCamera App](/blog/procamera-app-review), because of the ability to use a priority mode, where you set the ISO manually and let ProCamera choose the exposure time.
 
-Except for the two photos for which I used the Moment Fisheye Lens, I shot all the others using the [Moment Wide Lens](/blog/review-moment-wide-lens) mounted to an iPhone X. And of course, for some of the photos, like the one in the bathhouse, I also used a [tripod for my iPhone](/iphone-photography#iphone-photography/tripods).
+Except for the two photos for which I used the Moment Fisheye Lens, I shot all the others using the [Moment Wide Lens](/blog/review-moment-wide-lens) mounted to an iPhone X. And of course, for some of the photos, like the one in the bathhouse, I also used a [tripod for my iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography).
 
 ## More Lost Places and Beelitz Heilstätten
 

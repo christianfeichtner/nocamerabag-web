@@ -42,8 +42,8 @@ Here’s a list of a few eSim offers I compared, just to give you an impression 
 | --- | --- | --- | --- |
 | Holafly | 14 | unlimited | €43,90 |
 | Maya Mobile | 15 | unlimited | €44 |
-| Saily | 30 | 10 GB (not enough, [see below](#istheholaflyesimunlimited)) | $35,99 |
-| Airalo | 30 | 20 GB (not enough, [see below](#istheholaflyesimunlimited)) | €47 |
+| Saily | 30 | 10 GB (not enough, [see below](#is-the-holafly-esim-unlimited)) | $35,99 |
+| Airalo | 30 | 20 GB (not enough, [see below](#is-the-holafly-esim-unlimited)) | €47 |
 
 And no, I did not compare all available Travel eSim providers. I just need it once or twice a year. But as you can see from the table, the pricing is just about similar for what I need.
 

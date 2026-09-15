@@ -18,7 +18,7 @@ cover:
   image: /images/reviews/general/procamera-perspective-distortion-fix-teaser.webp
   alt: 'Review: Auto perspective correction in ProCamera App'
 ---
-ProCamera is one of my few [recommended iPhone camera apps](/iphone-photography#iphone-photography/camera-apps) that I‘ve been using for years.
+ProCamera is one of my few [recommended iPhone camera apps](/blog/recommended-camera-apps/) that I‘ve been using for years.
 
 Almost each year, ProCamera releases a great new feature. First was HDR, then came Low Light Mode and now we get something new: auto perspective correction. That‘s right. ProCamera will automatically apply perspective correction right when you shoot a photo - and just for the sake of completeness: What ProCamera fixes here is called *perspective distortion*.
 

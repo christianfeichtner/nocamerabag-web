@@ -62,7 +62,7 @@ On my way down, I encountered a minor obstacle. The forces of nature have taken 
 
 ## How I photographed with iPhone inside Castle Pottendorf
 
-As mentioned above, I used my [Rollei Traveller Tripod](/blog/review-rollei-compact-traveller-no-1-carbon-tripod) that I bought last year to take the majority of the above photos. As there were a few places in the castle that were a bit dark, I used [ProCamera App](/blog/procamera-app-review), on of my [recommended iPhone camera apps](/iphone-photography#iphone-photography/camera-apps), set to semi-automatic mode.
+As mentioned above, I used my [Rollei Traveller Tripod](/blog/review-rollei-compact-traveller-no-1-carbon-tripod) that I bought last year to take the majority of the above photos. As there were a few places in the castle that were a bit dark, I used [ProCamera App](/blog/procamera-app-review), on of my [recommended iPhone camera apps](/blog/recommended-camera-apps/), set to semi-automatic mode.
 
 I chose semi-automatic mode to manually set the ISO to as low as possible and let ProCamera select the perfect exposure time. This way, I was able to avoid noise in the darker areas of the castle.
 

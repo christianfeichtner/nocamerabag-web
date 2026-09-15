@@ -75,7 +75,7 @@ Let's start in the city center at the Ateneul Român, a concert hall in the cent
 
 I had to wait for a little to get this photo. There was also a group of girls who were filming a kind of music video. Maybe for their Instagram or YouTube, I don't know. To get them off the photo, I just lowered my angle and used the bushes in front to cover them.
 
-Next is the Baserab Bridge, a road overpass in Bucharest. It looks particularly lovely at night when it's illuminated. I took this photo using [ProCamera app](/blog/procamera-app-review), which is one of the [recommended iPhone camera apps](/iphone-photography#iphone-photography/camera-apps) I've been using for years.
+Next is the Baserab Bridge, a road overpass in Bucharest. It looks particularly lovely at night when it's illuminated. I took this photo using [ProCamera app](/blog/procamera-app-review), which is one of the [recommended iPhone camera apps](/blog/recommended-camera-apps/) I've been using for years.
 
 ![Black and White Baserab bridge in Bucharest, Romania](/images/cityscapes/romania/black-and-white-baserab-bridge-in-bucharest-romania.webp)
 

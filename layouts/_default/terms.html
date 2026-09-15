@@ -36,7 +36,7 @@
       {{- $linkUrl := "" }}
       {{- $linkTitle := .Name }}
       {{- if $termPage }}
-        {{- $linkUrl = $termPage.Permalink }}
+        {{- $linkUrl = $termPage.RelPermalink }}
         {{- $linkTitle = $termPage.Title | default .Name }}
       {{- else }}
         {{- $linkUrl = printf "/blog/%s/" (.Name | urlize) | relURL }}

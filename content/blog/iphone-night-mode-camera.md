@@ -39,7 +39,7 @@ Unfortunately, night mode won't work on older iPhone models. Night mode requires
 
 Even the new iPhone SE 2020 that Apple recently launched does not support night mode.
 
-But there are a few alternatives that work equally well. You‘ll find these on the page about [night photography with iPhone](/iphone-photography/night-photography) or you can head to my [review of ProCamera Low Light Mode](/blog/review-low-light-modes-procamera-app) in the blog right away.
+But there are a few alternatives that work equally well. You‘ll find these on the page about [night photography with iPhone](/blog/night-photography-iphone-apps/) or you can head to my [review of ProCamera Low Light Mode](/blog/review-low-light-modes-procamera-app) in the blog right away.
 
 ## Does night mode camera work with all lenses of the iPhone 11?
 
@@ -93,7 +93,7 @@ Finally, the iPhone may altogether disable night mode. In this case, the camera 
 
 ![Night Mode disabled](/images/reviews/france/night-mode-disabled.webp)
 
-If you want more control, you may want to look at other apps that also have their own implementation of low light modes like the ones I use and recommend for [night photography with iPhone](/iphone-photography/night-photography).
+If you want more control, you may want to look at other apps that also have their own implementation of low light modes like the ones I use and recommend for [night photography with iPhone](/blog/night-photography-iphone-apps/).
 
 ## How to adjust the exposure time when night mode is active?
 
@@ -127,7 +127,7 @@ I did apply some adjustments to the photo, mainly [perspective correction](/blog
 
 I also tried to get a photo of the scene handheld without a tripod. But as the exposure time that night mode suggested was longer than a second, the results were blurry, even without pixel-peeping.
 
-So, as I mentioned above, once the suggested exposure time of night mode is above 1 second, use a [tripod for iPhone](/iphone-photography#iphone-photography/tripods).
+So, as I mentioned above, once the suggested exposure time of night mode is above 1 second, use a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography).
 
 ### Sample Photo taken with ProCamera Low Light Plus and Comparison
 

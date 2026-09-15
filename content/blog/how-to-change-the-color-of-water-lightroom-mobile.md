@@ -98,4 +98,4 @@ Now feel free to adjust the color of water to your liking. Make it pink or even 
 
 In this tutorial, I demonstrated one way how to change to color of water in [Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium). Please note, that using selective adjustments in Adobe Lightroom Mobile requires a premium subscription.
 
-I have a [free vs premium feature list of Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium/#featurelist) in a blog post. Maybe, this can help you to decide, if it's worth your investment.
+I have a [free vs premium feature list of Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium/#adobe-lightroom-mobile-premium-features) in a blog post. Maybe, this can help you to decide, if it's worth your investment.

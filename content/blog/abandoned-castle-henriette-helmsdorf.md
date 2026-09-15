@@ -16,7 +16,7 @@ description: The abandoned castle Henriette-Helmsdorf served as a home for elder
   beauty.
 affiliate_id: "affiliates://go2know-schloss-henriette"
 cover:
-  image: /images/lost-places/germany/abandoned-caste-henriette-helmsdorf-teaser.webp
+  image: /images/teaser/abandoned-castle-henriette-helmsdorf.webp
   alt: Photos from my Urbex Tour at the abandoned Castle Henriette-Helmsdorf
 ---
 Castle Henriette-Helmsdorf is an abandoned manor house in Helmsdorf (Gerbstedt). I had the opportunity to visit and photograph inside this beautiful lost place. In this blog post you’ll see some of these photos and learn more about the castle and how you can visit it legally.

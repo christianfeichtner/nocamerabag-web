@@ -56,4 +56,4 @@ During one of my earlier photo trips to Beelitz when the canopy walk did not yet
 
 ![Beelitz Heilstätten Baumkronenpfad](/images/lost-places/germany/beelitz-heilstatten-baumkronenpfad.webp)
 
-As I mentioned, the Beelitz Heilstätten is a vast area. You can see some [photos I took of the Beelitz-Heilstätten](/blog/tag/Beelitz) during the past years in the blog.
+As I mentioned, the Beelitz Heilstätten is a vast area. You can see some [photos I took of the Beelitz-Heilstätten](/blog/abandoned-beelitz-hospital/) during the past years in the blog.

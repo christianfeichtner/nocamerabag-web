@@ -75,7 +75,7 @@ Especially at night, the UFO bridge itself is a great photo spot because the bri
 
 For this photo, I used the [iPhone night mode camera](/blog/iphone-night-mode-camera).
 
-The iPhone 11 chose an exposure time of 3 seconds for this photo, and it chose that wisely. For such a long exposure, I had to use a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires#recommended-tripods-for-iphone). Otherwise, it would have been impossible to get a sharp photo.
+The iPhone 11 chose an exposure time of 3 seconds for this photo, and it chose that wisely. For such a long exposure, I had to use a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography). Otherwise, it would have been impossible to get a sharp photo.
 
 By the way, right behind the UFO bridge, within a 10 minute walk, is a shopping mall with a food court. Well, usually I avoid two things during a trip: shopping malls and food courts in shopping malls. But you have no other option in this area except for the rather expensive UFO restaurant.
 

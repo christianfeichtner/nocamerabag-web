@@ -53,7 +53,7 @@ Fun fact: There’s a German horror movie called Heilstätten, which is set at t
 
 ### Can I still visit the Beelitz Heilstätten?
 
-Yes, you can visit a small part of the former military hospital complex. Specifically, buildings like the Alpenhaus that were preserved for the Beelitz Heilstätten canopy walk. You’ll see a [photo of the Alpenhaus with its rooftop forest at Beelitz](#therooftopforrest) at the end of the blog post.
+Yes, you can visit a small part of the former military hospital complex. Specifically, buildings like the Alpenhaus that were preserved for the Beelitz Heilstätten canopy walk. You’ll see a [photo of the Alpenhaus with its rooftop forest at Beelitz](#the-rooftop-forrest) at the end of the blog post.
 
 ## Photos of the abandoned hospital
 

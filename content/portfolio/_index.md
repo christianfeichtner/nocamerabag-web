@@ -233,7 +233,7 @@ sections:
         country: "Austria"
         model: "iPhone 5s"
         alt: "Glass Tower, Vienna, Austria. Shot on iPhone 5S. Here are a few more tips about architecture photo spots in Vienna along with several others."
-        caption: "Glass Tower, Vienna, Austria. Here are a few more tips about [architecture photo spots in Vienna](/blog/photo-spots-vienna#thebestphotolocationsforarchitecturephotographyinvienna) along with several others."
+        caption: "Glass Tower, Vienna, Austria. Here are a few more tips about [architecture photo spots in Vienna](/blog/photo-spots-vienna/#the-best-photo-locations-for-architecture-photography-in-vienna) along with several others."
       - image: "/images/cityscapes/usa/wynn-encore-shot-on-iphone.webp"
         country: "USA"
         model: "iPhone 5"

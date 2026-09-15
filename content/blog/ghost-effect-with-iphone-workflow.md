@@ -30,7 +30,7 @@ I try to use only few apps for all my iPhone photography. For this photo I used 
 * Muku Shuttr, a wireless remote shutter for Smartphones
 * A [Gorillapod for iPhone](/blog/review-joby-gorillapod-magnetic).
 
-Slow Shutter Cam is one of my [recommended iPhone camera apps](/iphone-photography#iphone-photography/camera-apps). With this app, you can take a long exposure for capturing motion like flowing water, moving clouds or, a train.
+Slow Shutter Cam is one of my [recommended iPhone camera apps](/blog/recommended-camera-apps/). With this app, you can take a long exposure for capturing motion like flowing water, moving clouds or, a train.
 
 While many camera apps are limited to an exposure of half a second, Slow Shutter Cam takes exposures of up to 60 seconds and longer. I've written a [review of Slow Shutter Cam App](/blog/review-slow-shutter-cam-app) which also explains how to use it and a few recommended settings.
 

@@ -383,6 +383,9 @@
       raw: true
       proraw: true
   photos:
-    - "/images/timeline/iphone-17-pro-1.webp"
-    - "/images/timeline/iphone-17-pro-2.webp"
-    - "/images/timeline/iphone-17-pro-3.webp"
+    - image: "/images/cityscapes/germany/severins-bridge-cologne.jpeg"
+      caption: "Severin Bridge, Cologne"
+    - image: "/images/cityscapes/germany/cologne-cathedral-sunset.jpeg"
+      caption: "Cologne Cathedral, Germany"
+    - image: "/images/lost-places/germany/car-graveyard-jaguar-xk120.webp"
+      caption: "Jaguar XK 120, Neandertal"

@@ -1,10 +1,10 @@
 {{- if not .IsHome -}}
   {{- $breadcrumbItems := slice -}}
-  {{- $homeItem := dict "name" (i18n "home" | default "Home") "url" ("" | absLangURL) -}}
-  {{- $blogUrl := "/blog/" | absLangURL -}}
+  {{- $homeItem := dict "name" (i18n "home" | default "Home") "url" ("" | relLangURL) -}}
+  {{- $blogUrl := "/blog/" | relLangURL -}}
   {{- $blogName := "Blog" -}}
   {{- with site.GetPage "/blog" -}}
-    {{- $blogUrl = .Permalink -}}
+    {{- $blogUrl = .RelPermalink -}}
   {{- end -}}
   {{- $blogItem := dict "name" $blogName "url" $blogUrl -}}
 
@@ -33,9 +33,9 @@
     {{- if $cat -}}
       {{- $catPage := site.GetPage (printf "/categories/%s" ($cat | urlize)) -}}
       {{- if $catPage -}}
-        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $catPage.Title "url" $catPage.Permalink) -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $catPage.Title "url" $catPage.RelPermalink) -}}
       {{- else -}}
-        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $cat "url" (printf "/blog/%s/" ($cat | urlize) | absURL)) -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $cat "url" (printf "/blog/%s/" ($cat | urlize) | relURL)) -}}
       {{- end -}}
     {{- end -}}
 
@@ -53,14 +53,14 @@
     {{- if $tag -}}
       {{- $tagPage := site.GetPage (printf "/tags/%s" ($tag | urlize)) -}}
       {{- if $tagPage -}}
-        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $tagPage.Title "url" $tagPage.Permalink) -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $tagPage.Title "url" $tagPage.RelPermalink) -}}
       {{- else -}}
-        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $tag "url" (printf "/blog/%s/" ($tag | urlize) | absURL)) -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" $tag "url" (printf "/blog/%s/" ($tag | urlize) | relURL)) -}}
       {{- end -}}
     {{- end -}}
 
     {{- /* 5. Aktueller Post-Titel */ -}}
-    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink "isCurrent" true) -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .RelPermalink "isCurrent" true) -}}
 
   {{- else if or $isTaxonomyOrTerm (hasPrefix .RelPermalink "/blog/") (hasPrefix .RelPermalink "/categories/") (hasPrefix .RelPermalink "/tags/") -}}
     {{- /* Blog-Taxonomien (Kategorien, Tags) & Blog-Unterseiten: kein 'Categories' oder 'Tags' Zwischenschritt */ -}}
@@ -73,21 +73,21 @@
     {{- /* Falls es verschachtelte Ancestors gibt (ohne 'Categories' / 'Tags') */ -}}
     {{- range .Ancestors.Reverse -}}
       {{- if not (or .IsHome (eq .Section "categories") (eq .Section "tags") (eq .Type "categories") (eq .Type "tags") (eq .Data.Plural "categories") (eq .Data.Plural "tags") (eq .RelPermalink "/categories/") (eq .RelPermalink "/tags/") (eq .RelPermalink "/blog/")) -}}
-        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink) -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .RelPermalink) -}}
       {{- end -}}
     {{- end -}}
 
-    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink "isCurrent" true) -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .RelPermalink "isCurrent" true) -}}
 
   {{- else -}}
     {{- /* Standard-Hierarchie für sonstige Seiten: Home -> .Ancestors.Reverse -> .Title */ -}}
     {{- $breadcrumbItems = $breadcrumbItems | append $homeItem -}}
     {{- range .Ancestors.Reverse -}}
       {{- if not (or .IsHome (eq .Section "categories") (eq .Section "tags") (eq .Type "categories") (eq .Type "tags") (eq .Data.Plural "categories") (eq .Data.Plural "tags")) -}}
-        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink) -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .RelPermalink) -}}
       {{- end -}}
     {{- end -}}
-    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .Permalink "isCurrent" true) -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "name" .Title "url" .RelPermalink "isCurrent" true) -}}
   {{- end -}}
 
 <div class="breadcrumb-bar">
@@ -123,7 +123,7 @@
         "@type": "ListItem",
         "position": {{ add $i 1 }},
         "name": {{ $item.name | jsonify }},
-        "item": {{ $item.url | jsonify }}
+        "item": {{ $item.url | absURL | jsonify }}
       }
     {{- end }}
   ]

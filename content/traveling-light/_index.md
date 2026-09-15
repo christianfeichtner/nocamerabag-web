@@ -38,8 +38,8 @@ sections:
     featured: true
     show_category: false
     button:
-      text: "Free Traveling Light Guide (Download PDF)"
-      url: "/newsletter/"
+      text: "All Blog Posts about Travel Accessories"
+      url: "/blog/travel-accessories"
       style: "primary"
 
   # 4. Featured Category Posts

@@ -144,7 +144,7 @@ It does not work so well when shooting darker scenes like the National Library o
 
 Beware that shooting RAW adds one more step to your workflow. As a RAW photo is an unmodified dump of the camera sensor data from your iPhone, you need to develop the RAW first using either ProCamera RAW development or Adobe Lightroom Mobile. I've a dedicated FAW about shooting [RAW with iPhone](/blog/shoot-raw-iphone).
 
-I use [Adobe Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium) to develop RAW files. It's one of the few [recommended iPhone photo editing apps](/iphone-photography#iphone-photography/photo-editing-apps) that I've regularly been using.
+I use [Adobe Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium) to develop RAW files. It's one of the few [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps/) that I've regularly been using.
 
 The results you get with Lightroom Mobile and especially the denoise feature are fantastic! First, I hesitated a bit, but the 10$ a month is worth it.
 

@@ -88,7 +88,7 @@ Since the iPhone 12, you can fine-tune some aspects of a RAW photo using the iOS
 
 But to use all the benefits of RAW photos, you'll need a RAW photo editor like Adobe [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium).
 
-I'm highlighting the word premium here because you'll need to have a paid subscription to develop RAW photos with Lightroom Mobile. If you're considering subscribing to Lightroom Mobile, here's a detailed list of free and [premium features in Adobe Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium#featurelist).
+I'm highlighting the word premium here because you'll need to have a paid subscription to develop RAW photos with Lightroom Mobile. If you're considering subscribing to Lightroom Mobile, here's a detailed list of free and [premium features in Adobe Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium/#adobe-lightroom-mobile-premium-features).
 
 It's no secret that I'm a fan of Lightroom Mobile. Aside from the RAW editing capabilities, it comes with lots of near features that I use regularly.
 

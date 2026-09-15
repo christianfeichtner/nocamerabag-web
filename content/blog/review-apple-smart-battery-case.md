@@ -93,7 +93,7 @@ If you've been reading my blog for a while, you know I'm a fan of Anker Power Ba
 
 With the purchase of the Smart Battery Case, my setup changes a bit:
 
-* The Smart Battery Case will be my [Everyday Carry](/everyday-carry) "charger "when I'm not taking photos. It weighs less than a power bank, and I don't have to carry a cable.
+* The Smart Battery Case will be my [Everyday Carry](/traveling-light/) "charger "when I'm not taking photos. It weighs less than a power bank, and I don't have to carry a cable.
 * The [Anker PowerCore Slim 10.000 mAh power bank](/blog/review-anker-powercore-ii-slim-10000-mah-power-bank) will be may "day excursion "power bank for all-day trips from my hometown because it's notably lighter than the "big one ".
 * I will use the [Anker PowerCore II 26.800 mAh power bank](/blog/review-anker-power-core-26800-mah-high-capacity-powerbank) for multi-day trips to keep all my iDevices charged.
 

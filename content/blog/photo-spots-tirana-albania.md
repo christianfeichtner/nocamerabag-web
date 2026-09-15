@@ -81,7 +81,7 @@ Right across the street is the National Museum of History. A beautifully illumin
 
 To be able to capture the colors, I also used ProCamera Low Light HDR. Like all the other photos in this post, I shot it using an iPhone 6s Plus. Today, I'd probably use either only [ProCamera Low Light Mode][0] or even just the [night mode of the iPhone 11](/blog/review-low-light-modes-procamera-app), because Low Light HDR tends to be a bit noisy.
 
-No matter which method you use, for taking such photos , using a [tripod for iPhone](/iphone-photography#iphone-photography/tripods) is helpful and ensures you get a sharp photo.
+No matter which method you use, for taking such photos , using a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography) is helpful and ensures you get a sharp photo.
 
 Within a maybe 5-10 minute walk, you'll find another excellent photo spot: Tanner's Bridge. It's an 18th-century bridge that was once part of an ancient road. Sometime in the 1900s, the way was diverted, and the bridge is now used only by pedestrians.
 

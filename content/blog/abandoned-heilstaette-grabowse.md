@@ -90,6 +90,6 @@ As I mentioned at the beginning, the area is fenced and there’s a guard on dut
 
 ## More lost places near Berlin
 
-There are quite a number of lost places in and near Berlin. Check out the [abandoned echelon surveillance station](/blog/abandoned-echolon-listening-outpost-berlin) or the [Beelitz Heilstätten](/blog/tag/Beelitz). But better hurry with Beelitz. Everything there is being renovated and sold, except for a few buildings that you can see from the [Beelitz Canopy walk](/blog/beelitz-heilstaetten-baumkronenpfad-canopy-walk-germany).
+There are quite a number of lost places in and near Berlin. Check out the [abandoned echelon surveillance station](/blog/abandoned-echolon-listening-outpost-berlin) or the [Beelitz Heilstätten](/blog/abandoned-beelitz-hospital/). But better hurry with Beelitz. Everything there is being renovated and sold, except for a few buildings that you can see from the [Beelitz Canopy walk](/blog/beelitz-heilstaetten-baumkronenpfad-canopy-walk-germany).
 
 Over the years, I've been to several lost places in and around Berlin. I've listed them in a dedicated blog post about [lost places in Berlin you can visit legally](/blog/must-see-lost-places-berlin).

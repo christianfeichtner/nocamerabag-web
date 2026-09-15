@@ -19,7 +19,7 @@ cover:
   image: /images/reviews/general/hydra-app-teaser.webp
   alt: 'Review: Hydra Camera App for taking 32MP photos'
 ---
-Hydra App has been released a while ago, but you know that I only write a review if I use the app myself regularly for a few months. After years of using Hydra, it's still one of the few [recommended iPhone camera apps](/iphone-photography#iphone-photography/camera-apps) I use regularly.
+Hydra App has been released a while ago, but you know that I only write a review if I use the app myself regularly for a few months. After years of using Hydra, it's still one of the few [recommended iPhone camera apps](/blog/recommended-camera-apps/) I use regularly.
 
 When Hydra was released, the original reviews in the App Store were quite mixed. I think those reviews were the result of false expectations.
 
@@ -55,7 +55,7 @@ No matter which mode you chose, Hydra app will take a number (up to 100) photos 
 
 And this is also the weak point of the app. Taking 64 photos takes some time, even with a superfast iPhone. So if you don't keep your camera still or there's any motion in the scene, the results may be disappointing. You'll either get a ghosting effect or blurry borders around the photo.
 
-So my recommendation is to always use a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires#recommended-tripods-for-iphone) when you use Hydra App.
+So my recommendation is to always use a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography) when you use Hydra App.
 
 ## Hydra App User Interface
 

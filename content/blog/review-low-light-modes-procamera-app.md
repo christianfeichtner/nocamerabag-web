@@ -52,7 +52,7 @@ The *Low Light+* mode is the one I'm talking about here, and it's available as a
 
 All these Low Light Modes take multiple exposures with different settings and automagically combine them into a well exposed, detail-rich, and low noise photo.
 
-If you have a calm hand, you can use Low Light and Low Light+ without a tripod. For Low Light+ with Lux+ you definitely should consider using a [tripod for iPhone](/iphone-photography#iphone-photography/tripods).
+If you have a calm hand, you can use Low Light and Low Light+ without a tripod. For Low Light+ with Lux+ you definitely should consider using a [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography).
 
 To give you an impression about the ProCamera Low Light Modes, have a look at the following crops. I used the following Low Light Modes (from top left to bottom right):
 

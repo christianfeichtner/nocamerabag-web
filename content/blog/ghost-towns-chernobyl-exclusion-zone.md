@@ -58,4 +58,4 @@ On our last stop on the way out, after the passed the checkpoint, I discovered t
 
 ## iPhone Photo Accessories used
 
-It’s been a while since I visited the Chernobyl Zone. Back then, the iPhone 6S Plus was the most recent iPhone. To capture as much as possible, I used the [Moment Wide Lens](/blog/review-moment-wide-lens) to photograph. Because of the difficult light settings in the woods and inside the buildings, I used my [tripod for iPhone](/blog/recommended-iphone-photo-accessoires#recommended-tripods-for-iphone).
+It’s been a while since I visited the Chernobyl Zone. Back then, the iPhone 6S Plus was the most recent iPhone. To capture as much as possible, I used the [Moment Wide Lens](/blog/review-moment-wide-lens) to photograph. Because of the difficult light settings in the woods and inside the buildings, I used my [tripod for iPhone](/blog/recommended-iphone-photo-accessoires/#the-best-tripods-for-iphone-photography).
