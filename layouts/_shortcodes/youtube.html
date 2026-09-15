@@ -1,6 +1,6 @@
 {{- $id := "" -}}
 {{- $title := "YouTube Video" -}}
-{{- $notice := "Dieses Video wird von YouTube bereitgestellt. Mit dem Laden akzeptierst du die Datenübertragung an Google." -}}
+{{- $notice := "This video is provided by YouTube. Loading the video will transfer data to Google." -}}
 {{- $caption := "" -}}
 
 {{- if .IsNamedParams -}}
@@ -27,8 +27,8 @@
     <div class="yt-consent-modal">
       <p class="yt-consent-notice">{{ $notice }}</p>
       <div class="yt-consent-actions">
-        <button type="button" class="yt-consent-btn-accept">YouTube immer aktivieren</button>
-        <button type="button" class="yt-consent-btn-settings">Einstellungen</button>
+        <button type="button" class="yt-consent-btn-accept">I consent to using YouTube</button>
+        <button type="button" class="yt-consent-btn-settings">Settings</button>
       </div>
     </div>
   </div>

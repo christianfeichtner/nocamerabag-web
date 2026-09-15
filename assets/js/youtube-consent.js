@@ -51,21 +51,15 @@
   }
 
   function hasYouTubeConsent() {
-    // 1. Check if Zaraz cookie explicitly denied consent
-    var cookieConsent = getConsentFromCookie();
-    if (cookieConsent === false) {
-      try { localStorage.removeItem(STORAGE_KEY); } catch (e) {}
-      return false;
-    }
-
-    // 2. Check local storage persistence
+    // 1. Check local storage persistence (set when user clicks accept)
     try {
       if (localStorage.getItem(STORAGE_KEY) === 'true') {
         return true;
       }
     } catch (e) {}
 
-    // 3. Check cookie consent if granted
+    // 2. Check cookie consent if granted
+    var cookieConsent = getConsentFromCookie();
     if (cookieConsent === true) {
       return true;
     }
