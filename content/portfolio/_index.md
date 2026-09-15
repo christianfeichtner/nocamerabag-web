@@ -10,7 +10,7 @@ sections:
     title: "iPhone Travel Photo Portfolio"
     subtitle: "A regularely updated and curated selection of 42 travel photos shot on iPhone."
     image:
-      src: "/images/lost-places/ireland/dark-hedges-ireland.webp"
+      src: "/images/landscapes/ireland/dark-hedges-ireland.webp"
       alt: "Dark Hedges, Ireland"
       caption: "Dark Hedges, Ireland. Shot on iPhone 15 Pro Max."
       aspect_ratio: "square"
@@ -34,7 +34,7 @@ sections:
         model: "iPhone 16 Pro Max"
         alt: "Photo Spots at the abandoned Palace Henriette-Helmsdorf in Germany. A lost place you can visit legally. Shot on iPhone 16 Pro Max."
         caption: "Photo Spots at the [abandoned Palace Henriette-Helmsdorf](/blog/abandoned-castle-henriette-helmsdorf) in Germany. A lost place you can visit legally."
-      - image: "/images/lost-places/ireland/dark-hedges-ireland.webp"
+      - image: "/images/landscapes/ireland/dark-hedges-ireland.webp"
         country: "Ireland"
         model: "iPhone 15 Pro Max"
         alt: "Dark Hedges, Ireland. Shot on iPhone 15 Pro Max. Read more about photo spots in Ireland for your next road trip."

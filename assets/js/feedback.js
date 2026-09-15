@@ -65,6 +65,8 @@
       btn.addEventListener('click', function () {
         var ratingAttr = btn.getAttribute('data-rating');
         var parsedRating = parseFloat(ratingAttr);
+        var labelEl = btn.querySelector('.feedback-label');
+        var labelText = labelEl ? labelEl.textContent.trim() : (btn.getAttribute('data-feedback-label') || '');
 
         // 1. Clientseitige Plausibilitätsprüfung
         if (isNaN(parsedRating)) {
@@ -113,6 +115,15 @@
             // UI in den bewerteten Zustand versetzen
             widget.classList.remove('is-submitting');
             applyRatedState(parsedRating, true);
+
+            // GTM DataLayer Push (verifiziertes Feedback)
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+              event: 'article_feedback',
+              feedback_rating: parsedRating,
+              feedback_label: labelText,
+              article_path: window.location.pathname
+            });
           })
           .catch(function (error) {
             console.error('Failed to submit rating:', error);

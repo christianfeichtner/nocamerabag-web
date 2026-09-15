@@ -5,7 +5,7 @@ comments_count_suffix:
 comments_placeholder:
   other: "Schreibe einen Kommentar zum Artikel..."
 comments_btn_submit_step1:
-  other: "Kommentar abgeben →"
+  other: "Kommentar abgeben"
 comments_modal_title:
   other: "Nur noch ein Schritt"
 comments_modal_desc:

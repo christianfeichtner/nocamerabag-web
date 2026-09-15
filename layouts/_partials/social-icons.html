@@ -11,7 +11,7 @@
 {{- with $socials -}}
 <div class="{{ $class }}">
   {{- range . }}
-  <a href="{{ .url | safeURL }}" target="_blank" rel="noopener" aria-label="{{ .title | default .name }}" title="{{ .title | default .name }}" class="social-icon-link social-icon--{{ .icon }}">
+  <a href="{{ .url | safeURL }}" target="_blank" rel="noopener" data-track="social-profile" data-network="{{ .icon }}" aria-label="{{ .title | default .name }}" title="{{ .title | default .name }}" class="social-icon-link social-icon--{{ .icon }}">
     <svg width="{{ $size }}" height="{{ $size }}" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="{{ .path }}"/></svg>
   </a>
   {{- end }}

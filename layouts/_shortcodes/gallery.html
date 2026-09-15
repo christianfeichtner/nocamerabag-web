@@ -93,7 +93,7 @@
   <figure class="post-gallery post-gallery--count-{{ $count }}">
     <div class="post-gallery__grid">
       {{- range $processedImages }}
-        <a href="{{ .full }}" class="post-gallery__item" data-lightbox-trigger data-full="{{ .full }}" data-alt="{{ .alt }}" {{- with .caption }} data-caption="{{ . }}"{{ end }} aria-label="{{ .caption | default .alt | default "Open image in lightbox" }}">
+        <a href="{{ .full }}" class="post-gallery__item" data-track="lightbox-trigger" data-lightbox-trigger data-full="{{ .full }}" data-alt="{{ .alt }}" {{- with .caption }} data-caption="{{ . }}"{{ end }} aria-label="{{ .caption | default .alt | default "Open image in lightbox" }}">
           <img src="{{ .thumb }}" alt="{{ .alt }}" loading="lazy" decoding="async" {{- with .width }} width="{{ . }}"{{ end }}{{- with .height }} height="{{ . }}"{{ end }} class="post-gallery__img">
         </a>
       {{- end }}

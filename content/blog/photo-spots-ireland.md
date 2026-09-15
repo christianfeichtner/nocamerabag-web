@@ -77,7 +77,7 @@ photo_spots:
     tag: "Shipwreck"
   - title: "The Dark Hedges"
     coords: [55.1339, -6.3798]
-    image: "/images/lost-places/ireland/dark-hedges-ireland.webp"
+    image: "/images/landscapes/ireland/dark-hedges-ireland.webp"
     camera: "iPhone 15 Pro Max · Main 24mm"
     tag: "Nature"
 ---
@@ -209,7 +209,7 @@ In addition to the Cliffs of Moher, the Dark Hedges are among the best known and
 
 When you arrive there by car, do not turn on the sign saying Dark Hedges! Continue to the dedicated (and paid) parking. From there, it will take you 5–7 minutes to get to the avenue.
 
-![Dark Hedges, Ireland](/images/lost-places/ireland/dark-hedges-ireland.webp)
+![Dark Hedges, Ireland](/images/landscapes/ireland/dark-hedges-ireland.webp)
 
 When I visited the dark Hedges, I saw many people taking photos at the beginning of the avenue, which, in my opinion, is not the best place. I recommend walking the avenue until you get to the top of the small hill and then photograph towards the entrance of the avenue on your way back.
 

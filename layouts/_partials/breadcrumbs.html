@@ -92,24 +92,19 @@
 
 <div class="breadcrumb-bar">
   <nav class="breadcrumbs" aria-label="Breadcrumb">
-    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <ol>
       {{- range $index, $item := $breadcrumbItems -}}
         {{- $position := add $index 1 -}}
         {{- if gt $index 0 -}}
           <li class="sep" aria-hidden="true">/</li>
         {{- end -}}
         {{- if $item.isCurrent -}}
-          <li class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page">
-            <span itemprop="name">{{ $item.name }}</span>
-            <link itemprop="item" href="{{ $item.url }}" />
-            <meta itemprop="position" content="{{ $position }}">
+          <li class="current" aria-current="page">
+            <span>{{ $item.name }}</span>
           </li>
         {{- else -}}
-          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-            <a itemprop="item" href="{{ $item.url }}">
-              <span itemprop="name">{{ $item.name }}</span>
-            </a>
-            <meta itemprop="position" content="{{ $position }}">
+          <li>
+            <a href="{{ $item.url }}">{{ $item.name }}</a>
           </li>
         {{- end -}}
       {{- end -}}

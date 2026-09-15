@@ -85,6 +85,12 @@ When you visit our site, the Zaraz consent modal gives you granular control over
 
 ## 4. Server-Side Tag Management & Google Consent Mode v2
 
+### Google Tag Manager (Server-Side Proxy)
+- **Zweck & Funktion:** Einsatz zur Verwaltung und Ausspielung von Website-Tags. Der Dienst setzt keine Cookies und verarbeitet keine personenbezogenen Daten zu Werbe- oder Profilierungszwecken, sondern dient ausschließlich als technisches Routing-Framework.
+- **EU-Hosting & IP-Masking:** Das Web-Container-Skript wird über unseren serverseitigen Tag Manager (sGTM) auf Servern innerhalb der Europäischen Union ausgeliefert. Hierdurch erfolgt vor Weiterleitung von Anfragen eine Pseudonymisierung bzw. Maskierung der IP-Adresse.
+- **Rechtsgrundlage:** Berechtigtes Interesse gemäß Art. 6 Abs. 1 lit. f DSGVO an der sicheren und zentralen Steuerung von Skripten und Consent-Zuständen.
+- **Nachgelagerte Dienste:** Tracking- und Marketing-Dienste (GA4, Meta, Pinterest) bleiben standardmäßig blockiert und werden erst nach ausdrücklicher Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) aktiviert.
+
 ### Architecture & Privacy Advantages of Server-Side Tagging
 We use a **Server-Side Google Tag Manager (sGTM)** container operated via:
 

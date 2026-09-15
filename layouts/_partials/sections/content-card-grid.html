@@ -117,7 +117,7 @@
                 {{- if in $pUrl . }}{{ $isAff = true }}{{ end }}
               {{- end }}
             {{- end }}
-            <a href="{{ if or $isExt $isAff }}{{ $pUrl }}{{ else }}{{ $pUrl | relLangURL }}{{ end }}" class="gear-card-link-primary"{{ if $isAff }} target="_blank" rel="sponsored noopener noreferrer"{{ else if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
+            <a href="{{ if or $isExt $isAff }}{{ $pUrl }}{{ else }}{{ $pUrl | relLangURL }}{{ end }}" class="gear-card-link-primary{{ if $isAff }} affiliate-link{{ end }}"{{ if $isAff }} target="_blank" rel="sponsored noopener noreferrer"{{ else if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
               {{ $pText | safeHTML }}
             </a>
           {{- end }}
@@ -183,7 +183,7 @@
                 {{- if in $sUrl . }}{{ $isAff = true }}{{ end }}
               {{- end }}
             {{- end }}
-            <a href="{{ if or $isExt $isAff }}{{ $sUrl }}{{ else }}{{ $sUrl | relLangURL }}{{ end }}" class="gear-card-link-secondary"{{ if $isAff }} target="_blank" rel="sponsored noopener noreferrer"{{ else if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
+            <a href="{{ if or $isExt $isAff }}{{ $sUrl }}{{ else }}{{ $sUrl | relLangURL }}{{ end }}" class="gear-card-link-secondary{{ if $isAff }} affiliate-link{{ end }}"{{ if $isAff }} target="_blank" rel="sponsored noopener noreferrer"{{ else if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
               {{ $sText | safeHTML }}
             </a>
           {{- end }}

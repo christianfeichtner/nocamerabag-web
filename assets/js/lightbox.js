@@ -34,6 +34,17 @@
       if (closeBtn) {
         closeBtn.focus();
       }
+
+      // Push event to Google Tag Manager dataLayer
+      if (typeof window !== 'undefined') {
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+          event: 'lightbox_open',
+          image_src: src,
+          image_alt: alt || '',
+          image_caption: (captionHtml && typeof captionHtml === 'string') ? captionHtml.replace(/<[^>]*>/g, '').trim() : ''
+        });
+      }
     }
 
     function closeLightbox() {
@@ -57,14 +68,14 @@
       // If clicking inside another overlay action (Pin It or Map View), do not trigger lightbox
       if (e.target.closest('.badge-pinterest, .badge-map, .btn-pinterest')) return;
 
-      let trigger = e.target.closest('.lightbox-trigger, .badge-lightbox, [data-lightbox-trigger], .post-gallery__item');
+      let trigger = e.target.closest('[data-track="lightbox-trigger"], .lightbox-trigger, .badge-lightbox, [data-lightbox-trigger], .post-gallery__item');
       let clickedImg = null;
 
       // If clicked directly on an image inside a lightbox-enabled container
       if (!trigger) {
-        const wrapper = e.target.closest('.post-img-wrapper.has-lightbox, .post-image-wrap.has-lightbox, .photo-slot.has-lightbox, .lightbox-gallery-item, .post-gallery__item, .has-lightbox');
+        const wrapper = e.target.closest('.post-img-wrapper.has-lightbox, .post-image-wrap.has-lightbox, .photo-slot.has-lightbox, .lightbox-gallery-item, .post-gallery__item, .has-lightbox, [data-track="lightbox-trigger"]');
         if (wrapper) {
-          trigger = wrapper.querySelector('.badge-lightbox, .lightbox-trigger, [data-lightbox-trigger], .post-gallery__item');
+          trigger = wrapper.querySelector('[data-track="lightbox-trigger"], .badge-lightbox, .lightbox-trigger, [data-lightbox-trigger], .post-gallery__item');
           clickedImg = wrapper.querySelector('img');
         }
       }

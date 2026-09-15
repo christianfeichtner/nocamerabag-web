@@ -73,7 +73,7 @@
 {{- if $isAffiliate -}}
   {{- $rawText := .Text | safeHTML -}}
   {{- if or (strings.Contains $rawText "<img") (strings.Contains $rawText "<svg") (strings.Contains $rawText "<figure") -}}
-<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer">{{ $rawText }}</a>
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-link affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer">{{ $rawText }}</a>
   {{- else -}}
     {{- $words := split (trim (string .Text) " ") " " -}}
     {{- $wordCount := len $words -}}
@@ -85,9 +85,9 @@
         {{- end -}}
       {{- end -}}
       {{- $lastWord := index $words (sub $wordCount 1) -}}
-<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer">{{ delimit $leadingWords " " | safeHTML }} <span class="affiliate-inline-nowrap">{{ $lastWord | safeHTML }}<svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg></span></a>
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-link affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer">{{ delimit $leadingWords " " | safeHTML }} <span class="affiliate-inline-nowrap">{{ $lastWord | safeHTML }}<svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg></span></a>
     {{- else -}}
-<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer"><span class="affiliate-inline-nowrap">{{ $rawText }}<svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg></span></a>
+<a href="{{ $dest | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} class="affiliate-link affiliate-inline-link" target="_blank" rel="sponsored noopener noreferrer"><span class="affiliate-inline-nowrap">{{ $rawText }}<svg class="affiliate-inline-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg></span></a>
     {{- end -}}
   {{- end -}}
 {{- else -}}

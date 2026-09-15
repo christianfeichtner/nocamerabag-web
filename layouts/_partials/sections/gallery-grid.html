@@ -61,19 +61,14 @@
 
         <div class="lightbox-gallery-item">
           <div class="lightbox-gallery-image-wrapper">
-            {{- if $targetUrl }}
-              {{- $isExt := strings.HasPrefix $targetUrl "http" }}
-              <a href="{{ if $isExt }}{{ $targetUrl }}{{ else }}{{ $targetUrl | relLangURL }}{{ end }}" class="lightbox-gallery-img-link"{{ if $isExt }} target="_blank" rel="noopener noreferrer"{{ end }}>
-                <img src="{{ $finalSrc }}" {{- with $imgW }} width="{{ . }}"{{- end }}{{- with $imgH }} height="{{ . }}"{{- end }} alt="{{ $imgAlt }}" loading="lazy">
-              </a>
-            {{- else }}
-              <img src="{{ $finalSrc }}" {{- with $imgW }} width="{{ . }}"{{- end }}{{- with $imgH }} height="{{ . }}"{{- end }} alt="{{ $imgAlt }}" loading="lazy">
-            {{- end }}
+            <button type="button" class="lightbox-trigger" data-track="lightbox-trigger" aria-label="Open fullscreen photo: {{ $imgAlt }}" data-full="{{ $finalSrc }}" data-alt="{{ $imgAlt }}" {{- with (or .text .caption .description) }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }}>
+              <img src="{{ $finalSrc }}" {{- with $imgW }} width="{{ . }}"{{- end }}{{- with $imgH }} height="{{ . }}"{{- end }} alt="{{ $imgAlt }}" loading="lazy" class="lightbox-thumb">
+            </button>
           </div>
 
           {{- with (or .text .caption .description) }}
           <div class="lightbox-gallery-caption">
-            {{ . | markdownify }}
+            {{ . | markdownify | safeHTML }}
           </div>
           {{- end }}
         </div>

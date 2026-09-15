@@ -6,7 +6,7 @@
 {{- $commentsTitle := i18n "comments_title" | default (site.Params.comments.title | default "Diskussion") -}}
 {{- $commentsCountSuffix := i18n "comments_count_suffix" | default (site.Params.comments.count_suffix | default "Beiträge") -}}
 {{- $commentsPlaceholder := i18n "comments_placeholder" | default (site.Params.comments.placeholder | default "Schreibe einen Kommentar zum Artikel...") -}}
-{{- $btnSubmitStep1 := i18n "comments_btn_submit_step1" | default (site.Params.comments.btn_step1 | default "Kommentar abgeben →") -}}
+{{- $btnSubmitStep1 := i18n "comments_btn_submit_step1" | default (site.Params.comments.btn_step1 | default "Submit Comment") -}}
 {{- $modalTitle := i18n "comments_modal_title" | default (site.Params.comments.modal_title | default "Nur noch ein Schritt") -}}
 {{- $modalDesc := i18n "comments_modal_desc" | default (site.Params.comments.modal_desc | default "Gib bitte deinen Namen und deine E-Mail-Adresse an. Deine E-Mail wird niemals veröffentlicht.") -}}
 {{- $labelName := i18n "comments_label_name" | default (site.Params.comments.label_name | default "Dein Name *") -}}
@@ -120,7 +120,7 @@
     <label for="commentTextInput" class="sr-only">{{ $commentsPlaceholder }}</label>
     <textarea id="commentTextInput" class="comments-textarea" placeholder="{{ $commentsPlaceholder }}" rows="4" aria-label="{{ $commentsPlaceholder }}"></textarea>
     <div class="comments-editor-actions">
-      <button type="button" class="btn-comment-step1" id="btnOpenModal">
+      <button type="button" class="btn btn-primary" id="btnOpenModal">
         {{ $btnSubmitStep1 }}
       </button>
     </div>
@@ -167,7 +167,7 @@
             {{- $body | safeHTML -}}
           </div>
           <div class="comment-actions">
-            <button type="button" class="comment-btn-reply" data-reply-id="{{ $cId }}" aria-label="{{ $replyLabel }} an {{ $author }}">
+            <button type="button" class="comment-btn-reply btn-tertiary" data-reply-id="{{ $cId }}" aria-label="{{ $replyLabel }} an {{ $author }}">
               {{ $replyLabel }}
             </button>
           </div>
@@ -246,8 +246,8 @@
           <input type="email" id="commentAuthorEmail" class="modal-input" placeholder="{{ $phEmail }}" autocomplete="email">
         </div>
         <div class="modal-actions">
-          <button type="button" class="btn-modal-cancel" id="btnCancelModal">{{ $btnCancel }}</button>
-          <button type="submit" class="btn-modal-submit" id="btnSubmitComment">{{ $btnPublish }}</button>
+          <button type="button" class="btn btn-secondary" id="btnCancelModal">{{ $btnCancel }}</button>
+          <button type="submit" class="btn btn-primary" id="btnSubmitComment">{{ $btnPublish }}</button>
         </div>
       </form>
     </div>

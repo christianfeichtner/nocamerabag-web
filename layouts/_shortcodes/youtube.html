@@ -1,34 +1,45 @@
 {{- $id := "" -}}
-{{- $title := "YouTube video player" -}}
+{{- $title := "YouTube Video" -}}
+{{- $notice := "Dieses Video wird von YouTube bereitgestellt. Mit dem Laden akzeptierst du die Datenübertragung an Google." -}}
 {{- $caption := "" -}}
+
 {{- if .IsNamedParams -}}
   {{- $id = .Get "id" -}}
-  {{- $title = .Get "title" | default $title -}}
-  {{- $caption = .Get "caption" -}}
+  {{- with .Get "title" }}{{ $title = . }}{{ end -}}
+  {{- with .Get "notice" }}{{ $notice = . }}{{ end -}}
+  {{- with .Get "caption" }}{{ $caption = . }}{{ end -}}
 {{- else -}}
   {{- $id = .Get 0 -}}
-  {{- if eq (len .Params) 2 -}}
-    {{- $caption = .Get 1 -}}
+  {{- if ge (len .Params) 2 -}}
     {{- $title = .Get 1 -}}
-  {{- else if ge (len .Params) 3 -}}
-    {{- $title = .Get 1 -}}
+  {{- end -}}
+  {{- if ge (len .Params) 3 -}}
     {{- $caption = .Get 2 -}}
   {{- end -}}
 {{- end -}}
+
 {{- if $id -}}
+{{- $bg := resources.Get "images/ui/youtube-consent-for-content.svg" -}}
+{{- $bgUrl := "/images/ui/youtube-consent-for-content.svg" -}}
+{{- with $bg }}{{ $bgUrl = .RelPermalink }}{{ end -}}
 <figure class="post-figure youtube-figure">
-  <div class="youtube-wrapper">
-    <iframe
-      class="youtube-player"
-      src="https://www.youtube-nocookie.com/embed/{{ $id }}"
-      title="{{ $title }}"
-      loading="lazy"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen
-      referrerpolicy="strict-origin-when-cross-origin"></iframe>
+  <div class="yt-consent-wrapper" data-yt-id="{{ $id }}" data-yt-title="{{ $title }}" style="background-image: url('{{ $bgUrl }}');">
+    <div class="yt-consent-modal">
+      <p class="yt-consent-notice">{{ $notice }}</p>
+      <div class="yt-consent-actions">
+        <button type="button" class="yt-consent-btn-accept">YouTube immer aktivieren</button>
+        <button type="button" class="yt-consent-btn-settings">Einstellungen</button>
+      </div>
+    </div>
   </div>
   {{- with $caption }}
   <figcaption class="image-caption">{{ . | safeHTML }}</figcaption>
   {{- end }}
 </figure>
+
+{{- if not (.Page.Scratch.Get "youtube_consent_js_loaded") -}}
+  {{- .Page.Scratch.Set "youtube_consent_js_loaded" true -}}
+  {{- $ytJS := resources.Get "js/youtube-consent.js" | minify | fingerprint -}}
+  <script defer src="{{ $ytJS.RelPermalink }}" integrity="{{ $ytJS.Data.Integrity }}"></script>
+{{- end -}}
 {{- end -}}

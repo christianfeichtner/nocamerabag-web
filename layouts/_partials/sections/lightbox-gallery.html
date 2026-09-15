@@ -67,7 +67,7 @@
 
         <div class="lightbox-gallery-item">
           <div class="lightbox-gallery-image-wrapper">
-            <button type="button" class="lightbox-trigger" aria-label="Open fullscreen photo: {{ $imgAlt | default (printf "Photo %d" (add $idx 1)) }}" data-full="{{ $fullUrl }}" data-alt="{{ $imgAlt }}" {{- with $caption }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }}>
+            <button type="button" class="lightbox-trigger" data-track="lightbox-trigger" aria-label="Open fullscreen photo: {{ $imgAlt | default (printf "Photo %d" (add $idx 1)) }}" data-full="{{ $fullUrl }}" data-alt="{{ $imgAlt }}" {{- with $caption }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }}>
               <img src="{{ $thumbUrl }}" {{- with $imgW }} width="{{ . }}"{{- end }}{{- with $imgH }} height="{{ . }}"{{- end }} alt="{{ $imgAlt }}" loading="lazy" class="lightbox-thumb">
             </button>
 
@@ -103,7 +103,7 @@
                 </span>
                 {{- end }}
 
-                <button class="action-btn badge-lightbox lightbox-trigger" type="button" data-full="{{ $fullUrl }}" data-alt="{{ $imgAlt }}" {{- with $caption }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }} data-tooltip="View Large" aria-label="View Large">
+                <button class="action-btn badge-lightbox lightbox-trigger" type="button" data-track="lightbox-trigger" data-full="{{ $fullUrl }}" data-alt="{{ $imgAlt }}" {{- with $caption }} data-caption="{{ . | markdownify | safeHTML }}"{{- end }} data-tooltip="View Large" aria-label="View Large">
                   <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
                     <polyline points="15 3 21 3 21 9"></polyline>
                     <polyline points="9 21 3 21 3 15"></polyline>

@@ -28,7 +28,7 @@
   {{- end -}}
 {{- end -}}
 <figure class="post-figure post-image-figure">
-  <div class="post-img-wrapper post-image-wrap{{ if $isPhotoSpot }} has-lightbox{{ end }}">
+  <div class="post-img-wrapper post-image-wrap{{ if $isPhotoSpot }} has-lightbox{{ end }}"{{ if $isPhotoSpot }} data-track="lightbox-trigger"{{ end }}>
     <img src="{{ $src | safeURL }}" alt="{{ .Text }}" loading="lazy" decoding="async" {{- with $img }} width="{{ .Width }}" height="{{ .Height }}"{{- end }}>
     
     {{- if or .Title $isPhotoSpot $matchedSpot }}
@@ -48,12 +48,12 @@
       <div class="overlay-actions img-badges-overlay">
         {{- if $isPhotoSpot }}
         {{- $pinUrl := printf "https://pinterest.com/pin/create/button/?url=%s&media=%s&description=%s" (.Page.Permalink | urlquery) ($src | absURL | urlquery) (.Text | urlquery) -}}
-        <a class="action-btn btn-pinterest badge-pinterest" href="{{ $pinUrl }}" target="_blank" rel="noopener noreferrer" data-tooltip="Pin on Pinterest" aria-label="Pin on Pinterest">
+        <a class="action-btn btn-pinterest badge-pinterest" href="{{ $pinUrl }}" target="_blank" rel="noopener noreferrer" data-track="social-share" data-network="pinterest" data-tooltip="Pin on Pinterest" aria-label="Pin on Pinterest">
           <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true">
             <path d="M12 0a12 12 0 0 0-4.37 23.18c-.06-.98-.12-2.5.02-3.57.14-.97.94-3.98.94-3.98s-.24-.48-.24-1.2c0-1.12.65-1.96 1.46-1.96.69 0 1.02.52 1.02 1.14 0 .7-.44 1.73-.67 2.69-.19.81.4 1.47 1.2 1.47 1.44 0 2.55-1.52 2.55-3.71 0-1.94-1.39-3.3-3.38-3.3-2.47 0-3.92 1.85-3.92 3.76 0 .75.29 1.54.65 1.98.07.09.08.16.06.25-.07.28-.22.9-.25 1.02-.04.17-.14.2-.32.12-1.2-.56-1.95-2.31-1.95-3.72 0-3.03 2.2-5.81 6.35-5.81 3.33 0 5.92 2.38 5.92 5.55 0 3.31-2.09 5.98-4.99 5.98-.97 0-1.89-.51-2.2-.11l-.6 2.28c-.22.84-.81 1.9-1.21 2.54A12 12 0 1 0 12 0z"/>
           </svg>
         </a>
-        <button class="action-btn badge-lightbox lightbox-trigger" type="button" data-full="{{ $src | safeURL }}" data-alt="{{ .Text }}" data-caption="{{ .Title | default .Text }}" data-tooltip="View Large" aria-label="View Large">
+        <button class="action-btn badge-lightbox lightbox-trigger" type="button" data-track="lightbox-trigger" data-full="{{ $src | safeURL }}" data-alt="{{ .Text }}" data-caption="{{ .Title | default .Text }}" data-tooltip="View Large" aria-label="View Large">
           <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <polyline points="15 3 21 3 21 9"></polyline>
             <polyline points="9 21 3 21 3 15"></polyline>

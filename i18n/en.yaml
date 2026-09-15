@@ -5,7 +5,7 @@ comments_count_suffix:
 comments_placeholder:
   other: "Leave a comment on this post..."
 comments_btn_submit_step1:
-  other: "Submit Comment →"
+  other: "Submit Comment"
 comments_modal_title:
   other: "Just one more step"
 comments_modal_desc:
