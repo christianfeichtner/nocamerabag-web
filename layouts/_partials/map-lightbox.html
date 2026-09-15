@@ -8,6 +8,22 @@
     </div>
     <div class="map-modal-body">
       <div id="map-container" class="map-container"></div>
+      <div id="map-consent-overlay" class="map-consent-overlay" style="display: none;" role="region" aria-label="Map privacy consent">
+        <div class="map-consent-modal">
+          <div class="map-consent-icon" aria-hidden="true">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon>
+              <line x1="8" y1="2" x2="8" y2="18"></line>
+              <line x1="16" y1="6" x2="16" y2="22"></line>
+            </svg>
+          </div>
+          <p class="map-consent-notice">This map uses OpenStreetMap to display photo spot locations. Loading the map will transfer data to OpenStreetMap.</p>
+          <div class="map-consent-actions">
+            <button type="button" class="map-consent-btn-accept">I consent to using OpenStreetMap</button>
+            <button type="button" class="map-consent-btn-settings">Settings</button>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>

@@ -1,6 +1,7 @@
 /**
  * Map Lightbox Controller for No Camera Bag
- * Lazy loads Leaflet map and OpenStreetMap tiles upon user interaction (GDPR-compliant).
+ * Lazy loads Leaflet map and OpenStreetMap tiles upon user interaction and explicit consent (GDPR-compliant).
+ * Integrates with Cloudflare Zaraz Purpose AdeA (OpenStreetMap).
  * Supports direct deep-linking from image badges (.badge-map) to specific photo spots.
  */
 document.addEventListener('DOMContentLoaded', () => {
@@ -10,15 +11,148 @@ document.addEventListener('DOMContentLoaded', () => {
   const backdrop = modal ? modal.querySelector('.map-modal-backdrop') : null;
   const spotsDataEl = document.getElementById('map-spots-data');
   const mapContainer = document.getElementById('map-container');
+  const consentOverlay = document.getElementById('map-consent-overlay');
 
   if (!modal || !spotsDataEl || !mapContainer) {
     return;
   }
 
+  const STORAGE_KEY = 'ncb_osm_consent';
+  const DEFAULT_ID = 'AdeA';
+
   let map = null;
   let markersBounds = [];
   let markersMap = {};
   let isMapInitialized = false;
+  let pendingSpotId = null;
+
+  function getOsmPurposeId() {
+    try {
+      if (window.zaraz && window.zaraz.consent && window.zaraz.consent.purposes) {
+        const purposes = window.zaraz.consent.purposes;
+        if (Array.isArray(purposes)) {
+          for (let i = 0; i < purposes.length; i++) {
+            const name = (purposes[i] && purposes[i].name) ? purposes[i].name.toLowerCase() : '';
+            if (name.includes('openstreetmap') || name.includes('osm')) {
+              return purposes[i].id;
+            }
+          }
+        } else if (typeof purposes === 'object') {
+          for (const id in purposes) {
+            if (Object.prototype.hasOwnProperty.call(purposes, id)) {
+              const p = purposes[id];
+              const name = (p && p.name) ? p.name.toLowerCase() : '';
+              if (name.includes('openstreetmap') || name.includes('osm') || id === DEFAULT_ID || id.toLowerCase() === 'openstreetmap') {
+                return id;
+              }
+            }
+          }
+        }
+      }
+    } catch (e) {
+      console.error('Error identifying OpenStreetMap purpose in Zaraz:', e);
+    }
+    return DEFAULT_ID;
+  }
+
+  function getConsentFromCookie() {
+    try {
+      const match = document.cookie.match(/(?:^|;\s*)cf_consent=([^;]+)/);
+      if (match && match[1]) {
+        const parsed = JSON.parse(decodeURIComponent(match[1]));
+        if (parsed && typeof parsed === 'object') {
+          const id = getOsmPurposeId();
+          if (parsed[id] === true || parsed[DEFAULT_ID] === true || parsed['openstreetmap'] === true || parsed['osm'] === true) {
+            return true;
+          }
+          if (parsed[id] === false || parsed[DEFAULT_ID] === false) {
+            return false;
+          }
+        }
+      }
+    } catch (e) {}
+    return null;
+  }
+
+  function hasOsmConsent() {
+    // 1. Check local storage persistence
+    try {
+      if (localStorage.getItem(STORAGE_KEY) === 'true') {
+        return true;
+      }
+    } catch (e) {}
+
+    // 2. Check cookie consent if granted
+    const cookieConsent = getConsentFromCookie();
+    if (cookieConsent === true) {
+      return true;
+    }
+
+    // 3. Check Zaraz Consent API
+    try {
+      if (window.zaraz && window.zaraz.consent) {
+        const id = getOsmPurposeId();
+
+        if (typeof window.zaraz.consent.get === 'function') {
+          if (window.zaraz.consent.get(id) === true ||
+              window.zaraz.consent.get(DEFAULT_ID) === true ||
+              window.zaraz.consent.get('openstreetmap') === true ||
+              window.zaraz.consent.get('osm') === true) {
+            return true;
+          }
+        }
+
+        if (typeof window.zaraz.consent.getAll === 'function') {
+          const all = window.zaraz.consent.getAll();
+          if (all && typeof all === 'object') {
+            if (all[id] === true ||
+                all[DEFAULT_ID] === true ||
+                all['openstreetmap'] === true ||
+                all['osm'] === true) {
+              return true;
+            }
+          }
+        }
+      }
+    } catch (e) {
+      console.error('Error checking Zaraz consent:', e);
+    }
+
+    return false;
+  }
+
+  function setOsmConsent() {
+    // 1. Store in localStorage
+    try {
+      localStorage.setItem(STORAGE_KEY, 'true');
+    } catch (e) {}
+
+    // 2. Persist in Zaraz
+    try {
+      if (window.zaraz && window.zaraz.consent && typeof window.zaraz.consent.set === 'function') {
+        const id = getOsmPurposeId();
+        const consentObj = {};
+        consentObj[id] = true;
+        window.zaraz.consent.set(consentObj);
+      }
+    } catch (e) {
+      console.error('Error setting Zaraz consent:', e);
+    }
+  }
+
+  function openConsentSettings() {
+    try {
+      if (window.zaraz && window.zaraz.consent) {
+        if (window.zaraz.consent.modal && typeof window.zaraz.consent.modal.show === 'function') {
+          window.zaraz.consent.modal.show();
+        } else {
+          window.zaraz.consent.modal = true;
+        }
+      }
+    } catch (e) {
+      console.error('Error opening Zaraz consent modal:', e);
+    }
+  }
 
   function initMap() {
     if (isMapInitialized || typeof L === 'undefined') {
@@ -147,10 +281,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  function openModal(targetSpotId = null) {
-    modal.classList.add('is-active');
-    modal.setAttribute('aria-hidden', 'false');
-    document.body.style.overflow = 'hidden';
+  function showMap(targetSpotId) {
+    if (consentOverlay) {
+      consentOverlay.style.display = 'none';
+    }
 
     if (!isMapInitialized) {
       initMap();
@@ -172,12 +306,46 @@ document.addEventListener('DOMContentLoaded', () => {
     }, 150);
   }
 
+  function openModal(targetSpotId = null) {
+    pendingSpotId = targetSpotId;
+    modal.classList.add('is-active');
+    modal.setAttribute('aria-hidden', 'false');
+    document.body.style.overflow = 'hidden';
+
+    if (hasOsmConsent()) {
+      showMap(targetSpotId);
+    } else {
+      if (consentOverlay) {
+        consentOverlay.style.display = 'flex';
+      }
+    }
+  }
+
   function closeModal() {
     modal.classList.remove('is-active');
     modal.setAttribute('aria-hidden', 'true');
     document.body.style.overflow = '';
     setFocusedPin(null);
+    pendingSpotId = null;
   }
+
+  // Handle consent accept & settings inside map modal
+  document.addEventListener('click', (e) => {
+    const acceptBtn = e.target.closest('.map-consent-btn-accept');
+    if (acceptBtn) {
+      e.preventDefault();
+      setOsmConsent();
+      showMap(pendingSpotId);
+      return;
+    }
+
+    const settingsBtn = e.target.closest('.map-consent-btn-settings');
+    if (settingsBtn) {
+      e.preventDefault();
+      openConsentSettings();
+      return;
+    }
+  });
 
   // Handle all open map buttons (e.g. inside map callouts)
   document.addEventListener('click', (e) => {
@@ -220,6 +388,29 @@ document.addEventListener('DOMContentLoaded', () => {
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && modal.classList.contains('is-active')) {
       closeModal();
+    }
+  });
+
+  // Re-check when Zaraz events fire
+  document.addEventListener('zarazConsentAPIReady', () => {
+    if (hasOsmConsent() && modal.classList.contains('is-active') && !isMapInitialized) {
+      showMap(pendingSpotId);
+    }
+  });
+
+  document.addEventListener('zarazConsentChoicesUpdated', () => {
+    const id = getOsmPurposeId();
+    if (window.zaraz && window.zaraz.consent && typeof window.zaraz.consent.get === 'function') {
+      if (window.zaraz.consent.get(id) === false) {
+        try { localStorage.removeItem(STORAGE_KEY); } catch (e) {}
+        if (consentOverlay) {
+          consentOverlay.style.display = 'flex';
+        }
+        return;
+      }
+    }
+    if (hasOsmConsent() && modal.classList.contains('is-active') && !isMapInitialized) {
+      showMap(pendingSpotId);
     }
   });
 });
