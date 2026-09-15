@@ -1,4 +1,7 @@
 {{- with .Params.photo_spots }}
+{{- $bg := resources.Get "images/ui/openstreetmap-consent-for-content.svg" -}}
+{{- $bgUrl := "/images/ui/openstreetmap-consent-for-content.svg" -}}
+{{- with $bg }}{{ $bgUrl = .RelPermalink }}{{ end -}}
 <div id="map-modal" class="map-modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="map-modal-title">
   <div class="map-modal-backdrop"></div>
   <div class="map-modal-dialog">
@@ -8,7 +11,7 @@
     </div>
     <div class="map-modal-body">
       <div id="map-container" class="map-container"></div>
-      <div id="map-consent-overlay" class="map-consent-overlay" style="display: none;" role="region" aria-label="Map privacy consent">
+      <div id="map-consent-overlay" class="map-consent-overlay" style="display: none; background-image: url('{{ $bgUrl }}');" role="region" aria-label="Map privacy consent">
         <div class="map-consent-modal">
           <div class="map-consent-icon" aria-hidden="true">
             <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">

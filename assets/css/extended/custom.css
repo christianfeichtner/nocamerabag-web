@@ -4676,9 +4676,10 @@ figure.youtube-figure .youtube-wrapper {
   justify-content: center;
   padding: 1.5rem;
   box-sizing: border-box;
-  background-color: color-mix(in srgb, var(--color-black) 40%, transparent);
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
+  background-color: var(--color-light-accent);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .map-consent-modal {

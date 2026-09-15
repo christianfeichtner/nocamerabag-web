@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="100%" height="100%">
+  <!-- 1. Äußerer Rahmen & Hintergrund mit sanftem Kontrast -->
+  <rect width="1280" height="720" fill="#f1f5f9" rx="16" />
+  <rect width="1200" height="640" x="40" y="40" fill="#ffffff" stroke="#cbd5e1" stroke-width="2" rx="12" />
+
+  <!-- 2. Dezentes OpenStreetMap-Wasserzeichen im oberen Bereich -->
+  <g opacity="0.09" transform="translate(560, 60)" fill="#0f172a">
+    <!-- 3-fach gefaltete Karte -->
+    <path d="M 0,32 L 50,12 L 105,32 L 160,12 L 160,118 L 105,138 L 50,118 L 0,138 Z" fill="#0f172a" />
+    <path d="M 50,12 L 50,118" stroke="#ffffff" stroke-width="5" stroke-linecap="round" />
+    <path d="M 105,32 L 105,138" stroke="#ffffff" stroke-width="5" stroke-linecap="round" />
+    <!-- Vergrößerungsglas (Charakteristisch für OpenStreetMap) -->
+    <circle cx="120" cy="65" r="32" fill="#ffffff" />
+    <circle cx="120" cy="65" r="24" fill="#0f172a" />
+    <line x1="142" y1="87" x2="168" y2="113" stroke="#0f172a" stroke-width="12" stroke-linecap="round" />
+    <line x1="142" y1="87" x2="168" y2="113" stroke="#ffffff" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <!-- 3. 4 gebündelte Leiterbahnen (ausgehend von der Bildmitte bei Y=360 nach unten/außen) -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Bahn 1 (Nach links außen) -->
+    <path d="M 625,360 L 625,440 Q 625,455 610,455 L 522,455 Q 510,455 510,470 L 510,545" stroke="#0284c7" stroke-width="2.5" />
+    <circle cx="510" cy="545" r="3.5" fill="#0284c7" />
+
+    <!-- Bahn 2 (Mittig-links) -->
+    <path d="M 635,360 L 635,470 Q 635,482 623,482 L 575,482 Q 565,482 565,494 L 565,545" stroke="#475569" stroke-width="2" />
+    <circle cx="565" cy="545" r="3" fill="#475569" />
+
+    <!-- Bahn 3 (Gerade nach unten mit Pin) -->
+    <path d="M 645,360 L 645,542" stroke="#0f172a" stroke-width="2.5" />
+    <circle cx="645" cy="544" r="4" fill="#0f172a" />
+
+    <!-- Bahn 4 (Nach rechts) -->
+    <path d="M 655,360 L 655,450 Q 655,465 670,465 L 725,465 Q 737,465 737,480 L 737,545" stroke="#0284c7" stroke-width="2.5" />
+    <circle cx="737" cy="545" r="3.5" fill="#0284c7" />
+  </g>
+
+  <!-- 4. Zentrierter Textblock (ohne Icon davor, zentriert bei X=640) -->
+  <text x="640" y="585" 
+        font-family="system-ui, -apple-system, sans-serif" 
+        font-size="20" 
+        font-weight="700" 
+        letter-spacing="2.5px" 
+        fill="#0f172a" 
+        text-anchor="middle">
+    CONSENT FOR CONTENT
+  </text>
+
+  <!-- 5. Domain ganz unten -->
+  <text x="640" y="650" 
+        font-family="system-ui, -apple-system, sans-serif" 
+        font-size="14" 
+        font-weight="400" 
+        letter-spacing="1px" 
+        fill="#475569" 
+        text-anchor="middle">
+    nocamerabag.com
+  </text>
+</svg>
