@@ -1,0 +1,22 @@
+name: Daily Pages Rebuild
+
+on:
+  schedule:
+    # Jeden Tag um 04:00 Uhr UTC (ca. 06:00 Uhr MESZ)
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  trigger-cloudflare:
+    name: Trigger Cloudflare Pages Build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Call Pages Deploy Hook
+        run: |
+          HTTP_STATUS=$(curl -X POST -s -o /dev/null -w "%{http_code}" "${{ secrets.NCB_DAILY_DEPLOY_HOOK }}")
+          echo "Cloudflare Deploy Hook response: HTTP $HTTP_STATUS"
+          if [ "$HTTP_STATUS" -ne 200 ]; then
+            echo "Fehler beim Auslösen des Builds"
+            exit 1
+          fi
