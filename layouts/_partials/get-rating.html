@@ -1,8 +1,8 @@
 {{- $ratingsConfig := site.Params.ratings | default dict -}}
 {{- $ratingData := dict -}}
 {{- $buildFetch := $ratingsConfig.build_fetch | default false -}}
-{{- if and $buildFetch (eq .Section "blog") $ratingsConfig.api_url -}}
-  {{- $apiUrl := strings.TrimRight "/" $ratingsConfig.api_url -}}
+{{- $apiUrl := strings.TrimRight "/" (site.Params.ratings_api_url | default $ratingsConfig.api_url) -}}
+{{- if and $buildFetch (eq .Section "blog") $apiUrl -}}
   {{- $minAverage := cast.ToFloat ($ratingsConfig.min_average | default 4.2) -}}
   {{- $minVotes := cast.ToInt ($ratingsConfig.min_votes | default 2) -}}
   {{- $slug := strings.TrimRight "/" .RelPermalink -}}

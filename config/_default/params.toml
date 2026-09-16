@@ -1,5 +1,5 @@
 # Public API Endpoints for Client-Side Rendering (Production / Cloudflare Pages)
-ratings_api_url = "https://ratings-api.cfe.workers.dev"
-comments_api_url = "https://comments-api.cfe.workers.dev"
+ratings_api_url = "https://ratings-api.nocamerabag.com"
+comments_api_url = "https://comments-api.nocamerabag.com"
 build_secret = ""
 
