@@ -2,21 +2,24 @@ name: Daily Pages Rebuild
 
 on:
   schedule:
-    # Jeden Tag um 04:00 Uhr UTC (ca. 06:00 Uhr MESZ)
-    - cron: '0 4 * * *'
+    # Täglich um 02:00 UTC (04:00 Uhr Wiener Sommerzeit)
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
-  trigger-cloudflare:
-    name: Trigger Cloudflare Pages Build
+  trigger-build:
+    name: Trigger Build via Empty Commit
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
     steps:
-      - name: Call Pages Deploy Hook
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Empty Commit & Push
         run: |
-          HTTP_STATUS=$(curl -X POST -s -o /dev/null -w "%{http_code}" "${{ secrets.NCB_DAILY_DEPLOY_HOOK }}")
-          echo "Cloudflare Deploy Hook response: HTTP $HTTP_STATUS"
-          if [ "$HTTP_STATUS" -ne 200 ]; then
-            echo "Fehler beim Auslösen des Builds"
-            exit 1
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "chore(rebuild): daily automated build $(date +'%Y-%m-%d')"
+          git push origin main
