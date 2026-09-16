@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Call Pages Deploy Hook
         run: |
-          HTTP_STATUS=$(curl -X POST -s -o /dev/null -w "%{http_code}" "${{ secrets.CF_PAGES_DEPLOY_HOOK }}")
+          HTTP_STATUS=$(curl -X POST -s -o /dev/null -w "%{http_code}" "${{ secrets.NCB_DAILY_DEPLOY_HOOK }}")
           echo "Cloudflare Deploy Hook response: HTTP $HTTP_STATUS"
           if [ "$HTTP_STATUS" -ne 200 ]; then
             echo "Fehler beim Auslösen des Builds"
