@@ -5,7 +5,7 @@
   {{- $apiUrl := strings.TrimRight "/" $ratingsConfig.api_url -}}
   {{- $minAverage := cast.ToFloat ($ratingsConfig.min_average | default 4.2) -}}
   {{- $minVotes := cast.ToInt ($ratingsConfig.min_votes | default 2) -}}
-  {{- $slug := .RelPermalink -}}
+  {{- $slug := strings.TrimRight "/" .RelPermalink -}}
   {{- $reqUrl := printf "%s/ratings?slug=%s" $apiUrl ($slug | urlquery) -}}
   {{- $secret := or (os.Getenv "HUGO_BUILD_SECRET") (os.Getenv "BUILD_SECRET") site.Params.build_secret -}}
   {{- $opts := dict "headers" (dict "X-Build-Secret" ($secret | default "")) -}}
