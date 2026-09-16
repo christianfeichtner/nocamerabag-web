@@ -42,7 +42,7 @@ To set up the shared photo library in iOS 16:
 2. Scroll down to *Photos* and tap it.
 3. Scroll down until you see *Shared Library* and tap it.
 
-![Setting uo the iOS 16 Shared Photo Library](/images/iphone-photography/general/ios16-setup-shared-library-step-1.webp)
+![Setting uo the iOS 16 Shared Photo Library](/images/iphone-photography/general/ios16-setup-shared-library-step-1.webp "Setting uo the iOS 16 Shared Photo Library.")
 
 1. Now, iOS 16 will display a splash screen. Tap *Get started*.
 2. Now select up to 5 people to invite to the shared library by adding their phone number or e-mail address. Then tap *next*.
@@ -50,7 +50,7 @@ To set up the shared photo library in iOS 16:
 
 The first and last options a pretty self-explanatory. If you choose the middle option, iOS 16 will try to find photos that show either the invited person or photos starting at a specific date.
 
-![Select which photos to add to the Shared Photo Library](/images/iphone-photography/general/ios16-setup-shared-library-step-3.webp)
+![Select which photos to add to the Shared Photo Library](/images/iphone-photography/general/ios16-setup-shared-library-step-3.webp "Select which photos to add to the Shared Photo Library.")
 
 If you've chosen the second option *By People or Date*, iOS 16 will now display a screen showing the number of photos from the invited person if you've assigned a name to the person in Photos App. You can remove the person if you want by tapping the minus icon in the upper left corner.
 
@@ -59,7 +59,7 @@ Next, iOS 16 will ask you for a start date, which is the date of the first photo
 1. Then, iOS will ask you to send the invitation link via iMessage. Tap *Invite via Messages* to send the invitation to the shared library as a link.
 2. Finally select if you'd like to enable to automatically share photos to the shared library. If you enable this feature by tapping *Share Automatically*, iOS 16 will add photos to the shared library if it detects that you and any of the invited persons are at the same place taking photos.
 
-![Setup automatic sharing to the iOS 16 Shared Photo Library](/images/iphone-photography/general/ios16-setup-automatic-sharing-shared-library.webp)
+![Setup automatic sharing to the iOS 16 Shared Photo Library](/images/iphone-photography/general/ios16-setup-automatic-sharing-shared-library.webp "Setup automatic sharing to the iOS 16 Shared Photo Library.")
 
 But don't worry; you can disable or enable this feature in the camera app as needed. More on that in a minute.
 
@@ -77,13 +77,13 @@ To add photos to the shared library manually:
 2. Select one or more photos by tapping select in the upper right corner and then tapping the photos you want to share
 3. Then tap the icon with the three dots in the lower right corner and select *Move to Shared Library*.
 
-![Manually move Photos to the iOS 16 Shared Photo Library](/images/iphone-photography/general/manually-move-photos-shared-library-ios16.webp)
+![Manually move Photos to the iOS 16 Shared Photo Library](/images/iphone-photography/general/manually-move-photos-shared-library-ios16.webp "Manually move Photos to the iOS 16 Shared Photo Library.")
 
 The second way to add photos to the shared library is by allowing the camera app to save photos to the shared library if it detects that you're with a person that you've invited to the shared library. Allegedly, the camera app uses Bluetooth for detection. But you can switch this feature on and off as needed.
 
 In the camera app, there's a new icon showing two people. The photos will be saved to your personal library if the icon is crossed out and white. To enable automatic sharing of pictures to the shared library, tap the icon, so it becomes yellow:
 
-![Save Photos to the Shared Photos Library from the Camera App](/images/iphone-photography/general/save-photos-shared-library-ios16.webp)
+![Save Photos to the Shared Photos Library from the Camera App](/images/iphone-photography/general/save-photos-shared-library-ios16.webp "Save Photos to the Shared Photos Library from the Camera App.")
 
 The third way to add photos to the shared library is from the suggestions you'll find in the *For you* section in Photos App.
 
@@ -91,11 +91,11 @@ The third way to add photos to the shared library is from the suggestions you'll
 2. Scroll down to the end of the screen. There may be a section named *For your shared library*. Tap *See all*
 3. Now you can either move all suggested photos to the shared library or specifically select photos you'd like to move.
 
-![Add all or selected photos from suggestions to the iOS 16 shared photo library](/images/iphone-photography/general/select-photos-for-shared-library-ios16.webp)
+![Add all or selected photos from suggestions to the iOS 16 shared photo library](/images/iphone-photography/general/select-photos-for-shared-library-ios16.webp "Add all or selected photos from suggestions to the iOS 16 shared photo library.")
 
 To remove a photo from the shared library suggestions long press a photo and select *Remove from Suggestions*
 
-![Remove a photo from the suggestions for the iOS 16 shared photo library](/images/iphone-photography/general/remove-photo-suggestions-shared-library.webp)
+![Remove a photo from the suggestions for the iOS 16 shared photo library](/images/iphone-photography/general/remove-photo-suggestions-shared-library.webp "Remove a photo from the suggestions for the iOS 16 shared photo library.")
 
 ### How to delete photos from the shared library
 
@@ -106,7 +106,7 @@ Anyone invited to a shared library can delete photos independently of who added 
 3. Tap *Shared Library*
 4. Make sure *Deletion Notifications* are turned on.
 
-![Enabled iOS 16 Shared Library deletion notification](/images/iphone-photography/general/ios16-shared-library-deletion-notification.webp)
+![Enabled iOS 16 Shared Library deletion notification](/images/iphone-photography/general/ios16-shared-library-deletion-notification.webp "Enabled iOS 16 Shared Library deletion notification.")
 
 If you enable this option, you'll be notified if someone else deleted a photo you've added. You'll also get a chance to move the deleted image to your personal library.
 
@@ -120,7 +120,7 @@ By default, the photos and videos in the shared library are blended with the ite
 2. Tap the three dots in the upper right corner
 3. Select the library you'd like to see
 
-![Choose which Library you'd like to see in the iOS 16 Photos App](/images/iphone-photography/general/ios16-library-settings-photos-app.webp)
+![Choose which Library you'd like to see in the iOS 16 Photos App](/images/iphone-photography/general/ios16-library-settings-photos-app.webp "Choose which Library you'd like to see in the iOS 16 Photos App.")
 
 I believe the three different settings are pretty self-explanatory:
 
@@ -153,7 +153,7 @@ To extract an object from a photo:
 3. You'll see a bright frame surrounding the discovered object, and a popup menu will appear. I've tried to highlight this in the screenshot below with arrows.
 4. Now, either drag the object into any other app if you're on an iPad or tap either copy or share on the popup menu to share or save the extracted object.
 
-![Extract subject from a photo in iOS 16](/images/iphone-photography/general/ios16-extract-photo-subject.webp)
+![Extract subject from a photo in iOS 16](/images/iphone-photography/general/ios16-extract-photo-subject.webp "Extract subject from a photo in iOS 16.")
 
 As iOS 16 can detect the foreground and background of a photo, I see more editing features coming to further iOS versions like, for example, local adjustments. Maybe future versions of iOS will allow us to adjust e.g., the exposure of the main subject only? I'd love to see that happen!
 
@@ -167,7 +167,7 @@ To see and merge duplicates in Photos App:
 2. You'll see a list of duplicate photos, including the size of the two duplicates
 3. Tap merge to keep the better photo and discard the other.
 
-![Find and merge duplicates in the iOS 16 Photos App](/images/iphone-photography/general/ios16-find-duplicates.webp)
+![Find and merge duplicates in the iOS 16 Photos App](/images/iphone-photography/general/ios16-find-duplicates.webp "Find and merge duplicates in the iOS 16 Photos App.")
 
 Please note that it takes some time for iOS 16 to discover duplicates. It took more than 2 days for iOS 26 to discover the first duplicates in a 20.000+ photo library.
 
@@ -181,7 +181,7 @@ In iOS 16 you can now copy and paste edits. I conducted a test to see which edit
 
 As of iOS 16 public beta 4, only the filters and edits are pasted, while the cropping is not.
 
-![Which edits can be copy and pasted in iOS 16?](/images/iphone-photography/general/ios16-which-edits-can-be-copied-and-pasted.webp)
+![Which edits can be copy and pasted in iOS 16?](/images/iphone-photography/general/ios16-which-edits-can-be-copied-and-pasted.webp "Which edits can be copy and pasted in iOS 16?")
 
 To copy and paste edits in iOS 16:
 
@@ -189,7 +189,7 @@ To copy and paste edits in iOS 16:
 2. Before tapping *done*, tap the three dots in the upper right corner. An options menu will be displayed.
 3. Tap *copy edits* to copy the edits to the clipboard.
 
-![How to copy edits in iOS 16](/images/iphone-photography/general/ios16-copy-edits.webp)
+![How to copy edits in iOS 16](/images/iphone-photography/general/ios16-copy-edits.webp "How to copy edits in iOS 16.")
 
 1. Now tap *done*
 2. Open any other photo in editing mode
@@ -202,13 +202,13 @@ This will apply the edits to the current photo. To apply the copied edits to mul
 2. Tap the icon containing the three dots in the lower right corner.
 3. Tap *Paste Edits*.
 
-![How to batch paste edits in iOS 16](/images/iphone-photography/general/ios-16-batch-paste-edits.webp)
+![How to batch paste edits in iOS 16](/images/iphone-photography/general/ios-16-batch-paste-edits.webp "How to batch paste edits in iOS 16.")
 
 ## Deleted and hidden albums are locked
 
 If you've been using the hidden album in iOS, you may be happy to hear that the hidden album and the deleted album are now locked. Before viewing their contents, you have to unlock your iOS device using Face ID or Touch ID.
 
-![Hidden and deleted albums are locked in iOS 16](/images/iphone-photography/general/ios16-hidden-and-deleted-albums.webp)
+![Hidden and deleted albums are locked in iOS 16](/images/iphone-photography/general/ios16-hidden-and-deleted-albums.webp "Hidden and deleted albums are locked in iOS 16.")
 
 I guess a few people will like this feature to secure some of their "more confidential" photos. I use the hidden albums to hide the original images I've edited in Lightroom Mobile. Once I edited the photos in Lightroom, I export them back to the camera roll for sharing.
 
@@ -216,7 +216,7 @@ I guess a few people will like this feature to secure some of their "more confid
 
 You can now undo and redo each editing step when applying edits to a photo in Photos App. Let's assume you adjust, e.g., the exposure as step 1 followed by the shadows as step 2. The undo button will undo the shadows first (step 2), followed by the exposure adjustments (step 1). If you want to re-apply these edits again, tap the redo button. This will apply the exposure (step 1) and then the shadows (step 2).
 
-![iOS 16 can undo and redo photo edits step-by-step](/images/iphone-photography/general/ios16-undo-redo-photo-edits.webp)
+![iOS 16 can undo and redo photo edits step-by-step](/images/iphone-photography/general/ios16-undo-redo-photo-edits.webp "iOS 16 can undo and redo photo edits step-by-step.")
 
 Please note: The *undo*, and *redo* buttons only work while you're in editing mode. As soon as you tap done, the undo and redo buttons won't work anymore. You can only wholly undo all edits by reverting all edits by tapping *revert* in the upper right corner.
 
@@ -242,11 +242,11 @@ In iOS 16, Live Text works directly in the Camera App. So you don't need to take
 
 1. Point the camera app to e.g., a sign. If iOS 16 detects text in the viewfinder, it'll display yellow edges around the text.
 
-![iOS 16 camera app detects text in the Camera App](/images/iphone-photography/general/ios16-camera-app-live-text-detected.webp)
+![iOS 16 camera app detects text in the Camera App](/images/iphone-photography/general/ios16-camera-app-live-text-detected.webp "iOS 16 camera app detects text in the Camera App.")
 
 2. Now tap the Live Text Icon in the upper right side of the viewfinder. The camera app will now zoom the detected text and display the share menu.
 
-![Live text zoomed in the iOS 16 Camera App](/images/iphone-photography/general/ios16-live-text-zoomed.webp)
+![Live text zoomed in the iOS 16 Camera App](/images/iphone-photography/general/ios16-live-text-zoomed.webp "Live text zoomed in the iOS 16 Camera App.")
 
 3. Tap e.g. copy or translate in the share menu to copy the detected text to the clipboard or to have iOS 16 translate it.
 

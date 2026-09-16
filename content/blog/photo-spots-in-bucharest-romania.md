@@ -71,34 +71,34 @@ You can see all the spots mentioned in this article on an interactive map. You c
 
 Let's start in the city center at the Ateneul Român, a concert hall in the center of Bucharest that was opened in 1888. The place in front of it seems to be a kind of gathering place for all pigeons in Bucharest. When I arrived there, this considerable swarm was flying around the building. However, pictured that it would look good if they'd just come flying over the building. Thanks to the very fast burst mode of iPhone, I was able to get this photo
 
-![Pigeon Swarm at the Ateneul Român in Bucharest, Romania](/images/cityscapes/romania/pigeon-swarm-at-the-ateneul-roman-in-bucharest-romania.webp)
+![Pigeon Swarm at the Ateneul Român in Bucharest, Romania](/images/cityscapes/romania/pigeon-swarm-at-the-ateneul-roman-in-bucharest-romania.webp "Pigeon Swarm at the Ateneul Român in Bucharest, Romania.")
 
 I had to wait for a little to get this photo. There was also a group of girls who were filming a kind of music video. Maybe for their Instagram or YouTube, I don't know. To get them off the photo, I just lowered my angle and used the bushes in front to cover them.
 
 Next is the Baserab Bridge, a road overpass in Bucharest. It looks particularly lovely at night when it's illuminated. I took this photo using [ProCamera app](/blog/procamera-app-review), which is one of the [recommended iPhone camera apps](/blog/recommended-camera-apps/) I've been using for years.
 
-![Black and White Baserab bridge in Bucharest, Romania](/images/cityscapes/romania/black-and-white-baserab-bridge-in-bucharest-romania.webp)
+![Black and White Baserab bridge in Bucharest, Romania](/images/cityscapes/romania/black-and-white-baserab-bridge-in-bucharest-romania.webp "Black and White Baserab bridge in Bucharest, Romania.")
 
 There was a small street light in front of the bridge that I removed using [Touch Retouch app](/blog/review-touch-retouch) (Yes, I use that app since I turned to iPhone photography! It's simply awesome)
 
 Next is the building that houses the national bank. It's almost impossible to miss if you stroll around the area. This one also looks quite nice at night, when it's beautifully illuminated. This is another shot I took with [ProCamera app](/blog/procamera-app-review) experimenting with manual exposure.
 
-![National Bank in Bucharest, Romania](/images/cityscapes/romania/national-bank-in-bucharest-romania.webp)
+![National Bank in Bucharest, Romania](/images/cityscapes/romania/national-bank-in-bucharest-romania.webp "National Bank in Bucharest, Romania.")
 
 For the above photo, I've a complete workflow tutorial where I write about [how I composed, shot and edited the CEC Palace in Bucharest](/blog/the-cec-palace-in-bucharest).
 
 A must-see place is the palace of parliament. A colossal palace built to impress. Allegedly, it's the heaviest building in the world.
 
-![Palace of Parliament in Bucharest, Romania](/images/cityscapes/romania/palace-of-parliament-in-bucharest-romania.webp)
+![Palace of Parliament in Bucharest, Romania](/images/cityscapes/romania/palace-of-parliament-in-bucharest-romania.webp "Palace of Parliament in Bucharest, Romania.")
 
 If you walk away from the palace down the Bulevardul Urinii, you'll pass by this beautiful fountain that is a little difficult to access. It's in between two roads, and there's no crosswalk that allows you to cross the boulevard, that's quite busy during the rush hour, so be careful and watch out for any local police when you cross the road.
 
-![Beautiful Fountain in Bucharest, Romania](/images/cityscapes/romania/beautiful-fountain-in-bucharest-romania.webp)
+![Beautiful Fountain in Bucharest, Romania](/images/cityscapes/romania/beautiful-fountain-in-bucharest-romania.webp "Beautiful Fountain in Bucharest, Romania.")
 
 Finally, there's the potato of the revolution, that right on revolution square. The interesting story of this monument is that allegedly no one in Bucharest likes it, and that's why they call it either "potato on a stick" or "potato of revolution."
 
-![Potatio on a stick in Bucharest, Romania](/images/cityscapes/romania/potatio-on-a-stick-in-bucharest-romania.webp)
+![Potatio on a stick in Bucharest, Romania](/images/cityscapes/romania/potatio-on-a-stick-in-bucharest-romania.webp "Potatio on a stick in Bucharest, Romania.")
 
 Oh, and when you're already at the revolution square, there's one more interesting building is right nearby. It's a modern building that was built inside an old one. Allegedly, the facade of the old building is under monument protection, and so they couldn't tear it down and just made the new building inside the old one. Quite creative, isn't it?
 
-![New building inside old building in Bucharest, Romania](/images/cityscapes/romania/new-building-inside-old-building-in-bucharest-romania.webp)
+![New building inside old building in Bucharest, Romania](/images/cityscapes/romania/new-building-inside-old-building-in-bucharest-romania.webp "New building inside old building in Bucharest, Romania.")

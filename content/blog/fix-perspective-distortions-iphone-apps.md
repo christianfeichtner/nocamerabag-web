@@ -39,7 +39,7 @@ I added a pair of red lines to illustrate the converging lines. If you extended 
 
 Moreover, the converging lines make the building like it's falling over backward. That's why some call this type of perspective distortion plunging lines or falling lines.
 
-![Example of vertical perspective distortion: Converging Lines](/images/iphone-photography/general/example-of-vertical-perspective-distortion-converging-lines.webp)
+![Example of vertical perspective distortion: Converging Lines](/images/iphone-photography/general/example-of-vertical-perspective-distortion-converging-lines.webp "Example of vertical perspective distortion: Converging Lines.")
 
 However, you can also use converging lines in a photo as a compositional element. Many photographers use it to convey height.
 
@@ -47,7 +47,7 @@ However, you can also use converging lines in a photo as a compositional element
 
 Another kind of perspective distortion is *horizontal distortion* that occurs when you're not perfectly aligned with a subject, e.g., a building, or in this case, the door that I used as a frame for the Ferris wheel in Chernobyl.
 
-![Example of horizontal perspective distortion](/images/iphone-photography/general/example-of-horizontal-perspective-distortion.webp)
+![Example of horizontal perspective distortion](/images/iphone-photography/general/example-of-horizontal-perspective-distortion.webp "Example of horizontal perspective distortion.")
 
 Again, there are several scenarios where you can use such a perspective distortion as a compositional element.
 
@@ -57,7 +57,7 @@ The third form of distortion in photography is *barrel distortion*. To be exact,
 
 Here's an example of an abandoned church near Leipzig to illustrate it. Again, I've added red lines for illustration purposes. I used a fisheye lens to take this photo and as you can see from the red lines, the lines of the horizon as well as the church itself are bent.
 
-![Example of barrel distortion from a Fisheye Lens](/images/iphone-photography/general/example-of-barrel-distortion-from-a-fisheye-lens.webp)
+![Example of barrel distortion from a Fisheye Lens](/images/iphone-photography/general/example-of-barrel-distortion-from-a-fisheye-lens.webp "Example of barrel distortion from a Fisheye Lens.")
 
 Luckily for us iPhone photographers, we can fix all those different kinds of distortions right on our iPhone today. There are at least 7 photo editing apps that will help you with that.
 
@@ -77,7 +77,7 @@ After a period with no updates, the developers finally released SKRWT 1.5 and if
 
 SKRWT allows you to fix all three types of perspective distortions like horizontal, vertical and barrel distortion. Moreover, it also comes with a feature called 4PNTS. This feature allows you to fix horizontal and vertical perspective distortions freely - by just dragging the edges of a photo.
 
-![Fix barrel distortion in SKRWT App](/images/iphone-photography/general/fix-barrel-distortion-in-skrwt-app.webp)
+![Fix barrel distortion in SKRWT App](/images/iphone-photography/general/fix-barrel-distortion-in-skrwt-app.webp "Fix barrel distortion in SKRWT App.")
 
 I have a fully updated [review of SKRWT V1.5](/blog/review-skrwt-app) in the blog.
 
@@ -104,7 +104,7 @@ Lightroom Mobile offers three ways to fix perspective distortions:
 2. An automatic way where Lightroom tries to find converging lines and automatically fix them by making them parallel
 3. A guided way where you draw lines and Adobe adjusts the photo accordingly.
 
-![Fixing different kinds of perspective distortions in Adobe Lightroom Mobile](/images/iphone-photography/general/fixing-different-kinds-of-perspective-distortions-in-adobe-l.webp)
+![Fixing different kinds of perspective distortions in Adobe Lightroom Mobile](/images/iphone-photography/general/fixing-different-kinds-of-perspective-distortions-in-adobe-l.webp "Fixing different kinds of perspective distortions in Adobe Lightroom Mobile.")
 
 Lightroom also offers a way to keep the resolution of the original photo using either the *zoom*, *x-offset* or *y-offset* adjustments, or a combination of all three. If you don't use these, Lightroom will crop the photo.
 
@@ -118,15 +118,15 @@ However, by default, those fixes won't keep the current resolution of the photo.
 
 You will lose up to 1-2 megapixels unless you're willing to apply a different crop to your photo. Here's an example of what I'm talking about. First, I just fixed the perspective distortion and didn't adjust the cropping. Then I checked the resolution of the photo in the EXIF reader of the ProCamera App. Then I adjusted the cropping and rechecked the resolution.
 
-![Fixing perspective distortion in Photos App without re-cropping.](/images/iphone-photography/general/fixing-perspective-distortion-in-photos-app-without-re-cropp.webp)
+![Fixing perspective distortion in Photos App without re-cropping.](/images/iphone-photography/general/fixing-perspective-distortion-in-photos-app-without-re-cropp.webp "Fixing perspective distortion in Photos App without re-cropping.")
 
-![Resolution of photo with perspective correction and no re-cropping.](/images/iphone-photography/general/resolution-of-photo-with-perspective-correction-and-no-re-cr.webp)
+![Resolution of photo with perspective correction and no re-cropping.](/images/iphone-photography/general/resolution-of-photo-with-perspective-correction-and-no-re-cr.webp "Resolution of photo with perspective correction and no re-cropping.")
 
 For this scenario, the photo has a resolution of 10.3 megapixels (3722 x 2792 pixels)
 
-![Fixing perspective distortion in Photos App with re-cropping applied.](/images/iphone-photography/general/fixing-perspective-distortion-in-photos-app-with-re-cropping.webp)
+![Fixing perspective distortion in Photos App with re-cropping applied.](/images/iphone-photography/general/fixing-perspective-distortion-in-photos-app-with-re-cropping.webp "Fixing perspective distortion in Photos App with re-cropping applied.")
 
-![Resolution of a photo with perspective correction applied and re-cropped.](/images/iphone-photography/general/resolution-of-a-photo-with-perspective-correction-applied-an.webp)
+![Resolution of a photo with perspective correction applied and re-cropped.](/images/iphone-photography/general/resolution-of-a-photo-with-perspective-correction-applied-an.webp "Resolution of a photo with perspective correction applied and re-cropped.")
 
 In the second scenario, the overall resolution actually increased due to the crop I applied. The overall resolution now is 3713 x 3763, which results in a total of 13.9 megapixels.
 
@@ -142,7 +142,7 @@ You can find those perspective corrections adjustments under the *crop* adjustme
 4. Swipe left to the vertical or horizontal perspective correction adjustment
 5. Adjust the slider
 
-![How to use perspective correction in Photos Apps](/images/iphone-photography/general/how-to-use-perspective-correction-in-photos-apps.webp)
+![How to use perspective correction in Photos Apps](/images/iphone-photography/general/how-to-use-perspective-correction-in-photos-apps.webp "How to use perspective correction in Photos Apps.")
 
 ### Fix Perspective Distortion while shooting with Pro Camera App
 
@@ -158,11 +158,11 @@ Here's a full review of [auto perspective correction in ProCamera](/blog/review-
 
 If you have a Creative Cloud subscription that includes Photoshop, you can use Photoshop on iPad to fix horizontal and vertical perspective corrections using the transform tool.
 
-![Using the transformation tool to fix perspective distortions in Photoshop on iPad](/images/iphone-photography/general/using-the-transformation-tool-to-fix-perspective-distortions.webp)
+![Using the transformation tool to fix perspective distortions in Photoshop on iPad](/images/iphone-photography/general/using-the-transformation-tool-to-fix-perspective-distortions.webp "Using the transformation tool to fix perspective distortions in Photoshop on iPad.")
 
 Next, tap on freeform transformation and drag the points on the blue rectangle until everything is perfectly aligned with the edges of the frame.
 
-![Use the free-form transformation tool to fix perspective distortions on Photoshop iPad](/images/iphone-photography/general/use-the-free-form-transformation-tool-to-fix-perspective-dis.webp)
+![Use the free-form transformation tool to fix perspective distortions on Photoshop iPad](/images/iphone-photography/general/use-the-free-form-transformation-tool-to-fix-perspective-dis.webp "Use the free-form transformation tool to fix perspective distortions on Photoshop iPad.")
 
 ### Fixing Perspective Distortions with Snapseed
 
@@ -188,7 +188,7 @@ With Photoshop Express you can fix horizontal and vertical perspective distortio
 4. Tap either *vertical skew* or *horizontal skew*
 5. Adjust the slider until the perspective distortion is fixed.
 
-![Perspective Correction in Photoshop Express](/images/iphone-photography/general/perspective-correction-photoshop-express.webp)
+![Perspective Correction in Photoshop Express](/images/iphone-photography/general/perspective-correction-photoshop-express.webp "Perspective Correction in Photoshop Express.")
 
 Please beware that as of April 2022, Photoshop Express will reduce the overall image resolution if you apply perspective corrections.
 

@@ -100,7 +100,7 @@
   {{- end }}
   {{- end }}
 
-  {{- if (.Param "comments") }}
+  {{- if and (eq .Section "blog") (.Param "comments") (not (.Param "disableComments")) }}
   {{- partial "comments.html" . }}
   {{- end }}
 </article>

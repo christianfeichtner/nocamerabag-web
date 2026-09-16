@@ -23,11 +23,11 @@ Just in Time for Christmas 2019, I finally received the new Moment Case for iPho
 
 Before we continue, here are a few sample photos I took using the old Moment fisheye lens (and barrel distortion fixed). More about the editing process a little later in this post.
 
-![Abandoned elevator shot on iPhone using Moment Superfish](/images/reviews/general/abandoned-elevator-shot-on-iphone-using-moment-superfish.webp)
+![Abandoned elevator shot on iPhone using Moment Superfish](/images/reviews/general/abandoned-elevator-shot-on-iphone-using-moment-superfish.webp "Abandoned elevator shot on iPhone using Moment Superfish.")
 
-![Abandoned church photographed using Moment Superfish Lens](/images/reviews/general/abandoned-church-photographed-using-moment-superfish-lens.webp)
+![Abandoned church photographed using Moment Superfish Lens](/images/reviews/general/abandoned-church-photographed-using-moment-superfish-lens.webp "Abandoned church photographed using Moment Superfish Lens.")
 
-![Medieval cemetery shot using Moment Superfish Lens.](/images/reviews/general/medieval-cemetery-shot-using-moment-superfish-lens.webp)
+![Medieval cemetery shot using Moment Superfish Lens.](/images/reviews/general/medieval-cemetery-shot-using-moment-superfish-lens.webp "Medieval cemetery shot using Moment Superfish Lens.")
 
 ## What is the difference between a wide-angle lens and a fisheye lens?
 
@@ -46,9 +46,9 @@ This was the reason I gave the Moment fisheye lens a try.
 
 So, here are two examples of those bent lines thing I've been talking about. Note that curved lines are not an error of the Moment lens. You'll get that effect with each sand every fisheye lens you would use - independently of the camera.
 
-![Bent lines at an abandoned church near Leipzig](/images/reviews/general/bent-lines-at-an-abandoned-church-near-leipzig.webp)
+![Bent lines at an abandoned church near Leipzig](/images/reviews/general/bent-lines-at-an-abandoned-church-near-leipzig.webp "Bent lines at an abandoned church near Leipzig.")
 
-![Bent lines at an abandoned public bath in Leipzig](/images/reviews/general/bent-lines-at-an-abandoned-public-bath-in-leipzig.webp)
+![Bent lines at an abandoned public bath in Leipzig](/images/reviews/general/bent-lines-at-an-abandoned-public-bath-in-leipzig.webp "Bent lines at an abandoned public bath in Leipzig.")
 
 In those two photos, you can see that the usually straight, horizontal lines of horizontal and the vertical lines of the building are bent around the center of the frame. In the second photo, you can see the same effect, especially on the walls and the pillars. They're bent, too.
 
@@ -60,7 +60,7 @@ Both, the old 15mm and new 14mm fisheye lenses are, like all the other Moment le
 
 It comes with a small carrying pouch and a lens cap (Thanks Moment that you include the lens caps, and I don't have to order it separately).
 
-![Box contents of the Moment Superfish lens](/images/reviews/general/box-contents-of-the-moment-superfish-lens.webp)
+![Box contents of the Moment Superfish lens](/images/reviews/general/box-contents-of-the-moment-superfish-lens.webp "Box contents of the Moment Superfish lens.")
 
 ## Mounting the Moment Fisheye Lens to your iPhone
 
@@ -84,9 +84,9 @@ By mounting the 14mm Fisheye over the standard wide lens of the iPhone 11, you c
 
 I took the first one using the new Moment 14mm fisheye lens and the second one with the ultra-wide lens of the iPhone 11. You'll notice two things: Look at the lamp posts. This will give you the best idea of how much wider the fisheye is. Second, as the ultra-wide lens of the iPhone does not support the iPhone night mode, it's a bit blurry.
 
-![Schönbrunn Palace at night shot with iPhone 11 Ultra-Wide Lens](/images/reviews/general/schonbrunn-palace-at-night-shot-with-iphone-11-ultra-wide-le.webp)
+![Schönbrunn Palace at night shot with iPhone 11 Ultra-Wide Lens](/images/reviews/general/schonbrunn-palace-at-night-shot-with-iphone-11-ultra-wide-le.webp "Schönbrunn Palace at night shot with iPhone 11 Ultra-Wide Lens.")
 
-![Schönbrunn Palace at night shot on Moment 14mm Fisheye Lens](/images/reviews/general/schonbrunn-palace-at-night-shot-on-moment-14mm-fisheye-lens.webp)
+![Schönbrunn Palace at night shot on Moment 14mm Fisheye Lens](/images/reviews/general/schonbrunn-palace-at-night-shot-on-moment-14mm-fisheye-lens.webp "Schönbrunn Palace at night shot on Moment 14mm Fisheye Lens.")
 
 ## Tips for shooting with a fisheye lens
 
@@ -108,17 +108,17 @@ SKRWT has a special mode for fixing bent lines that occur with any fisheye lens.
 
 If the app is not visible, swipe left in the toolbar shown in the screen below and tap the last icon with the three dots. Here you may need to enable SKRWT.
 
-![Using SKRWT to fix bent lines](/images/reviews/general/using-skrwt-to-fix-bent-lines.webp)
+![Using SKRWT to fix bent lines](/images/reviews/general/using-skrwt-to-fix-bent-lines.webp "Using SKRWT to fix bent lines.")
 
 Alternatively, launch SKRWT and open the photo right in SKRWT as outlined in the [SKRWT review](/blog/review-skrwt-app).
 
 Once you‘ve loaded your photo into SKRWT, locate the fisheye button at the bottom. You‘ll see 4 different options to choose from. I work mainly with the first and the third option.
 
-![Select “Fisheye” in SKRWT](/images/reviews/general/select-fisheye-in-skrwt.webp)
+![Select “Fisheye” in SKRWT](/images/reviews/general/select-fisheye-in-skrwt.webp "Select “Fisheye” in SKRWT.")
 
 Now drag the slider until the bent lines are perfectly straight. If necessary, switch to the vertical distortion fix and make your shot upright. Once you're satisfied, press the checkmark. If you've launched SKRWT from the camera roll you need to press the checkmark once more to indicate that you're finished editing. If you launched SKRWT directly, don't forget to save your photo to the camera roll.
 
-![Use the slider to fix the bent lines effect](/images/reviews/general/use-the-slider-to-fix-the-bent-lines-effect.webp)
+![Use the slider to fix the bent lines effect](/images/reviews/general/use-the-slider-to-fix-the-bent-lines-effect.webp "Use the slider to fix the bent lines effect.")
 
 ## Conclusion about the Moment Superfish Lens
 

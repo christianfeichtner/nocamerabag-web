@@ -39,13 +39,13 @@ After I received the first three-pack, I was sold. The Field Notes Memo Books we
 
 Since then, I use one as an everyday carry memo book and one as a travel journal. The travel journal memo book also doubles as a kind of travel wallet for tickets, maps, and so on. Here's a tiny "exhibition" of my Field Notes Collection. I guess you could call me Field nuts?
 
-![A tiny selection of the Field Notes Memo books I own.](/images/reviews/usa/a-tiny-selection-of-the-field-notes-memo-books-i-own.webp)
+![A tiny selection of the Field Notes Memo books I own.](/images/reviews/usa/a-tiny-selection-of-the-field-notes-memo-books-i-own.webp "A tiny selection of the Field Notes Memo books I own.")
 
 ## What's the difference between a Field Notes Memo Book and a Field Notes Note Book?
 
 In short, it's the size and the number of pages. Have a look at the comparison of the Pitch Black Note Book (left) and the Pitch Black Memo Book (right)
 
-![A Field Notes Note Book (left) compared to a Field Notes Memo Book (right)](/images/reviews/usa/a-field-notes-note-book-left-compared-to-a-field-notes-mem.webp)
+![A Field Notes Note Book (left) compared to a Field Notes Memo Book (right)](/images/reviews/usa/a-field-notes-note-book-left-compared-to-a-field-notes-mem.webp "A Field Notes Note Book (left) compared to a Field Notes Memo Book (right).")
 
 * The Memo Book is my preferred size. It fits perfectly into any pocket. It’s 3.5” x 5.5” (8.9cm x 14 cm) and has 48 pages.
 * The Note Book is larger. It’s 4.75” x 7.5” (12.1cm x 19cm) and has 64 pages. I use this edition solely at my desk.
@@ -65,7 +65,7 @@ Today, Field Notes Memo Books have become an integral part of my life, and I use
 
 Here's a Field Notes Memo Book filled with memories from a few months of traveling.
 
-![A Field Notes Memo Book filled with Experiences and Travel Notes](/images/reviews/usa/a-field-notes-memo-book-filled-with-experiences-and-travel-n.webp)
+![A Field Notes Memo Book filled with Experiences and Travel Notes](/images/reviews/usa/a-field-notes-memo-book-filled-with-experiences-and-travel-n.webp "A Field Notes Memo Book filled with Experiences and Travel Notes.")
 
 And here's how I use these Memo Books for traveling.
 
@@ -129,7 +129,7 @@ Nevertheless, I'd like to point you to two accessories I recommend and use mysel
 
 I use the Bellroy Cover Mini as my Field Notes Wallet. It's a perfect cover and wallet for Field Notes memo books that has room for a passport (European Sizes) and 2-6 credit cards plus my Fisher Space Pen.
 
-![Bellroy Field Notes Cover for Memo Books](/images/reviews/usa/bellroy-field-notes-cover-for-memo-books.webp)
+![Bellroy Field Notes Cover for Memo Books](/images/reviews/usa/bellroy-field-notes-cover-for-memo-books.webp "Bellroy Field Notes Cover for Memo Books.")
 
 Bellroy manufactures the Cover from premium, environmentally certified leather, and I love how it ages. I have mine for a few years now, and it looks cool.
 

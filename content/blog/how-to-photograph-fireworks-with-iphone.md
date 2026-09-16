@@ -29,11 +29,11 @@ In this tutorial, I’ll show you how you can capture stunning photos of firewor
 
 Before we begin with the firework photography tutorial, here are a few sample photos of a firework I took with my iPhone in my hometown, Linz, Austria. I took the photos from a nearby bridge to get a good view of the show. I took all of these firework photos using an iPhone Xs, Slow Shutter Cam App and a tripod.
 
-![Fireworks shot on iPhone (1)](/images/tutorials/general/fireworks-shot-on-iphone-1.webp)
+![Fireworks shot on iPhone (1)](/images/tutorials/general/fireworks-shot-on-iphone-1.webp "Fireworks shot on iPhone (1).")
 
 ![Fireworks shot on iPhone (2)](/images/cityscapes/austria/linz-austria-fireworks-1.jpeg "Fireworks over Linz shot on iPhone.")
 
-![Fireworks shot on iPhone (3)](/images/tutorials/general/fireworks-shot-on-iphone-3.webp)
+![Fireworks shot on iPhone (3)](/images/tutorials/general/fireworks-shot-on-iphone-3.webp "Fireworks shot on iPhone (3).")
 
 ## Recommended Camera Apps and Gear to Photograph Fireworks with an iPhone
 
@@ -76,13 +76,13 @@ After you’ve scouted and found the perfect location for an unobstructed view o
 * Next, based on learnings from previous attempts to photograph fireworks with an iPhone, I set the light sensitivity to 1/2.
 * Then set the shutter speed in Slow Shutter Camera App to bulb. This mode allows you to keep the shutter open as long as you need. I wouldn't try to use any time-based exposure setting. The fireworks will be over before you figured the perfect setting.
 
-![Settings I used for photographing a firework with Slow Shutter Cam App](/images/tutorials/general/settings-i-used-for-photographing-a-firework-with-slow-shutt.webp)
+![Settings I used for photographing a firework with Slow Shutter Cam App](/images/tutorials/general/settings-i-used-for-photographing-a-firework-with-slow-shutt.webp "Settings I used for photographing a firework with Slow Shutter Cam App.")
 
 Once we’ve applied the above settings, tap on any distant object on the screen to set focus and exposure to infinity. And now, the most crucial part: we’ll lock AE and AF in Slow Shutter Cam App to avoid the autofocus kicking in.
 
 You do that by taping the AE and AF icons in the toolbar, so they turn to a lock.
 
-![AE and AF lock in Slow Shutter Cam App](/images/tutorials/general/ae-and-af-lock-in-slow-shutter-cam-app.webp)
+![AE and AF lock in Slow Shutter Cam App](/images/tutorials/general/ae-and-af-lock-in-slow-shutter-cam-app.webp "AE and AF lock in Slow Shutter Cam App.")
 
 Now let’s wait for the fireworks to begin.
 

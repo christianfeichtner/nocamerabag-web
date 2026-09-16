@@ -66,7 +66,7 @@ The classic cars at the graveyard are not just lined up in a row. They're placed
 
 The first photo shows what's left of a Jaguar XK120 sports car. I don't know exactly when the model in the photo was built, but it's placed on something that looks like an artificial racing track. So I assume that the Jaguar XK120 was also a famous racing car.
 
-![Remains of a white Jaguar XK120](/images/lost-places/germany/car-graveyard-jaguar-xk120.webp)
+![Remains of a white Jaguar XK120](/images/lost-places/germany/car-graveyard-jaguar-xk120.webp "Remains of a white Jaguar XK120.")
 
 In this photo you'll see the first tip for taking photos at the car graveyard: don't be afraid to crop the cars. Usually it's the front that gives a car its iconic look. Moreover, if you crop the frame, make sure to place the subject (the car) diagonally. That makes it much more appealing.
 
@@ -74,7 +74,7 @@ In this photo you'll see the first tip for taking photos at the car graveyard: d
 
 The cars at the graveyard are placed in specific groups and ways, like the Oldsmobile 88 and the Moskvitch 400-420. Both look like they had a major accident, especially the Moskvitch in the background.
 
-![Two classic cars with major accidents: an Oldsmobile 88 (left) and a Moskvitch 400-420 (right)](/images/lost-places/germany/car-graveyard-oldsmobile-88-and-moskvitch-400.webp)
+![Two classic cars with major accidents: an Oldsmobile 88 (left) and a Moskvitch 400-420 (right)](/images/lost-places/germany/car-graveyard-oldsmobile-88-and-moskvitch-400.webp "Two classic cars with major accidents: an Oldsmobile 88 (left) and a Moskvitch 400-420 (right).")
 
 Try to find these groups of cars and place them in a single photo instead of just photographing each classic car individually.
 
@@ -82,7 +82,7 @@ Try to find these groups of cars and place them in a single photo instead of jus
 
 You won't miss that car. Its yellow body makes it visible from everywhere in the graveyard. Its placement on a small hill makes a great photo spot.
 
-![A Chevrolet Fleetline at the car graveyard in Germany](/images/lost-places/germany/car-graveyard-chevrolet-fleetline.webp)
+![A Chevrolet Fleetline at the car graveyard in Germany](/images/lost-places/germany/car-graveyard-chevrolet-fleetline.webp "A Chevrolet Fleetline at the car graveyard in Germany.")
 
 Some of the cars are placed on small hills, like the Chevrolet in the photo above. Use that when taking photos. Don't try to straighten it in the frame. Again, using the car as a diagonal line makes a much more appealing picture.
 
@@ -90,7 +90,7 @@ Some of the cars are placed on small hills, like the Chevrolet in the photo abov
 
 Either you'll find the doors of many cars at the graveyard to be open, or the windows are smashed. The Buick Super is one example of such a wreck.
 
-![Open door and smashed window of a Buick Super](/images/lost-places/germany/car-graveyard-chevrolet-styleline.webp)
+![Open door and smashed window of a Buick Super](/images/lost-places/germany/car-graveyard-chevrolet-styleline.webp "Open door and smashed window of a Buick Super.")
 
 Use the open doors or smashed windows to photograph inside the cars. But under no circumstances try to open the doors a little bit more. They'll probably fall off and right onto your toes.
 
@@ -100,7 +100,7 @@ Moreover, urban exploration is about just taking photos and leaving nothing but 
 
 A quite iconic classic car from France due to its front. Built between the 1930s and 1950s, one of the cars found its last parking spot at the "Auto-Skulpturen-Platz" in the Neanderthal.
 
-![Citroen Traction Avant at its final parking position at the classic car graveyard in Germany](/images/lost-places/germany/car-graveyard-citroen-traction-avant.webp)
+![Citroen Traction Avant at its final parking position at the classic car graveyard in Germany](/images/lost-places/germany/car-graveyard-citroen-traction-avant.webp "Citroen Traction Avant at its final parking position at the classic car graveyard in Germany.")
 
 This is another example of a photo tip I mentioned previously. Don't be afraid to crop your image even if the car is only visible partially.
 
@@ -108,7 +108,7 @@ This is another example of a photo tip I mentioned previously. Don't be afraid t
 
 This Ford pickup truck is probably one of the most decayed classic cars in the entire graveyard.
 
-![A Ford pickup decaying](/images/lost-places/germany/car-graveyard-ford-pickup.webp)
+![A Ford pickup decaying](/images/lost-places/germany/car-graveyard-ford-pickup.webp "A Ford pickup decaying.")
 
 I rarely photographed the cars from the front. But this one is an exception, as it's already so decayed. The open door and the engine cover that looks like it will slide off to the left any minute makes it a great perspective and photo spot.
 
@@ -116,7 +116,7 @@ I rarely photographed the cars from the front. But this one is an exception, as 
 
 The Porsche 356 is another sports car. It was produced between the late 1940s and 1960s. If you visit this place, you'll find it right behind the Jaguar XK120 I mentioned at the beginning. It looks like they're on a racing track.
 
-![Porsche 356 at the classic car graveyard “Auto-Skulpturen-Park, Neanderthal”](/images/lost-places/germany/car-graveyard-porsche-356.webp)
+![Porsche 356 at the classic car graveyard “Auto-Skulpturen-Park, Neanderthal”](/images/lost-places/germany/car-graveyard-porsche-356.webp "Porsche 356 at the classic car graveyard “Auto-Skulpturen-Park, Neanderthal”.")
 
 ## Additional Information about the Park of Car Sculptures
 

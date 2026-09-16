@@ -49,7 +49,7 @@ It turns out that the perfect exposure time was 40 seconds.
 
 And this I the photo that came out of the camera.
 
-![Long Exposure of the London Eye out of the camera (app)](/images/tutorials/england/london-eye-long-exposure-workflow-unedited.webp)
+![Long Exposure of the London Eye out of the camera (app)](/images/tutorials/england/london-eye-long-exposure-workflow-unedited.webp "Long Exposure of the London Eye out of the camera (app).")
 
 ## Editing the London Eye Capture
 
@@ -57,7 +57,7 @@ First thing I did was to rotate the image. I felt that this way the photo had a 
 
 Then, I removed the cables that were still visible and the mounting, where they are attached. That's quite easy using [Touch Retouch App](/blog/review-touch-retouch).
 
-![Using the clone stamp tool to remove the cables](/images/tutorials/england/using-the-clone-stamp-tool-to-remove-the-cables.webp)
+![Using the clone stamp tool to remove the cables](/images/tutorials/england/using-the-clone-stamp-tool-to-remove-the-cables.webp "Using the clone stamp tool to remove the cables.")
 
 I used the clone tool to copy the area from outside of the Ferris wheel over the inside to remove all the cables.
 
@@ -65,7 +65,7 @@ Then I turned to Photos App to darken the sky by bringing down the black point a
 
 In a later re-edit using [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium), I added some clarity, sharpening, and noise reduction. And this is the final photo:
 
-![Final long exposure of the London Eye](/images/tutorials/england/london-eye-long-exposure-2.webp)
+![Final long exposure of the London Eye](/images/tutorials/england/london-eye-long-exposure-2.webp "Final long exposure of the London Eye.")
 
 ## Conclusion
 

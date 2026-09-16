@@ -33,7 +33,7 @@ First, I tried a symmetrical composition with the edge of the two walls in the m
 
 So I chose a classic rule-of-thirds composition and placed the edge of the two walls on the left line of the grid. This composition made the window more visible.
 
-![Using the rule of thirds for photo composition](/images/tutorials/general/using-the-rule-of-thirds-for-photo-composition.webp)
+![Using the rule of thirds for photo composition](/images/tutorials/general/using-the-rule-of-thirds-for-photo-composition.webp "Using the rule of thirds for photo composition.")
 
 Additionally, the two trees provided natural framing for the main subject.
 
@@ -59,20 +59,20 @@ So instead, I decided to use local adjustments to get the results I wanted. With
 
 I applied the first local adjustment to the old mill. First, I used a brush with a little soft edge and painted over the rocks of the building. Next, I decreased the saturation of the selected area. The result is exactly the greyish look of the stones I had in mind.
 
-![Using local adjustments in Lightroom to make the stones more grayish](/images/tutorials/general/using-local-adjustments-in-lightroom-to-make-the-stones-more.webp)
+![Using local adjustments in Lightroom to make the stones more grayish](/images/tutorials/general/using-local-adjustments-in-lightroom-to-make-the-stones-more.webp "Using local adjustments in Lightroom to make the stones more grayish.")
 
 Next, let’s deal with the green stuff using the same method. Again, I used a brush with a soft edge to select the plants. Then, in the colors adjustment group, I shifted the tint towards the greens, increase the saturation and slightly adjusted the hue
 
-![Using local adjustments in Lightroom Mobile to make the plants greener](/images/tutorials/general/using-local-adjustments-in-lightroom-mobile-to-make-the-plan.webp)
+![Using local adjustments in Lightroom Mobile to make the plants greener](/images/tutorials/general/using-local-adjustments-in-lightroom-mobile-to-make-the-plan.webp "Using local adjustments in Lightroom Mobile to make the plants greener.")
 
 Finally, I made the trunks a bit darker by repeating the process: I selected the trunks and decreased the exposure a bit.
 
-![Using local adjustments in Lightroom Mobile for the trees](/images/tutorials/general/using-local-adjustments-in-lightroom-mobile-for-the-trees.webp)
+![Using local adjustments in Lightroom Mobile for the trees](/images/tutorials/general/using-local-adjustments-in-lightroom-mobile-for-the-trees.webp "Using local adjustments in Lightroom Mobile for the trees.")
 
 The last step was to minimally use some overall image adjustments. I increased the contrast a bit, brought down the highlights and decreased the black point minimally. I also added little amount of clarity. Finally, I sharpened the image with a mask of 100 to apply sharpening mainly to the edges.
 
 And that’s it. Once again, here’s the final edit:
 
-![Final edit of “The old mill” in Lightroom Mobile](/images/tutorials/final-edit-of-the-old-mill-in-lightroom-mobile.webp)
+![Final edit of “The old mill” in Lightroom Mobile](/images/tutorials/final-edit-of-the-old-mill-in-lightroom-mobile.webp "Final edit of “The old mill” in Lightroom Mobile.")
 
 Be sure to check out all the other [iPhone Photo Workflow Tutorials](/blog/tag/Workflow) I’ve published in the blog or head to the list of [recommended iPhone Photo Apps and iPhone Photo Accessories](/iphone-photography) I rely on.

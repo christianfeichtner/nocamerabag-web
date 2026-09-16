@@ -61,7 +61,7 @@ The user interface differs depending on if you launch Photoshop Express as an ed
 2. In the upper right corner and select the three dots in the lower toolbar. Swipe right until you see the Photoshop Express logo. If you can‘t see it, you need to enable it first by swiping all to the right until you see the three dots. Tap it and enable Photoshop Express
 3. Tap the Photoshop Express Logo
 
-![Adobe Photoshop Express launched from Camera Roll](/images/reviews/general/adobe-photoshop-express-launched-from-camera-roll.webp)
+![Adobe Photoshop Express launched from Camera Roll](/images/reviews/general/adobe-photoshop-express-launched-from-camera-roll.webp "Adobe Photoshop Express launched from Camera Roll.")
 
 In the upper toolbar, you‘ll see 4 icons, which are (from left to right)
 
@@ -74,7 +74,7 @@ In the middle you should see your photo. Pinch to zoom and swipe to view a certa
 
 In the lower toolbar you‘ll see a group of looks that you can apply to your photos just like Instagram filters. Swipe to browse the group and tap to open and see all the looks in this group.
 
-![Adobe Photoshop Express looks (here: HDR looks)](/images/reviews/general/adobe-photoshop-express-looks-here-hdr-looks.webp)
+![Adobe Photoshop Express looks (here: HDR looks)](/images/reviews/general/adobe-photoshop-express-looks-here-hdr-looks.webp "Adobe Photoshop Express looks (here: HDR looks).")
 
 At the bottom are the adjustment panels:
 
@@ -86,13 +86,13 @@ At the bottom are the adjustment panels:
 
 Tap any of the icons to open the adjustment group. Now the different adjustments are displayed right above. Select an adjustment and use the slider to define the intensity of the adjustment. Here‘s an example.
 
-![Applying an adjustment in Photoshop Express.](/images/reviews/general/applying-an-adjustment-in-photoshop-express.webp)
+![Applying an adjustment in Photoshop Express.](/images/reviews/general/applying-an-adjustment-in-photoshop-express.webp "Applying an adjustment in Photoshop Express.")
 
 Once you‘re done, tap *Done* in the upper right corner
 
 When you open Photoshop Express as a standalone app, you get a few more options.
 
-![Photoshop Express launched as a standalone app](/images/reviews/general/photoshop-express-launched-as-a-standalone-app.webp)
+![Photoshop Express launched as a standalone app](/images/reviews/general/photoshop-express-launched-as-a-standalone-app.webp "Photoshop Express launched as a standalone app.")
 
 * Tap on the top center which says *All Photos* to access photos from the camera roll, Creative Cloud, Lightroom, Facebook, Dropbox or Google Photos.
 * Right below, you‘ll see two tabs labeled *Edit* and *Collage*

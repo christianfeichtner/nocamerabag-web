@@ -46,14 +46,14 @@ The walkway will take above the treetops past one of the most impressive ruins t
 
 During the past 70 years, nature started to take back the building, and a colossal forest grew on top of it. Allegedly, that's the biggest rooftop forest in the world.
 
-![Rooftop forest at Beelitz Heilstätten](/images/lost-places/germany/rooftop-forest-at-beelitz-heilstatten.webp)
+![Rooftop forest at Beelitz Heilstätten](/images/lost-places/germany/rooftop-forest-at-beelitz-heilstatten.webp "Rooftop forest at Beelitz Heilstätten.")
 
 The canopy walkway is not long. It will take you maybe 15 minutes but the view of the decayed building with its rooftop forest is just spectacular, and you'll get dozens of great photos there.
 
-![View of the abandoned building and rooftop forest](/images/lost-places/germany/view-of-the-abandoned-building-and-rooftop-forest.webp)
+![View of the abandoned building and rooftop forest](/images/lost-places/germany/view-of-the-abandoned-building-and-rooftop-forest.webp "View of the abandoned building and rooftop forest.")
 
 During one of my earlier photo trips to Beelitz when the canopy walk did not yet exist, I could get closer to the building and photograph it from the outside. Entering it was strictly forbidden. But the view from the canopy walk is even better.
 
-![Beelitz Heilstätten Baumkronenpfad](/images/lost-places/germany/beelitz-heilstatten-baumkronenpfad.webp)
+![Beelitz Heilstätten Baumkronenpfad](/images/lost-places/germany/beelitz-heilstatten-baumkronenpfad.webp "Beelitz Heilstätten Baumkronenpfad.")
 
 As I mentioned, the Beelitz Heilstätten is a vast area. You can see some [photos I took of the Beelitz-Heilstätten](/blog/abandoned-beelitz-hospital/) during the past years in the blog.

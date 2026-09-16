@@ -63,27 +63,27 @@ You can see all the spots mentioned in this article on an interactive map. You c
 
 This photo of Wynn and Encore Resort was one of the first photos I took on that day. Back then, I still used Pro HDR X (not available anymore) for many photos. Today, I'd probably use the HDR feature of [ProCamera App](/blog/procamera-app-review).
 
-![Wynn @ Encore Las Vegas, Shot on iPhone 5](/images/cityscapes/usa/wynn-encore-shot-on-iphone.webp)
+![Wynn @ Encore Las Vegas, Shot on iPhone 5](/images/cityscapes/usa/wynn-encore-shot-on-iphone.webp "Wynn @ Encore Las Vegas, Shot on iPhone 5.")
 
 Also, back then, a touch version of Photoshop was available on iPhone that Adobe later sunsetted. I used it to add the moving clouds. This version already had a motion blur filter, that's still missing from Adobe Photoshop for iPad today. But luckily, there's Superimpose that has such a filter (and much more). To learn more about this photo editing app, head to the [Superimpose Review](/blog/review-superimpose-app).
 
 Another photo I took on this day was this one of the Stratosphere Tower.
 
-![Stratosphere Tower Las Vegas shot with Pro HDR on iPhone 5](/images/cityscapes/usa/stratosphere-tower-las-vegas-shot-with-pro-hdr-on-iphone-5.webp)
+![Stratosphere Tower Las Vegas shot with Pro HDR on iPhone 5](/images/cityscapes/usa/stratosphere-tower-las-vegas-shot-with-pro-hdr-on-iphone-5.webp "Stratosphere Tower Las Vegas shot with Pro HDR on iPhone 5.")
 
 From up there, you get a stunning view over Las Vegas, and you can see even the desert surrounding the city. But be warned, in 2012, I was not allowed to take my tripod up to the tower. Even my [Gorillapod for iPhone](/blog/review-joby-gorillapod-magnetic) had to stay in a locker downstairs.
 
 Next was the Mandalay Bay Resorts with its beautiful surroundings.
 
-![Mandalay Bay Las Vegas shot on iPhone 5](/images/cityscapes/usa/mandalay-bay-las-vegas-shot-on-iphone-5.webp)
+![Mandalay Bay Las Vegas shot on iPhone 5](/images/cityscapes/usa/mandalay-bay-las-vegas-shot-on-iphone-5.webp "Mandalay Bay Las Vegas shot on iPhone 5.")
 
 Finally, on this day, I tried to get an acceptable photo at night using the iPhone. Back then, there was no [iPhone night mode](/blog/iphone-night-mode-camera) and no special apps for [night photography with iPhone](/blog/night-photography-iphone). So I took this one using the built-in camera and applied noise reduction in [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium).
 
-![Mirage Vulcano shot at night using iPhone 5](/images/cityscapes/usa/mirage-vulcano-shot-at-night-using-iphone-5.webp)
+![Mirage Vulcano shot at night using iPhone 5](/images/cityscapes/usa/mirage-vulcano-shot-at-night-using-iphone-5.webp "Mirage Vulcano shot at night using iPhone 5.")
 
 Three years later, with a better iPhone and a better camera, I took this photo of people watching the Fountains of Bellagio show.
 
-![Silhouettes in front of the Fountains of Bellagio. Shot on iPhone 6 Plus](/images/cityscapes/usa/silhouettes-in-front-of-the-fountains-of-bellagio-shot-on-i.webp)
+![Silhouettes in front of the Fountains of Bellagio. Shot on iPhone 6 Plus](/images/cityscapes/usa/silhouettes-in-front-of-the-fountains-of-bellagio-shot-on-i.webp "Silhouettes in front of the Fountains of Bellagio. Shot on iPhone 6 Plus.")
 
 To take such a photo, you have to be fast. Once the fountains and the light start, tap to set the exposure to the bright areas of the screen and tap the shutter release right away. This is how I got the silhouettes of the people watching the show.
 
@@ -91,13 +91,13 @@ To take such a photo, you have to be fast. Once the fountains and the light star
 
 And finally, here's the Mirage in Las Vegas during the daytime.
 
-![Mirage Las Vegas shot on iPhone 6 Plus](/images/cityscapes/usa/mirage-las-vegas-shot-on-iphone-6-plus.webp)
+![Mirage Las Vegas shot on iPhone 6 Plus](/images/cityscapes/usa/mirage-las-vegas-shot-on-iphone-6-plus.webp "Mirage Las Vegas shot on iPhone 6 Plus.")
 
 For this photo, I originally used SKRWT to fix the [perspective distortion on my iPhone](/blog/fix-perspective-distortions-iphone). Today and in such light conditions, I'd most likely use the [automatic perspective correction in ProCamera App](/blog/review-auto-perspective-correction-in-procamera-app).
 
 And finally, a night photo taken with iPhone of the Eiffel Tower in Las Vegas. That's a great place to get a view over the city and to photograph the Fountains of Bellagio from above.
 
-![Eiffel Tower Las Vegas](/images/cityscapes/usa/eiffel-tower-las-vegas.webp)
+![Eiffel Tower Las Vegas](/images/cityscapes/usa/eiffel-tower-las-vegas.webp "Eiffel Tower Las Vegas.")
 
 What I also found fascinating about Las Vegas is how fast this city changes. Within just three years, half of the strip looked different.
 

@@ -45,11 +45,11 @@ Let’s begin by collecting and adding ideas for places to visit in Google Trips
 
 Then create a new trip by entering a destination in Google Trips like e.g., *Warsaw* into the search field at the top of the screen. This will create a trip to the destination you’ve just entered.
 
-![Creating a trip in Google Trips](/images/reviews/usa/creating-a-trip-in-google-trips.webp)
+![Creating a trip in Google Trips](/images/reviews/usa/creating-a-trip-in-google-trips.webp "Creating a trip in Google Trips.")
 
 Once you’ve created a trip, you’ll see the following screen:
 
-![Google Trips overview](/images/reviews/usa/google-trips-overview.webp)
+![Google Trips overview](/images/reviews/usa/google-trips-overview.webp "Google Trips overview.")
 
 Here’s what each of those cards does:
 
@@ -66,13 +66,13 @@ So, now let’s get some inspiration for places to see and photograph from the *
 
 You’ll see a list of suggestions from Google. Browse the list by swiping down (and up). To further narrow this list of recommendations, use the scrollable menu at the top of the screen that says *Top Spots*, *For you*, *Local Favorites*, *Parks and Gardens*, *Museums*, *Fashion*, *Indoor*, *Outdoor* and many more.
 
-![Bookmarking locations in Google Trips](/images/reviews/usa/bookmarking-locations-in-google-trips.webp)
+![Bookmarking locations in Google Trips](/images/reviews/usa/bookmarking-locations-in-google-trips.webp "Bookmarking locations in Google Trips.")
 
 Once you find a place you’ll like to see, tap the bookmark icon, and a menu will pop up in which you can add the place to an existing list or create a new one.
 
 To create a new list, just tap the new *new list* entry at the bottom of the menu that pops up after you pressed the bookmark icon.
 
-![Select a list for a bookmark in Google Trips](/images/reviews/usa/select-a-list-for-a-bookmark-in-google-trips.webp)
+![Select a list for a bookmark in Google Trips](/images/reviews/usa/select-a-list-for-a-bookmark-in-google-trips.webp "Select a list for a bookmark in Google Trips.")
 
 I’ve created a few additional lists based on my interests like
 
@@ -88,13 +88,13 @@ Once you’ve added places you’d like to see, it’s time to check the map vie
 
 Your saved places will either display using a green pin (with a bookmark symbol) or a grey pin. Green pins are from your current list, grey pins are from any other list. Swap the list by tapping on a list name displayed at the top of the screen.
 
-![Display bookmarked locations on a map in Google Trips](/images/reviews/usa/display-bookmarked-locations-on-a-map-in-google-trips.webp)
+![Display bookmarked locations on a map in Google Trips](/images/reviews/usa/display-bookmarked-locations-on-a-map-in-google-trips.webp "Display bookmarked locations on a map in Google Trips.")
 
 ## Using Day Plans in Google Trips
 
 One nice feature of Google Trips is the ability to create *Day Plans* from your saved places. Google jumps ahead and generates some suggestions for you. Here’s an example of such a day plan that Google thinks is great for me.
 
-![Day plans in Google Trips](/images/reviews/usa/day-plans-in-google-trips.webp)
+![Day plans in Google Trips](/images/reviews/usa/day-plans-in-google-trips.webp "Day plans in Google Trips.")
 
 I admit that I only occasionally use this feature and use it just as a rough guide for the day because Google also takes the average time people spend at a place into account.
 
@@ -110,7 +110,7 @@ If you’re like me, I’ll just start in the *Saved places* section at one poin
 
 For example, there’s one spot that lies a few miles away from the city. That place is an abandoned castle that was allegedly used by Napoleon. See the map marker in the upper right corner? That’s probably a little too far to walk there. So I need to check my options on how to get there:
 
-![Getting directions in Google Trips](/images/reviews/usa/getting-directions-in-google-trips.webp)
+![Getting directions in Google Trips](/images/reviews/usa/getting-directions-in-google-trips.webp "Getting directions in Google Trips.")
 
 1. I tap the icon of the place in Google Trips
 2. Google Trips displays a card of the location at the bottom of the screen. When I tap the card, it opens in fullscreen

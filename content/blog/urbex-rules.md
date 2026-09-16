@@ -37,7 +37,7 @@ This is probably one of the most important rules. Even if a place or building is
 
 One of my favorite urbex tour operators is go2know, a company from Berlin. I’ve booked tours with them since 2012. Here’s a photo from my first urbex tour with them in 2012 at the famous Beelitz Heilstätten.
 
-![Beelitz Heilstaetten photo tour with go2know](/images/lost-places/general/beelitz-heilstaetten-hallway.webp)
+![Beelitz Heilstaetten photo tour with go2know](/images/lost-places/general/beelitz-heilstaetten-hallway.webp "Beelitz Heilstaetten photo tour with go2know.")
 
 I’ve summarized my photos from the three tours with them in a dedicated article about [photographing at the Beelitz Heilstätten](/blog/abandoned-beelitz-hospital). Check my page of [urbex tours I've attended](/urbex-tours) for more inspiration for lost places you can visit legally.
 
@@ -78,7 +78,7 @@ However, this buddy principle doesn’t make much sense if you both enter the sa
 
 One of you explores a room or walks up the stairs. Then it’s the turn of the buddy. This way your buddy can call for help if you get injured.
 
-![Old scale photographed during a paid underground tour in Vienna](/images/lost-places/general/vienna-underground-scale-jerryously.webp)
+![Old scale photographed during a paid underground tour in Vienna](/images/lost-places/general/vienna-underground-scale-jerryously.webp "Old scale photographed during a paid underground tour in Vienna.")
 
 The above photo is from a Vienna underground tour in Vienna with a dozen of people lead by urban explorer Jerryously. In these cellars, you’re 20 feet below the ground. No cell phone works down there, and if something happens, no one will probably ever find you if you go alone.
 
@@ -88,7 +88,7 @@ Additionally, I recommend telling a trusted person where you are and defining a 
 
 Lost places tend to be unstable. The roof or an upper floor may have collapsed already. So the first thing I do before I enter the building and a room inside a building is to look up if there’s something that could come down.
 
-![Urbex rule: Look up if there is anything that could come down](/images/lost-places/general/dangerous-roof-forst-lausitz.webp)
+![Urbex rule: Look up if there is anything that could come down](/images/lost-places/general/dangerous-roof-forst-lausitz.webp "Urbex rule: Look up if there is anything that could come down.")
 
 If there is, either avoid entering the room or try to walk around it. The above photo shows a burnt piece of wood of the roof of an abandoned house near the [abandoned textile factory in Forst-Lausitz](/blog/abandoned-forst-lausitz). That doesn’t look safe, and so I avoided the area where this piece could come down.
 
@@ -118,7 +118,7 @@ Water and humidity are natural enemies of abandoned buildings. If a building is 
 * Be cautious if steel stairs are rusty
 * Walk carefully on smooth floors. Even the slightest humidity can make them slippery.
 
-![Collapsed wet floor at Grabowsee](/images/lost-places/general/collapsed-floor-grabowsee.webp)
+![Collapsed wet floor at Grabowsee](/images/lost-places/general/collapsed-floor-grabowsee.webp "Collapsed wet floor at Grabowsee.")
 
 This photo from the [abandoned sanatorium Grabowsee](/blog/abandoned-heilstaette-grabowse) illustrates what I mean. Rain came in through the open window and caused the floor to collapse over time.
 
@@ -128,7 +128,7 @@ As a bonus tip: If you need to climb stairs, do not step in the middle of the st
 
 Old buildings typically have window and doorframes made of wood. As I’ve explained in the last chapter, humidity can easily cause the wood to rot. Thus, if you try to open the window, it may simply fall out of its frame and on you. This may cause severe injuries either by the weight of the window or the glass that may break.
 
-![Not properly attached door](/images/lost-places/general/beelitz-heilstaetten-film-location.webp)
+![Not properly attached door](/images/lost-places/general/beelitz-heilstaetten-film-location.webp "Not properly attached door.")
 
 The same applies to some extent to doors, especially bunker doors. Check if they’re still attached properly and open them in a way so they can’t fall on you when the hinges break. The above images show such a door I mentioned.
 

@@ -63,7 +63,7 @@ You can see all the spots mentioned in this article on an interactive map. You c
 
 The most obvious place that you encounter when walking around Skandaberg Square is the Pyramid of Tirana.
 
-![Pyramid of Tirana; shot on iPhone 6s Plus](/images/cityscapes/albania/pyramid-of-tirana-shot-on-iphone-6s-plus.webp)
+![Pyramid of Tirana; shot on iPhone 6s Plus](/images/cityscapes/albania/pyramid-of-tirana-shot-on-iphone-6s-plus.webp "Pyramid of Tirana; shot on iPhone 6s Plus.")
 
 The pyramid initially was a museum for the legacy of Enver Hoxha. He was a long time leader of the communist party in Albania. Allegedly, it was also used as a filming location in 2019 for a remake of the horror movie Castle Freak.
 
@@ -71,13 +71,13 @@ There's a skyscraper right behind the pyramid. So to avoid seeing the building, 
 
 Quite close to the pyramid, you'll find the famous Et'hem Bey Mosque that I photographed using [ProCamera App](/blog/procamera-app-review) in Low Light HDR mode using an iPhone 6s Plus.
 
-![Et'hem Bey Mosque during the Blue Hour](/images/cityscapes/albania/et-hem-bey-mosque-during-the-blue-hour.webp)
+![Et'hem Bey Mosque during the Blue Hour](/images/cityscapes/albania/et-hem-bey-mosque-during-the-blue-hour.webp "Et'hem Bey Mosque during the Blue Hour.")
 
 As you can see, I took the photo during the blue hour. To plan ahead, I used a [blue hour calculator](/blog/review-blue-hour-calculators-iphone) to determine when the blue hour will start and end.
 
 Right across the street is the National Museum of History. A beautifully illuminated building with a huge and colorful mosaic.
 
-![National Museum of History; shot on iPhone 6s Plus](/images/cityscapes/albania/national-museum-of-history-shot-on-iphone-6s-plus.webp)
+![National Museum of History; shot on iPhone 6s Plus](/images/cityscapes/albania/national-museum-of-history-shot-on-iphone-6s-plus.webp "National Museum of History; shot on iPhone 6s Plus.")
 
 To be able to capture the colors, I also used ProCamera Low Light HDR. Like all the other photos in this post, I shot it using an iPhone 6s Plus. Today, I'd probably use either only [ProCamera Low Light Mode][0] or even just the [night mode of the iPhone 11](/blog/review-low-light-modes-procamera-app), because Low Light HDR tends to be a bit noisy.
 
@@ -85,23 +85,23 @@ No matter which method you use, for taking such photos , using a [tripod for iPh
 
 Within a maybe 5-10 minute walk, you'll find another excellent photo spot: Tanner's Bridge. It's an 18th-century bridge that was once part of an ancient road. Sometime in the 1900s, the way was diverted, and the bridge is now used only by pedestrians.
 
-![Tanner’s Bridge in Tirana](/images/cityscapes/albania/tanners-bridge-in-tirana.webp)
+![Tanner’s Bridge in Tirana](/images/cityscapes/albania/tanners-bridge-in-tirana.webp "Tanner’s Bridge in Tirana.")
 
 As with some of the other photos, I took this one using ProCamera Low Light HDR mode. I later re-edited it in [Adobe Lightroom Premium](/blog/review-adobe-lightroom-mobile-premium), where I applied quite a bit noise reduction.
 
 Next is the resurrection cathedral in Tirana, an Albanian Orthodox Church.
 
-![Church of Resurrection in Tirana, Albania](/images/cityscapes/albania/church-of-resurrection-in-tirana-albania.webp)
+![Church of Resurrection in Tirana, Albania](/images/cityscapes/albania/church-of-resurrection-in-tirana-albania.webp "Church of Resurrection in Tirana, Albania.")
 
 The next photo spot probably doesn't exist anymore in the sense that it's hopefully finished now.
 
-![Under Construction in Tirana, Albania](/images/tutorials/usa/skyscraper-shell-tirana.webp)
+![Under Construction in Tirana, Albania](/images/tutorials/usa/skyscraper-shell-tirana.webp "Under Construction in Tirana, Albania.")
 
 For this photo, I used the well known [photo framing technique](/blog/photo-framing-techniques) to hide all the construction stuff behind the trees. For the remaining crane, I used [Touch Retouch App](/blog/review-touch-retouch) to remove it.
 
 And finally, there's an old and abandoned amphitheater-like structure in the biggest park in Tirana, which is called the Grand Park of Tirana. It's a beautiful place with an artificial lake that's just perfect for relaxing and strolling after (or during) a long day.
 
-![Abandoned Theatre in the Grand Park of Tirana](/images/cityscapes/albania/abandoned-theatre-in-the-grand-park-of-tirana.webp)
+![Abandoned Theatre in the Grand Park of Tirana](/images/cityscapes/albania/abandoned-theatre-in-the-grand-park-of-tirana.webp "Abandoned Theatre in the Grand Park of Tirana.")
 
 I converted this photo to black and white as outlined in my tutorial about how to [convert a photo to black and white in Lightroom Mobile](/blog/how-to-convert-to-black-and-white-in-lightroom-mobile).
 

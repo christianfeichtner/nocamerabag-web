@@ -32,22 +32,22 @@ This means that under identical light situations the tele lens get’s only half
 
 So here are the iPhone 7 plus wide and tele sample shots I took with the iPhone 7 stock camera app. All of those shots are out of the camera with minimal adjustments and only square cropping.
 
-![Cable Car to Gosau-Zieselalm wide angle shot with iPhone 7Plus at 1/1076s, ISO 20](/images/reviews/usa/cable-car-to-gosau-zieselalm-wide-angle-shot-with-iphone-7pl.webp)
+![Cable Car to Gosau-Zieselalm wide angle shot with iPhone 7Plus at 1/1076s, ISO 20](/images/reviews/usa/cable-car-to-gosau-zieselalm-wide-angle-shot-with-iphone-7pl.webp "Cable Car to Gosau-Zieselalm wide angle shot with iPhone 7Plus at 1/1076s, ISO 20.")
 
-![Cable Car to Gosau-Zieselalm 2x zoom shot with iPhone 7Plus at 1/271, ISO 20](/images/reviews/usa/cable-car-to-gosau-zieselalm-2x-zoom-shot-with-iphone-7plus.webp)
+![Cable Car to Gosau-Zieselalm 2x zoom shot with iPhone 7Plus at 1/271, ISO 20](/images/reviews/usa/cable-car-to-gosau-zieselalm-2x-zoom-shot-with-iphone-7plus.webp "Cable Car to Gosau-Zieselalm 2x zoom shot with iPhone 7Plus at 1/271, ISO 20.")
 
 The valley station of the cable car is right where you would start a hike around the lake. It’ll take you up to the hill from where you’ll experience a stunning view towards the Dachstein glacier.
 
 Despite that the main subject - the cable - car - is rather small, you’ll get a first impression of the telephoto lens of the iPhone 7 Plus. Quite impressive for a smartphone, isn’t it? But have a look at the next two photos that I took from the top of the hill using the standard wide lens and the telephoto lens of the iPhone 7 Plus.
 
-![Dachstein Glacier shot with iPhone 7 plus wide lens](/images/reviews/usa/dachstein-glacier-shot-with-iphone-7-plus-wide-lens.webp)
+![Dachstein Glacier shot with iPhone 7 plus wide lens](/images/reviews/usa/dachstein-glacier-shot-with-iphone-7-plus-wide-lens.webp "Dachstein Glacier shot with iPhone 7 plus wide lens.")
 
-![Dachstein Glacier shot with iPhone 7 plus telephoto angle lens](/images/reviews/usa/dachstein-glacier-shot-with-iphone-7-plus-telephoto-angle-le.webp)
+![Dachstein Glacier shot with iPhone 7 plus telephoto angle lens](/images/reviews/usa/dachstein-glacier-shot-with-iphone-7-plus-telephoto-angle-le.webp "Dachstein Glacier shot with iPhone 7 plus telephoto angle lens.")
 
 This is the view towards the Dachstein glacier from the mountain station of the cable car. I believe this gives a better impression of the iPhone 7 telephoto lens.
 
-![Restaurant at Gosau Lake shot wit iPhone 7 plus wide angle lens at 1/1916s, ISO 20](/images/reviews/usa/restaurant-at-gosau-lake-shot-wit-iphone-7-plus-wide-angle-l.webp)
+![Restaurant at Gosau Lake shot wit iPhone 7 plus wide angle lens at 1/1916s, ISO 20](/images/reviews/usa/restaurant-at-gosau-lake-shot-wit-iphone-7-plus-wide-angle-l.webp "Restaurant at Gosau Lake shot wit iPhone 7 plus wide angle lens at 1/1916s, ISO 20.")
 
-![Restaurant at Gosau Lake shot wit iPhone 7 plus wide angle lens at 1/377, ISO 20](/images/reviews/usa/restaurant-at-gosau-lake-shot-wit-iphone-7-plus-wide-angle-l-2.webp)
+![Restaurant at Gosau Lake shot wit iPhone 7 plus wide angle lens at 1/377, ISO 20](/images/reviews/usa/restaurant-at-gosau-lake-shot-wit-iphone-7-plus-wide-angle-l-2.webp "Restaurant at Gosau Lake shot wit iPhone 7 plus wide angle lens at 1/377, ISO 20.")
 
 And finally, here’s a photo I took while hiking around the Gosau Lake. Again, it’s not as impressive as the one of the Dachstein glacier, but you’ll clearly see the difference between the wide and telephoto lens of the iPhone 7.

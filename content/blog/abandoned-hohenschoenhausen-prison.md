@@ -63,27 +63,27 @@ This lost place was unlike many other lost places I visited. It feels like enter
 
 Let's start with the cell block that spans across two floors.
 
-![A cell in the cell block of the former Stasi prison](/images/lost-places/germany/a-cell-in-the-cell-block-of-the-former-stasi-prison.webp)
+![A cell in the cell block of the former Stasi prison](/images/lost-places/germany/a-cell-in-the-cell-block-of-the-former-stasi-prison.webp "A cell in the cell block of the former Stasi prison.")
 
 For this photo, I used framing by photographing through the food flap of the cell door. You may think that these cells are huge. Yes, they are, but mind that this is a prison hospital!
 
 In the next photo, you'll see the former operating room.
 
-![Operating Room at Hohenschoenhausen Memorial](/images/lost-places/germany/operating-room-at-hohenschoenhausen-memorial.webp)
+![Operating Room at Hohenschoenhausen Memorial](/images/lost-places/germany/operating-room-at-hohenschoenhausen-memorial.webp "Operating Room at Hohenschoenhausen Memorial.")
 
 I used SKRWT app to fix the perspective distortion in this photo. To learn more about this fantastic app that allows you to fix perspective distortions, head over to my [SKRWT review](/blog/review-skrwt-app).
 
 According to the story of the inmates, the communist regime brought entire families to the prison hospital. Naturally, there was a women's examination room, too.
 
-![Women’s examination room](/images/lost-places/germany/womens-examination-room.webp)
+![Women’s examination room](/images/lost-places/germany/womens-examination-room.webp "Women’s examination room.")
 
 Allegedly, if an entire family was imprisoned in Hohenschönhausen, the guards ensured they never met. Even during the few times when the inmates could enjoy a few hours outside their cells in the so-called tiger cages.
 
-![A Tiger Cage in Hohenschoenhausen](/images/lost-places/germany/a-tiger-cage-in-hohenschoenhausen.webp)
+![A Tiger Cage in Hohenschoenhausen](/images/lost-places/germany/a-tiger-cage-in-hohenschoenhausen.webp "A Tiger Cage in Hohenschoenhausen.")
 
 According to one of the guides, the technically simple alarm system of the prison hospital still works. You'll find wires along the hallways and in the cell block. If a corrections officer would need help, he just needed to pull the wire. This would interrupt the flow of electricity, and an alarm would go off in the prison warden that you can see in the next photo.
 
-![Prison Warten of the former Stasi Prison](/images/lost-places/germany/prison-warten-of-the-former-stasi-prison.webp)
+![Prison Warten of the former Stasi Prison](/images/lost-places/germany/prison-warten-of-the-former-stasi-prison.webp "Prison Warten of the former Stasi Prison.")
 
 If you ever plan to visit this memorial, bring your camera and plenty of time to listen to the moving stories of the former inmates. I found them more interesting than the lost place itself.
 

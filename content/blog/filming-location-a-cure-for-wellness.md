@@ -66,21 +66,21 @@ Urbex tour programs and site access change over time. I do not monitor if tours 
 
 The film was shot inside two of the three main buildings at the men's sanatorium at the Beelitz-Heilstätten back in 2012. For the film, the ground floor and a few rooms were “renovated.” I put that in quotation marks because the renovation was mainly to paint the walls and add glass to the broken windows. Six years later, the paint already starts to peel off again, and you can see that in the next photo of a hallway that was used in the film.
 
-![Film Location of A Cure for Wellness decaying](/images/lost-places/germany/film-location-of-a-cure-for-wellness-decaying.webp)
+![Film Location of A Cure for Wellness decaying](/images/lost-places/germany/film-location-of-a-cure-for-wellness-decaying.webp "Film Location of A Cure for Wellness decaying.")
 
 Inside, they only painted those areas that would be visible in the film.
 
 A room that supports that hypothesis is in the next photo. So probably they didn’t need the room at all and would only show the closed door. So the door was new, but the room behind was still in its decayed state. I was just wondering why the door was on the floor? Maybe someone knocked a bit hard, or they didn’t even fix the door for shooting the film?
 
-![Someone knocked a bit too hard at Beelitz?](/images/lost-places/germany/someone-knocked-a-bit-too-hard-at-beelitz.webp)
+![Someone knocked a bit too hard at Beelitz?](/images/lost-places/germany/someone-knocked-a-bit-too-hard-at-beelitz.webp "Someone knocked a bit too hard at Beelitz?")
 
 This is a prop still left from the movie. It also has a short appearance together with actor Dane DeHaan.
 
-![Communal Water Tap as seen in the film](/images/lost-places/germany/communal-water-tap-as-seen-in-the-film.webp)
+![Communal Water Tap as seen in the film](/images/lost-places/germany/communal-water-tap-as-seen-in-the-film.webp "Communal Water Tap as seen in the film.")
 
 And this is the dining room that you can see in the film that is set on fire at the end. Allegedly the crew did not get the permission to burn down the building. Some say because the buildings are under monument protection. Others, because a vast forest surrounds the premises.
 
-![At the end of the film, this hall burns down.](/images/lost-places/germany/at-the-end-of-the-film-this-hall-burns-down.webp)
+![At the end of the film, this hall burns down.](/images/lost-places/germany/at-the-end-of-the-film-this-hall-burns-down.webp "At the end of the film, this hall burns down.")
 
 So they rebuilt the room in the nearby Babelsberger film studio and burned it down there - and along with it an entire studio.
 
@@ -88,13 +88,13 @@ To be able to photograph the entire hallway, I used the Moment [Fisheye Lens for
 
 You won’t see this entire hall in the film, but you’ll see the protagonist entering and leaving through one of the doors to the left. The room is the former bathhouse.
 
-![Bathhouse seen in A Cure for Wellness](/images/lost-places/germany/bathhouse-seen-in-a-cure-for-wellness.webp)
+![Bathhouse seen in A Cure for Wellness](/images/lost-places/germany/bathhouse-seen-in-a-cure-for-wellness.webp "Bathhouse seen in A Cure for Wellness.")
 
 Again, to be able to fit the entire hall into the frame, I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
 
 You’ll also get to see the entrance area and hall a few times through the film. Compared to some other sets, the doors and room still look pretty okay, given the fact the film was shot six years ago.
 
-![Hospital Entrance Hall seen in A Cure for Wellness](/images/lost-places/germany/hospital-entrance-hall-seen-in-a-cure-for-wellness.webp)
+![Hospital Entrance Hall seen in A Cure for Wellness](/images/lost-places/germany/hospital-entrance-hall-seen-in-a-cure-for-wellness.webp "Hospital Entrance Hall seen in A Cure for Wellness.")
 
 ## Camera Apps and iPhone Photo Accessories used
 

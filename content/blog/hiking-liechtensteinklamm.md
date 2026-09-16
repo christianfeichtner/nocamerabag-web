@@ -24,7 +24,7 @@ The only way through Liechtensteinklamm are numerous wooden walkways and bridges
 
 Anyway, during the hike through the gorge you’ll be rewarded with stunning views and a waterfall at the end (which is a actually the start - in terms of the direction the water flows)
 
-![Waterfall at the end of the hike through Liechtensteinklamm](/images/landscapes/austria/waterfall-at-the-end-of-the-hike-through-liechtensteinklamm.webp)
+![Waterfall at the end of the hike through Liechtensteinklamm](/images/landscapes/austria/waterfall-at-the-end-of-the-hike-through-liechtensteinklamm.webp "Waterfall at the end of the hike through Liechtensteinklamm.")
 
 ## How to photograph inside Liechtensteinklamm using iPhone.
 
@@ -34,14 +34,14 @@ Because of the low light in the gorge, I used [ProCamera in low light mode](/blo
 
 One thing I do recommend is to get yourself a [Joby Gorillapod for iPhone](/blog/review-joby-gorillapod-magnetic). You can easily mount that to the handrails and get nice, steady shots if you shoot e.g. a long exposure. Good places to take such photos are the numerous bridges that you’ll cross. These are great spots to photograph into the gorge.
 
-![Wooden walkways lead through the gorge](/images/landscapes/austria/wooden-walkways-lead-through-the-gorge.webp)
+![Wooden walkways lead through the gorge](/images/landscapes/austria/wooden-walkways-lead-through-the-gorge.webp "Wooden walkways lead through the gorge.")
 
 ## Post Processing tips using Adobe Lightroom
 
 As your photos will contains lots of rocks, try increasing the clarity slider to the maximum. That will bring out all the fine details of the rocks. Experiment with contrast to add even more depth and structure to the rocks.
 
-![Careful. Walkways can be slippery.](/images/landscapes/austria/careful-walkways-can-be-slippery.webp)
+![Careful. Walkways can be slippery.](/images/landscapes/austria/careful-walkways-can-be-slippery.webp "Careful. Walkways can be slippery.")
 
-![Entrance to Liechtensteinklamm](/images/landscapes/austria/entrance-to-liechtensteinklamm.webp)
+![Entrance to Liechtensteinklamm](/images/landscapes/austria/entrance-to-liechtensteinklamm.webp "Entrance to Liechtensteinklamm.")
 
 After a massive landslide inside the gorge, it had to be closed in 2017. Reconstruction is ongoing and it will be re-opened to visitors again in 2019.

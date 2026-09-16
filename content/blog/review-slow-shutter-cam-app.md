@@ -46,11 +46,11 @@ Best of all, you can even edit the motion blur intensity after you take the shot
 
 Here are a few sample photos I took using the Slow Shutter Cam App and different iPhone models
 
-![Brooklyn Bridge with moving clouds shot on iPhone 7 Plus using Slow Shutter Cam App](/images/reviews/brooklyn-bridge-with-moving-clouds-shot-on-iphone-7-plus-usi.webp)
+![Brooklyn Bridge with moving clouds shot on iPhone 7 Plus using Slow Shutter Cam App](/images/reviews/brooklyn-bridge-with-moving-clouds-shot-on-iphone-7-plus-usi.webp "Brooklyn Bridge with moving clouds shot on iPhone 7 Plus using Slow Shutter Cam App.")
 
-![A long exposure of the London Eye shot on iPhone 6 using Slow Shutter Cam App](/images/reviews/general/a-long-exposure-of-the-london-eye-shot-on-iphone-6-using-slo.webp)
+![A long exposure of the London Eye shot on iPhone 6 using Slow Shutter Cam App](/images/reviews/general/a-long-exposure-of-the-london-eye-shot-on-iphone-6-using-slo.webp "A long exposure of the London Eye shot on iPhone 6 using Slow Shutter Cam App.")
 
-![Long Exposure of a Fireworks shot on iPhone XS using Slow Shutter Cam App](/images/reviews/long-exposure-of-a-fireworks-shot-on-iphone-xs-using-slow-sh.webp)
+![Long Exposure of a Fireworks shot on iPhone XS using Slow Shutter Cam App](/images/reviews/long-exposure-of-a-fireworks-shot-on-iphone-xs-using-slow-sh.webp "Long Exposure of a Fireworks shot on iPhone XS using Slow Shutter Cam App.")
 
 ## Key Features of Slow Shutter Cam App
 
@@ -68,7 +68,7 @@ Slow Shutter Cam App is one of the apps that does one thing and does it exceptio
 
 Slow Shutter Cam has three different shooting modes, you select by tapping the shutter icon.
 
-![Slow Shutter Cam App shooting modes](/images/reviews/general/slow-shutter-cam-app-shooting-modes.webp)
+![Slow Shutter Cam App shooting modes](/images/reviews/general/slow-shutter-cam-app-shooting-modes.webp "Slow Shutter Cam App shooting modes.")
 
 The three shooting modes are:
 
@@ -82,7 +82,7 @@ For each shooting mode, you can set the ISO manually. The ISO setting is respons
 
 In iPhone photography, I consider everything above ISO 250 prone to visible noise. So, keep the ISO as low as possible.
 
-![Slow Shutter Cam manual ISO settings](/images/reviews/general/slow-shutter-cam-manual-iso-settings.webp)
+![Slow Shutter Cam manual ISO settings](/images/reviews/general/slow-shutter-cam-manual-iso-settings.webp "Slow Shutter Cam manual ISO settings.")
 
 Setting ISO to auto by moving the ISO slider to the left will tell Slow Shutter Cam to choose an ISO setting that may lead to noisy photos in low-light situations. So, try to set it manually unless you're shooting in bright sunlight.
 
@@ -92,7 +92,7 @@ Next, set the two sliders *Strength* and *Capture Duration*. The capture duratio
 
 Once you've shot the image, you can edit certain aspects of the shot. Slow Shutter Cam will display a small toolbar with three buttons: *clear*, *save*, and *edit*. *Clear* will simply delete the photo you've just shot without saving it. *Save* does what the name suggests. By pressing *edit*, you can adjust settings like brightness, contrast, saturation, and hue. But best of all, you can even tweak the intensity of, e.g., the motion blur or the light trails after you took the shot.
 
-![Editing the long exposure right in Slow Shutter Cam App](/images/tutorials/adjust-freeze-slow-shutter-cam-app.webp)
+![Editing the long exposure right in Slow Shutter Cam App](/images/tutorials/adjust-freeze-slow-shutter-cam-app.webp "Editing the long exposure right in Slow Shutter Cam App.")
 
 Notice the *Freeze* button. Once you tap it, you can adjust the shot's freeze (or motion blur). Move the slider to the left to get a motion blur effect towards the beginning of the exposure, and move it to the right to get the motion blur effect towards the end. Isn't that awesome?
 
@@ -100,7 +100,7 @@ Notice the *Freeze* button. Once you tap it, you can adjust the shot's freeze (o
 
 Once you've downloaded the app, do yourself a favor and check the settings first. Older versions of the app had some unfavorable default settings. That was fixed in later releases, but still, there are a few settings I recommend you to check before taking your first shot.
 
-![Important settings for Slow Shutter Cam App](/images/reviews/general/slow-shutter-cam-app-settings.webp)
+![Important settings for Slow Shutter Cam App](/images/reviews/general/slow-shutter-cam-app-settings.webp "Important settings for Slow Shutter Cam App.")
 
 Tap the gear icon in the lower-right corner to go to the settings screen.
 

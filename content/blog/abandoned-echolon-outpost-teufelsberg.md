@@ -33,7 +33,7 @@ Today, you can legally visit the ruins. Some of the buildings are used as a stre
 
 The most spectacular place is definitely the tower in the center of the area. After going up a number of stairs and floors, you'll enjoy a wonderful view of the forest towards Berlin.
 
-![Ready to climb a number of stairs to enjoy the view?](/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp)
+![Ready to climb a number of stairs to enjoy the view?](/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp "Ready to climb a number of stairs to enjoy the view?")
 
 Update from August 2018: [I just read an article, that the main building and the street art gallery are closed and not accessible due to some regulatory issues](https://teufelsberg-berlin.de). Before you go there, make sure to check the official web-site, which is in German, an see if you can access the main building and the tower again. Those are the most beautiful parts!
 
@@ -49,11 +49,11 @@ I followed the main trail past some old (and locked) buildings and reached the m
 
 I went right to the top and after perceived 500 stairs I could enjoy an awesome view over the surrounding forest. Someone even put a beach chair there. How nice. Unfortunately, no (beach) bar service up there.
 
-![Great view over the woodland towards Berlin](/images/lost-places/germany/great-view-over-the-woodland-towards-berlin.webp)
+![Great view over the woodland towards Berlin](/images/lost-places/germany/great-view-over-the-woodland-towards-berlin.webp "Great view over the woodland towards Berlin.")
 
 After I took a rest in that chair I went down again to see the two decayed radar domes. I always wanted to know what material they used for those domes. The domes were decorated with street art inside just like the lower floors of the building.
 
-![Inside one of the 5 abandoned radar domes](/images/lost-places/germany/inside-one-of-the-5-abandoned-radar-domes.webp)
+![Inside one of the 5 abandoned radar domes](/images/lost-places/germany/inside-one-of-the-5-abandoned-radar-domes.webp "Inside one of the 5 abandoned radar domes.")
 
 On the way down I managed to loose the way and suddenly came out somewhere completely different. So what does a photographer do in such a case? Right! Take some photos :)
 

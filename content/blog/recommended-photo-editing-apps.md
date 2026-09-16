@@ -41,7 +41,7 @@ The following list of recommended photo editing apps comes from several years of
 
 I’ve switched to Photomator after Adobe announced their price increases in 2025. While a Lightroom subscription costs you 143.88 USD a year, Photomator is available for 39.99 USD per year or for 119.00 USD as a one-time purchase.
 
-![Photomator is one of the best photo editing apps on iPhone and iPad](/images/iphone-photography/usa/photomator-teaser.webp)
+![Photomator is one of the best photo editing apps on iPhone and iPad](/images/iphone-photography/usa/photomator-teaser.webp "Photomator is one of the best photo editing apps on iPhone and iPad.")
 
 Feature-wise, Photomator has almost all the features I need for editing my travel photos on the go, like:
 
@@ -71,7 +71,7 @@ For your convenience, here are some alternatives to Photomator for iOS that I lo
 
 TouchRetouch is another evergreen and recommended photo editing app I’ve been using for years. It survived many spring cleanings on my iPhone, and I've used it since it was released in 2011.
 
-![TouchRetouch on iPad and iPhone](/images/iphone-photography/usa/screenshot-touchretouch-iphone-ipad.webp)
+![TouchRetouch on iPad and iPhone](/images/iphone-photography/usa/screenshot-touchretouch-iphone-ipad.webp "TouchRetouch on iPad and iPhone.")
 
 TouchRetouch is the best iPhone photo editing app for retouching photos. You can remove blemishes, people, and even fences and entire structures. In 2024 the developers added an AI feature that will automatically find and select people in your photos. That’s a great helper to remove dozens of people from your photos. This feature is continuously improved.
 
@@ -93,7 +93,7 @@ I'm not aware of any app that rivals TouchRetouch as a standalone app. But you'l
 
 SKRWT app is another recommended photo editing app that does just one thing but does it very well. It allows you to fix perspective distortions on iPhone and iPad.
 
-![Screenshot SKRWT on iPad and iPhone showing 4PNTS and SKRWT modules](/images/iphone-photography/usa/screenshot-skrwt-iphone-ipad.webp)
+![Screenshot SKRWT on iPad and iPhone showing 4PNTS and SKRWT modules](/images/iphone-photography/usa/screenshot-skrwt-iphone-ipad.webp "Screenshot SKRWT on iPad and iPhone showing 4PNTS and SKRWT modules.")
 
 SKRWT app offers three modules:
 

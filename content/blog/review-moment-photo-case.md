@@ -33,7 +33,7 @@ The moment phone case is a great and robust case and I bought it mainly to be ab
 
 As mentioned, I bought Moment cases since the first one was released. To prove it, here are a few Moment photo cases for older iPhone models that I found in a drawer.
 
-![Moment iPhone Cases for older iPhone models](/images/reviews/general/moment-iphone-cases-for-older-iphone-models.webp)
+![Moment iPhone Cases for older iPhone models](/images/reviews/general/moment-iphone-cases-for-older-iphone-models.webp "Moment iPhone Cases for older iPhone models.")
 
 Previously, Moment called their cases for iPhone Moment Photo Case. Since 2020, Moment has dropped the photo case from the name. I can only speculate, but I believe it's because the Moment case is no longer a dedicated case just for iPhone photographers. It's become a great everyday case with a few useful extras for iPhone photographers.
 
@@ -67,13 +67,13 @@ You must purchase the lens mount separately. So don't forget to add it to the ca
 
 The Moment Photo case ships with a non-lens-mount frame; you'll have to remove that frame first to attach the lens mount for Moment lenses.
 
-![Remove the frame before your add the drop in lens mount](/images/reviews/general/remove-the-frame-before-your-add-the-drop-in-lens-mount.webp)
+![Remove the frame before your add the drop in lens mount](/images/reviews/general/remove-the-frame-before-your-add-the-drop-in-lens-mount.webp "Remove the frame before your add the drop in lens mount.")
 
 Press firmly on the drop-in lens mount frame's edges outside of the case to remove the drop-in that ships with the case. Next, make sure to align the lens mount drop-in (that you have to order separately) with the case properly. There are two (very) small dots: one on the case and one on the drop-in lens mount.
 
 The dot on the case is in the lower-right corner.
 
-![Align the drop in lens mount and press firmly](/images/reviews/general/align-the-drop-in-lens-mount-and-press-firmly.webp)
+![Align the drop in lens mount and press firmly](/images/reviews/general/align-the-drop-in-lens-mount-and-press-firmly.webp "Align the drop in lens mount and press firmly.")
 
 Now press the lens mount firmly into the notch - from the inside of the case! Now you can mount any of the Moment lens to the moment case.
 
@@ -81,7 +81,7 @@ Now press the lens mount firmly into the notch - from the inside of the case! No
 
 I've mentioned it a few times in previous editions of this review, and I won't get tired of saying it repeatedly: The Moment Case allows you to attach a wrist or neck strap! That feature alone is worth the investment in this case, even if you don't use the Moment lenses.
 
-![Moment Case for iPhone 15 with attached wrist strap](/images/reviews/general/moment-case-iphone-15-wrist-strap.webp)
+![Moment Case for iPhone 15 with attached wrist strap](/images/reviews/general/moment-case-iphone-15-wrist-strap.webp "Moment Case for iPhone 15 with attached wrist strap.")
 
 Moreover, the wrist strap can be attached to either the right or left side of the case. So it will work for you whether you're left- or right-handed.
 

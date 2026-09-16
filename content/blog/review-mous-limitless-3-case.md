@@ -40,7 +40,7 @@ That case itself feels sturdy and a bit stiffer than the Moment case. It feels a
 
 There are three notches in the case that will hold a sim-tray pin plus two nano sim-cards as a bonus. As an eSim user, I probably won't use these that much. Oh, and the case ships with a sim-tray pin included.
 
-![Mous Limitless 3.0 iPhone Case with wrist strap, sim-tray pin and sim notches](/images/reviews/usa/mous-limitless-3-0-iphone-case-with-wrist-strap-sim-tray-pi.webp)
+![Mous Limitless 3.0 iPhone Case with wrist strap, sim-tray pin and sim notches](/images/reviews/usa/mous-limitless-3-0-iphone-case-with-wrist-strap-sim-tray-pi.webp "Mous Limitless 3.0 iPhone Case with wrist strap, sim-tray pin and sim notches.")
 
 The Mous Limitless 3.0 case has a feature similar to MagSafe that Apple introduced with the iPhone12. Mous calls it *AutoAlign*. With this feature, you can attach your iPhone magnetically to e.g., a vent-holder in your car, and there's even a Mous wallet you can attach to the case. According to the website, AutoAlign is not fully compatible with MagSafe in terms of alignment. But you'll still get fast wireless charging through the case. As of writing this, I'm charging my iPhone 12 Pro Max using an [Anker PowerWave Pad I got from Amazon](aff:anker-powerwave-pad-i-got). I didn't notice that the iPhone charges any slower with the Limitless 3.0 case.
 
@@ -50,7 +50,7 @@ The eyelets for attaching a wrist strap are located on the right side of the cas
 
 In this photo, the lower loop is from the Moment wrist strap, and the upper loop is the one from Olight.
 
-![Use a wrist strap with a thin loop](/images/reviews/usa/use-a-wrist-strap-with-a-thin-loop.webp)
+![Use a wrist strap with a thin loop](/images/reviews/usa/use-a-wrist-strap-with-a-thin-loop.webp "Use a wrist strap with a thin loop.")
 
 ## Verdict
 

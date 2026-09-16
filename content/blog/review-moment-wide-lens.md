@@ -35,13 +35,13 @@ Here are three sample photos I took in Slovakia, Iceland, and Yosemite that clea
 
 Moments touts that the Wide Angle Lens will allow you to capture 2x more of a scene. While I didn't precisely measure that, you can judge for yourself from these sample photos:
 
-![Gulfoss, Iceland, without Moment wide lens](/images/reviews/general/gulfoss-iceland-without-moment-wide-lens.webp)
+![Gulfoss, Iceland, without Moment wide lens](/images/reviews/general/gulfoss-iceland-without-moment-wide-lens.webp "Gulfoss, Iceland, without Moment wide lens.")
 
-![Tunnel view without Moment wide angle lens](/images/reviews/general/tunnel-view-without-moment-wide-angle-lens.webp)
+![Tunnel view without Moment wide angle lens](/images/reviews/general/tunnel-view-without-moment-wide-angle-lens.webp "Tunnel view without Moment wide angle lens.")
 
-![Gulfoss, Iceland, with Moment wide lens](/images/reviews/general/gulfoss-iceland-with-moment-wide-lens.webp)
+![Gulfoss, Iceland, with Moment wide lens](/images/reviews/general/gulfoss-iceland-with-moment-wide-lens.webp "Gulfoss, Iceland, with Moment wide lens.")
 
-![Tunnel view with Moment wide anglelens.](/images/reviews/general/tunnel-view-with-moment-wide-anglelens.webp)
+![Tunnel view with Moment wide anglelens.](/images/reviews/general/tunnel-view-with-moment-wide-anglelens.webp "Tunnel view with Moment wide anglelens.")
 
 ## Reasons to use a wide angle lens
 

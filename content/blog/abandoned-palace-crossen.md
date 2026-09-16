@@ -62,7 +62,7 @@ Urbex tour availability and itineraries change regularly. I do not actively veri
 
 As the palace was used as en educational institution, you’ll find plenty of rooms that were adapted as classrooms. Many of them still contain the blackboard and the student desks.
 
-![Old Classroom at the Palace of Crossen](/images/lost-places/germany/classroom-palace-crossen.webp)
+![Old Classroom at the Palace of Crossen](/images/lost-places/germany/classroom-palace-crossen.webp "Old Classroom at the Palace of Crossen.")
 
 In some of them, you’ll also find educational materials like how to pronounce Russian letters properly.
 
@@ -70,7 +70,7 @@ In some of them, you’ll also find educational materials like how to pronounce 
 
 Around the baroque hall you can find many old and heavy doors that are several feet high. I estimate the height to be between 9 to 12 feet. At these doors you’ll find magnificent door handles. I guess they’re made from brass.
 
-![Huge old Doors with beautiful Handles](/images/lost-places/germany/doors-palace-crossen-1.webp)
+![Huge old Doors with beautiful Handles](/images/lost-places/germany/doors-palace-crossen-1.webp "Huge old Doors with beautiful Handles.")
 
 Behind that door, you’ll find the entrance to the baroque hall.
 
@@ -78,7 +78,7 @@ Behind that door, you’ll find the entrance to the baroque hall.
 
 Due to its remote location, the palace was spared from vandalism. One of the most beautiful photo spots at the palace is the banquet hall with its stunning illusion painting.
 
-![Beautiful Baroque Hall at the Palace of Crossen](/images/lost-places/germany/baroque-hall-illusion-painting.webp)
+![Beautiful Baroque Hall at the Palace of Crossen](/images/lost-places/germany/baroque-hall-illusion-painting.webp "Beautiful Baroque Hall at the Palace of Crossen.")
 
 Capture it from the back of the hall using the wide angle lens of your iPhone. During your tour, you’ll also find a small passage at the next floor. From there you also get stunning views of the banquet hall.
 
@@ -86,21 +86,21 @@ Capture it from the back of the hall using the wide angle lens of your iPhone. D
 
 On several floors you’ll find old furniture that looks like it's from the past century. There’s also an entire room with old images and furniture, but it’s only accessible with assistance to ensure the stuff remains intact.
 
-![Old Furniture you can find at the Palace of Crossen](/images/lost-places/germany/old-furniture-in-crossen.webp)
+![Old Furniture you can find at the Palace of Crossen](/images/lost-places/germany/old-furniture-in-crossen.webp "Old Furniture you can find at the Palace of Crossen.")
 
 ### The Kitchen
 
 In the basement you’ll find two interesting photo spots. One of them is the old kitchen. It still contains many appliances you’d expect in a commercial kitchen. Also an apron is still hanging around.
 
-![Old Kitchen Appliance in the Basement](/images/lost-places/germany/old-kitchen-basement-palace-crossen.webp)
+![Old Kitchen Appliance in the Basement](/images/lost-places/germany/old-kitchen-basement-palace-crossen.webp "Old Kitchen Appliance in the Basement.")
 
 ### The Bunker
 
 The bunker is dark, and it’s quite humid in there. So bring a flashlight and watch your step. Because if the humidity, the floor is slippery.
 
-![Bunker Entrance at the Palace of Crossen](/images/lost-places/germany/bunker-entrance-palace-crossen.webp)
+![Bunker Entrance at the Palace of Crossen](/images/lost-places/germany/bunker-entrance-palace-crossen.webp "Bunker Entrance at the Palace of Crossen.")
 
-![Maybe a Prison Cell?](/images/lost-places/germany/mold-bunker-palace-crossen.webp)
+![Maybe a Prison Cell?](/images/lost-places/germany/mold-bunker-palace-crossen.webp "Maybe a Prison Cell?")
 
 A few doors and wall panels in the bunker rooms were made of wood and are moldy. I encountered black and white mold down there, so I recommend wearing a respirator mask as I’ve outlined in the safety section of my [urbex rules](/urbex-tours) guide.
 

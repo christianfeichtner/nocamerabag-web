@@ -39,6 +39,7 @@ sections:
     bg_color: "white"
     title: "The list of Urbex tours I’ve attended"
     items:
+      # 2025
       - image: "/images/lost-places/germany/car-graveyard-jaguar-xk120.webp"
         url: "/blog/classic-car-graveyard-germany"
         alt: "A decaying Jaguar XK120 photographed during an urbex tour at a classic car graveyard at the Neanderthal in Germany"
@@ -59,6 +60,22 @@ sections:
         alt: "Paper machine hall at the abandoned paper mill in Scheufelen"
         text: "A former paper machine hall explored at the [abandoned paper mill in Scheufelen](/blog/abandoned-paper-mill-scheufelen) (2025)."
 
+      # 2024
+      - image: "/images/lost-places/germany/collapsed-control-room.webp"
+        url: "/blog/abandoned-freudenberg-bunker"
+        alt: "The collapsed control room photographed during my urban exploration tour at the abandoned bunker 7001 Freudenberg in Germany"
+        text: "The collapsed control room inside the [abandoned bunker 7001 Freudenberg](/blog/abandoned-freudenberg-bunker) in Germany (2024)."
+
+      - image: "/images/lost-places/general/abnadoned-municipal-pool-berlin.webp"
+        url: "/blog/must-see-lost-places-berlin"
+        alt: "Abandoned municipal pool, Berlin, Germany, shot on iPhone 15 Pro Max"
+        text: "An abandoned municipal pool and more [must-see lost places in Berlin](/blog/must-see-lost-places-berlin) to visit (2024)."
+
+      - image: "/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg"
+        url: "/blog/abandoned-airfield-schoenwalde"
+        alt: "A decayed hangar photographed during my lost place tour at the abandoned airport Schönwalde-Glien in Germany"
+        text: "A decayed hangar at the [abandoned airport Schönwalde-Glien](/blog/abandoned-airfield-schoenwalde) in Germany (2024)."
+
       - image: "/images/lost-places/germany/bath-cabins-stadtbad-lichtenberg-berlin.webp"
         url: "/blog/abandoned-stadtbad-lichtenberg"
         alt: "Historic private bath cabins along the upper hallway at the abandoned Stadtbad Lichtenberg in Berlin"
@@ -69,21 +86,13 @@ sections:
         alt: "An old mechanical scale left behind inside an abandoned WWII cellar in Vienna"
         text: "A vintage mechanical scale found during a tour of an [abandoned WWII tunnel in Vienna](/blog/vienna-underground-tour-jerryously) (2024)."
 
-      - image: "/images/lost-places/germany/collapsed-control-room.webp"
-        url: "/blog/abandoned-freudenberg-bunker"
-        alt: "The collapsed control room photographed during my urban exploration tour at the abandoned bunker 7001 Freudenberg in Germany"
-        text: "The collapsed control room inside the [abandoned bunker 7001 Freudenberg](/blog/abandoned-freudenberg-bunker) in Germany (2024)."
-
-      - image: "/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg"
-        url: "/blog/abandoned-airfield-schoenwalde"
-        alt: "A decayed hangar photographed during my lost place tour at the abandoned airport Schönwalde-Glien in Germany"
-        text: "A decayed hangar at the [abandoned airport Schönwalde-Glien](/blog/abandoned-airfield-schoenwalde) in Germany (2024)."
-
+      # 2023
       - image: "/images/lost-places/austria/chamber-of-abandoned-air-raid-shelter-below-vienna.webp"
         url: "/blog/abandoned-vienna-underground-tunnel"
         alt: "One of the vaulted chambers of an abandoned air-raid shelter tunnel deep beneath Vienna"
         text: "A vaulted shelter chamber in an [abandoned underground tunnel below Vienna](/blog/abandoned-vienna-underground-tunnel) (2023)."
 
+      # 2022
       - image: "/images/lost-places/germany/steam-power-station-forst-lausitz.webp"
         url: "/blog/abandoned-forst-lausitz"
         alt: "Industrial machinery and heavy piping inside the abandoned steam power station in Forst-Lausitz"
@@ -104,15 +113,17 @@ sections:
         alt: "A prison cell photographed during my urbex tour at the abandoned Stasi Prison Hohenschönhausen"
         text: "A prison cell photographed at the [abandoned Stasi Prison Hohenschönhausen](/blog/abandoned-hohenschoenhausen-prison) (2022)."
 
-      - image: "/images/lost-places/ukraine/abandoned-palace-of-culture-in-zalyssia.webp"
-        url: "/blog/ghost-towns-chernobyl-exclusion-zone"
-        alt: "The overgrown entrance and colonnade of the abandoned Palace of Culture in Zalyssia"
-        text: "The overgrown Palace of Culture in Zalyssia inside the [Chernobyl Exclusion Zone](/blog/ghost-towns-chernobyl-exclusion-zone) (2016)."
-
+      # 2019
       - image: "/images/lost-places/austria/remains-of-the-old-air-flow-system-at-the-limonitunnel.webp"
         url: "/blog/abandoned-limonitunnel-linz"
         alt: "The Limoni Tunnel System in Linz, Austria"
         text: "Remains of the air raid ventilation system in the [Limoni Tunnel System in Linz](/blog/abandoned-limonitunnel-linz) (2019)."
+
+      # 2018
+      - image: "/images/tutorials/usa/aabandoned-grand-piano-grabowsee.webp"
+        url: "/blog/abandoned-heilstaette-grabowse"
+        alt: "Abandoned piano at the abandoned filming Location Heilstaette Grabowsee in Germany"
+        text: "An abandoned piano photographed at [Heilstaette Grabowsee](/blog/abandoned-heilstaette-grabowse) in Germany (2018)."
 
       - image: "/images/lost-places/germany/rooftop-forest-at-beelitz-heilstatten.webp"
         url: "/blog/abandoned-beelitz-heilstaetten-canopy-walk"
@@ -134,21 +145,13 @@ sections:
         alt: "Ornate Moorish arches and mosaic details in the 1st class oriental sauna at Stadtbad Leipzig"
         text: "The ornate oriental sauna wing inside the [abandoned Stadtbad Leipzig](/blog/abandoned-municipial-bath-leipzig), Germany (2018)."
 
-      - image: "/images/tutorials/usa/aabandoned-grand-piano-grabowsee.webp"
-        url: "/blog/abandoned-heilstaette-grabowse"
-        alt: "Abandoned piano at the abandoned filming Location Heilstaette Grabowsee in Germany"
-        text: "An abandoned piano photographed at [Heilstaette Grabowsee](/blog/abandoned-heilstaette-grabowse) in Germany (2018)."
-
-      - image: "/images/lost-places/general/abnadoned-municipal-pool-berlin.webp"
-        url: "/blog/must-see-lost-places-berlin"
-        alt: "Abandoned municipal pool, Berlin, Germany, shot on iPhone 15 Pro Max"
-        text: "An abandoned municipal pool and more [must-see lost places in Berlin](/blog/must-see-lost-places-berlin) to visit."
-
+      # 2017
       - image: "/images/lost-places/germany/inside-one-of-the-5-abandoned-radar-domes.webp"
         url: "/blog/abandoned-echolon-outpost-teufelsberg"
         alt: "Inside one of the spherical radomes covered with street art at the Teufelsberg listening outpost"
         text: "Inside an abandoned radar dome at the [Cold War spy station at Teufelsberg](/blog/abandoned-echolon-outpost-teufelsberg) in Berlin (2017)."
 
+      # 2016
       - image: "/images/lost-places/germany/this-pool-hasn-t-seen-any-water-for-the-past-20-years.webp"
         url: "/blog/abandoned-red-army-headquarters-wuensdorf"
         alt: "The drained and decaying swimming pool at the former Soviet military complex in Wünsdorf"
@@ -159,11 +162,17 @@ sections:
         alt: "The iconic yellow Ferris wheel rusting away in the overgrown amusement park of Pripyat"
         text: "The rusting Ferris wheel inside the [abandoned ghost city of Pripyat](/blog/pripyat-ghost-town-ukraine) (2016)."
 
+      - image: "/images/lost-places/ukraine/abandoned-palace-of-culture-in-zalyssia.webp"
+        url: "/blog/ghost-towns-chernobyl-exclusion-zone"
+        alt: "The overgrown entrance and colonnade of the abandoned Palace of Culture in Zalyssia"
+        text: "The overgrown Palace of Culture in Zalyssia inside the [Chernobyl Exclusion Zone](/blog/ghost-towns-chernobyl-exclusion-zone) (2016)."
+
       - image: "/images/lost-places/usa/abandoned-car-bodie.webp"
         url: "/blog/bodie-ghost-town-california"
         alt: "A vintage automobile decaying in the dry grass of the high-desert ghost town of Bodie, California"
         text: "A decaying vintage automobile photographed in [Bodie Ghost Town in California](/blog/bodie-ghost-town-california) (2016)."
 
+      # 2015
       - image: "/images/lost-places/germany/long-corridors-at-beelitz-heilstaetten.webp"
         url: "/blog/abandoned-beelitz-hospital"
         alt: "An endless decayed hallway with chipped mint-green paint at the abandoned Beelitz Heilstätten hospital"

@@ -48,7 +48,7 @@ In summer 2024, I bought a Neewer iPhone cage for my trip to Ireland, and I’ve
 3. I can attach the cage to any tripod. So I don’t need to carry an extra iPhone tripod mount anymore.
 4. Bonus reason: I can attach a wrist-strap to the cage. That was the main reason I bought the Moment iPhone case in the past.
 
-![Neewer iPhone Cage for photographing in lost places](/images/iphone-photography/general/newer-iphone-cage-with-light-and-grip.webp)
+![Neewer iPhone Cage for photographing in lost places](/images/iphone-photography/general/newer-iphone-cage-with-light-and-grip.webp "Neewer iPhone Cage for photographing in lost places.")
 
 The above photo shows my Neewer iPhone cage configuration for photographing in a lost place. I've attached a wrist strap, a grip with a remote shutter release and a video light.
 
@@ -74,7 +74,7 @@ The first one is the [Joby Gorillapod Magnetic](https://nocamerbag.com/blog/revi
 
 The Gorillapod has flexible legs so it will securely stand on any surface, and you can even wrap the legs around, e.g., handrails. But the Gorillapod magnetic gives you one more option: You can magnetically attach it to any metal surface. That's just what you can see in the next photo, where I attached my iPhone 11 Pro upside time to a metal window frame at a lost place.
 
-![iPhone 11 used with Moment Gorillapod Magnetic](/images/reviews/iphone-11-with-gorillapod-magnetic-attached-to-a-window-fram.webp)
+![iPhone 11 used with Moment Gorillapod Magnetic](/images/reviews/iphone-11-with-gorillapod-magnetic-attached-to-a-window-fram.webp "iPhone 11 used with Moment Gorillapod Magnetic.")
 
 To learn more about this tripod, please head over to my [Gorillapod magnetic review](/blog/review-joby-gorillapod-magnetic) in the blog.
 
@@ -94,7 +94,7 @@ I use two types of banks for my iPhone
 
 I originally bought an Anker 521 MagGo battery pack when it was released. It was a MagSafe Powerbank with 5.000 mAh. Since then, I’ve upgraded to the Anker 633 with 10.000 mAh and then to the Anker MagGo 10.000 mAh slim. I use the latter two while traveling to charge my iPhone if necessary on site.
 
-![Three Anker MagGo battery packs I use](/images/iphone-photography/general/three-anker-maggo-powerbanks.webp)
+![Three Anker MagGo battery packs I use](/images/iphone-photography/general/three-anker-maggo-powerbanks.webp "Three Anker MagGo battery packs I use.")
 
 Left is my newest batery pack: the Anker MagGo slim 10.000 mAh. In the middle is the larger Anker MagGo 633 battery pack with integrated stand (great as an iPhone night stand while traveling) and right is the original Anker 521 MagGo with 5.000 mAh.
 

@@ -27,13 +27,13 @@ Yes, Hydra app can shoot HDR and 32 megapixel photos with an iPhone, but only un
 
 As always, here are a few sample photos I shot with Hydra Camera app:
 
-![Half Dome in Yosemite shot on iPhone 7 Plus using Hydra Camera App](/images/reviews/general/half-dome-in-yosemite-shot-on-iphone-7-plus-using-hydra-came.webp)
+![Half Dome in Yosemite shot on iPhone 7 Plus using Hydra Camera App](/images/reviews/general/half-dome-in-yosemite-shot-on-iphone-7-plus-using-hydra-came.webp "Half Dome in Yosemite shot on iPhone 7 Plus using Hydra Camera App.")
 
-![Abandoned Piano near Berline shot on iPhone XS using Hydra Camera App](/images/reviews/general/abandoned-piano-near-berline-shot-on-iphone-xs-using-hydra-c.webp)
+![Abandoned Piano near Berline shot on iPhone XS using Hydra Camera App](/images/reviews/general/abandoned-piano-near-berline-shot-on-iphone-xs-using-hydra-c.webp "Abandoned Piano near Berline shot on iPhone XS using Hydra Camera App.")
 
-![Abandoned Sauna in Leipzig show on iPhone X using Hydra Camera App](/images/reviews/general/abandoned-sauna-in-leipzig-show-on-iphone-x-using-hydra-came.webp)
+![Abandoned Sauna in Leipzig show on iPhone X using Hydra Camera App](/images/reviews/general/abandoned-sauna-in-leipzig-show-on-iphone-x-using-hydra-came.webp "Abandoned Sauna in Leipzig show on iPhone X using Hydra Camera App.")
 
-![Votiv Church in Vienna shot on iPhone XS using Hydra Camera App](/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp)
+![Votiv Church in Vienna shot on iPhone XS using Hydra Camera App](/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp "Votiv Church in Vienna shot on iPhone XS using Hydra Camera App.")
 
 ## Hydra App features
 
@@ -47,7 +47,7 @@ I consider this camera app a special purpose camera app. With Hydra app you can:
 
 Here's a screenshot from Adobe Lightroom where I processed a photo I took with Hydra Camera App at a lost place. The total resolution is 31.9 megapixels.
 
-![32 Megapixel photo shot with Hydra edited in Lightroom](/images/reviews/general/32-megapixel-photo-shot-with-hydra-edited-in-lightroom.webp)
+![32 Megapixel photo shot with Hydra edited in Lightroom](/images/reviews/general/32-megapixel-photo-shot-with-hydra-edited-in-lightroom.webp "32 Megapixel photo shot with Hydra edited in Lightroom.")
 
 ## Understand how Hydra App works
 
@@ -61,7 +61,7 @@ So my recommendation is to always use a [tripod for iPhone](/blog/recommended-ip
 
 The user interface is pretty straight forward. The gear icon in the lower left corner will bring up a screen where you can chose to save the unprocessed photo in addition to the final shot and enable or disable GPS location in your photo.
 
-![Hydra App User Interface](/images/reviews/general/hydra-app-user-interface.webp)
+![Hydra App User Interface](/images/reviews/general/hydra-app-user-interface.webp "Hydra App User Interface.")
 
 Right next to the big shutter release button are the different shooting modes that you select. Swipe to switch between the different shooting modes. Then, once you've selected (and tapped) the desired shooting mode, you can adjust a few settings for this mode by taping the settings button right of the shutter release.
 
@@ -75,7 +75,7 @@ The following settings are available:
 
 Then, just shoot by tapping the shutter release button. Hydra will determine how many photos it needs to take and display that near the shutter button.
 
-![Hydra App takes up to 100 photos](/images/reviews/general/hydra-app-takes-up-to-100-photos.webp)
+![Hydra App takes up to 100 photos](/images/reviews/general/hydra-app-takes-up-to-100-photos.webp "Hydra App takes up to 100 photos.")
 
 If you use HDR mode, it will ask if you want to apply a black and white, medium or strong HDR effect. I found that medium looks more natural in many cases. Did I mention already to make sure that there is absolutely no movement in the scene?
 
@@ -85,7 +85,7 @@ Like many camera apps today, Hydra comes with a companion app for Apple Watch. T
 
 Once launched, the Apple Watch app doubles as a viewfinder.
 
-![Hydra App on Apple Watch](/images/reviews/general/hydra-app-on-apple-watch.webp)
+![Hydra App on Apple Watch](/images/reviews/general/hydra-app-on-apple-watch.webp "Hydra App on Apple Watch.")
 
 Tap the lower left corner to change the shooting mode. On the right, there's a three second self timer that starts as soon as you tap it.
 

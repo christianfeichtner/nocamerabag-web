@@ -33,11 +33,11 @@ Read on to learn about the pros and cons of Reeheld camera app and why I'll keep
 
 Before I get into the details, here are a few sample photos I took with Reeheld camera app.
 
-![Devil's mouth, Portugal, shot with Reeheld Camera App.](/images/reviews/general/devils-mouth-cascais.webp)
+![Devil's mouth, Portugal, shot with Reeheld Camera App.](/images/reviews/general/devils-mouth-cascais.webp "Devil's mouth, Portugal, shot with Reeheld Camera App.")
 
-![Floating creek, Austria, shot on Reeheld camera app](/images/reviews/general/waterfall-shot-on-reeheld-camera-app.webp)
+![Floating creek, Austria, shot on Reeheld camera app](/images/reviews/general/waterfall-shot-on-reeheld-camera-app.webp "Floating creek, Austria, shot on Reeheld camera app.")
 
-![Spinning Ferris Wheel, Austria, photographed with Reeheld camera app](/images/reviews/general/long-exposure-ferris-wheel-reeheld-app.webp)
+![Spinning Ferris Wheel, Austria, photographed with Reeheld camera app](/images/reviews/general/long-exposure-ferris-wheel-reeheld-app.webp "Spinning Ferris Wheel, Austria, photographed with Reeheld camera app.")
 
 Now, let's have a look at the features of Reeheld Camera app.
 
@@ -57,7 +57,7 @@ What I'd like to see is a way to adjust the exposure time by sliding over the ca
 
 Once you've opened Reeheld camera app, swipe over the exposure dial at the bottom of the screen to select an exposure time between one and 30 seconds.
 
-![Exposure dial in Reeheld camera app](/images/reviews/general/reeheld-camera-app-exposure-dial.webp)
+![Exposure dial in Reeheld camera app](/images/reviews/general/reeheld-camera-app-exposure-dial.webp "Exposure dial in Reeheld camera app.")
 
 But before you hit the big shutter release button, look at the following settings and enable them according to your preferences.
 
@@ -65,7 +65,7 @@ But before you hit the big shutter release button, look at the following setting
 
 To the right of the exposure dial, you'll find a small button labeled "3". If you tap this button, it'll turn green, enabling a shutter release delay of three seconds. So if you enable the shutter release delay and tap the shutter release, you'll see a three-second countdown before the Reeheld camera app starts taking a long exposure photo.
 
-![Shutter release delay](/images/reviews/general/reeheld-camera-app-shutter-delay.webp)
+![Shutter release delay](/images/reviews/general/reeheld-camera-app-shutter-delay.webp "Shutter release delay.")
 
 ### Enable the smart indicator and GPS
 

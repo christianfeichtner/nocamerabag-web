@@ -50,7 +50,7 @@ With the first sharpening slider, you're controlling the intensity of the sharpe
 
 If you keep one finger tapped on the photo while dragging the sharpening slider, Lightroom displays a black and white version of your photo that helps you to see the amount of sharpness applied.
 
-![Keep one finger tapped on the image and adjust the slider with the other one](/images/tutorials/general/keep-one-finger-tapped-on-the-image-and-adjust-the-slider-wi.webp)
+![Keep one finger tapped on the image and adjust the slider with the other one](/images/tutorials/general/keep-one-finger-tapped-on-the-image-and-adjust-the-slider-wi.webp "Keep one finger tapped on the image and adjust the slider with the other one.")
 
 While you're keeping the photo tapped and drag the slider, Lightroom hides all other sliders and displays the intensity at the top of the screen.
 
@@ -64,9 +64,9 @@ By using the radius slider, you define how strong, in terms of pixels, the sharp
 
 To find the perfect radius for your photo, keep one finger tapped on the picture while dragging the slider. Lightroom will display a greyish version of your photo, highlighting how thick the edges will be.
 
-![Low Radius in Lightroom Mobile](/images/tutorials/general/low-radius-in-lightroom-mobile.webp)
+![Low Radius in Lightroom Mobile](/images/tutorials/general/low-radius-in-lightroom-mobile.webp "Low Radius in Lightroom Mobile.")
 
-![High Radius in Lightroom Mobile](/images/tutorials/general/high-radius-in-lightroom-mobile.webp)
+![High Radius in Lightroom Mobile](/images/tutorials/general/high-radius-in-lightroom-mobile.webp "High Radius in Lightroom Mobile.")
 
 In the above screenshots, you can clearly see the difference between a small and a bigger radius. Using a small radius, only the left wing of the bird will be sharpened while a bigger radius will sharpen our feathered friend entirely.
 
@@ -82,11 +82,11 @@ Keeping the slider to the left half, Lightroom will only sharpen the most promin
 
 To illustrate that, I've chosen the photo of the parliament in Budapest that I took last year. Have a look.
 
-![Low Detail value for sharpening](/images/tutorials/general/low-detail-value-for-sharpening.webp)
+![Low Detail value for sharpening](/images/tutorials/general/low-detail-value-for-sharpening.webp "Low Detail value for sharpening.")
 
 In the first screenshot, I kept the slider at a meager value. So, Lightroom will only sharpen hardly noticeable and very fine edges.
 
-![High detail value for sharpening](/images/tutorials/general/high-detail-value-for-sharpening.webp)
+![High detail value for sharpening](/images/tutorials/general/high-detail-value-for-sharpening.webp "High detail value for sharpening.")
 
 For the second screenshot, I dragged the slider all the way to the right, and Lightroom selects almost all edges for sharpening.
 
@@ -100,9 +100,9 @@ The masking slider effectively helps you to choose if sharpness will be applied 
 
 Again, while using sharpening masking, keeping one finger tapped on the photo while you drag the slider will help you to see which edges will be sharpened. Look at these two screenshots:
 
-![Low mask value for sharpening in Lightroom](/images/tutorials/general/low-mask-value-for-sharpening-in-lightroom.webp)
+![Low mask value for sharpening in Lightroom](/images/tutorials/general/low-mask-value-for-sharpening-in-lightroom.webp "Low mask value for sharpening in Lightroom.")
 
-![High mask value for sharpening in Lightroom](/images/tutorials/general/high-mask-value-for-sharpening-in-lightroom.webp)
+![High mask value for sharpening in Lightroom](/images/tutorials/general/high-mask-value-for-sharpening-in-lightroom.webp "High mask value for sharpening in Lightroom.")
 
 The first one has a low sharpness mask. So Lightroom will sharpen almost the entire photo.
 

@@ -24,11 +24,11 @@ So far, I spend one night taking photos in Vienna, and I've uploaded the sample 
 
 Here's the first set of sample photos that I took during a nightly walk here in Vienna. I took them using the stock photo camera app and edited two of them on the iPhone 12 Pro Max and one on my iPad Pro.
 
-![Hotel Sacher shot on iPhone 12 Pro Max](/images/reviews/general/hotel-sacher-shot-on-iphone-12-pro-max.webp)
+![Hotel Sacher shot on iPhone 12 Pro Max](/images/reviews/general/hotel-sacher-shot-on-iphone-12-pro-max.webp "Hotel Sacher shot on iPhone 12 Pro Max.")
 
-![Cupreous Horseman shot on iPhone 12 Pro Max](/images/reviews/general/cupreous-horseman-shot-on-iphone-12-pro-max.webp)
+![Cupreous Horseman shot on iPhone 12 Pro Max](/images/reviews/general/cupreous-horseman-shot-on-iphone-12-pro-max.webp "Cupreous Horseman shot on iPhone 12 Pro Max.")
 
-![Nature takes back shot on iPhone 12 Pro Max](/images/reviews/general/nature-takes-back-shot-on-iphone-12-pro-max.webp)
+![Nature takes back shot on iPhone 12 Pro Max](/images/reviews/general/nature-takes-back-shot-on-iphone-12-pro-max.webp "Nature takes back shot on iPhone 12 Pro Max.")
 
 ## Why I bought the iPhone 12 Pro Max
 
@@ -40,7 +40,7 @@ The iPhone 12 Pro Max screen is 6.7 inches (17 cm) vs. just 6.1 inches (15.5 cm)
 
 Especially if you want to use a stylus like the [Fisher Space Pen with Stylus](/blog/fisher-space-pen-bullet-review) that I use - and yes, I know what Mr. Jobs said. But using a Stylus helps when retouching photos on iPhone 12, especially with my favorite [iPhone retouching app TouchRetouch](/blog/review-touch-retouch). To give you an impression of the bigger screen size, here's a side by side shot of the iPhone 11 Pro and the iPhone 12 Pro Max.
 
-![iPhone 12 Pro Max (left) vs. iPhone 11 Pro (right)](/images/reviews/general/iphone-12-pro-max-left-vs-iphone-11-pro-right.webp)
+![iPhone 12 Pro Max (left) vs. iPhone 11 Pro (right)](/images/reviews/general/iphone-12-pro-max-left-vs-iphone-11-pro-right.webp "iPhone 12 Pro Max (left) vs. iPhone 11 Pro (right).")
 
 ### 2. Longer Telephoto Lens of the iPhone 12 Pro Max
 

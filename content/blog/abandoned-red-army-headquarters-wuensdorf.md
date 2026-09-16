@@ -27,21 +27,21 @@ But the history of this place goes back even further.
 
 Between the two World Wars, an Army Sports School was established and German athletes worked out here, most notably, the athletes for the Olympic Games in Berlin in 1936. One relict from that time is the indoor swimming pool.
 
-![This pool hasn't seen any water for the past 20 years.](/images/lost-places/germany/this-pool-hasn-t-seen-any-water-for-the-past-20-years.webp)
+![This pool hasn't seen any water for the past 20 years.](/images/lost-places/germany/this-pool-hasn-t-seen-any-water-for-the-past-20-years.webp "This pool hasn't seen any water for the past 20 years.")
 
 Around 1935, Wünsdorf became the Wehrmacht Headquarters and the centre of the motorised division. There are a number of garages in the area, where everything from tanks to trucks were maintained.
 
-![Not much left that would remind a visitor of the heavy armor that was maintained here.](/images/lost-places/germany/not-much-left-that-would-remind-a-visitor-of-the-heavy-armor.webp)
+![Not much left that would remind a visitor of the heavy armor that was maintained here.](/images/lost-places/germany/not-much-left-that-would-remind-a-visitor-of-the-heavy-armor.webp "Not much left that would remind a visitor of the heavy armor that was maintained here.")
 
 The Germans and the Russians were not only exercising and maintaining stuff here. They also needed some entertainment in one of the theatres. This one looks like it could host another show anytime but the last curtain fell more than 20 years ago.
 
-![Closed. For good.](/images/lost-places/germany/closed-for-good.webp)
+![Closed. For good.](/images/lost-places/germany/closed-for-good.webp "Closed. For good.")
 
-![Remains of the final jam session?](/images/lost-places/germany/remains-of-the-final-jam-session.webp)
+![Remains of the final jam session?](/images/lost-places/germany/remains-of-the-final-jam-session.webp "Remains of the final jam session?")
 
 There's a lot to see here and even the cellars and attics are accessible. And if you look closely, you can even find the leftovers of some Soviet Uniforms.
 
-![These boots were made for walking. Some time ago.](/images/lost-places/germany/these-boots-were-made-for-walking-some-time-ago.webp)
+![These boots were made for walking. Some time ago.](/images/lost-places/germany/these-boots-were-made-for-walking-some-time-ago.webp "These boots were made for walking. Some time ago.")
 
 Even though I spent an entire day there, I didn't see everything. There's so much so see here. Allegedly the collaborators of Stauffenberg, who tried to assassinate Hitler, were hanged here in the "Death Alley".
 

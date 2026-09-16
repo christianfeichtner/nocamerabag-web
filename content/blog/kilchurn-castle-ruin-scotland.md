@@ -31,7 +31,7 @@ Kilchurn Castle is located in the Argyll and Bute council area of Scotland, near
 
 From the car park, you'll have to walk for about 15 minutes to get to Kilchurn castle. Just following the sign. Yes, there is only one right next to the car park.
 
-![Sign from car park to Kilchurn Castle](/images/lost-places/scotland/sign-to-kilchurn-castle.webp)
+![Sign from car park to Kilchurn Castle](/images/lost-places/scotland/sign-to-kilchurn-castle.webp "Sign from car park to Kilchurn Castle.")
 
 When I visited the castle ruin in 2016, cell phone coverage was non-existent in this area. So my built-in car navigation system, which relied on cell coverage, was useless. But the friendly people in Dalmally, though difficult to understand for a non-English speaker like me, were very helpful to finding the castle.
 
@@ -49,13 +49,13 @@ Today, the Historic Environment Scotland takes care of the castle.
 
 After a 5-minute walk from the car park, you should be on a trail with Kilchurn Castle right in front of you. This is the first spot to get great photos of the Castle. If you're lucky and visit after a rain shower, you may get a beautiful sky. So be sure to include that in your photo.
 
-![Trail to Kilchurn Castle](/images/lost-places/scotland/trail-to-kilchurn-castle.webp)
+![Trail to Kilchurn Castle](/images/lost-places/scotland/trail-to-kilchurn-castle.webp "Trail to Kilchurn Castle.")
 
 As I've mentioned, the castle ruin is located on a peninsula. Therefore, after a rain shower, the areas left and right of the trail may be very muddy. So check carefully if you want to leave the path to get a different perspective photo of the castle.
 
 The castle was built on a small hill on the peninsula. That makes a great foreground for a photo of it. When composing the shot, I put the tree in front of the castle slightly to the right to be able to capture the left wall entirely. That makes the photo intentionally a bit asymmetrical.
 
-![Closeup of Kilchurn Castle in the Scottish Highlands](/images/lost-places/scotland/kilchurn-castle-close.webp)
+![Closeup of Kilchurn Castle in the Scottish Highlands](/images/lost-places/scotland/kilchurn-castle-close.webp "Closeup of Kilchurn Castle in the Scottish Highlands.")
 
 ou can walk around the castle which may give you some additional great perspectives of Kilchurn Castle.
 
@@ -65,7 +65,7 @@ I used an iPhone 6S and ProCamera app, which is one of my [recommended iPhone ca
 
 The previous photo is one of the rare occasions where I used HDR in ProCamera app. Because of the bright sky and the dark walls of the castle, I used the AMEB mode, which allows me to set each exposure bias (for high-, mid- and low exposure) manually. For this photo, I set the middle exposure bias to -0.5 and the low exposure bias to -1 to get the sky right. To brighten the shadows of the castle walls, I increased the high exposure bias to +2.5.
 
-![AMEB Mode in ProCamera](/images/lost-places/scotland/ameb-mode-procamera-app.webp)
+![AMEB Mode in ProCamera](/images/lost-places/scotland/ameb-mode-procamera-app.webp "AMEB Mode in ProCamera.")
 
 I first used SKRWT app to fix the perspective distortion and then added finishing touches in Lightroom Mobile. To learn more about these two apps, please visit my[SKRWT app review](/blog/review-skrwt-app) and my [extensive review of Lightroom mobile](/blog/review-adobe-lightroom-mobile-premium).
 

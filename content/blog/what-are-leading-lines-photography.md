@@ -40,7 +40,7 @@ In the next two chapters, we’ll take a look at the essential types of leading 
 
 The photo I took at the famous Marshall’s Beach in San Francisco is a great example of a composition using natural leading lines. The first one is the shoreline in the foreground that’s emphasized by waves breaking at the shoreline.
 
-![Shorelines acting as natural leading lines](/images/tutorials/usa/beach-natural-leading-lines.webp)
+![Shorelines acting as natural leading lines](/images/tutorials/usa/beach-natural-leading-lines.webp "Shorelines acting as natural leading lines.")
 
 The second leading line is the seashore in the background. These two lines basically form a triangle pointing to the main subject, the Golden Gate Bridge. The photo is an example for converging lines.
 
@@ -48,13 +48,13 @@ The second leading line is the seashore in the background. These two lines basic
 
 You’ll find human-made leading lines basically everywhere in a city. I used the converging lines of the stairs and walls to guide the viewer towards the victory column (a popular Berlin landmark). I’ve highlighted the lines in red. As you can see, this photo contains multiple converging leading lines of different length.
 
-![Walls and stairs are excellent human-made leading lines](/images/tutorials/usa/victory-column-leading-lines.webp)
+![Walls and stairs are excellent human-made leading lines](/images/tutorials/usa/victory-column-leading-lines.webp "Walls and stairs are excellent human-made leading lines.")
 
 ### Light as a leading line
 
 You may know this photo from my blog post about [how to use the framing technique](/blog/photo-framing-techniques). It uses light as a leading line to guide the viewer from the bright opening at the top of the frame towards the old dentist’s chair. The edges of the light cone from the window act as diverging guiding lines to draw the attention of the viewer to the chair.
 
-![The contrast between light and shadow as diverging leading lines](/images/tutorials/usa/light-as-a-guideing-line.webp)
+![The contrast between light and shadow as diverging leading lines](/images/tutorials/usa/light-as-a-guideing-line.webp "The contrast between light and shadow as diverging leading lines.")
 
 ## How to use leading lines in your Photos
 
@@ -62,7 +62,7 @@ You may know this photo from my blog post about [how to use the framing techniqu
 
 Converging lines are the most commonly used form of leading lines. Photographers typically use them to add and convey depth in a photo. I used this concept for a photo of the Manhatten Bridge in New York. The facade of the two buildings to the left and right form several leading lines converging at the main subject.
 
-![Facades work great as converging leading lines to convey depth](/images/tutorials/usa/architectural-leading-lines.webp)
+![Facades work great as converging leading lines to convey depth](/images/tutorials/usa/architectural-leading-lines.webp "Facades work great as converging leading lines to convey depth.")
 
 If you want to use converging leading lines, make sure they start at the edge of the frame and converge towards a central point. Then, place the main subject at the point where the leading lines converge. For such leading lines natural or human-made lines work quite well.
 
@@ -70,7 +70,7 @@ If you want to use converging leading lines, make sure they start at the edge of
 
 The main subject of the photo is definitely the saxophone player I spotted in Central Park in New York. But as the main subject is rather small, I zoomed out with my feet and included the bridge in the frame. The arch of the bridge forms two curved directional lines pointing and highlighting the main subject.
 
-![Leading lines don’t have to be straight. They can be curved.](/images/tutorials/usa/saxophone-player-leading-lines.webp)
+![Leading lines don’t have to be straight. They can be curved.](/images/tutorials/usa/saxophone-player-leading-lines.webp "Leading lines don’t have to be straight. They can be curved.")
 
 And yes, the arch itself is also a frame emphasizing the main subject of the photo.
 
@@ -81,7 +81,7 @@ To communicate distance, use one or more simple lines that vanish at a central p
 
 I used that composition technique in the photo I took at the Liechtenstein Klamm (gorge) in Austria. It should convey that I still have to go for a while until I’ve reached the end of the gorge.
 
-![Use converging leading lines towards a vanishing point to convey distance](/images/tutorials/usa/leading-lines-distance.webp)
+![Use converging leading lines towards a vanishing point to convey distance](/images/tutorials/usa/leading-lines-distance.webp "Use converging leading lines towards a vanishing point to convey distance.")
 
 ## Tips for using leading lines in your photo composition
 

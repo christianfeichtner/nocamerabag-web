@@ -26,13 +26,13 @@ Recently, during a trip to Sofia, ProCamera tweeted and suggested that I should 
 
 First, here are a few sample photos I took using ProCamera Low Light Modes
 
-![London at Night shot on iPhone 6s Plus using ProCamera Low Light Mode](/images/reviews/london-at-night-shot-on-iphone-6s-plus-using-procamera-low-l.webp)
+![London at Night shot on iPhone 6s Plus using ProCamera Low Light Mode](/images/reviews/london-at-night-shot-on-iphone-6s-plus-using-procamera-low-l.webp "London at Night shot on iPhone 6s Plus using ProCamera Low Light Mode.")
 
-![Radio City Music Hall in New York shot on iPhone 7 Plus using ProCamera Night Mode](/images/reviews/general/radio-city-music-hall-in-new-york-shot-on-iphone-7-plus-usin.webp)
+![Radio City Music Hall in New York shot on iPhone 7 Plus using ProCamera Night Mode](/images/reviews/general/radio-city-music-hall-in-new-york-shot-on-iphone-7-plus-usin.webp "Radio City Music Hall in New York shot on iPhone 7 Plus using ProCamera Night Mode.")
 
-![New York Skyline shot on iPhone 7 Plus using ProCamera Low Light Mode](/images/reviews/general/new-york-skyline-shot-on-iphone-7-plus-using-procamera-low-l.webp)
+![New York Skyline shot on iPhone 7 Plus using ProCamera Low Light Mode](/images/reviews/general/new-york-skyline-shot-on-iphone-7-plus-using-procamera-low-l.webp "New York Skyline shot on iPhone 7 Plus using ProCamera Low Light Mode.")
 
-![Narrow passage in Tallinn shot on iPhone X using ProCamera Low Light Mode](/images/reviews/general/narrow-passage-in-tallinn-shot-on-iphone-x-using-procamera-l.webp)
+![Narrow passage in Tallinn shot on iPhone X using ProCamera Low Light Mode](/images/reviews/general/narrow-passage-in-tallinn-shot-on-iphone-x-using-procamera-l.webp "Narrow passage in Tallinn shot on iPhone X using ProCamera Low Light Mode.")
 
 ## What is ProCamera App?
 
@@ -61,7 +61,7 @@ To give you an impression about the ProCamera Low Light Modes, have a look at th
 * Then, Low Light+ mode. It's even better exposed and has less noise than the previous two attempts
 * Finally, Low Light+ with Lux+. It has a good exposure and even less noise in many areas of the photo. You can also see more details from the window that are not visible in the other three modes.
 
-![Comparison of different shooting modes with ProCamera.](/images/reviews/general/comparison-of-different-shooting-modes-with-procamera.webp)
+![Comparison of different shooting modes with ProCamera.](/images/reviews/general/comparison-of-different-shooting-modes-with-procamera.webp "Comparison of different shooting modes with ProCamera.")
 
 Also, in the last photo that I took using LowLight+ with Lux+, even the darker areas (structure of the windows) are visible. In the original photo (upper left), they're just black.
 
@@ -71,7 +71,7 @@ What I found during my experiments is that Low Light+ with Lux+ shots are someti
 
 Here's the final shot of the palace of culture in Sofia, shot with ProCamera Low Light+ Mode and after applying adjustments to exposure and black point.
 
-![Palace of Culture in Sofia, Bulgaria, shot with Low Light+ and ProCamers](/images/reviews/general/palace-of-culture-in-sofia-bulgaria-shot-with-low-light-a.webp)
+![Palace of Culture in Sofia, Bulgaria, shot with Low Light+ and ProCamers](/images/reviews/general/palace-of-culture-in-sofia-bulgaria-shot-with-low-light-a.webp "Palace of Culture in Sofia, Bulgaria, shot with Low Light+ and ProCamers.")
 
 ## Switching between different Low Light Modes in ProCamera App
 

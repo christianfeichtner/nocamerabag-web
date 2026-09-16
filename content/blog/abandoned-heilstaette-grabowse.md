@@ -48,7 +48,7 @@ Urban exploration tours and visiting options change on a regular basis. I do not
 
 There's one iconic shot that always popped up during my research about Grabowsee: The red sofa. I couldn’t find any hint about the “why’s and what’s” about it, but it’s a truly great photo spot.
 
-![The red sofa at the abandoned Heilstätten Grabowsee](/images/lost-places/germany/the-red-sofa-at-the-abandoned-heilstatten-grabowsee.webp)
+![The red sofa at the abandoned Heilstätten Grabowsee](/images/lost-places/germany/the-red-sofa-at-the-abandoned-heilstatten-grabowsee.webp "The red sofa at the abandoned Heilstätten Grabowsee.")
 
 A little photography tip here: many photos I've seen of this red sofa were shot frontally. Try a different perspective! Though there's not much room in there, I'll bet you can find other perspectives. Another hint: Take a step back!
 
@@ -56,7 +56,7 @@ This one is also a quite iconic photo spot at the Heilstaten Grabowsee. If you d
 
 I opted not to take a photo using the same perspective as everyone else. I left the building, walked around it and saw this view and used the [photo framing technique](/blog/photo-framing-techniques) to compose it.
 
-![Grand Piano at Heilstätten Grabowsee](/images/lost-places/germany/grand-piano-at-heilstatten-grabowsee.webp)
+![Grand Piano at Heilstätten Grabowsee](/images/lost-places/germany/grand-piano-at-heilstatten-grabowsee.webp "Grand Piano at Heilstätten Grabowsee.")
 
 The photo above is a 32 megapixel photo! See how you can take 32 megapixel photos with iPhone using [Hydra Camera App](/blog/review-hydra-app).
 
@@ -64,7 +64,7 @@ The photo above is a 32 megapixel photo! See how you can take 32 megapixel photo
 
 The film ”Heilstätten” was filmed at several locations here. One of them is the old goods elevator that you'll see right at the beginning of the film when the teens enter the area.
 
-![The goods elevator from the German horror film “Heilstätten”](/images/lost-places/germany/the-goods-elevator-from-the-german-horror-film-heilstatten.webp)
+![The goods elevator from the German horror film “Heilstätten”](/images/lost-places/germany/the-goods-elevator-from-the-german-horror-film-heilstatten.webp "The goods elevator from the German horror film “Heilstätten”.")
 
 To be able to capture the entire elevator despite the limited space there, I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens) and [fixed the perspective distortion](/blog/fix-perspective-distortions-iphone).
 
@@ -78,11 +78,11 @@ Looks like, they also used a fisheye-like lens?
 
 The following photo was quite challenging because I tried to capture two hallways that were in a 90 degree angle to each other. The [Moment Superfish Lens](/blog/review-moment-14mm-fisheye-lens) was also helpful for this scene.
 
-![Hallway shot on Moment Superfish](/images/lost-places/germany/hallway-shot-on-moment-superfish.webp)
+![Hallway shot on Moment Superfish](/images/lost-places/germany/hallway-shot-on-moment-superfish.webp "Hallway shot on Moment Superfish.")
 
 It seems that they already had hallway beds in this hospital decades ago. Or maybe this is a film prop from one of the movies that were shot here?
 
-![Hallway bed](/images/lost-places/germany/hallway-bed.webp)
+![Hallway bed](/images/lost-places/germany/hallway-bed.webp "Hallway bed.")
 
 ## Book your Heilstätten Grabowsee Photo Tour
 

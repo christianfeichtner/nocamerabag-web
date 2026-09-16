@@ -33,11 +33,11 @@ In this 2025 edition, you'll read why ProCamera App is still my preferred iOS ca
 
 But first (and as always), here are a few sample photos I took with ProCamera App since 2014:
 
-![Abandoned Pool. Shot on iPhone 15 Pro Max using ProCamera App](/images/reviews/general/mens-pool-stadtbad-lichtenberg-berlin.webp)
+![Abandoned Pool. Shot on iPhone 15 Pro Max using ProCamera App](/images/reviews/general/mens-pool-stadtbad-lichtenberg-berlin.webp "Abandoned Pool. Shot on iPhone 15 Pro Max using ProCamera App.")
 
-![Dark Hedges, Ireland. Shot on iPhone 15 Pro Max using ProCamera App](/images/reviews/general/dark-hedges-ireland.webp)
+![Dark Hedges, Ireland. Shot on iPhone 15 Pro Max using ProCamera App](/images/reviews/general/dark-hedges-ireland.webp "Dark Hedges, Ireland. Shot on iPhone 15 Pro Max using ProCamera App.")
 
-![Nightly London shot using ProCamera Low Light Mode](/images/cityscapes/england/view-from-the-shard-london.webp)
+![Nightly London shot using ProCamera Low Light Mode](/images/cityscapes/england/view-from-the-shard-london.webp "Nightly London shot using ProCamera Low Light Mode.")
 
 ## Overview of photography related features of ProCamera App
 
@@ -110,7 +110,7 @@ Just tap the *“**48**”* button to toggle the resolution.
 
 Hidden Feature: If you tap the lens selector of the main camera lens once, you'll get a 2x digital zoom that supports the 48-megapixels resolution.
 
-![ProCamera's 2x digital zoom supports 48 megapixels](/images/reviews/general/procamera-48-megapixels-digital-zoom.webp)
+![ProCamera's 2x digital zoom supports 48 megapixels](/images/reviews/general/procamera-48-megapixels-digital-zoom.webp "ProCamera's 2x digital zoom supports 48 megapixels.")
 
 As you can see from the screenshot, the 48-megapixel button is still enabled for the 2x digital zoom.
 
@@ -120,7 +120,7 @@ Combined with ISO priority mode, this is a true killer feature of ProCamera App.
 
 If you use the anti-shake shutter release, ProCamera will only trigger the shutter if you hold your camera perfectly steady. You can manually set the anti-shake shutter release's sensitivity under *settings* -> *stabilization*.
 
-![Votiv Church shot using ProCamera App using anti-shake shutter release](/images/reviews/general/votiv-church-shot-using-procamera-app-using-anti-shake-shutt.webp)
+![Votiv Church shot using ProCamera App using anti-shake shutter release](/images/reviews/general/votiv-church-shot-using-procamera-app-using-anti-shake-shutt.webp "Votiv Church shot using ProCamera App using anti-shake shutter release.")
 
 I took the above photo in manual mode, ISO set to 25, and the shutter speed set to 1/15th. With an anti-shake shutter release, ProCamera waited until I held the camera steady and stable and only then took the photo.
 
@@ -128,14 +128,14 @@ So this feature will help you get tack-sharp photos even with longer exposure ti
 
 The anti-shake shutter release is the secondary shutter release to the right of the main shutter release button:
 
-![Anti-shake shutter release in ProCamera App](/images/reviews/general/anti-shake-shutter-release-in-procamera-app.webp)
+![Anti-shake shutter release in ProCamera App](/images/reviews/general/anti-shake-shutter-release-in-procamera-app.webp "Anti-shake shutter release in ProCamera App.")
 
 If you don't see the anti-shaker shutter release, you have to enable it:
 
 * Tap the menu icon in the lower-right corner
 * Instead of the self-timer, choose the anti-shake shutter release by tapping it
 
-![Secondary shutter release setting in ProCamera App](/images/reviews/general/secondary-shutter-release-setting-in-procamera-app.webp)
+![Secondary shutter release setting in ProCamera App](/images/reviews/general/secondary-shutter-release-setting-in-procamera-app.webp "Secondary shutter release setting in ProCamera App.")
 
 ### ProCamera Low Light Modes
 
@@ -145,7 +145,7 @@ When using Pro Camera App's low light modes, the app basically takes several pho
 
 Great if you want to take photos in a really dark environment, like this one I took of nightly London from the Shard.
 
-![London at night as seen from the Shard. Shot on ProCamera App using Night Mode](/images/cityscapes/england/view-from-the-shard-london.webp)
+![London at night as seen from the Shard. Shot on ProCamera App using Night Mode](/images/cityscapes/england/view-from-the-shard-london.webp "London at night as seen from the Shard. Shot on ProCamera App using Night Mode.")
 
 ### Shooting RAW with ProCamera App
 
@@ -163,7 +163,7 @@ To select the file format and if you want to shoot in classic RAW or ProRAW in t
 2. Now tap *Format* in the lower-left corner of the panel. A popup will appear.
 3. Select the desired file format for saving your photo.
 
-![File Format selector in ProCamera App](/images/reviews/general/procamera-file-format-selector.webp)
+![File Format selector in ProCamera App](/images/reviews/general/procamera-file-format-selector.webp "File Format selector in ProCamera App.")
 
 ## The ProCamera User Interface
 
@@ -171,7 +171,7 @@ At first impression, the ProCamera user interface may look cluttered. Once you'v
 
 So, let's start at the bottom area of the screen.
 
-![ProCamera User Interface (bottom)](/images/reviews/general/procamera-user-interface-bottom.webp)
+![ProCamera User Interface (bottom)](/images/reviews/general/procamera-user-interface-bottom.webp "ProCamera User Interface (bottom).")
 
 From top left to bottom right, you'll find:
 
@@ -195,7 +195,7 @@ Alternatively, swipe left in the shooting mode selector and tap the three button
 
 At the top of the screen, you'll see the current camera settings that you can adjust if you've enabled the proper shooting mode, like "M" for manual.
 
-![ProCamera User Interface (top)](/images/reviews/general/procamera-user-interface-top.webp)
+![ProCamera User Interface (top)](/images/reviews/general/procamera-user-interface-top.webp "ProCamera User Interface (top).")
 
 From the top left to the middle right, you'll find:
 
@@ -208,7 +208,7 @@ From the top left to the middle right, you'll find:
 
 If you feel the user interface is too cluttered, change it! Tap the options button in the lower right corner of the screen and find the user interface button; it's the last one in the panel that pops up. Tap it to reveal a pop-up from which you can choose between a puristic (light), medium, or standard user interface.
 
-![ProCamera Main Menu](/images/reviews/general/procamera-main-menu.webp)
+![ProCamera Main Menu](/images/reviews/general/procamera-main-menu.webp "ProCamera Main Menu.")
 
 Depending on the selected shooting mode, you'll see fewer options than in the screenshot above. Each setting here works as a toggle switch. If a setting is white, it's turned off or set to auto. If it's blue, it's enabled. Repeatedly tap each of the options to choose a different setting. Here's what each option does, from the top left to the bottom right:
 

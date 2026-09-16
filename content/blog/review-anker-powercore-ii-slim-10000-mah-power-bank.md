@@ -37,9 +37,9 @@ The hard facts of my new slim Anker power bank compared to my previous 10.000 mA
 
 Your mileage may vary, but for me, that’s a win for the Anker PowerCore II Slim power bank. I can easily live without the second charging port.
 
-![Anker PowerCore II Slim 10.000 mAh in front vs. AmazonBasics power bank in the back](/images/reviews/general/anker-powercore-ii-slim-10-000-mah-in-front-vs-amazonbasics.webp)
+![Anker PowerCore II Slim 10.000 mAh in front vs. AmazonBasics power bank in the back](/images/reviews/general/anker-powercore-ii-slim-10-000-mah-in-front-vs-amazonbasics.webp "Anker PowerCore II Slim 10.000 mAh in front vs. AmazonBasics power bank in the back.")
 
-![Anker PowerCore II Slim 10.000 mAh in the front and AmazonBasics power bank in the back](/images/reviews/general/anker-powercore-ii-slim-10-000-mah-in-the-front-and-amazonba.webp)
+![Anker PowerCore II Slim 10.000 mAh in the front and AmazonBasics power bank in the back](/images/reviews/general/anker-powercore-ii-slim-10-000-mah-in-the-front-and-amazonba.webp "Anker PowerCore II Slim 10.000 mAh in the front and AmazonBasics power bank in the back.")
 
 To give you another idea about the size of the slim Anker power bank:
 

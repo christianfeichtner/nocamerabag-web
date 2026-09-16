@@ -48,11 +48,11 @@ Let’s take a look at the features of the Neewer iPhone Cage in more detail and
 
 I’ve used the Neewer iPhone Cage during my road trip through Ireland and in two lost places. Here are some sample photos I took while using this rig.
 
-![Kerry Cliffs, Ireland](/images/reviews/general/kerry-cliffs-ireland.webp)
+![Kerry Cliffs, Ireland](/images/reviews/general/kerry-cliffs-ireland.webp "Kerry Cliffs, Ireland.")
 
-![Abandoned control room, Berlin](/images/reviews/general/collapsed-control-room.webp)
+![Abandoned control room, Berlin](/images/reviews/general/collapsed-control-room.webp "Abandoned control room, Berlin.")
 
-![Abandoned hangar, Berlin](/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg)
+![Abandoned hangar, Berlin](/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg "Abandoned hangar, Berlin.")
 
 The cage was especially useful when taking the photos at the carry cliffs during a windy condition. I also loved that I could attach a light to the rig that helped me to take photos in an abandoned bunker in total darkness.
 
@@ -92,7 +92,7 @@ The Neewer iPhone cage weighs just 135g. I’ve never noticed this additional we
 
 The Neewer iPhone cage has a total of 10 (!) standard ¼ inch screw holes. There are three at the bottom and top (long side) of the cage and two on each (short) side of the cage.
 
-![Neewer iPhone cage (for iPhone 16 Pro Max)](/images/reviews/general/neewer-iphone-cage.webp)
+![Neewer iPhone cage (for iPhone 16 Pro Max)](/images/reviews/general/neewer-iphone-cage.webp "Neewer iPhone cage (for iPhone 16 Pro Max).")
 
 So you can attach plenty of iPhone photo accessories to it, as the ¼ inch screw is a pretty standard size for photo accessories.
 
@@ -104,13 +104,13 @@ Next to the lower-right corner of the cage is a recess for attaching a wrist str
 
 This way, you can mount the wrist strap to any of the other 10 standard ¼ screw holes.
 
-![Two ways to attach a wrist strap to the Neewer iPhone Cage](/images/reviews/general/wrist-strap-attached-to-neewer-iphone-cage.webp)
+![Two ways to attach a wrist strap to the Neewer iPhone Cage](/images/reviews/general/wrist-strap-attached-to-neewer-iphone-cage.webp "Two ways to attach a wrist strap to the Neewer iPhone Cage.")
 
 ### Attach two grips to the iPhone cage
 
 Because of the 10 ¼ inch screw holes, you can attach two grips to the Neewer cage. I used that often during my trip to Ireland. Because of the wind, especially at the cliffs, I simply couldn’t use a tripod.
 
-![Neewer iPhone Cage with two grips attached](/images/reviews/general/neewer-iphone-cage-with-two-grips.webp)
+![Neewer iPhone Cage with two grips attached](/images/reviews/general/neewer-iphone-cage-with-two-grips.webp "Neewer iPhone Cage with two grips attached.")
 
 By attaching two grips, I could hold my iPhone tightly and steadily even during blustery conditions. Best of all, you can buy a grip directly from Neewer that comes with a Bluetooth shutter release. That’s the right grip in the above photo. You’ll need to charge it using USB-C. Any power bank will work.
 
@@ -124,7 +124,7 @@ As you can see on the image in the last chapter, the iPhone cage has a cold shoe
 
 When I’m photographing in a lost place, I tried several video lights with MagSafe mounts in the past. They didn’t convince me. The magnets were so weak, that the light fell off easily. Especially when I had the iPhone dangling from my wrist because I needed to use my flashlight.
 
-![Neewer iPhone cage with wrist-strap, light and grip with remote shutter release](/images/reviews/general/newer-iphone-cage-with-light-and-grip.webp)
+![Neewer iPhone cage with wrist-strap, light and grip with remote shutter release](/images/reviews/general/newer-iphone-cage-with-light-and-grip.webp "Neewer iPhone cage with wrist-strap, light and grip with remote shutter release.")
 
 With one of the 10 ¼ inch screws, you can attach one (if not multiple) video lights to illuminate the darkest areas of lost places (or wherever you take photos with iPhone).
 
@@ -138,7 +138,7 @@ If you use or plan to use third-party lenses, the Neewer iPhone cage has you cov
 
 The iPhone 17 Pro Max version of the Neewer camera cage comes with a protective rubber inlay that you can easily remove. It's the orange part you can see in at the top of this image.
 
-![Protective rubber (orange) for the iPhone camera button](/images/reviews/general/neewer-iphone-cage-button.webp)
+![Protective rubber (orange) for the iPhone camera button](/images/reviews/general/neewer-iphone-cage-button.webp "Protective rubber (orange) for the iPhone camera button.")
 
 I'll probably never remove it, because I rarely use the iPhone camera button. And if I use the camera cage, I usually have the handle with the remote shutter release button attached.
 
@@ -146,7 +146,7 @@ I'll probably never remove it, because I rarely use the iPhone camera button. An
 
 The Neewer iPhone cage is simple to use. Open the flap on the left, slide your iPhone into the Neewer cage and close it. There’s a small locking bolt to lock the flap and to prevent the iPhone from falling out.
 
-![Neewer iPhone cage with openend flap to insert iPhone](/images/reviews/general/cage-flap.webp)
+![Neewer iPhone cage with openend flap to insert iPhone](/images/reviews/general/cage-flap.webp "Neewer iPhone cage with openend flap to insert iPhone.")
 
 ## Summary and would I buy it again?
 

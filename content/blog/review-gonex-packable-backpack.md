@@ -57,7 +57,7 @@ I tested a few packable backpacks that I could fold into an extra bag that came 
 
 Gonex solved this cleverly for their packable backpack. To pack it, fold it into its own outside pocket.
 
-![Gonex packable Backpack packs into itself](/images/reviews/general/gonex-packable-backpack-packs-into-itself.webp)
+![Gonex packable Backpack packs into itself](/images/reviews/general/gonex-packable-backpack-packs-into-itself.webp "Gonex packable Backpack packs into itself.")
 
 ### How to fold the Gonex packable backpack
 
@@ -86,7 +86,7 @@ The Gonex packable backpack has broad shoulder straps that are even slightly pad
 
 A really cool feature is the two rings at the shoulder straps. I haven't seen anything similar on other foldable backpacks. I use them really often to attach things like additional water when it's hot, and even gear like the tripod, when it's folded.
 
-![Mounting Rings and sternum strap on the Gonex packable Backpack](/images/reviews/general/mounting-rings-and-sternum-strap-on-the-gonex-packable-backp.webp)
+![Mounting Rings and sternum strap on the Gonex packable Backpack](/images/reviews/general/mounting-rings-and-sternum-strap-on-the-gonex-packable-backp.webp "Mounting Rings and sternum strap on the Gonex packable Backpack.")
 
 Finally, you get a sternum belt and even an emergency whistle that's built into one of the clips. But I wouldn't rely on that too much in case of an emergency. I believe that even a squirrel makes more noise than this whistle.
 
@@ -98,7 +98,7 @@ The Gonex packable backpack also has two side straps that you can use in several
 * To hold a larger bottle of water in the mesh pockets
 * Or even to carry your tripod as I've outlined above.
 
-![Sidestraps on the Gonex packable Backpack can be used in a variety of ways](/images/reviews/general/sidestraps-on-the-gonex-packable-backpack-can-be-used-in-a-v.webp)
+![Sidestraps on the Gonex packable Backpack can be used in a variety of ways](/images/reviews/general/sidestraps-on-the-gonex-packable-backpack-can-be-used-in-a-v.webp "Sidestraps on the Gonex packable Backpack can be used in a variety of ways.")
 
 ## Gonex claims, that the packable backpack has a Volume of 35L
 

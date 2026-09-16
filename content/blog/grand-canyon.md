@@ -16,7 +16,7 @@ cover:
   alt: Flying into the Grand Canyon with Maverick Helicopters
 ---
 
-![Get a beautiful view into the Grand Canyon from the Sky Walk; (cc) by-nc squics.com](/images/landscapes/usa/grand-canyon-shot-on-iphone-5-2.webp)
+![Get a beautiful view into the Grand Canyon from the Sky Walk; (cc) by-nc squics.com](/images/landscapes/usa/grand-canyon-shot-on-iphone-5-2.webp "Get a beautiful view into the Grand Canyon from the Sky Walk; (cc) by-nc squics.com.")
 
 It was populated more than 3000 years ago and is estimated to be more than 5.000.000 years old. It's a breathtaking natural monument. If you get the chance I recommend to book a helicopter flight. It's breathtaking.
 

@@ -33,13 +33,13 @@ It's basically a “stick”, 6 inch long and with a diameter of 1 inch. It come
 
 The clamps are opened and closed using a thumb screw at the top and it works with smartphones of almost all sizes. Even with the big iPhone 7plus I use. The clamps have a layer of thick rubber on them to avoid damaging the precious phone and they’re big enough so I don’t need to remove the Apple leather case.
 
-![ShoulderPod S1 iPhone Grip with Wriststrap](/images/reviews/general/shoulderpod-s1-iphone-grip-with-wriststrap.webp)
+![ShoulderPod S1 iPhone Grip with Wriststrap](/images/reviews/general/shoulderpod-s1-iphone-grip-with-wriststrap.webp "ShoulderPod S1 iPhone Grip with Wriststrap.")
 
 It comes with a broad and long wrist strap that’s attached to the lower quarter. The wrist strap is long enough to allow me to comfortably hold the iPhone for taking pictures.
 
 And, if you unscrew the bottom part, the ShoulderPod S1 doubles as tripod mount that works great as long as your tripod has a standard mounting screw like the [AmazonBasics Travel Tripod](/blog/review-amazon-basics-travel-tripod) or the [Joby Gorillapod](/blog/review-joby-gorillapod-magnetic).
 
-![Unscrew the bottom part and the ShoulderPod S1 works as a Tripod Mount](/images/reviews/general/unscrew-the-bottom-part-and-the-shoulderpod-s1-works-as-a-tr.webp)
+![Unscrew the bottom part and the ShoulderPod S1 works as a Tripod Mount](/images/reviews/general/unscrew-the-bottom-part-and-the-shoulderpod-s1-works-as-a-tr.webp "Unscrew the bottom part and the ShoulderPod S1 works as a Tripod Mount.")
 
 If you’re following me on [Instagram](http://instagram.com/nocamerabag) you may have seen that I went on a snow shoe hike at the Rax, a mountain range near Vienna. I used the SholderPod S1 there together with a pair of smartphone gloves [[Amazon Link](aff:smartphone-gloves)]. This combination makes photographing in cold conditions with an iPhone bearable.
 

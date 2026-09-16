@@ -29,11 +29,11 @@ So innovative developers came up with ideas to simulate a slow shutter on iPhone
 
 Before I talk about the apps I use, let's have a look at a few sample long exposure photos I've taken with different apps and different iPhone models
 
-![40 second long exposure taken with Slow Shutter Cam App](/images/tutorials/general/london-eye-long-exposure.webp)
+![40 second long exposure taken with Slow Shutter Cam App](/images/tutorials/general/london-eye-long-exposure.webp "40 second long exposure taken with Slow Shutter Cam App.")
 
-![Flowing water captured with Reeheld Camera App](/images/tutorials/general/devils-mouth-cascais.webp)
+![Flowing water captured with Reeheld Camera App](/images/tutorials/general/devils-mouth-cascais.webp "Flowing water captured with Reeheld Camera App.")
 
-![Long exposure of a train entering a tunnel converted from a Live Photo](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp)
+![Long exposure of a train entering a tunnel converted from a Live Photo](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp "Long exposure of a train entering a tunnel converted from a Live Photo.")
 
 Now, let's have a look at the camera apps, and the first is Slow Shutter Cam App
 
@@ -51,7 +51,7 @@ You can learn more about the different shooting modes and about Slow Shutter Cam
 
 To demonstrate the capabilities of Slow Shutter Camera App, here's a 40-second long exposure photo of the London Eye. I captured this long exposure of the ferris wheel using an iPhone 6S.
 
-![40 Second long exposure of the London Eye shot using Slow Shutter Cam App and iPhone 6](/images/tutorials/general/london-eye-long-exposure.webp)
+![40 Second long exposure of the London Eye shot using Slow Shutter Cam App and iPhone 6](/images/tutorials/general/london-eye-long-exposure.webp "40 Second long exposure of the London Eye shot using Slow Shutter Cam App and iPhone 6.")
 
 But there's even more that you can do with Slow Shutter Cam App. You can adjust the motion blur intensity of your long exposure after you took the photo. Try that with a DSLR! I've also covered this feature in my review.
 
@@ -67,7 +67,7 @@ Apple introduced Live Photos with the iPhone 6S. When taking a Live Photo, the i
 
 Since iOS 11, you can convert such a 3-second Live Photo video clip to a long exposure photo. The results are pretty neat. Here's an example of such a Live Photo I converted to a long exposure using an iPhone 11 Pro.
 
-![Live Photo Long Exposure of a streetcar entering a tunnel taken with iPhone 11 Pro](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp)
+![Live Photo Long Exposure of a streetcar entering a tunnel taken with iPhone 11 Pro](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp "Live Photo Long Exposure of a streetcar entering a tunnel taken with iPhone 11 Pro.")
 
 tend to use Live Photos for long exposure photography in good light conditions, and if I don't want to use my tripod because Live Photos use the iPhone's image stabilization. To learn more, check my tutorial about [how to convert a live photo to a long exposure](/blog/live-photo-to-long-exposure).
 
@@ -85,7 +85,7 @@ Reeheld camera app is a pretty new camera app for long exposure photography. Wha
 
 In other words: Reeheld camera app delivers the best of the two worlds. 30 second long exposures should be sufficient for many cases and you won't need a tripod. A calm hand is enough.
 
-![Long exposure of flowing water taken with Reeheld Camera App and iPhone 14 Pro](/images/tutorials/general/devils-mouth-cascais.webp)
+![Long exposure of flowing water taken with Reeheld Camera App and iPhone 14 Pro](/images/tutorials/general/devils-mouth-cascais.webp "Long exposure of flowing water taken with Reeheld Camera App and iPhone 14 Pro.")
 
 The app itself is pretty simple, which I like. Just set the shutter speed and press the shutter release. That's it. I've written a pretty extensive [review about Reeheld camera app](/blog/review-reeheld-camera-app) in the blog.
 

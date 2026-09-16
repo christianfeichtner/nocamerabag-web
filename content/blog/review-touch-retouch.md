@@ -32,13 +32,13 @@ In 2021 AdvaSoft released a significant update of TouchRetouch: Version 5. So it
 
 Before I start with my TouchRetouch 5 review, here are a few sample photos I edited using the various versions of TouchRetouch.
 
-![National Monument Edinburgh (unretouched)](/images/reviews/general/national-monument-edinburgh-unretouched.webp)
+![National Monument Edinburgh (unretouched)](/images/reviews/general/national-monument-edinburgh-unretouched.webp "National Monument Edinburgh (unretouched).")
 
-![Skogafoss Iceland (unretouched)](/images/reviews/general/skogafoss-iceland-unretouched.webp)
+![Skogafoss Iceland (unretouched)](/images/reviews/general/skogafoss-iceland-unretouched.webp "Skogafoss Iceland (unretouched).")
 
-![National Monument Edinburgh retouched](/images/reviews/general/national-monument-edinburgh-retouched.webp)
+![National Monument Edinburgh retouched](/images/reviews/general/national-monument-edinburgh-retouched.webp "National Monument Edinburgh retouched.")
 
-![Skogafoss Iceland retouched using Touch Retouch](/images/portfolio/general/skogafoss-iphone6-plus.webp)
+![Skogafoss Iceland retouched using Touch Retouch](/images/portfolio/general/skogafoss-iphone6-plus.webp "Skogafoss Iceland retouched using Touch Retouch.")
 
 ## Features of TouchRetouch
 
@@ -49,7 +49,7 @@ Touch Retouch is an app that does one thing and does it very well. It helps you 
 * Removal of meshes like fences. That's a new feature of TouchRetouch 5.0
 * A clone stamp tool
 
-![TouchRetouch main screen containing the four key features](/images/reviews/general/touchretouch-main-screen-containing-the-four-key-features.webp)
+![TouchRetouch main screen containing the four key features](/images/reviews/general/touchretouch-main-screen-containing-the-four-key-features.webp "TouchRetouch main screen containing the four key features.")
 
 What I like most about version 5 is that the object removal brush is now object-aware and can detect edges. So no more fiddling if you need to remove an object close to another person or object. Also new in TouchRetouch version 5 is the undo brush. Use it to selectively recover removed areas in your photo.
 
@@ -59,7 +59,7 @@ Let's have a look at the Touch features one by one.
 
 The first way to remove people or objects from a photo is the objects removal brush. Using the object removal brush, you just paint over an object you want to remove. TouchRetouch will highlight the painted with a green overlay.
 
-![The brush of the object removal feature](/images/reviews/general/the-brush-of-the-object-removal-feature.webp)
+![The brush of the object removal feature](/images/reviews/general/the-brush-of-the-object-removal-feature.webp "The brush of the object removal feature.")
 
 If you paint using the removal brush, Touch Retouch will display a magnifying window in the upper left corner that'll help you to properly paint over the object you want to remove. But I'll rarely look at this window because I prefer to pinch to zoom into the image. For me, that works much better than looking at the small magnifying window.
 
@@ -70,17 +70,17 @@ Before you start painting over an object, decide if you want to use the object r
 
 To switch between automatic and manual mode, tap the button in the lower right corner.
 
-![Google automatic and manual mode in the object removal tool](/images/reviews/general/google-automatic-and-manual-mode-in-the-object-removal-tool.webp)
+![Google automatic and manual mode in the object removal tool](/images/reviews/general/google-automatic-and-manual-mode-in-the-object-removal-tool.webp "Google automatic and manual mode in the object removal tool.")
 
 If the removal process didn't work as expected, tap the undo button at the top of the screen or use the eraser brush to recover areas you don't want to remove.
 
-![How to undo and object removal in TouchRetouch](/images/reviews/general/how-to-undo-and-object-removal-in-touchretouch.webp)
+![How to undo and object removal in TouchRetouch](/images/reviews/general/how-to-undo-and-object-removal-in-touchretouch.webp "How to undo and object removal in TouchRetouch.")
 
 New in TouchRetouch version 5 is the object-aware mode that you can turn on by tapping *settings* and enabling *object aware algorithm*. Now, if you paint over an object, TouchRetouch tries to detect the object you're removing and will produce much better results.
 
 Instead of using the object removal brush, TouchRetouch also offers a lasso tool. To use it, draw a line around the object you want to remove and make sure to close the line. Once you complete the lasso, TouchRetouch will select everything inside the lasso for removal. Now, press *go* if you're in manual mode or lift your finger if you're in automatic mode.
 
-![TouchRetouch lasso tool for object removal](/images/reviews/general/touchretouch-lasso-tool-for-object-removal.webp)
+![TouchRetouch lasso tool for object removal](/images/reviews/general/touchretouch-lasso-tool-for-object-removal.webp "TouchRetouch lasso tool for object removal.")
 
 You may have wondered where to find the quick repair tool? AdvaSoft integrated it into the object removal tool! If you want to mimic the behavior of the quick repair tool, just enable automatic mode in the object removal tool. TouchRetouch will remove the object as soon as you select it and lift your finger from the screen.
 
@@ -88,7 +88,7 @@ You may have wondered where to find the quick repair tool? AdvaSoft integrated i
 
 To remove lines like power lines, ropes, or any other line, tap the *Line Removal* tool on the main screen. Next, tap *Line* in the bottom toolbar and draw along the line you want to remove. You don't have to draw over the line exactly - drawing along the line is enough. Though retouch will detect the line and select it by masking it green.
 
-![TouchRetouch line removal tool](/images/reviews/general/touchretouch-line-removal-tool.webp)
+![TouchRetouch line removal tool](/images/reviews/general/touchretouch-line-removal-tool.webp "TouchRetouch line removal tool.")
 
 Use the slide *Line Thickness* at the bottom to increase or decrease the selected (masked) line.
 
@@ -96,7 +96,7 @@ Once you've selected a line, you'll see dragging points tat at the end of each l
 
 Like the object removal tool, you can use the line removal tool in automatic or manual mode by tapping the button in the lower right corner. If you're in manual mode (which I prefer), press *Go*, and the lines are gone.
 
-![Lines removed using the TouchRetouch line removal tool](/images/reviews/general/lines-removed-using-the-touchretouch-line-removal-tool.webp)
+![Lines removed using the TouchRetouch line removal tool](/images/reviews/general/lines-removed-using-the-touchretouch-line-removal-tool.webp "Lines removed using the TouchRetouch line removal tool.")
 
 ### Mesh Removal Tool
 
@@ -106,27 +106,27 @@ As an example, let's free the bunny.
 
 I opened the photo in Touch Retouch and taped *Mesh* on the main screen. Now TouchRetouch tries to find the lines of the mesh. As you can see in the following, it detected the mesh quite well - with a few exceptions.
 
-![The mesh removal tool tries to detect meshes in a photo automatically](/images/reviews/general/the-mesh-removal-tool-tries-to-detect-meshes-in-a-photo-auto.webp)
+![The mesh removal tool tries to detect meshes in a photo automatically](/images/reviews/general/the-mesh-removal-tool-tries-to-detect-meshes-in-a-photo-auto.webp "The mesh removal tool tries to detect meshes in a photo automatically.")
 
 To fix the areas that the mesh removal tool didn't detect properly, you can use the *Eraser* to remove selected areas and the *Paint* tool to select areas that the algorithm missed.
 
-![Mesh selection fixed using the brush and eraser tools](/images/reviews/general/mesh-selection-fixed-using-the-brush-and-eraser-tools.webp)
+![Mesh selection fixed using the brush and eraser tools](/images/reviews/general/mesh-selection-fixed-using-the-brush-and-eraser-tools.webp "Mesh selection fixed using the brush and eraser tools.")
 
 Once you're done, tap *Go*, and the mesh is removed - and the bunny is now free.
 
-![Mesh removed](/images/reviews/general/mesh-removed.webp)
+![Mesh removed](/images/reviews/general/mesh-removed.webp "Mesh removed.")
 
 ### Clone Stamp Tool
 
 The clone stamp is basically the opposite of the object removal tool. By using the clone stamp, you select an area from the image and use a brush to paint the selected area over another area. Tap *Clone Stamp* from the main screen to use the clone stamp.
 
-![TouchRetouch clone stamp tool](/images/reviews/general/touchretouch-clone-stamp-tool.webp)
+![TouchRetouch clone stamp tool](/images/reviews/general/touchretouch-clone-stamp-tool.webp "TouchRetouch clone stamp tool.")
 
 In the photo in the above screenshot, you'll see a traffic sign that's partially overgrown in the lower right corner. It's impossible to remove that traffic sign using the object removal tool. So, I'll use the clone stamp to draw more leaves over it.
 
 Before using the clone stamp, you have to select the source area for the clone stamp.
 
-![Select the source area for the clone stamp](/images/reviews/general/select-the-source-area-for-the-clone-stamp.webp)
+![Select the source area for the clone stamp](/images/reviews/general/select-the-source-area-for-the-clone-stamp.webp "Select the source area for the clone stamp.")
 
 Next, I'll paint over the traffic sign. The clone stamp source area will follow as I paint, taking the pixels from the source area and painting them over the traffic sign. By tapping the *Mirroring* button, you can select if the source area follows the same direction as you paint or if you want the source area to move in an opposite direction (mirroring).
 
@@ -134,7 +134,7 @@ Pro Tip: Change the source area a few times while painting over an object.
 
 By changing the source area while working on an image, you won't end up with a result like this where you can clearly see that a clone stamp was used - and make sure you paint over everything and don't forget to draw over an area like the traffic light in this photo.
 
-![Sign removed](/images/reviews/general/sign-removed.webp)
+![Sign removed](/images/reviews/general/sign-removed.webp "Sign removed.")
 
 ## Alternatives for Touch Retouch
 

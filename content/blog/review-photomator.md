@@ -85,7 +85,7 @@ One of the main reasons I turned to Photomator instead of other Lightroom altern
 
 You can see these main menu items in the following screenshot. I’ve added a dashed line around them.
 
-![Photomator User Interface](/images/reviews/general/photomator-user-interface.webp)
+![Photomator User Interface](/images/reviews/general/photomator-user-interface.webp "Photomator User Interface.")
 
 At the bottom (on iPhone) or on the right side (on iPad) you get the adjustment panels once you tap the proper main menu item. You can simply turn them on if you want to use them or turn them off. If you turn them off, they’re collapsed and do not consume much screen real estate.
 
@@ -101,7 +101,7 @@ One of the most important features for me is to be able to use a “selective ma
 
 You can either create a selective mask using machine learning by asking Photomator to select the sky, the main subject or a color range. Here’s a screenshot illustrating how Photmator created a selective mask for the main subject of the photo. The mask is highlighted in red.
 
-![Seletive mask in Photomator](/images/reviews/general/photomator-selective-masks.webp)
+![Seletive mask in Photomator](/images/reviews/general/photomator-selective-masks.webp "Seletive mask in Photomator.")
 
 Once you’ve created a selective mask and scroll down the adjustments panel, you’ll always see a small drop-down on the left. In the screenshot above, it says “subject”. From this drop-down, you can easily select the mask or the entire image if you’ve created multiple masks. This makes switching masks and applying adjustments to different parts of the photo so easy.
 
@@ -117,7 +117,7 @@ Just like in Lightroom Mobile, the adjustments are grouped. You can see the adju
 
 If you tap the “ML-Button”, Photomator will apply suggested adjustments from the adjustment group to the photo or mask (if selected). That’s a great starting point for your edits.
 
-![Adjustment groups in Photomator](/images/reviews/general/adustment-groups-photomator.webp)
+![Adjustment groups in Photomator](/images/reviews/general/adustment-groups-photomator.webp "Adjustment groups in Photomator.")
 
 There’s only one adjustment I miss a little bit, and that is the “dehaze” adjustment that’s available in Lightroom Mobile. But I’ll try to figure out another way how to simulate it and write about it here as soon as I find it.
 
@@ -133,7 +133,7 @@ As I don’t do video editing and thus need no sharable color adjustments file, 
 
 Super Resolution is the one single feature that I’ve been using even while I used Lightroom mobile. By applying super resolution, you’ll basically upscale a photo using machine learning. The results are stunning. Here’s an old photo from a DSLR where I lost the original. I only had a 1024 pixel wide version, and Photomator created a 22 megapixel version of it. I’ve been using this in the past to upscale some older photos and some photos that I print on canvas for my apartment.
 
-![Photomator Super-Resolution](/images/reviews/general/photomator-super-resolution.webp)
+![Photomator Super-Resolution](/images/reviews/general/photomator-super-resolution.webp "Photomator Super-Resolution.")
 
 Instead of uploading the full 22 megapixel photo here, I encourage you to [download Photomator from the App Store](aff:photomator-photo-editor-app) and try that feature yourself during the free trial period.
 
@@ -143,7 +143,7 @@ Denoise is an important feature for me. Especially for denoising the sky in nigh
 
 The machine learning denoise removes the noise very well from large areas like skies and uniform color areas, while keeping the details of the rest intact.
 
-![Denoise your photos using Machine-Learning](/images/reviews/general/ml-denoise-in-photomator.webp)
+![Denoise your photos using Machine-Learning](/images/reviews/general/ml-denoise-in-photomator.webp "Denoise your photos using Machine-Learning.")
 
 Once you’ve applied the machine-learning based denoise from the document menu, you can adjust its intensity in %. You’ll also get a split-screen view with a slider you can use to check all the sensitive areas of your photo to see if the details are still intact.
 

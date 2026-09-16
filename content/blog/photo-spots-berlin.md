@@ -74,7 +74,7 @@ At the top of the Teufelsberg, you’ll find a former NSA listening station. It 
 
 The area is accessible through guided tours. Check the [Teufelsberg Berlin Web-Site](https://teufelsberg-berlin.de) for more details. I’ve written a more detailed blog post about my visit to the [abandoned listening station at Teufelsberg](/blog/abandoned-echolon-outpost-teufelsberg) in the blog.
 
-![Abandoned listening outpost in Berlin. Shot on iPhone 7 Plus](/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp)
+![Abandoned listening outpost in Berlin. Shot on iPhone 7 Plus](/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp "Abandoned listening outpost in Berlin. Shot on iPhone 7 Plus.")
 
 Aside from the abandoned buildings, you’ll be able to see a vast gallery of street art here.
 
@@ -86,7 +86,7 @@ If you want to see and experience the now abandoned Spreepark, you better hurry.
 
 During weekends, you can book guided tours that last around 75 minutes and will take you to the most iconic photo spots in the abandoned amusement park, like the famous Dragonhead of the Spreeblitz Rollercoaster.
 
-![Dragonhead at an abandoned amusement park in Berlin](/images/lost-places/germany/spreeblitz-dragon.webp)
+![Dragonhead at an abandoned amusement park in Berlin](/images/lost-places/germany/spreeblitz-dragon.webp "Dragonhead at an abandoned amusement park in Berlin.")
 
 To see more photos, head over to the blog post about my visit to the [abandoned amusement park in Berlin](/blog/abandoned-spreepark-berlin) in 2022.
 
@@ -94,7 +94,7 @@ To see more photos, head over to the blog post about my visit to the [abandoned 
 
 At the city center, you’ll find the old radio tower of Berlin. It was built between 1924 and 1926 and used until 1973. Most notably about the Berlin Radio Tower is that in 1935, the first worldwide regular TV program was transmitted.
 
-![Old Radio Tower in Berlin. Shot on iPhone XS](/images/cityscapes/germany/old-radio-tower-in-berlin-shot-on-iphone-xs.webp)
+![Old Radio Tower in Berlin. Shot on iPhone XS](/images/cityscapes/germany/old-radio-tower-in-berlin-shot-on-iphone-xs.webp "Old Radio Tower in Berlin. Shot on iPhone XS.")
 
 The tower is beautiful to photograph at night, and you’ll get a great view of the city from the observation platform. If you’re hungry, you'll also find a restaurant up there.
 
@@ -106,7 +106,7 @@ The Victory Column monument was inaugurated in 1873 to commemorate the Prussian 
 
 From a photographers' perspective, there are two excellent photo spots at the Berlin Victory Column. The first one is to take a photo from one of the underpasses, where you can use the stairs and walls as [leading lines](/blog/what-are-leading-lines-photography) to capture the entire column.
 
-![Victory Column Berlin. Shot on iPhone 7 Plus](/images/cityscapes/germany/victory-column-berlin-shot-on-iphone-7-plus.webp)
+![Victory Column Berlin. Shot on iPhone 7 Plus](/images/cityscapes/germany/victory-column-berlin-shot-on-iphone-7-plus.webp "Victory Column Berlin. Shot on iPhone 7 Plus.")
 
 The second photo spot is at the top of the column. You’ll get to enjoy a great view over the city center of Berlin.
 
@@ -118,7 +118,7 @@ Also, there is no elevator. Be prepared to climb 285 stairs.
 
 I got this photo during a photo walk with Trey „the master of HDR“ Ratcliff, who runs the photoblog [StuckinCustoms](https://stuckincustoms.com). We visited the German Chancellery at sunset during his stay in Berlin.
 
-![German Chancellery. Shot on iPhone 7 Plus](/images/iphone-photography/general/federal-chancellery-in-berlin-during-the-holden-hour.webp)
+![German Chancellery. Shot on iPhone 7 Plus](/images/iphone-photography/general/federal-chancellery-in-berlin-during-the-holden-hour.webp "German Chancellery. Shot on iPhone 7 Plus.")
 
 ## Brandenburger Tor
 
@@ -126,7 +126,7 @@ Do I have to say anything about the Brandenburger Tor?
 
 Probably not, as it’s one of the most famous spots in Berlin. When you’re there, unlike all the other tourists, try a different perspective this time.
 
-![18th of March Square. Shot on iPhone 6 Plus](/images/cityscapes/germany/18th-of-march-square-shot-on-iphone-6-plus.webp)
+![18th of March Square. Shot on iPhone 6 Plus](/images/cityscapes/germany/18th-of-march-square-shot-on-iphone-6-plus.webp "18th of March Square. Shot on iPhone 6 Plus.")
 
 There are plenty of signs and streetlamps that will work well as a foreground. Also, it‘s a great photo spot during the blue hour. You can quickly determine when the blue hour stars using a [blue hour calculators](/blog/review-blue-hour-calculators-iphone).
 
@@ -134,13 +134,13 @@ There are plenty of signs and streetlamps that will work well as a foreground. A
 
 While many people flock to the Berlin Cathedral to take pictures, I suggest photographing it from a little further away. For example, I got this photo from across the river, right near the German historical museum.
 
-![Berlin Dome. Shot on iPhone 7 Plus](/images/cityscapes/germany/berlin-dome-shot-on-iphone-7-plus.webp)
+![Berlin Dome. Shot on iPhone 7 Plus](/images/cityscapes/germany/berlin-dome-shot-on-iphone-7-plus.webp "Berlin Dome. Shot on iPhone 7 Plus.")
 
 ## Waterfall at the Victoria Park
 
 You can find a real gem at the Victoria Park in the south of Berlin. It‘s a beautiful park that contains a human-made waterfall.
 
-![Waterfall at Victoria Park in Berlin. Shot on iPhone 7 Plus](/images/cityscapes/germany/waterfall-at-victoria-park-in-berlin-shot-on-iphone-7-plus.webp)
+![Waterfall at Victoria Park in Berlin. Shot on iPhone 7 Plus](/images/cityscapes/germany/waterfall-at-victoria-park-in-berlin-shot-on-iphone-7-plus.webp "Waterfall at Victoria Park in Berlin. Shot on iPhone 7 Plus.")
 
 I took this photo using [Slow Shutter Cam App](/blog/review-slow-shutter-cam-app) and the small [Gorillapod for iPhone](/blog/review-joby-gorillapod-magnetic) that I carry almost all the time.
 

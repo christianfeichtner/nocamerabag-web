@@ -22,7 +22,7 @@ Since I’ve ditched my DSLR and turned to iPhone photography, Ive been trying t
 
 To begin with, here’s an old shot from my DSLR “era”. It’s a long exposure of a ferris wheel at the Prater fairground in Vienna. The difficulty in this shot was to get the exposure right. If the exposure would be too long, I’d simply get a white circle. If it would be too short, it would just look blurry. So I put my DSLR on a tripod and used a wired remote shutter with live view to take this shot. Here’s the processed RAW (developed and edited with Adobe Lightroom Mobile):
 
-![A long exposure of a Ferris wheel shot with a DSLR. We'll apply the same technique to iPhone photography](/images/tutorials/general/a-long-exposure-of-a-ferris-wheel-shot-with-a-dslr-we-ll-ap.webp)
+![A long exposure of a Ferris wheel shot with a DSLR. We'll apply the same technique to iPhone photography](/images/tutorials/general/a-long-exposure-of-a-ferris-wheel-shot-with-a-dslr-we-ll-ap.webp "A long exposure of a Ferris wheel shot with a DSLR. We'll apply the same technique to iPhone photography.")
 
 So now let’s take a look how to take such photos of fairground rides at night with iPhone.
 
@@ -45,7 +45,7 @@ If you’ve set up and configured everything properly, press the shutter release
 
 Here are two photos I took this way. One is a ride called *Tagada*, where people are being jarred and the second one is a capture of London Eye.
 
-![Fairground ride ](/images/portfolio/general/prater-iphone7plus.webp)
+![Fairground ride](/images/portfolio/general/prater-iphone7plus.webp "Fairground ride ”Tagada” photographed at night with iPhone.")
 
 ![A 40 second long exposure of the London Eye at night](/images/reviews/a-long-exposure-of-the-london-eye-shot-on-iphone-6-using-slo.webp "A 40-second long exposure of the London Eye at night.")
 
@@ -58,6 +58,6 @@ Here are two photos I took this way. One is a ride called *Tagada*, where people
 
 Here are two more sample shots that I took in the same way outlined in this post. I’ll updated this article now and then. [Follow me on Facebook] to get notified once I update this post.
 
-![Long exposure of a small Ferris wheel in Vienna. Taken with Slow Shutter Cam App](/images/tutorials/general/long-exposure-of-a-small-ferris-wheel-in-vienna-taken-with.webp)
+![Long exposure of a small Ferris wheel in Vienna. Taken with Slow Shutter Cam App](/images/tutorials/general/long-exposure-of-a-small-ferris-wheel-in-vienna-taken-with.webp "Long exposure of a small Ferris wheel in Vienna. Taken with Slow Shutter Cam App.")
 
-![Long Exposure of a carousel ride photographed at night with iPhone and Slow Shutter Cam App](/images/tutorials/general/long-exposure-of-a-carousel-ride-photographed-at-night-with.webp)
+![Long Exposure of a carousel ride photographed at night with iPhone and Slow Shutter Cam App](/images/tutorials/general/long-exposure-of-a-carousel-ride-photographed-at-night-with.webp "Long Exposure of a carousel ride photographed at night with iPhone and Slow Shutter Cam App.")

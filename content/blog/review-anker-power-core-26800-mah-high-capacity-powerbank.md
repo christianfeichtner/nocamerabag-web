@@ -49,7 +49,7 @@ And that’s exactly the same value mentioned on the website of Anker. So the An
 
 ## The Anker Power Core 26800 powerbank
 
-![Anker Power Core 26800 mAh powerbank](/images/reviews/general/anker-power-core-26800-mah-powerbank.webp)
+![Anker Power Core 26800 mAh powerbank](/images/reviews/general/anker-power-core-26800-mah-powerbank.webp "Anker Power Core 26800 mAh powerbank.")
 
 This powerbank from Anker is currently the „biggest beast“ sold by Anker. I bought it specifically for traveling to:
 

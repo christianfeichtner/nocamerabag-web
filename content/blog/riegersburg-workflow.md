@@ -21,7 +21,7 @@ I spent a few days in the beautiful volcano land in Styria. Styria is also known
 
 ## What can we see in this photo?
 
-![Castle Riegersburg in Styria, Austria](/images/tutorials/general/infinity-pool-iphone-xs.webp)
+![Castle Riegersburg in Styria, Austria](/images/tutorials/general/infinity-pool-iphone-xs.webp "Castle Riegersburg in Styria, Austria.")
 
 The photo shows Castle Riegersburg, a medieval castle that dates back to the 12th century. It's located on top of a dead volcano at the height of 1200 feet. The castle is still maintained. You can visit it and see a massive collection of props from the middle age, most notably is the white room and a quite huge armory, full of armor, lances and other medieval whatnots.
 
@@ -77,7 +77,7 @@ That's it. Then I uploaded the photo right from Adobe Lightroom to Flickr and ev
 
 ## Summary of composition rules, apps, and accessories for this iPhone photo
 
-![Photography composition rules](/images/tutorials/general/photography-composition-rules.webp)
+![Photography composition rules](/images/tutorials/general/photography-composition-rules.webp "Photography composition rules.")
 
 As for the composition rules, I used the following for this photo:
 

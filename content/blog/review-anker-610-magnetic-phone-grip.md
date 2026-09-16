@@ -27,11 +27,11 @@ I bought the Anker 610 Magnetic Phone Grip out of curiosity in 2022. I used it i
 
 The Anker 610 is an unspectacular product. It's basically a magnetic, MagSafe-compatible ring with a smaller fold-out ring inside.
 
-![Anker 610 Magnetic Phone Grip](/images/reviews/general/anker-610-magnetic-grip.webp)
+![Anker 610 Magnetic Phone Grip](/images/reviews/general/anker-610-magnetic-grip.webp "Anker 610 Magnetic Phone Grip.")
 
 To use it, you'll need a MagSafe-compatible iPhone like the iPhone 14. If you use a case for your iPhone, make sure it's also MagSafe compatible, like the Moment iPhone case. You can learn more about this case in my [Moment iPhone case review](/blog/review-moment-photo-case).
 
-![Anker 610 Magnetic Phone Grip attached to my iPhone 14 Pro (with a Moment Case)](/images/reviews/general/anker-610-attached-to-moment-case.webp)
+![Anker 610 Magnetic Phone Grip attached to my iPhone 14 Pro (with a Moment Case)](/images/reviews/general/anker-610-attached-to-moment-case.webp "Anker 610 Magnetic Phone Grip attached to my iPhone 14 Pro (with a Moment Case).")
 
 I used the Anker 610 with an iPhone 13 Pro Max and an iPhone 14 Pro with a Moment iPhone case without any issues.
 

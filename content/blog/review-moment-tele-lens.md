@@ -23,11 +23,11 @@ I originally wrote this review of the Moment Tele Lens back in 2015. A few thing
 
 Here are some sample photos I shot using different iPhone models and different versions of the Moment Tele Lens (click for a larger view):
 
-![St. Stephen’s Basilica (Budapest) shot on iPhone with Moment Telephoto Lens](/images/reviews/st-stephens-basilica-budapest-shot-on-iphone-with-moment.webp)
+![St. Stephen’s Basilica (Budapest) shot on iPhone with Moment Telephoto Lens](/images/reviews/st-stephens-basilica-budapest-shot-on-iphone-with-moment.webp "St. Stephen’s Basilica (Budapest) shot on iPhone with Moment Telephoto Lens.")
 
-![A closeup of a snake shot on iPhone using Moment Telephoto Lens](/images/reviews/general/a-closeup-of-a-snake-shot-on-iphone-using-moment-telephoto-l.webp)
+![A closeup of a snake shot on iPhone using Moment Telephoto Lens](/images/reviews/general/a-closeup-of-a-snake-shot-on-iphone-using-moment-telephoto-l.webp "A closeup of a snake shot on iPhone using Moment Telephoto Lens.")
 
-![Chrysler Building in New York, shot on iPhone using Moment Telephoto Lens](/images/reviews/general/chrysler-building-in-new-york-shot-on-iphone-using-moment-t.webp)
+![Chrysler Building in New York, shot on iPhone using Moment Telephoto Lens](/images/reviews/general/chrysler-building-in-new-york-shot-on-iphone-using-moment-t.webp "Chrysler Building in New York, shot on iPhone using Moment Telephoto Lens.")
 
 In 2018, Moment released the latest version of their tele lens, now called "Moment Tele Lens." The 58mm lens is the equivalent focal length if used over an iPhone XS wide-angle lens.
 
@@ -84,9 +84,9 @@ iPhone owners are probably happy to hear that using the new Moment cases, you ca
 
 Here are two sample shots that I took of the Chrysler Building in New York from the Empire State Building. For the first one, I only used the 2x tele of the iPhone 7 plus. For the second one, I mounted the Moment tele lens right in front of the iPhone 7plus 2x tele lens.
 
-![Chrysler Building photographed from “Top of the Rock” with iPhone 2x Zoom](/images/reviews/general/chrysler-building-photographed-from-top-of-the-rock-with-i.webp)
+![Chrysler Building photographed from “Top of the Rock” with iPhone 2x Zoom](/images/reviews/general/chrysler-building-photographed-from-top-of-the-rock-with-i.webp "Chrysler Building photographed from “Top of the Rock” with iPhone 2x Zoom.")
 
-![Chrysler Building photographed from “Top of the Rock” with iPhone 2x Zoom + Moment Tele using ProCamera App.](/images/reviews/general/chrysler-building-photographed-from-top-of-the-rock-with-i-2.webp)
+![Chrysler Building photographed from “Top of the Rock” with iPhone 2x Zoom + Moment Tele using ProCamera App.](/images/reviews/general/chrysler-building-photographed-from-top-of-the-rock-with-i-2.webp "Chrysler Building photographed from “Top of the Rock” with iPhone 2x Zoom + Moment Tele using ProCamera App.")
 
 Note that this works best with objects that are really far away. If you use the combination of both lenses on a nearby object, the aperture of f/1.8 of the iPhone will cause blur at the edges of the photo. However, this is not a flaw of the Moment Lenses and only due to the f/1.8 aperture of the iPhone.
 

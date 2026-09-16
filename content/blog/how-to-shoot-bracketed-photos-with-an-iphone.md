@@ -17,7 +17,7 @@ cover:
   image: /images/tutorials/an-hdr-created-from-3-exposures-taken-with-645-pro-mk-ii-app.webp
   alt: How to take Bracketed Photos with an iPhone for HDR
 ---
-![An HDR created from 3 exposures taken with 645 Pro MK II App](/images/tutorials/an-hdr-created-from-3-exposures-taken-with-645-pro-mk-ii-app.webp)
+![An HDR created from 3 exposures taken with 645 Pro MK II App](/images/tutorials/an-hdr-created-from-3-exposures-taken-with-645-pro-mk-ii-app.webp "An HDR created from 3 exposures taken with 645 Pro MK II App.")
 
 I was wondering if it’s possible to create good quality HDR photos with the iPhone. The built in camera app creates decent HDR photos and with ProHDR you can take HDR photos step further.
 

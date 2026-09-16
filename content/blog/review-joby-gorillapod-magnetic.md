@@ -44,13 +44,13 @@ I like the Gorillapod for several reasons:
 
 As it's rather small, you often can take it to places where bigger tripods are forbidden. Using a Gorillapod, I took this from the top of the Shard in London, where big tripods are not allowed.
 
-![View from the Shard photography using Gorillapod mounted to handrail](/images/cityscapes/england/view-from-the-shard-london.webp)
+![View from the Shard photography using Gorillapod mounted to handrail](/images/cityscapes/england/view-from-the-shard-london.webp "View from the Shard photography using Gorillapod mounted to handrail.")
 
 You can use a Gorillapod in places where you'd otherwise don't have any room for a big tripod.
 
 It's small and lightweight. So it's a perfect tripod for traveling. Further, it doesn't add bulk if you're out for a day taking pictures. I carry the Gorillapod for iPhone with me all the time. That's how I could take this long exposure during the blue hour just by wrapping the legs around the handrail of the bridge.
 
-![Old ship photographed by mounting Gorillapod magnetic to metal handrail of the bridge](/images/iphone-photography/general/an-abandoned-ship-in-vienna-during-the-blue-hour.webp)
+![Old ship photographed by mounting Gorillapod magnetic to metal handrail of the bridge](/images/iphone-photography/general/an-abandoned-ship-in-vienna-during-the-blue-hour.webp "Old ship photographed by mounting Gorillapod magnetic to metal handrail of the bridge.")
 
 It's a quality product. I have and use my Gorillapod Magnetic for almost seven years now, and it doesn't wear out. The feet are still as strong as on day one.
 
@@ -60,9 +60,9 @@ Lastly, if you take a lot of selfies, the Gorillapod magnetic works great for th
 
 The Gorillapod magnetic is a special version of the standard Gorillapod. It comes with strong magnets at the feet. These magnets are strong enough to hold an iPhone 11 Pro sideways and even upside down like in this lost place:
 
-![Joby Gorillapod Magnetic with iPhone 11 Pro at a lost place](/images/reviews/general/joby-gorillapod-magnetic-with-iphone-11-pro-at-a-lost-place.webp)
+![Joby Gorillapod Magnetic with iPhone 11 Pro at a lost place](/images/reviews/general/joby-gorillapod-magnetic-with-iphone-11-pro-at-a-lost-place.webp "Joby Gorillapod Magnetic with iPhone 11 Pro at a lost place.")
 
-![iPhone 11 with Gorillapod Magnetic attached to a window frame at an abandoned factory](/images/reviews/iphone-11-with-gorillapod-magnetic-attached-to-a-window-fram.webp)
+![iPhone 11 with Gorillapod Magnetic attached to a window frame at an abandoned factory](/images/reviews/iphone-11-with-gorillapod-magnetic-attached-to-a-window-fram.webp "iPhone 11 with Gorillapod Magnetic attached to a window frame at an abandoned factory.")
 
 Once I learned about the magnetic version, I immediately bought it. If you're photographing a lot in cities, the magnetic feet allow you to use any metal structure (and you usually find a lot of these in capitals) as a tripod, like a lamp post.
 

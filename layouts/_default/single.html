@@ -53,7 +53,7 @@
   {{- end }}
   {{- end }}
 
-  {{- if not (.Param "disableComments") }}
+  {{- if and (eq .Section "blog") (not (.Param "disableComments")) (ne (.Param "comments") false) }}
   {{- partial "comments.html" . }}
   {{- end }}
 

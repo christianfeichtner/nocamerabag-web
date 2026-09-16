@@ -32,7 +32,7 @@ Under Settings, you'll find three new entries for the iOS14 camera app, which ar
 2. Mirror Front Camera
 3. Prioritize Faster Shooting
 
-![3 new iOS14 camera app settings](/images/iphone-photography/general/3-new-ios14-camera-app-settings.webp)
+![3 new iOS14 camera app settings](/images/iphone-photography/general/3-new-ios14-camera-app-settings.webp "3 new iOS14 camera app settings.")
 
 ### Use Volume Up for Burst Settings
 
@@ -79,11 +79,11 @@ Exposure compensation is a feature you may know from your DSLR or other iPhone c
 
 To access exposure compensation in the iOS14 camera app, tap the arrow at the top of the screen and then tap the second button on the right, labeled +/-. Now you'll see a dial that allows you to adjust the exposure by -2.0 to +2.0.
 
-![How to access exposure compensation in iOS14 camera app](/images/iphone-photography/general/how-to-access-exposure-compensation-in-ios14-camera-app.webp)
+![How to access exposure compensation in iOS14 camera app](/images/iphone-photography/general/how-to-access-exposure-compensation-in-ios14-camera-app.webp "How to access exposure compensation in iOS14 camera app.")
 
 By moving the dial towards the negative values, your photo will be a bit darker, while moving the slider to the right will brighten your photo.
 
-![iOS14 camera app exposure compensation dial](/images/iphone-photography/general/ios14-camera-app-exposure-compensation-dial.webp)
+![iOS14 camera app exposure compensation dial](/images/iphone-photography/general/ios14-camera-app-exposure-compensation-dial.webp "iOS14 camera app exposure compensation dial.")
 
 But what's the difference to the well-known method of adjusting the exposure by dragging the sun symbol up and down? I've made a few tests, looked at the results and metadata and my findings are:
 
@@ -98,7 +98,7 @@ The second new feature that I discovered is a visual guide when taking a photo u
 
 iPhone may display two crosshairs that tell you to keep your iPhone steady. If these two crosshairs are shown, try to align them.
 
-![iOS 14 night mode guide](/images/iphone-photography/general/ios-14-night-mode-guide.webp)
+![iOS 14 night mode guide](/images/iphone-photography/general/ios-14-night-mode-guide.webp "iOS 14 night mode guide.")
 
 I discovered this new feature by accident during a recent nightly photo walk. If you want to try it, cover the lens, make sure night mode is enabled, take a photo and move the iPhone around.
 
@@ -116,7 +116,7 @@ I discovered only one new feature in the iOS Photo app so far. If you found any 
 
 So, the new feature is that you can now add a caption to each photo.
 
-![iOS 14 caption in Photos App](/images/iphone-photography/general/ios-14-caption-in-photos-app.webp)
+![iOS 14 caption in Photos App](/images/iphone-photography/general/ios-14-caption-in-photos-app.webp "iOS 14 caption in Photos App.")
 
 To add a caption to a photo:
 
@@ -127,11 +127,11 @@ To add a caption to a photo:
 
 If you've already added a caption in e.g., Lightroom Mobile and export the photo to the photos app, then the iOS14 Photos app recognizes the caption and displays it. Moreover, the caption is also used when searching for an image. So, if your caption contains the phrase you've entered in the search box in the Photos App, the photo will show up!
 
-![iOS 14 photo caption displaying in search](/images/iphone-photography/general/ios-14-photo-caption-displaying-in-search.webp)
+![iOS 14 photo caption displaying in search](/images/iphone-photography/general/ios-14-photo-caption-displaying-in-search.webp "iOS 14 photo caption displaying in search.")
 
 Finally, the iOS14 photo sharing options in the Photos App contains a new setting labelled *Captions*. If enabled, the photo will be shared, including the caption. Depending on your privacy needs, you may want to disable this option.
 
-![iOS14 Photo Caption in share sheet](/images/iphone-photography/general/ios14-photo-caption-in-share-sheet.webp)
+![iOS14 Photo Caption in share sheet](/images/iphone-photography/general/ios14-photo-caption-in-share-sheet.webp "iOS14 Photo Caption in share sheet.")
 
 ## Conclusion
 

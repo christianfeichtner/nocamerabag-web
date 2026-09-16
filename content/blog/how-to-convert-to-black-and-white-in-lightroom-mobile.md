@@ -28,11 +28,11 @@ There are some good reasons to convert your photos to black and white. And these
 
 To illustrate the above reasons, here are some black and white sample photos that work way better in black and white than they would do in color. Note that I took the two portrait photos almost a decade ago with a DSLR but include them in here as an example for black and white conversion.
 
-![Black and White Photo of modern Architecture in Vienna](/images/tutorials/general/black-and-white-photo-of-modern-architecture-in-vienna.webp)
+![Black and White Photo of modern Architecture in Vienna](/images/tutorials/general/black-and-white-photo-of-modern-architecture-in-vienna.webp "Black and White Photo of modern Architecture in Vienna.")
 
-![The Saxophone Player looks so much better in Black and White](/images/tutorials/usa/saxophone-player-leading-lines.webp)
+![The Saxophone Player looks so much better in Black and White](/images/tutorials/usa/saxophone-player-leading-lines.webp "The Saxophone Player looks so much better in Black and White.")
 
-![Inverted Pyramid in Bratislava converted to Black and White](/images/tutorials/general/inverted-pyramid-in-bratislava-converted-to-black-and-white.webp)
+![Inverted Pyramid in Bratislava converted to Black and White](/images/tutorials/general/inverted-pyramid-in-bratislava-converted-to-black-and-white.webp "Inverted Pyramid in Bratislava converted to Black and White.")
 
 As Adobe Lightroom Mobile is my main photo editing app, I converted the photos in Adobe Lightroom. It makes it quite easy to convert photos to black and white and even to adjust them afterward. If you're curious why I prefer to use it, I wrote a review if [Adobe Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium) earlier.
 

@@ -32,7 +32,7 @@ By taking a long exposure photo of a waterfall, you'll create a silky water effe
 
 Here's an example of a waterfall photo I took in Berlin. Yes, there's a waterfall in the middle of the city at the Viktoria Park. Learn where to find and about a few places to take great photos it in my blog post about [photo spots in Berlin](/blog/photo-spots-berlin).
 
-![Long exposure photo of a waterfall in Berlin. Shot on iPhone 7 Plus using Slow Shutter Cam App](/images/landscapes/general/long-exposure-waterfall-berlin.webp)
+![Long exposure photo of a waterfall in Berlin. Shot on iPhone 7 Plus using Slow Shutter Cam App](/images/landscapes/general/long-exposure-waterfall-berlin.webp "Long exposure photo of a waterfall in Berlin. Shot on iPhone 7 Plus using Slow Shutter Cam App.")
 
 I took this photo using an iPhone 7 Plus with the Slow Shutter Cam app set to a shutter speed of 2 seconds. To avoid camera shake, I mounted the iPhone to the ultraportable [Gorillapod tripod for iPhone](/blog/review-joby-gorillapod-magnetic).
 
@@ -40,7 +40,7 @@ I took this photo using an iPhone 7 Plus with the Slow Shutter Cam app set to a 
 
 To convey the size of a waterfall, photograph the waterfall from a distance and try to capture people, animals or objects with a known size next to the waterfall. I did that in Ireland to illustrate the sheer size of the Gleninchaquin Waterfall in Kerry
 
-![Gleninchaquin Waterfall in Ireland](/images/landscapes/ireland/gleninchaquin-waterfall-ireland.jpeg)
+![Gleninchaquin Waterfall in Ireland](/images/landscapes/ireland/gleninchaquin-waterfall-ireland.jpeg "Gleninchaquin Waterfall in Ireland.")
 
 Visit my blog post about [photo spots in Ireland](/blog/photo-spots-ireland) to get more inspiration for your next Ireland trip.
 
@@ -52,13 +52,13 @@ If you can't see a rainbow, try to change your perspective, but have your iPhone
 
 To capture the rainbow at the Skógafoss waterfall in Iceland, I had to climb quite a few stairs to get to the top of the hill.
 
-![Rainbow at the Skogafoss waterfall in Iceland. Shot on iPhone 6 Plus.](/images/landscapes/general/rainbow-skogafoss-waterfall-iceland-2.webp)
+![Rainbow at the Skogafoss waterfall in Iceland. Shot on iPhone 6 Plus.](/images/landscapes/general/rainbow-skogafoss-waterfall-iceland-2.webp "Rainbow at the Skogafoss waterfall in Iceland. Shot on iPhone 6 Plus.")
 
 ### Get Behind the Waterfall
 
 Here's another photo I took in Iceland. It's the Seljalandsfoss waterfall. If you look towards the waterfall, there's a small path to the right which takes you on a round trip behind the waterfall. You'll be able to get great photos from there.
 
-![Walk behind a waterfall](/images/landscapes/general/seljalandsfoss-iceland.webp)
+![Walk behind a waterfall](/images/landscapes/general/seljalandsfoss-iceland.webp "Walk behind a waterfall.")
 
 But be careful. Rocks next to waterfalls are usually slippery, and the soil is muddy.
 

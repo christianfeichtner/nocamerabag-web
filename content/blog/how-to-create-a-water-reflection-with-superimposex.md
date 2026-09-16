@@ -48,7 +48,7 @@ Once you‘ve opened the photo in SuperimposeX, we need to duplicate this layer.
 
 * Tap the layer icon in the upper right corner of the screen. It‘s the rightmost icon that looks like a stack of papers.
 
-![Duplicate Layer in SuperimposeX App](/images/tutorials/general/duplicate-layer-in-superimposex-app.webp)
+![Duplicate Layer in SuperimposeX App](/images/tutorials/general/duplicate-layer-in-superimposex-app.webp "Duplicate Layer in SuperimposeX App.")
 
 Now, let‘s duplicate the layer of the photo we just added:
 
@@ -63,7 +63,7 @@ With the layer pane still open, I hide the second layer. You don't need to do th
 
 Now that you've hidden the layer, the eye icon in the lower right corner looks empty.
 
-![Hiding a Layer in SuperimposeX App](/images/tutorials/general/hiding-a-layer-in-superimposex-app.webp)
+![Hiding a Layer in SuperimposeX App](/images/tutorials/general/hiding-a-layer-in-superimposex-app.webp "Hiding a Layer in SuperimposeX App.")
 
 By creating a mask, we remove part of a layer, and the underplaying layer will be visible.
 
@@ -82,7 +82,7 @@ Now we paint over the area that contains the mirror effect. This will effectivel
 * By default, you‘re in brush mode, which is indicated by a "+" and the label *Erase* This means you‘re painting the mask effectively removing pixels from the photo.
 * In *Restore* mode, indicted by a "-," you‘re restoring the original photo.
 
-![Creating a mask in SuperimposeX App](/images/tutorials/general/creating-a-mask-in-superimposex-app.webp)
+![Creating a mask in SuperimposeX App](/images/tutorials/general/creating-a-mask-in-superimposex-app.webp "Creating a mask in SuperimposeX App.")
 
 ## Creating the reflection
 
@@ -96,13 +96,13 @@ To create the reflection, let‘s flip the photo vertically to create the reflec
 * Tap *Transform* in the lower toolbar
 * Several transformations options appear right above. Tap the icon labeled *Flip V*
 
-![Flip a Layer in SuperimposeX App](/images/tutorials/general/flip-a-layer-in-superimposex-app.webp)
+![Flip a Layer in SuperimposeX App](/images/tutorials/general/flip-a-layer-in-superimposex-app.webp "Flip a Layer in SuperimposeX App.")
 
 Using the horizontal or vertical flipping mode works excellent for reflections that are, well, horizontal or vertical. But if you need to create a reflection in any other direction, like diagonal, just rotate the image using one of the blue points with the curved arrow inside.
 
 Now that we have created the reflection, we need to move it into place. While still in transform mode, drag the image straight down until the flipped layer is visible as a reflection.
 
-![Moving a Layer in SuperimposeX App](/images/tutorials/general/moving-a-layer-in-superimposex-app.webp)
+![Moving a Layer in SuperimposeX App](/images/tutorials/general/moving-a-layer-in-superimposex-app.webp "Moving a Layer in SuperimposeX App.")
 
 ### Adjusting the reflection
 
@@ -116,7 +116,7 @@ To reduce the exposure and brightness:
 * Tap *Filter* in the toolbar at the bottom
 * Then tap *Basic*. A pane appears where you can adjust basic settings like exposure, brightness, and contrast. For this shot, I reduced exposure and brightness a bit.
 
-![Applying adjustments to a Layer in SuperimposeX app](/images/tutorials/general/applying-adjustments-to-a-layer-in-superimposex-app.webp)
+![Applying adjustments to a Layer in SuperimposeX app](/images/tutorials/general/applying-adjustments-to-a-layer-in-superimposex-app.webp "Applying adjustments to a Layer in SuperimposeX app.")
 
 Don't be confused by this blue "X" that displayed over the icon. It's only visible once you've created and adjustment and allows you to remove it.
 
@@ -126,11 +126,11 @@ Now let‘s create a slight blur effect to emphasize that this is a reflection i
 * In the toolbar above, tap *Effects*. The toolbar will expand and display a few effect adjustments.
 * From the effects adjustments, tap *Focus*
 
-![Applying blue to make the reflection look more realsistic](/images/tutorials/general/applying-blue-to-make-the-reflection-look-more-realsistic.webp)
+![Applying blue to make the reflection look more realsistic](/images/tutorials/general/applying-blue-to-make-the-reflection-look-more-realsistic.webp "Applying blue to make the reflection look more realsistic.")
 
 Now, you‘ll see a line with a blue dragging point. Drag it down, so it covers and blurs the entire reflection. Now, with the button *Amount* enabled, you can drag the slider until you get the perfect blur effect.
 
-![Adulting the strength of the blur](/images/tutorials/general/adulting-the-strength-of-the-blur.webp)
+![Adulting the strength of the blur](/images/tutorials/general/adulting-the-strength-of-the-blur.webp "Adulting the strength of the blur.")
 
 Once you're done and satisfied, tap the checkmark in the upper right corner of the screen.
 

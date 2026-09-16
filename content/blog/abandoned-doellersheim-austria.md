@@ -33,8 +33,8 @@ So, the two places here to take photos are the ruins of the hospital and the old
 
 If you look carefully into the woods, you may see and discover some remains of former residential houses.
 
-![The remains of the hospital in Döllersheim](/images/lost-places/austria/dollersheim-abandoned-village-in-austria-hospital.webp)
+![The remains of the hospital in Döllersheim](/images/lost-places/austria/dollersheim-abandoned-village-in-austria-hospital.webp "The remains of the hospital in Döllersheim.")
 
-![The abandoned cemetery and church in Döllersheim](/images/lost-places/austria/church-doellersheim.webp)
+![The abandoned cemetery and church in Döllersheim](/images/lost-places/austria/church-doellersheim.webp "The abandoned cemetery and church in Döllersheim.")
 
-![More abandoned structured in the woods at Döllersheim](/images/lost-places/austria/abandoned-building-doellersheim.webp)
+![More abandoned structured in the woods at Döllersheim](/images/lost-places/austria/abandoned-building-doellersheim.webp "More abandoned structured in the woods at Döllersheim.")

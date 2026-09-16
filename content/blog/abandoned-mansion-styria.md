@@ -22,9 +22,9 @@ There was not much space there but I could find a small spot to park the car and
 
 So in 2018 I re-edited the middle RAW exposure of the bracketed shots using Lightroom Mobile on iPad Pro. The first photo gives a quite good impression about the size of this thing.
 
-![Castle ruin Höhenbergen in Carinthia. Discovered by accident](/images/lost-places/austria/castle-ruin-hohenbergen-in-carinthia-discovered-by-accident.webp)
+![Castle ruin Höhenbergen in Carinthia. Discovered by accident](/images/lost-places/austria/castle-ruin-hohenbergen-in-carinthia-discovered-by-accident.webp "Castle ruin Höhenbergen in Carinthia. Discovered by accident.")
 
-![Closeup of castle ruin Höhenbergen in Carinthia.](/images/lost-places/austria/closeup-of-castle-ruin-hohenbergen-in-carinthia.webp)
+![Closeup of castle ruin Höhenbergen in Carinthia.](/images/lost-places/austria/closeup-of-castle-ruin-hohenbergen-in-carinthia.webp "Closeup of castle ruin Höhenbergen in Carinthia.")
 
 Back at the hotel, I did some research and discovered that the ruin I had found was named *Höhenbergen* and was owned by the noble families *Perger von Höhenperg* and *Windischgraetz*. Allegedly a renovation was planned in the 19th century but it never began.
 

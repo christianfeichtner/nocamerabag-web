@@ -59,7 +59,7 @@ After I had put up my tripod a police officer approached me and warned me not to
 
 So here’s this is the first photo I took in Warsaw. By the way, the sign *Kocham Warszawe* means „I love Warsaw“.
 
-![Spire Skyscraper in Warsaw, Poland, photographed with Moment Superfish lens](/images/cityscapes/poland/spire-skyscraper-in-warsaw-poland-photographed-with-moment.webp)
+![Spire Skyscraper in Warsaw, Poland, photographed with Moment Superfish lens](/images/cityscapes/poland/spire-skyscraper-in-warsaw-poland-photographed-with-moment.webp "Spire Skyscraper in Warsaw, Poland, photographed with Moment Superfish lens.")
 
 To get the entire Skyscraper plus the sign inside the frame I used the [Moment Superfish Fisheye Lens](/blog/review-moment-14mm-fisheye-lens). Then I ran the photo through [SKRWT App](/blog/review-skrwt-app) up to fix the perspective distortion, removed a crane using [Touch Retouch App](/blog/review-touch-retouch). Finally, I adjusted a few settings in Lightroom Mobile.
 
@@ -67,7 +67,7 @@ To get the entire Skyscraper plus the sign inside the frame I used the [Moment S
 
 The palace of culture is an iconic landmark in Warsaw and a photogenic one, too. It looks great from each angle and there’s something different on each side of the building: a fountain, a busy road, the huge main entrance and a huge conference hall. So take your time here to find your perfect shot.
 
-![Long exposure of the Palace of Culture using Slow Shutter Cam App](/images/portfolio/general/palace-of-culture-and-science-iphonex.webp)
+![Long exposure of the Palace of Culture using Slow Shutter Cam App](/images/portfolio/general/palace-of-culture-and-science-iphonex.webp "Long exposure of the Palace of Culture using Slow Shutter Cam App.")
 
 For this photo, I positioned myself and the tripod on a small green area between the two lanes of a busy road. After my first encounter with the police at the Spire, I hoped that I could get this shot quickly and leave because I was standing on this small area between two lanes. Worked out.
 

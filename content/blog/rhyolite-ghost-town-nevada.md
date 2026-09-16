@@ -62,13 +62,13 @@ There are plenty of things to do and see in Rhyolite, Nevada, like taking stunni
 
 In 1905, Tom Kelly settled in Rhyolite and built a house from more than 50,000 bottles collected from the 50 saloons in Rhyolite. Allegedly, he used the bottles because he couldn't find any suitable material to construct a house. The Bottle House is one of the iconic photo spots in Rhyolite.
 
-![Tom Kelly’s bottle house in Rhyolite](/images/lost-places/usa/tom-kellys-bottle-house-in-rhyolite.webp)
+![Tom Kelly’s bottle house in Rhyolite](/images/lost-places/usa/tom-kellys-bottle-house-in-rhyolite.webp "Tom Kelly’s bottle house in Rhyolite.")
 
 ### Abandoned Classic Car next to Tom Kelly's Bottle House
 
 You'll also see an abandoned car next to the Bottle House that’s an awesome photo spot. I'm not good at identifying old vehicles, but please sound off in the comments if any of my readers can identify it.
 
-![Old car in Rhyolite](/images/lost-places/usa/old-car-in-rhyolite.webp)
+![Old car in Rhyolite](/images/lost-places/usa/old-car-in-rhyolite.webp "Old car in Rhyolite.")
 
 Once you’ve taken photos of these two photo spots in Rhyolite, Nevada, continue along the road until you read the Porter Brother’s Store. To edit this photo, I used the masking feature of Adobe Lightroom. I created a mask for the car and increased clarity, exposure and shadows of the masked area only. This helped to bring out the details of the classic car a bit more. If you’re curious, please check out my [Review of Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium) and why I use it.
 
@@ -76,7 +76,7 @@ Once you’ve taken photos of these two photo spots in Rhyolite, Nevada, continu
 
 In 1905, the Porter brothers opened a merchant store right across the street from the cook bank. In September 2014, a lightning strike hit this historic building and destroyed it almost completely. Only the stone made front facade of the store still stands.
 
-![Remains of the Porter Brother Store in Rhyolite](/images/lost-places/usa/remains-of-the-porter-brother-store-in-rhyolite.webp)
+![Remains of the Porter Brother Store in Rhyolite](/images/lost-places/usa/remains-of-the-porter-brother-store-in-rhyolite.webp "Remains of the Porter Brother Store in Rhyolite.")
 
 By this time, allegedly 5000 people lived in Rhyolite, Nevada. Even when photographing such a small building from the street level, you’ll get a perspective distortion that makes the building look like it’s falling over. I’ve compiled a list of options I use myself to [fix perspective distortions on iPhone](/blog/fix-perspective-distortions-iphone-apps).
 
@@ -86,11 +86,11 @@ Opposite the Porter Brothers Store, you’ll see the most iconic building in Rhy
 
 Probably the most iconic photo spot at Rhyolite is the former cook bank building, which was one of the most modern buildings in Rhyolite. It was made of stone and had electric lights, marble stairs, and other luxuries. It’s also a film location where, e.g. Ewan McGregor and Scarlett Johansson filmed a few scenes. Read on to find out which movies were filmed at Rhyolite.
 
-![Ruins of the Cook Bank in Rhyolite](/images/lost-places/usa/ruins-of-the-cook-bank-in-rhyolite.webp)
+![Ruins of the Cook Bank in Rhyolite](/images/lost-places/usa/ruins-of-the-cook-bank-in-rhyolite.webp "Ruins of the Cook Bank in Rhyolite.")
 
 During my research, I discovered this photo of the Cook Bank Building that dates back to 1908.
 
-![Cook Bank Rhyolite 1908](/images/lost-places/usa/cook-bank-rhyolite-1908.webp)
+![Cook Bank Rhyolite 1908](/images/lost-places/usa/cook-bank-rhyolite-1908.webp "Cook Bank Rhyolite 1908.")
 
 Image Credit: Mark Holloway 1908; Cook Bank Building Rhyolite, Nevada; Digital Image of an analog photograph from Wikipedia; accessed May 16th, 2021; [https://en.m.wikipedia.org/wiki/File:Cook\_Bank\_Building\_1908.jpg](https://en.m.wikipedia.org/wiki/File:Cook_Bank_Building_1908.jpg).
 
@@ -98,7 +98,7 @@ Image Credit: Mark Holloway 1908; Cook Bank Building Rhyolite, Nevada; Digital I
 
 The railroad depot was the first train station in Rhyolite. After Rhyolite became a ghost town, it was used as a casino in the desert that finally closed in the 1970s. Unfortunately, the house is fenced in, and all doors and windows are boarded up. I would have loved to take a peek inside!
 
-![Railroad Depot in Rhyolite, Nevada](/images/lost-places/usa/railroad-depot-in-rhyolite-nevada.webp)
+![Railroad Depot in Rhyolite, Nevada](/images/lost-places/usa/railroad-depot-in-rhyolite-nevada.webp "Railroad Depot in Rhyolite, Nevada.")
 
 Around 1908, investors in the Montgomery Shoshone mine became concerned that the mine was overvalued. It became increasingly difficult and expensive to unearth the gold and silver, and by 1910, the mine operated at a loss. Only one year later, the Montgomery Shoshone mine was closed.
 

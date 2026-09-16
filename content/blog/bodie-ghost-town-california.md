@@ -30,21 +30,21 @@ During its boom years around the 1880s, around 7000 souls lived here in roughly 
 
 The most notable building in Bodie is the skewed hotel. It's underpinned so it does not fall over. The most notable building in Bodie is the skewed hotel. It's underpinned so it does not fall over - and to fix the converging lines, I used SKRWT, a [photo perspective correction app](/blog/fix-perspective-distortions-iphone).
 
-![Old Hotel in Bodie](/images/lost-places/usa/bodie-ghost-town-california.webp)
+![Old Hotel in Bodie](/images/lost-places/usa/bodie-ghost-town-california.webp "Old Hotel in Bodie.")
 
 But you can also see the prison, the church, the saloon, a gym (yes!) and a lot of residential buildings. I wonder if the owners of this house and car got a parking ticket ;) There are a number of buildings with more or less decayed classic cars in front of it.
 
-![Parking time exceeded in Bodie](/images/lost-places/usa/abandoned-car-bodie.webp)
+![Parking time exceeded in Bodie](/images/lost-places/usa/abandoned-car-bodie.webp "Parking time exceeded in Bodie.")
 
 Even better, you can peek into many of the old houses and they really look like as they were abandoned just a few months ago. The windows are cleaned and you can take a snap into the houses.
 
-![Abandoned stroller at a house in Bodie](/images/lost-places/usa/stroller-at-bodie.webp)
+![Abandoned stroller at a house in Bodie](/images/lost-places/usa/stroller-at-bodie.webp "Abandoned stroller at a house in Bodie.")
 
 Finally, visit the remains of the old Bank of Bodie. Except for the safe room, it was almost completely destroyed by the big fire but there's still the safe in there!
 
-![The old bank in Bodie](/images/lost-places/usa/old-bank-bodie.webp)
+![The old bank in Bodie](/images/lost-places/usa/old-bank-bodie.webp "The old bank in Bodie.")
 
-![Empty Safe in Bodie](/images/lost-places/usa/old-safe-bodie.webp)
+![Empty Safe in Bodie](/images/lost-places/usa/old-safe-bodie.webp "Empty Safe in Bodie.")
 
 Finally go and read the letters of all the unlucky souls that took artefacts from Bodie. Allegedly they were ill-fated and many of them sent back the stuff they tool. So leave nothing except your footprints and take nothing except pictures ;)
 

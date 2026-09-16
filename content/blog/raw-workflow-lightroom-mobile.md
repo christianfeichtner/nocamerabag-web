@@ -35,11 +35,11 @@ I didn't use profiles that much before Apple ProRAW was released, but with ProRA
 
 Have a look at the screenshot to the left. It's a ProRAW file without the Lightroom ProRAW Profile applied. As you can see, the highlights are blown out.
 
-![Apple ProRAW in Lightroom Mobile without ProRAW profile](/images/tutorials/general/apple-proraw-in-lightroom-mobile-without-proraw-profile.webp)
+![Apple ProRAW in Lightroom Mobile without ProRAW profile](/images/tutorials/general/apple-proraw-in-lightroom-mobile-without-proraw-profile.webp "Apple ProRAW in Lightroom Mobile without ProRAW profile.")
 
 If Lightroom Mobile detects a photo in Apple ProRAW format, it will display two profiles in the *Profiles* section: One for color and one for black and white. If you apply e.g., the color profile, you'll see that the overall photo and especially the highlights improve.
 
-![Apple ProRAW Profile in Lightroom Mobile](/images/tutorials/general/apple-proraw-profile-in-lightroom-mobile.webp)
+![Apple ProRAW Profile in Lightroom Mobile](/images/tutorials/general/apple-proraw-profile-in-lightroom-mobile.webp "Apple ProRAW Profile in Lightroom Mobile.")
 
 After applying the Apple ProRAW Profile, you get a good starting point for further developing your photo.
 
@@ -53,7 +53,7 @@ So, why lights first? There's no artsy reason for that; I'm doing it to better s
 
 So, for this photo, I increased the overall exposure (so I can see something), then I increased the contrast a bit, bring down the highlights and increase the shadows.
 
-![Light Adjustments in Lightroom Mobile](/images/tutorials/general/light-adjustments-in-lightroom-mobile.webp)
+![Light Adjustments in Lightroom Mobile](/images/tutorials/general/light-adjustments-in-lightroom-mobile.webp "Light Adjustments in Lightroom Mobile.")
 
 ## Cropping the Photo
 
@@ -61,7 +61,7 @@ You may want to skip this step, but in my workflow, the second step is always to
 
 So now, I can see the effects that all the other adjustment sliders will have.
 
-![Crop the photo in Lightroom Mobile](/images/tutorials/general/crop-the-photo-in-lightroom-mobile.webp)
+![Crop the photo in Lightroom Mobile](/images/tutorials/general/crop-the-photo-in-lightroom-mobile.webp "Crop the photo in Lightroom Mobile.")
 
 ## Color Adjustments
 
@@ -71,7 +71,7 @@ In Lightroom Mobile, you can adjust hue, saturation, and luminance for eight dif
 
 The entire image has quite a few shades (yes, probably more than 50) of red, yellow, and orange. First, I want to adjust these shades more to the reddish side of yellow.
 
-![Adjustier Colors in Lightroom Mobile](/images/tutorials/general/adjustier-colors-in-lightroom-mobile.webp)
+![Adjustier Colors in Lightroom Mobile](/images/tutorials/general/adjustier-colors-in-lightroom-mobile.webp "Adjustier Colors in Lightroom Mobile.")
 
 Inside the half-buried cellar, you'll see an area with a bright yellow hue looking through the door.
 
@@ -85,7 +85,7 @@ I desaturated blue and cyan to separate the sand better from the surrounding are
 
 For photos of lost places, I tend to increase clarity drastically, to add, you guessed it, more drama. For this photo, I added a bit of texture, knowing that we'll lose a bit of texture when applying noise reduction.
 
-![Applying Clarity and Texture](/images/tutorials/general/applying-clarity-and-texture.webp)
+![Applying Clarity and Texture](/images/tutorials/general/applying-clarity-and-texture.webp "Applying Clarity and Texture.")
 
 I also increased the dehaze slider to remove haze from the bright white light shining into the scene from the right.
 
@@ -95,7 +95,7 @@ As the door frame is not perfectly upright, I'm using the geometry adjustments i
 
 For such an image, I tend to use the guided perspective correction feature, where you draw two lines, and Lightroom will make the photo upright based on these two lines.
 
-![Fixing geometry in Lightroom](/images/tutorials/general/fixing-geometry-in-lightroom.webp)
+![Fixing geometry in Lightroom](/images/tutorials/general/fixing-geometry-in-lightroom.webp "Fixing geometry in Lightroom.")
 
 However, all perspective corrections tend to distort the photo a bit. So I'm using the aspect and scale sliders to fix the aspect ratio and to zoom in so that the picture fills the entire frame, and we don't get any white borders from the perspective correction.
 
@@ -111,7 +111,7 @@ I also increased detail and contrast for noise reduction to protect and bring ba
 
 Next, I'm going back to lights adjustments and fine-tune the almost final image using tone curves. For this photo, I want to add more contrast, and thus I move the bottom point of the curve a bit to the right.
 
-![Adjustier Curves as the final touch](/images/tutorials/general/adjustier-curves-as-the-final-touch.webp)
+![Adjustier Curves as the final touch](/images/tutorials/general/adjustier-curves-as-the-final-touch.webp "Adjustier Curves as the final touch.")
 
 Lastly, I may fine-tune the other light adjustments like exposure, contrast, highlights, shadows, white and black points.
 
@@ -121,7 +121,7 @@ Once I'm done with my RAW workflow, I assign a few keywords to the photo. These 
 
 Moreover, I add keywords that you'll find on my [flickr account](https://www.flickr.com/photos/chrisfeichtner/) like "iPhone Photography" or "Shot on iPhone".
 
-![Tagging Photo in Lightroom Mobile](/images/tutorials/general/tagging-photo-in-lightroom-mobile.webp)
+![Tagging Photo in Lightroom Mobile](/images/tutorials/general/tagging-photo-in-lightroom-mobile.webp "Tagging Photo in Lightroom Mobile.")
 
 If you upload your photos to Flickr using the Flickr app right from Lightroom mobile and you entered a title, caption, and tags for a photo in Lightroom Mobile, Flickr will use them. Just leave these fields empty when the Flickr upload screen appears and just upload the image.
 

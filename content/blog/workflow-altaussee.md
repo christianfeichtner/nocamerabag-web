@@ -23,7 +23,7 @@ You'll find a hiking trail there that will allow you to hike around the Lake, an
 
 While hiking the trail a few years ago, I got this photo, that I shot on an iPhone 7 Plus; it's the final edit.
 
-![Altaussee See shot on iPhone 7 Plus, edited with Touchretoouch and Lightroom Mobile](/images/portfolio/general/mountain-reflection-iphone7-plus.webp)
+![Altaussee See shot on iPhone 7 Plus, edited with Touchretoouch and Lightroom Mobile](/images/portfolio/general/mountain-reflection-iphone7-plus.webp "Altaussee See shot on iPhone 7 Plus, edited with Touchretoouch and Lightroom Mobile.")
 
 In this blog post, I'll share how I composed, shot, and edited this beautiful scene of the Lake with the Loser mountain in the background.
 
@@ -39,7 +39,7 @@ Using a lower angle, the lakeshore would have been visible; and I wanted to avoi
 
 [ProCamera App](/blog/procamera-app-review) is one of my [recommended iPhone camera apps](/blog/recommended-camera-apps/) and I also used to take this photo in RAW. And to capture the entire beauty of the scene, I used a [Moment Wide Lens](/blog/review-moment-wide-lens) when I took this photo with my iPhone 7 Plus. Here's the unedited version:
 
-![Unedited Photo out of the Camera](/images/tutorials/austria/unedited-photo-out-of-the-camera.webp)
+![Unedited Photo out of the Camera](/images/tutorials/austria/unedited-photo-out-of-the-camera.webp "Unedited Photo out of the Camera.")
 
 If you'd like to know more about RAW and iPhone, here's a blog post about [how to shoot RAW with iPhone](/blog/shoot-raw-iphone).
 
@@ -47,35 +47,35 @@ If you'd like to know more about RAW and iPhone, here's a blog post about [how t
 
 As you can see from the unedited photo, there were some branches in the foreground. Thanks to [Touch Retouch App](/blog/review-touch-retouch), one of my [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps/), I could remove them in no time.
 
-![Removing Branches with Touch Retouch App](/images/tutorials/austria/removing-branches-with-touch-retouch-app.webp)
+![Removing Branches with Touch Retouch App](/images/tutorials/austria/removing-branches-with-touch-retouch-app.webp "Removing Branches with Touch Retouch App.")
 
 As I already knew I'd crop to the photo to square, I didn't care about the branches that would be outside of the frame. For the ones inside the frame, I used the quick repair brush in Touch Retouch on the iPad. This brush is intended for removing smaller objects from photos. So, just perfect for the branches.
 
 Next, I imported the Photo in Adobe Lightroom Mobile. In the screenshot below, you'll see that I heavily used local adjustments for this photo.
 
-![Lightroom Mobile local adjustments used for this photo](/images/tutorials/austria/lightroom-mobile-local-adjustments-used-for-this-photo.webp)
+![Lightroom Mobile local adjustments used for this photo](/images/tutorials/austria/lightroom-mobile-local-adjustments-used-for-this-photo.webp "Lightroom Mobile local adjustments used for this photo.")
 
 Local adjustments are a premium feature in Lightroom that you'll only get when subscribing to [Adobe Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium). As I use local adjustments, and a few other premium features, quite a bit, subscribing to Lightroom Mobile was a no brainer for me.
 
 So, let's go through all these adjustments. The first one is a local gradient adjustment for the foreground to darken the areas near the edges a bit and to create a gentle gradient from black to blue that guides the eye towards the mountain and the reflection.
 
-![Adding a gradient using local adjustment in Lightroom Mobile](/images/tutorials/austria/adding-a-gradient-using-local-adjustment-in-lightroom-mobile.webp)
+![Adding a gradient using local adjustment in Lightroom Mobile](/images/tutorials/austria/adding-a-gradient-using-local-adjustment-in-lightroom-mobile.webp "Adding a gradient using local adjustment in Lightroom Mobile.")
 
 With the next local adjustment, I increased the exposure of some areas of the background a bit and increased the contrast.
 
-![Adding contrast with a local adjustment in Lightroom Mobile](/images/tutorials/austria/adding-contrast-with-a-local-adjustment-in-lightroom-mobile.webp)
+![Adding contrast with a local adjustment in Lightroom Mobile](/images/tutorials/austria/adding-contrast-with-a-local-adjustment-in-lightroom-mobile.webp "Adding contrast with a local adjustment in Lightroom Mobile.")
 
 The small area I adjusted with the next local adjustment should be a bit darker. So I used it to bring down the exposure a bit.
 
-![Turning down exposure with a local adjustment in Lightroom Mobile](/images/tutorials/austria/turning-down-exposure-with-a-local-adjustment-in-lightroom-m.webp)
+![Turning down exposure with a local adjustment in Lightroom Mobile](/images/tutorials/austria/turning-down-exposure-with-a-local-adjustment-in-lightroom-m.webp "Turning down exposure with a local adjustment in Lightroom Mobile.")
 
 And the area to the right could use a bit more saturation.
 
-![Increasing saturation using a local adjustment in Lightroom Mobile](/images/tutorials/austria/increasing-saturation-using-a-local-adjustment-in-lightroom.webp)
+![Increasing saturation using a local adjustment in Lightroom Mobile](/images/tutorials/austria/increasing-saturation-using-a-local-adjustment-in-lightroom.webp "Increasing saturation using a local adjustment in Lightroom Mobile.")
 
 Lastly, I used a big local adjustment to add a bit more sharpness to the main subject of the frame, the mountain.
 
-![Applying sharpness using a local adjustment in Lightroom Mobile](/images/tutorials/austria/applying-sharpness-using-a-local-adjustment-in-lightroom-mob.webp)
+![Applying sharpness using a local adjustment in Lightroom Mobile](/images/tutorials/austria/applying-sharpness-using-a-local-adjustment-in-lightroom-mob.webp "Applying sharpness using a local adjustment in Lightroom Mobile.")
 
 Finally (for real this time), I made some minor adjustments to the overall image by increasing contrast, reducing highlights and whites, increasing vibrance, and applying a bit of clarity.
 

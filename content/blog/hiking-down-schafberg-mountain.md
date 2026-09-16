@@ -18,7 +18,7 @@ cover:
 ---
 You may have never heard about *Schafberg* but maybe you‘ve seen this iconic photo spot at the top of this mountain.
 
-![View from Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/view-from-schafberg-mountain-shot-on-iphone-7-plus.webp)
+![View from Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/view-from-schafberg-mountain-shot-on-iphone-7-plus.webp "View from Schafberg Mountain. Shot on iPhone 7 Plus.")
 
 Schafberg rises at the shore of Wolfgangssee („Lake Wolfgang“) in Austria and you can enjoy s breathtaking view over 3 lakes in the area.
 
@@ -40,21 +40,21 @@ Now let’s get ready to hike down to St. Wolfgang. It will take roughly 3 hours
 
 The first part of the hike down is the most beautiful one. You'll get to see and enjoy lots of breathtaking views and landscapes. The first half of part 1, let’s call it part 1a, is quite steep and you’ll hike mainly on grass.
 
-![View on your hike down from Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/view-on-your-hike-down-from-schafberg-mountain-shot-on-ipho.webp)
+![View on your hike down from Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/view-on-your-hike-down-from-schafberg-mountain-shot-on-ipho.webp "View on your hike down from Schafberg Mountain. Shot on iPhone 7 Plus.")
 
 The second part of the first part, so part 1b, is more flat and a welcome recovery from the steeper part. Man, I never thought that hiking down a mountain could be so strenuous. If you look closely, you'll even see the cog bringing up the next bunch of hikers to the top.
 
-![Railroad Cog bringing the next bunch of hikers. Shot on iPhone 7 Plus](/images/landscapes/austria/railroad-cog-bringing-the-next-bunch-of-hikers-shot-on-ipho.webp)
+![Railroad Cog bringing the next bunch of hikers. Shot on iPhone 7 Plus](/images/landscapes/austria/railroad-cog-bringing-the-next-bunch-of-hikers-shot-on-ipho.webp "Railroad Cog bringing the next bunch of hikers. Shot on iPhone 7 Plus.")
 
 Now's a good time to take a rest.
 
-![Time to take a rest at Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/time-to-take-a-rest-at-schafberg-mountain-shot-on-iphone-7.webp)
+![Time to take a rest at Schafberg Mountain. Shot on iPhone 7 Plus](/images/landscapes/austria/time-to-take-a-rest-at-schafberg-mountain-shot-on-iphone-7.webp "Time to take a rest at Schafberg Mountain. Shot on iPhone 7 Plus.")
 
 ## Hiking down, part 2
 
 The last hour of the hike is through the woods where you‘ll mostly walk on a steep gravel road. The small gravel makes it quite slippery. So make sure you wear appropriate shoes. I’ve seen more than one person slip on the way. They just wore sneakers!
 
-![For the last hour, be prepared to hike here. Shot on iPhone 7 Plus](/images/landscapes/austria/for-the-last-hour-be-prepared-to-hike-here-shot-on-iphone.webp)
+![For the last hour, be prepared to hike here. Shot on iPhone 7 Plus](/images/landscapes/austria/for-the-last-hour-be-prepared-to-hike-here-shot-on-iphone.webp "For the last hour, be prepared to hike here. Shot on iPhone 7 Plus.")
 
 /img/schafberg-hiking-gravel.jpg
 

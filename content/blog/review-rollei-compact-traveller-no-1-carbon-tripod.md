@@ -33,9 +33,9 @@ In this review, you'll read why I bought it and how it performs out in the field
 
 Here are a few sample photos I've taken with my new Rollei tripod in Bratislava, Slovakia and Vienna, Austria.
 
-![UFO Bridge in Bratislava shot on iPhone mounted to the Rollei Compact Traveller Tripod](/images/reviews/ufo-bridge-in-bratislava-shot-on-iphone-mounted-to-the-rolle.webp)
+![UFO Bridge in Bratislava shot on iPhone mounted to the Rollei Compact Traveller Tripod](/images/reviews/ufo-bridge-in-bratislava-shot-on-iphone-mounted-to-the-rolle.webp "UFO Bridge in Bratislava shot on iPhone mounted to the Rollei Compact Traveller Tripod.")
 
-![Headquarter of the road side assistance in Vienna, shot on iPhone mounted to the Rollei Compact Traveller Tripod](/images/reviews/general/headquarter-of-the-road-side-assistance-in-vienna-shot-on-i.webp)
+![Headquarter of the road side assistance in Vienna, shot on iPhone mounted to the Rollei Compact Traveller Tripod](/images/reviews/general/headquarter-of-the-road-side-assistance-in-vienna-shot-on-i.webp "Headquarter of the road side assistance in Vienna, shot on iPhone mounted to the Rollei Compact Traveller Tripod.")
 
 ## Requirements for a travel tripod for iPhone
 
@@ -68,7 +68,7 @@ Independently, the Rollei Compact Traveller tripod is available in different col
 
 ## Specifications of the Rollei Compact No. 1 Traveller Carbon Tripod
 
-![Rollei Compact Traveller No. 1 Carbon](/images/reviews/general/rollei-compact-traveller-no-1-carbon.webp)
+![Rollei Compact Traveller No. 1 Carbon](/images/reviews/general/rollei-compact-traveller-no-1-carbon.webp "Rollei Compact Traveller No. 1 Carbon.")
 
 The Rollei tripod folds relatively small to 13.39 inches, which is slightly bigger than my old tripod. But still, it's within the range that I need to carry it comfortably and across in my carry-on backpack.
 
@@ -78,17 +78,17 @@ As for the weight, my old travel tripod had 2.4 lbs. The Rollei Traveller Carbon
 
 My old and the Rollei tripod have 4-segment legs that you lock into position using rotating locks. The Rollei Compact Traveller No. 1 comes with rubber feet caps that you can remove. Removing the rubber feet will reveal spikes. I haven't tried the spikes yet, but they may be helpful if you plan to use them on a surface like grass.
 
-![Spikes hidden by rubber feet. Just pull them off](/images/reviews/general/spikes-hidden-by-rubber-feet-just-pull-them-off.webp)
+![Spikes hidden by rubber feet. Just pull them off](/images/reviews/general/spikes-hidden-by-rubber-feet-just-pull-them-off.webp "Spikes hidden by rubber feet. Just pull them off.")
 
 Like my old tripod, the Rollei travel tripod has a center hook. You can and should use the center hook to add some weight to the tripod to stabilize it in windy situations. I recommend adding some weight if you use a light camera like an iPhone.
 
-![Center Hook](/images/reviews/general/center-hook.webp)
+![Center Hook](/images/reviews/general/center-hook.webp "Center Hook.")
 
 Though I do not use this feature, I mention it for completeness. The Rollei tripod supports an invertible center column that should be useful for close-ups and macro-photography. I'm saying "should" here because that's not my kind of photography; I need to leave it up to you to judge.
 
 Lastly, you can turn the Rollei Compact Traveller No. 1 Tripod into a monopod. Unscrew one leg from the tripod and attach the tripod's ball head to it. This will result in a monopod that's 42.1 long. For me, that's a bit too small to use when standing.
 
-![Rollei Traveller Compact converted to a Monopod](/images/reviews/general/rollei-traveller-compact-converted-to-a-monopod.webp)
+![Rollei Traveller Compact converted to a Monopod](/images/reviews/general/rollei-traveller-compact-converted-to-a-monopod.webp "Rollei Traveller Compact converted to a Monopod.")
 
 ## Using the Rollei Compact Traveller Carbon Tripod
 

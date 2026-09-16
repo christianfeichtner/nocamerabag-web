@@ -19,11 +19,11 @@ cover:
 ---
 When you photograph a scene that contains water like a seaside or a river, the color of water is rarely ideal. Unless you’re on some tropical island, that is. Take a look at this shot I took last year in New York. The color of water here is okay-ish. It it could use a little optimization.
 
-![Original shot I took in New York. The color of the water needs some adjustment](/images/tutorials/general/original-shot-i-took-in-new-york-the-color-of-the-water-nee.webp)
+![Original shot I took in New York. The color of the water needs some adjustment](/images/tutorials/general/original-shot-i-took-in-new-york-the-color-of-the-water-nee.webp "Original shot I took in New York. The color of the water needs some adjustment.")
 
 And here is the shot after I edited it with Adobe Lightroom Mobile.
 
-![Color of water adjusted](/images/tutorials/general/color-of-water-adjusted.webp)
+![Color of water adjusted](/images/tutorials/general/color-of-water-adjusted.webp "Color of water adjusted.")
 
 In this tutorial I'll show you how to change the color of water in Adobe Lightroom Mobile right on iPhone.
 
@@ -58,23 +58,23 @@ Selective adjustments in Adobe Lightroom Mobile can be used in three ways:
 
 Selective adjustments are hidden behind the circle icon on the first position on the left in the toolbar at the bottom of the screen. Tapping this icon will display a big plus icon in the upper left corner. Tapping this plus icon will display three more icons from which you choose how you want to select the area for adjustment.
 
-![Tap to enter selective adjustments mode](/images/tutorials/general/tap-to-enter-selective-adjustments-mode.webp)
+![Tap to enter selective adjustments mode](/images/tutorials/general/tap-to-enter-selective-adjustments-mode.webp "Tap to enter selective adjustments mode.")
 
 I use them brush most of the time. So tap the first icon. Now set the size of the brush and the feathering. For this photo, I use a small brush and just a little feathering.
 
-![Three options for selective adjustments](/images/tutorials/general/three-options-for-selective-adjustments.webp)
+![Three options for selective adjustments](/images/tutorials/general/three-options-for-selective-adjustments.webp "Three options for selective adjustments.")
 
 To adjust the size of the brush, tap the brush icon and swipe up or down to increase or decrease the brush size. Adjusting the amount of feathering works the same way. Tap the feather icon (second one) and swipe up or down to increase or decrease the amount of feathering.
 
-![Set brush size and feathering](/images/tutorials/general/set-brush-size-and-feathering.webp)
+![Set brush size and feathering](/images/tutorials/general/set-brush-size-and-feathering.webp "Set brush size and feathering.")
 
 Now simply draw over the water area in the photo. You'll see that it will turn red to indicate the area you've selected. No worries, that's just an indication of which areas you've selected. Lightroom does not turn the water red.
 
-![Paint to select the area for which you want to change the color](/images/tutorials/general/paint-to-select-the-area-for-which-you-want-to-change-the-co.webp)
+![Paint to select the area for which you want to change the color](/images/tutorials/general/paint-to-select-the-area-for-which-you-want-to-change-the-co.webp "Paint to select the area for which you want to change the color.")
 
 If you accidentally painted out of the water, just use the eraser tool to fix it. Then switch back to the brush and continue until you've selected all water.
 
-![Ooops! Use eraser to correct mistakes when selecting an area](/images/tutorials/general/ooops-use-eraser-to-correct-mistakes-when-selecting-an-area.webp)
+![Ooops! Use eraser to correct mistakes when selecting an area](/images/tutorials/general/ooops-use-eraser-to-correct-mistakes-when-selecting-an-area.webp "Ooops! Use eraser to correct mistakes when selecting an area.")
 
 Especially when working along the edges, you can pinch and zoom in to be able to work more accurately
 
@@ -88,7 +88,7 @@ Now, once you've selected the area for which you want to change the color tap th
 
 Chose a color that you think is perfect for the shot.
 
-![Select any color you like](/images/tutorials/general/select-any-color-you-like.webp)
+![Select any color you like](/images/tutorials/general/select-any-color-you-like.webp "Select any color you like.")
 
 Then tap the checkmark in the lower right corner and you're done.
 

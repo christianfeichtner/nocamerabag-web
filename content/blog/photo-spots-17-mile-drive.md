@@ -30,18 +30,18 @@ Be careful with your fingers and don't try to fool them pretending you have food
 
 But I nearly freaked out when I saw what people fed to the squirrels. Almost everything from potato chips, burgers and even fruit gum! Come on guys, If you want to feed them, give them a walnut or two, but don't use animals as waste bins :/ You're doing them no good.
 
-![Squirrel at 17 Mile Drive; maybe wondering where it hid its supplies?](/images/landscapes/usa/squirres-at-17-mile-drive-california.webp)
+![Squirrel at 17 Mile Drive; maybe wondering where it hid its supplies?](/images/landscapes/usa/squirres-at-17-mile-drive-california.webp "Squirrel at 17 Mile Drive; maybe wondering where it hid its supplies?")
 
-![Posing squirrel at the 17 mile drive; (cc) by-nc squics.com](/images/landscapes/usa/photo-spots-17-mile-drive.webp)
+![Posing squirrel at the 17 mile drive; (cc) by-nc squics.com](/images/landscapes/usa/photo-spots-17-mile-drive.webp "Posing squirrel at the 17 mile drive; (cc) by-nc squics.com.")
 
 To get this close up I used the [Moment Tele Lens](/blog/review-moment-tele-lens) with the native camera app in burst mode. I pressed the shutter release, held it and slowly approached the squirrel. As those cuties are very trusting, they don't run away.
 
 You'll also see many beautiful beaches with interesting rock formations along the 17 mile drive. I found this one and called the shot "the Crocodile Rock". See how this rock formation looks like a crocodile lying around?
 
-![Rock looking like a huge crocodile; (cc) by-nc squics.com](/images/landscapes/usa/crocodile-rock-pebble-beach.webp)
+![Rock looking like a huge crocodile; (cc) by-nc squics.com](/images/landscapes/usa/crocodile-rock-pebble-beach.webp "Rock looking like a huge crocodile; (cc) by-nc squics.com.")
 
 And finally this probably the most famous view on the 17 mile drive. It's the lone cypress that I also photographed with the Moment Tele Lens.
 
-![The lone cypress at the 17 mile drive](/images/landscapes/usa/lone-cypress-pebble-beach.webp)
+![The lone cypress at the 17 mile drive](/images/landscapes/usa/lone-cypress-pebble-beach.webp "The lone cypress at the 17 mile drive.")
 
 There's a lot more to see at the 17 mile drive. Though it's just 17 miles, take your time and plan for a few hours. There are lots of viewpoints worth spending some time.

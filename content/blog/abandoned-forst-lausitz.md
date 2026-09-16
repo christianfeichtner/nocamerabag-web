@@ -42,27 +42,27 @@ Thanks to UPS, I could pick up my new iPhone 14 from the depot at the airport a 
 
 The factory I photographed was 10 minutes on foot from the central station. While walking to the lost place, I spotted many old and former Mansons and apartment buildings for sale.
 
-![Overgrown door of an abandoned building in Forst-Lausitz](/images/lost-places/germany/abandoned-buldings-forst-lausitz.webp)
+![Overgrown door of an abandoned building in Forst-Lausitz](/images/lost-places/germany/abandoned-buldings-forst-lausitz.webp "Overgrown door of an abandoned building in Forst-Lausitz.")
 
 I also walked by some old and lost-looking stores like this one.
 
-![Abandoned store in Forst-Lausitz](/images/lost-places/germany/abandoned-store-forst-lausitz.webp)
+![Abandoned store in Forst-Lausitz](/images/lost-places/germany/abandoned-store-forst-lausitz.webp "Abandoned store in Forst-Lausitz.")
 
 I started my photo tour in the abandoned steam power station. This power station produced hot steam from coal. The hot steam was then distributed to the textile factories to run the weaving looms. The coal was mined at a nearby coal deposit, which was probably one reason why the textile industry developed so fast: The coal was available nearby and thus available at a low cost.
 
-![Inside the abandoned steam power station](/images/lost-places/germany/steam-power-station-forst-lausitz.webp)
+![Inside the abandoned steam power station](/images/lost-places/germany/steam-power-station-forst-lausitz.webp "Inside the abandoned steam power station.")
 
 Some former textile factories operated hundreds of weaving looms in factory buildings of up to 5 floors. On some floors, you'll realize that the factors had to close quite abruptly. You'll still see a lot of bolts of cloth lying around.
 
-![These bolts of cloth survived almost have a century](/images/lost-places/germany/bolts-of-cloth-abandoned-factory.webp)
+![These bolts of cloth survived almost have a century](/images/lost-places/germany/bolts-of-cloth-abandoned-factory.webp "These bolts of cloth survived almost have a century.")
 
 If you walk through the town of Forst-Lausitz, it's worth keeping one's eyes open. One thing you'll notice is the railroad tracks in almost each street. They connected all the former textile factories and with the central station. So it was easy and cheap to distribute the goods in Germany. Allegedly, between the two world wars, each fifth man in Germany owned and wore a suit made from fabric that was produced in Forst-Lausitz
 
-![Railroad tracks in Forst-Lausitz](/images/lost-places/germany/railroad-tracks-forst-lausitz.webp)
+![Railroad tracks in Forst-Lausitz](/images/lost-places/germany/railroad-tracks-forst-lausitz.webp "Railroad tracks in Forst-Lausitz.")
 
 But the most spectacular view in the factory I visited was in the abandoned Mensa with its collapsed roof.
 
-![Collapsed roof](/images/lost-places/germany/abandoned-mensa-textile-factory-2.webp)
+![Collapsed roof](/images/lost-places/germany/abandoned-mensa-textile-factory-2.webp "Collapsed roof.")
 
 ### Are the abandoned textile factories in Forst-Lausitz worth a visit?
 

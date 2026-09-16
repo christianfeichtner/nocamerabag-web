@@ -40,7 +40,7 @@ After my [night photography experiments in London](/blog/tutorial-iphone-night-p
 You can see all the spots mentioned in this article on an interactive map. You can also open the map also from each photo with a "Map View" button.
 {{< /map-callout >}}
 
-![Dancing House, Prague](/images/cityscapes/czech-republic/dancing-house-prague-at-night.jpeg)
+![Dancing House, Prague](/images/cityscapes/czech-republic/dancing-house-prague-at-night.jpeg "Dancing House, Prague.")
 
 I've been to Prague a few times during the past 12 months and I fell in love with that city. I'm enthusiastic about the mix of modern and ancient architecture that you can find in Prague. There's the old Charles bridge, the new Dancing House, the old museum, new office skyscrapers and so on.
 
@@ -50,6 +50,6 @@ I mainly photographed using Slow Shutter Cam App, a remote shutter and my lightw
 
 If you travel in Europe, don't miss out Prague. It's an awesome city.
 
-![National Museum | Prague; (cc) by-nc squics.com](/images/cityscapes/czech-republic/national-museum-prague-cc-by-nc-squics-com.webp)
+![National Museum | Prague; (cc) by-nc squics.com](/images/cityscapes/czech-republic/national-museum-prague-cc-by-nc-squics-com.webp "National Museum | Prague; (cc) by-nc squics.com.")
 
-![Charles Bridge Tower | Prague; (cc) by-nc squics.com](/images/cityscapes/czech-republic/charles-bridge-tower-prague-cc-by-nc-squics-com.webp)
+![Charles Bridge Tower | Prague; (cc) by-nc squics.com](/images/cityscapes/czech-republic/charles-bridge-tower-prague-cc-by-nc-squics-com.webp "Charles Bridge Tower | Prague; (cc) by-nc squics.com.")

@@ -17,7 +17,7 @@ cover:
   image: /images/reviews/general/review-sony-qx10-qx100.webp
   alt: 'Review: Sony QX10 vs QX100 lens style cameras'
 ---
-![Bridge of Sighs; (cc) by-nc squics.com](/images/reviews/general/bridge-of-sighs-venice.webp)
+![Bridge of Sighs; (cc) by-nc squics.com](/images/reviews/general/bridge-of-sighs-venice.webp "Bridge of Sighs; (cc) by-nc squics.com.")
 
 I believed that the name of the bridge had something to do with romance; the bridge is in Venice after all. But I was wrong. It's not about with romance. Condemned criminals had to cross it on their way from the Doge’s Palace to the dungeon. They took a last look at the lagoon, which elicited a sigh from many.
 

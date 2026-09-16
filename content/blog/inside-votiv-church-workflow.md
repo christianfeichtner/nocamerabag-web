@@ -19,11 +19,11 @@ cover:
 ---
 The Votiv Church is a neo-gothic church in Vienna and one of the most beautiful churches here. Its construction took almost 26 years and was finished in 1879. In this blog post, I’ll share my thoughts about how and why I composed the image this way, how I shot and edited it with my iPhone XS.
 
-![Inside Votiv Church, Vienna, Shot on iPhone XS](/images/tutorials/inside-votiv-church.webp)
+![Inside Votiv Church, Vienna, Shot on iPhone XS](/images/tutorials/inside-votiv-church.webp "Inside Votiv Church, Vienna, Shot on iPhone XS.")
 
 And here's a photo taken outside of Votiv Church
 
-![Votiv Church, Vienna, Shot on iPhone XS](/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp)
+![Votiv Church, Vienna, Shot on iPhone XS](/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp "Votiv Church, Vienna, Shot on iPhone XS.")
 
 ## Composition
 
@@ -39,7 +39,7 @@ To capture all the space inside, I used the [Moment Wide Lens](/blog/review-mome
 
 As you can see from the original, unedited, RAW photo, it was quite dark inside, and especially the left side has a lot of shadows. This is one of the scenarios where I [shoot RAW with iPhone](/blog/shoot-raw-iphone).
 
-![Unedited RAW in Lightroom Mobile](/images/tutorials/general/unedited-raw-in-lightroom-mobile.webp)
+![Unedited RAW in Lightroom Mobile](/images/tutorials/general/unedited-raw-in-lightroom-mobile.webp "Unedited RAW in Lightroom Mobile.")
 
 By shooting RAW, I avoid any automatic noise reduction and exposure adjustments by the iOS stock camera app. I can increase the exposure, brightness, and lift the shadows in [Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium) myself without sacrificing image quality.
 
@@ -47,14 +47,14 @@ Plus, the noise reduction in Lightroom Mobile is way better than what you’d ge
 
 To shoot this dark scene without a tripod, I used a ProCamera feature called *anti-shake shutter release*. You can find it in ProCamera under *settings* and *anti-shake*. I placed the anti-shake shutter release as a secondary shutter release button right near the main shutter release.
 
-![Anti-Shake Shutter Release in ProCamera App](/images/tutorials/general/anti-shake-shutter-release-in-procamera-app.webp)
+![Anti-Shake Shutter Release in ProCamera App](/images/tutorials/general/anti-shake-shutter-release-in-procamera-app.webp "Anti-Shake Shutter Release in ProCamera App.")
 
 To place the anti-shake shutter release button near the main shutter release instead of the self-timer:
 
 * Tap *menu*. It’s the rightmost icon in the lower toolbar
 * Tap *anti-shake* so it turns blue.
 
-![Enable Anti-Shake Shutter Release in ProCamera App](/images/tutorials/general/enable-anti-shake-shutter-release-in-procamera-app.webp)
+![Enable Anti-Shake Shutter Release in ProCamera App](/images/tutorials/general/enable-anti-shake-shutter-release-in-procamera-app.webp "Enable Anti-Shake Shutter Release in ProCamera App.")
 
 With anti-shake shutter release, I press the shutter release, and ProCamera will take the photo only if I hold the camera steady enough. Moreover, ProCamera will even wait until I hold it steady enough.
 

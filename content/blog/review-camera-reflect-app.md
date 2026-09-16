@@ -33,7 +33,7 @@ Here's how you add a water reflection to a photo.
 
 After you launched the app, a big red button labelled "New" let's you load a photo into the app.
 
-![Tap ](/images/reviews/general/review-camera-reflect-app.webp)
+![Tap](/images/reviews/general/review-camera-reflect-app.webp "Tap ”+New” to load a new photo from any album.")
 
 After you've tapped "+ New", the photo selector appears. At the top, there's a banner labels "epic world collection". By tapping this banner you can load a community photo into the app and learn the app using this sample photo.
 
@@ -43,7 +43,7 @@ Now you'll see a screen that allows you to crop and rotate the photo before you 
 
 A toolbar will appear at the bottom. It has four buttons labelled "presets", "edit", "fog" and "fx mode". Let's start with "presets". Tapping presets will show a list of various presets of water and material that you can use. We'll use the "water" presets in this example.
 
-![Using the four buttons in the toolbar you can adjust the material settings used for reflection.](/images/reviews/general/using-the-four-buttons-in-the-toolbar-you-can-adjust-the-mat.webp)
+![Using the four buttons in the toolbar you can adjust the material settings used for reflection.](/images/reviews/general/using-the-four-buttons-in-the-toolbar-you-can-adjust-the-mat.webp "Using the four buttons in the toolbar you can adjust the material settings used for reflection.")
 
 There're are number of water presets. I usually start with one of the "Mirror Lake" presets. I personally found them realistic and with all the options available you can do almost anything from a perfectly flat mirror lake to a lake with some heavy waves.
 
@@ -53,15 +53,15 @@ I started with "Mirror Lake 3" for this photo.
 
 Next, tap "edit" and you can adjust "displacement" (I assume "waves" would have been a better label here), blur and bottom fade for the water. For each of the three options you use a slider to set the intensity.
 
-![Use the ](/images/reviews/general/use-the.webp)
+![Use the](/images/reviews/general/use-the.webp "Use the ”displacement” to set the intensity of the waves in the water. Move the slider to the right to get more waves (an less reflections).")
 
-![By using the ](/images/reviews/general/by-using-the.webp)
+![By using the](/images/reviews/general/by-using-the.webp "By using the ”Blur” slider, you set how clear the reflection should appear. The more you move the slider to the right, the more blurry the reflection will be.")
 
-![Using the ](/images/reviews/general/using-the.webp)
+![Using the](/images/reviews/general/using-the.webp "Using the ”Bottom Fade” slider you can fade out (darken) the bottom of your photo.")
 
 If you want to create the illusion of a misty morning at e.g. a lake, you'll like the "fog" setting. It will create a slight layer of fog above the water.
 
-![The app offers three different kinds of fog. Use the slider to set the intensity of the fog.](/images/reviews/general/the-app-offers-three-different-kinds-of-fog-use-the-slider.webp)
+![The app offers three different kinds of fog. Use the slider to set the intensity of the fog.](/images/reviews/general/the-app-offers-three-different-kinds-of-fog-use-the-slider.webp "The app offers three different kinds of fog. Use the slider to set the intensity of the fog.")
 
 And finally, if you want to add e.g. the sun, a moon or even a lightning strike to your photos, switch to the FX Mode. This mode works the same in all other special effect apps from Brain Fever Media:
 

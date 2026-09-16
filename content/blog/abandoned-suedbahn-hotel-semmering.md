@@ -40,25 +40,25 @@ I've been to a number of abandoned places, from the abandoned sanatoriums in Bee
 
 The rooms are quite huge given how old the hotel is. Two rooms shared a bathroom and a toilet and, just in case a huge family or noble person checks in with their staff, several rooms have connecting doors.
 
-![A chimney in an abandoned hotel room at the Suedbahnhotl Semmering](/images/lost-places/austria/a-chimney-in-an-abandoned-hotel-room-at-the-suedbahnhotl-sem.webp)
+![A chimney in an abandoned hotel room at the Suedbahnhotl Semmering](/images/lost-places/austria/a-chimney-in-an-abandoned-hotel-room-at-the-suedbahnhotl-sem.webp "A chimney in an abandoned hotel room at the Suedbahnhotl Semmering.")
 
 In one of the rooms with connecting doors I got this shot using [Slow Shutter Cam](/blog/review-slow-shutter-cam-app) and I call the shot  "Schrödingers Door". Is it open? Closed? Or both?
 
-![Schrödingers Door - is it closed or open?](/images/lost-places/austria/schrodingers-door-is-it-closed-or-open.webp)
+![Schrödingers Door - is it closed or open?](/images/lost-places/austria/schrodingers-door-is-it-closed-or-open.webp "Schrödingers Door - is it closed or open?")
 
 According to the guest list, the hotel was also visited by a number of familiar faces like Prof. Dr. Siegmund Freud and musician Gustav Mahler. I wonder in which rooms they slept. Was this the room of Prof. Dr. Siegmund Freud?
 
-![Couch in an abandoned hotel room at the Suedbahn Hotel Semmering](/images/lost-places/austria/couch-in-an-abandoned-hotel-room-at-the-suedbahn-hotel-semme.webp)
+![Couch in an abandoned hotel room at the Suedbahn Hotel Semmering](/images/lost-places/austria/couch-in-an-abandoned-hotel-room-at-the-suedbahn-hotel-semme.webp "Couch in an abandoned hotel room at the Suedbahn Hotel Semmering.")
 
 Located on the ground floor is a huge lounge with a beautiful dining- and ballroom. Upstairs is another, smaller, ballroom. Both are totally intact and amazingly beautiful.
 
-![A high key edit of the abandoned ballroom at the Suedbahn Hotel](/images/lost-places/austria/abandoned-ballroom-high-key.webp)
+![A high key edit of the abandoned ballroom at the Suedbahn Hotel](/images/lost-places/austria/abandoned-ballroom-high-key.webp "A high key edit of the abandoned ballroom at the Suedbahn Hotel.")
 
 To learn more about how I edited this photo, please head to the tutorial about how to simulate [High-Key Lighting in Adobe Lightroom Mobile](/blog/high-key-edit-lightroom-mobile).
 
 However, take note that this is not a classic lost place. There's no way to enter and quite some heavy security and surveillance there. But if you have a good concept for e.g. a photo shoot, you may want to contact the caretaker at [https://suedbahnhotel-semmering.at](https://suedbahnhotel-semmering.at) and see if there's a chance to get inside. I've seen a few fashion shootings that were done there. The ballroom upstairs is also a superb place for such photos.
 
-![Smaller ballroom at the abandoned Suedbahnhotel Semmering](/images/lost-places/austria/smaller-ballroom-at-the-abandoned-suedbahnhotel-semmering.webp)
+![Smaller ballroom at the abandoned Suedbahnhotel Semmering](/images/lost-places/austria/smaller-ballroom-at-the-abandoned-suedbahnhotel-semmering.webp "Smaller ballroom at the abandoned Suedbahnhotel Semmering.")
 
 ## Photographing inside the hotel
 

@@ -58,7 +58,7 @@ In 2019, I re-edited the photo using a single shot from the three exposures usin
 
 So, here's the updated and re-edited final photo
 
-![CEC Palace in Bucharest, Romania, shot on iPhone 6s Plus](/images/tutorials/romania/cec-palace-in-bucharest-romania-shot-on-iphone-6s-plus.webp)
+![CEC Palace in Bucharest, Romania, shot on iPhone 6s Plus](/images/tutorials/romania/cec-palace-in-bucharest-romania-shot-on-iphone-6s-plus.webp "CEC Palace in Bucharest, Romania, shot on iPhone 6s Plus.")
 
 Today, I'd take a different route to take this photo. A lot has changed since then, especially when it comes to [night photography with iPhone](/blog/night-photography-iphone).
 

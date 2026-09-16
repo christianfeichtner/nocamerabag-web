@@ -20,7 +20,7 @@ cover:
 ---
 Old Wardour Castle, also known as Locksley Castle, is a gorgeous medieval castle in England used as a filming location for the 1991 film *Robin Hood* starring Kevin Coster.
 
-![Locksley Castle in England](/images/lost-places/england/wardour-castle-is-locksley-castle.webp)
+![Locksley Castle in England](/images/lost-places/england/wardour-castle-is-locksley-castle.webp "Locksley Castle in England.")
 
 I discovered this incredible castle back in 2016 on the way back to London from Stonehenge. Once I left Stonehenge, there was a small roadsign saying *Old Wardour Castle*.
 
@@ -48,19 +48,19 @@ In the movie, you'll see the castle a few times as Locksley's Castle, and there'
 
 What I found so stunning about this castle is that one half is quite intact, while the other half is just missing. It looks like someone took a giant saw, cut through the building, and took one half away.
 
-![Intact half of Old Wardour Castle](/images/lost-places/england/intact-half-of-old-wardour-castle.webp)
+![Intact half of Old Wardour Castle](/images/lost-places/england/intact-half-of-old-wardour-castle.webp "Intact half of Old Wardour Castle.")
 
 Some of the floors of the castle still exist, and you can access them. There's a small gate on the ground floor with stairs that will take you to to all the different levels.
 
-![Gate and Stairs at Old Wardour Castle in England](/images/lost-places/england/gate-and-stairs-at-old-wardour-castle-in-england.webp)
+![Gate and Stairs at Old Wardour Castle in England](/images/lost-places/england/gate-and-stairs-at-old-wardour-castle-in-england.webp "Gate and Stairs at Old Wardour Castle in England.")
 
 The top floors are quite airy. And if you get closer to the walls, you'll experience a beautiful view of the surrounding area.
 
-![View from the top of Old Wardour Castle](/images/lost-places/england/view-from-the-top-of-old-wardour-castle.webp)
+![View from the top of Old Wardour Castle](/images/lost-places/england/view-from-the-top-of-old-wardour-castle.webp "View from the top of Old Wardour Castle.")
 
 Old Wardour Castle may be a little off the beaten tracks, but it's worth a visit, especially if you're already visiting Stonehenge.
 
-![Bench in front of Locksley Castle aka Old Wardour Castle](/images/lost-places/england/bench-in-front-of-locksley-castle-aka-old-wardour-castle.webp)
+![Bench in front of Locksley Castle aka Old Wardour Castle](/images/lost-places/england/bench-in-front-of-locksley-castle-aka-old-wardour-castle.webp "Bench in front of Locksley Castle aka Old Wardour Castle.")
 
 And if you need a rest, you'll find benches in quiet, picturesque locations at the old Wardour Castle.
 

@@ -35,7 +35,7 @@ So you get a quick RAW editor with iOS 13.1.
 
 What’s more is, that when you turn to edit mode with a RAW photo selected, iOS 13.1 will tell you that you edit a RAW photo by shortly displaying a RAW badge in the upper left corner of the image.
 
-![RAW badge displayed in iOS 13.1 Photos App](/images/iphone-photography/general/raw-badge-displayed-in-ios-13-1-photos-app.webp)
+![RAW badge displayed in iOS 13.1 Photos App](/images/iphone-photography/general/raw-badge-displayed-in-ios-13-1-photos-app.webp "RAW badge displayed in iOS 13.1 Photos App.")
 
 ## Adjustment groups in iOS13 Photos App
 
@@ -47,7 +47,7 @@ Apple has grouped all those editing features into three, already familiar, group
 
 Just tap one of the groups to access all editing features. On iPhone, the groups are at in the toolbar at the bottom of the screen. On iPad, the groups are on the left of the screen.
 
-![Three iOS 13.1 adjustment groups in Photos App](/images/iphone-photography/general/three-ios-13-1-adjustment-groups-in-photos-app.webp)
+![Three iOS 13.1 adjustment groups in Photos App](/images/iphone-photography/general/three-ios-13-1-adjustment-groups-in-photos-app.webp "Three iOS 13.1 adjustment groups in Photos App.")
 
 Let’s start with the adjustments group.
 
