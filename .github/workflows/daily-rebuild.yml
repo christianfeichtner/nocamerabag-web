@@ -12,12 +12,13 @@ jobs:
     steps:
       - name: Trigger Cloudflare Pages Deploy Hook
         run: |
-          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" -X POST "${{ secrets.CF_PAGES_DEPLOY_HOOK }}?t=$(date +%s)")
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" -X POST "${{ secrets.NCB_DAILY_DEPLOY_HOOK }}?t=$(date +%s)")
           echo "Cloudflare Deploy Hook response: HTTP $HTTP_STATUS"
-          
+
           # Akzeptiert 200 (OK), 201 (Created) und 304 (Not Modified / Already up-to-date)
           if [ "$HTTP_STATUS" -ne 200 ] && [ "$HTTP_STATUS" -ne 201 ] && [ "$HTTP_STATUS" -ne 304 ]; then
             echo "Fehler beim Auslösen des Builds"
             exit 1
           fi
-          
+
+          echo "Build erfolgreich ausgelöst oder bereits auf dem neuesten Stand."
