@@ -27,11 +27,11 @@ In this blog post, I'll focus on architecture, and you'll learn how to edit a ph
 
 Before we get started, here are three more High-Key sample photos edited in the same way as described in this tutorial.
 
-![High-Key edit of an abandoned ballroom.](/images/tutorials/general/abandoned-ballroom-high-key.webp)
+![High-Key edit of an abandoned ballroom.](/images/tutorials/general/abandoned-ballroom-high-key.webp "High-Key edit of an abandoned ballroom.")
 
-![A face with a High-Key edit applied.](/images/tutorials/general/facade-vienna-high-key-edit.webp)
+![A face with a High-Key edit applied.](/images/tutorials/general/facade-vienna-high-key-edit.webp "A face with a High-Key edit applied.")
 
-![A High-Key edit take in a library in Vienna.](/images/tutorials/general/library-university-of-economics-vienna-high-key.webp)
+![A High-Key edit take in a library in Vienna.](/images/tutorials/general/library-university-of-economics-vienna-high-key.webp "A High-Key edit take in a library in Vienna.")
 
 ## How to take a photo for High-Key editing
 
@@ -45,7 +45,7 @@ Though I'll show you how to do a High-Key image edit in Adobe Lightroom Mobile, 
 
 Here's the unedited photo of the famous library in Stuttgart.
 
-![The unedited photo of the library in Stuttgart](/images/tutorials/general/high-key-lightroom-step-0.webp)
+![The unedited photo of the library in Stuttgart](/images/tutorials/general/high-key-lightroom-step-0.webp "The unedited photo of the library in Stuttgart.")
 
 As you can see, the photo is a bit dark, and the white interior of the library is more blueish than white. But we'll fix that in a minute - and no, we don't just turn up the exposure.
 
@@ -53,7 +53,7 @@ As you can see, the photo is a bit dark, and the white interior of the library i
 
 As the first step, please go to the light editing group and increase the whites. As you can see, I've increased the whites quite a bit to +85. Please experiment with the correct value for your photo. Ensure you don't burn (eliminate) all the details by increasing the white value too much.
 
-![Increasing Whites is the first step for a High-Key edit in Lightroom](/images/tutorials/general/high-key-lightroom-step-1.webp)
+![Increasing Whites is the first step for a High-Key edit in Lightroom](/images/tutorials/general/high-key-lightroom-step-1.webp "Increasing Whites is the first step for a High-Key edit in Lightroom.")
 
 Increasing the whites brings us one step closer to our final High-Key image. But we still have a few harsh shadows that we want to brighten.
 
@@ -61,19 +61,19 @@ Increasing the whites brings us one step closer to our final High-Key image. But
 
 By increasing the blacks, we make the harsh shadows a bit softer. Again, I've turned up the black quite a bit to +54. Please experiment to find the perfect value for your photo.
 
-![Increase the Blacks](/images/tutorials/general/high-key-lightroom-step-2.webp)
+![Increase the Blacks](/images/tutorials/general/high-key-lightroom-step-2.webp "Increase the Blacks.")
 
 ### Step 3: Lift shadows
 
 We're still in the light editing group. As the next step to turn this image into a High-Key photo, we lift the shadows by moving the shadows slider to the right. Again, I cranked it up to brighten the shadows and make them even softer.
 
-![Lifting the shadows is a great way to improve a high key edit](/images/tutorials/general/high-key-lightroom-step-3.webp)
+![Lifting the shadows is a great way to improve a high key edit](/images/tutorials/general/high-key-lightroom-step-3.webp "Lifting the shadows is a great way to improve a high key edit.")
 
 ### Step 4: The Secret Sauce: Add haze & reduce clarity
 
 Now switch to the effects editing group. Here we'll add the secret sauce for awesome High-Key images: The dehaze slider. Usually, you'd use the dehaze slider to remove fog and haze. But for a High-Key photo, we'll do precisely the opposite: We add haze to make the shot even brighter and add a touch of soft light.
 
-![Adding haze is the secret sauce for a high-key photo edit](/images/tutorials/general/high-key-lightroom-step-4.webp)
+![Adding haze is the secret sauce for a high-key photo edit](/images/tutorials/general/high-key-lightroom-step-4.webp "Adding haze is the secret sauce for a high-key photo edit.")
 
 Move the dehaze slider to the left to create a dreamy High-Key image. I wanted to add a slight haze and soft light, so a value of -24 is perfectly alright for this photo.
 
@@ -87,7 +87,7 @@ As you can see from the previous steps, the library is illuminated with an orang
 
 To eliminate the orange light, desaturate the orange tones by tapping orange and moving the saturation slider to the left.
 
-![Desaturate more colors for a high key look](/images/tutorials/general/high-key-lightroom-step-5.webp)
+![Desaturate more colors for a high key look](/images/tutorials/general/high-key-lightroom-step-5.webp "Desaturate more colors for a high key look.")
 
 If you want to desaturate areas containing a specific color, use a mask to select the area and reduce the saturation
 
@@ -95,13 +95,13 @@ If you want to desaturate areas containing a specific color, use a mask to selec
 
 As the last step, use masks to fix specific areas of your photo. For example, the roof in the picture is still a bit too dark. I want t to brighten it. So I pulled a linear gradient mask from the top and increased the exposure for the masked area.
 
-![Fix dedicated areas using masks](/images/tutorials/general/high-key-lightroom-step-6.webp)
+![Fix dedicated areas using masks](/images/tutorials/general/high-key-lightroom-step-6.webp "Fix dedicated areas using masks.")
 
 ## Final High-Key image
 
 And here is the final photo simulating High-Key Lighting in its full glory - with some perspective correction applied.
 
-![Final high-key edit of the Library in Stuttgart](/images/tutorials/general/stuttgart-library-high-key.webp)
+![Final high-key edit of the Library in Stuttgart](/images/tutorials/general/stuttgart-library-high-key.webp "Final high-key edit of the Library in Stuttgart.")
 
 Please let me know if you found this tutorial helpful in the comments.
 

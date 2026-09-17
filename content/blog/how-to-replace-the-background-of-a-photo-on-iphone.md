@@ -39,7 +39,7 @@ Then select the the areas from the foreground photo that you want to remove with
 
 Once you've selected the areas you want to remove from the foreground photo, the background photo will be visible and, voila, you've got a new sky. For best results I recommend that you use two photos with the same orientation; landscape, portrait or square.
 
-![Load two photos in Superimpose to replace the background: A background and a foreground photo](/images/tutorials/general/load-two-photos-in-superimpose-to-replace-the-background-a.webp)
+![Load two photos in Superimpose to replace the background: A background and a foreground photo](/images/tutorials/general/load-two-photos-in-superimpose-to-replace-the-background-a.webp "Load two photos in Superimpose to replace the background: A background and a foreground photo.")
 
 In Superimpose, always load the background photo first; it's the photo that you want to have as a background; use a photo with a e.g. cloudy sky.
 
@@ -48,7 +48,7 @@ In Superimpose, always load the background photo first; it's the photo that you 
 
 ## Position foreground and background photo
 
-![Transform the foreground image in Superimpose](/images/tutorials/general/transform-the-foreground-image-in-superimpose.webp)
+![Transform the foreground image in Superimpose](/images/tutorials/general/transform-the-foreground-image-in-superimpose.webp "Transform the foreground image in Superimpose.")
 
 1. Tap the "transform" button in the lower toolbar; then chose either the "rotate" or "resize" button in the upper toolbar.
 2. Handles at the edges and sides of the foreground photo will appear. Tap and move the handles to either rotate or resize the foreground photo.
@@ -66,7 +66,7 @@ Note that the dimensions and size of the background photo determine the final si
 
 To remove the dull blue sky from the photo with Superimpose we need to create a mask:
 
-![Create a mask in Superimpose to replace the background](/images/tutorials/general/create-a-mask-in-superimpose-to-replace-the-background.webp)
+![Create a mask in Superimpose to replace the background](/images/tutorials/general/create-a-mask-in-superimpose-to-replace-the-background.webp "Create a mask in Superimpose to replace the background.")
 
 1. Tap "mask" in the lower toolbar. As the sky has a single color, we can use the magic wand tool. Additionally you can use the eraser or selection tool to manually erase or select the area you want to delete.
 2. Next tap the rightmost icon in the top toolbar ("settings") and select the second masking tool from the left ("magic wand tool"). Set the threshold slider to a middle position and chose "smooth". The threshold slider controls how much of the area is selected. The higher the threshold, the more different areas will be selected. The "smooth" option will create a smooth edge for the mask .
@@ -111,7 +111,7 @@ To save the photo to your camera roll, tap the sharing icon in the upper toolbar
 
 I used the "searchlight" effect to add the light effect at the top of the Eiffel Tower. There are just three steps to add an effect to a photo with Lenslight:
 
-![Add the searchlight with Lenslight](/images/tutorials/general/add-the-searchlight-with-lenslight.webp)
+![Add the searchlight with Lenslight](/images/tutorials/general/add-the-searchlight-with-lenslight.webp "Add the searchlight with Lenslight.")
 
 1. Tap "Load Photo" on the Lenslight start screen in the lower toolbar.
 2. Then tap "Effects" in the lower toolbar.

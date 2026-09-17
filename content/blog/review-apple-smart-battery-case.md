@@ -21,7 +21,7 @@ cover:
 ---
 Except for the [Moment Photo Case](/blog/review-moment-photo-case) that I use only when taking photos, I don't use an iPhone case. Then, one day, this happened to my iPhone:
 
-![My broken iPhone XS](/images/reviews/general/my-broken-iphone-xs.webp)
+![My broken iPhone XS](/images/reviews/general/my-broken-iphone-xs.webp "My broken iPhone XS.")
 
 So, in addition to the photo case, I looked for a protective case for my iPhone 11 to use when I'm not taking photos. As my iPhone battery typically is down to 20-30% by 6 pm, I had a closer look at the battery case from Apple as it would protect my iPhone 11 and add a bit extra battery time. The Smart Battery Case will also replace my everyday carry [Anker Powercore Slim 10.000 mAh power bank](/blog/review-anker-powercore-ii-slim-10000-mah-power-bank). Finally, no more cables to carry!
 
@@ -49,7 +49,7 @@ So once your case is charged, it keeps your iPhone at 100% battery in a smart wa
 
 It's as simple as charging your iPhone. Either place it, with your iPhone inside the case, on a wireless charger or use a lightning cable to charge it. That's it. As soon as you begin to charge it, the iPhone will display the charge on the main screen.
 
-![Charging indicator for Apple Smart Battery Case](/images/reviews/general/charging-indicator-for-apple-smart-battery-case.webp)
+![Charging indicator for Apple Smart Battery Case](/images/reviews/general/charging-indicator-for-apple-smart-battery-case.webp "Charging indicator for Apple Smart Battery Case.")
 
 The battery case supports pass-through charging, which means it will charge your iPhone and your battery case at the same time.
 
@@ -73,7 +73,7 @@ The Apple battery case is made of rubber, and it adds a bit to the overall thick
 
 Here's a photo of the iPhone 11 Pro in the battery case with my (broken) iPhone XS next to it.
 
-![Smart Battery Case Thickness](/images/reviews/general/smart-battery-case-thickness.webp)
+![Smart Battery Case Thickness](/images/reviews/general/smart-battery-case-thickness.webp "Smart Battery Case Thickness.")
 
 The case itself is made from rubber silicone. Yes, that may make it a bit difficult to slide it into a tight pocket but will also provide better protection if you you drop it. I'd opt for security.
 

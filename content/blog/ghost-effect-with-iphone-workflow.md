@@ -17,7 +17,7 @@ cover:
   image: /images/tutorials/general/ghost-effect-with-iphone-workflow.webp
   alt: 'iPhone Workflow Tutorial: "The Ghost Train"'
 ---
-![The Ghost Train; (cc) by-nc squics.com.](/images/tutorials/general/the-ghost-train-cc-by-nc-squics-com.webp)
+![The Ghost Train; (cc) by-nc squics.com.](/images/tutorials/general/the-ghost-train-cc-by-nc-squics-com.webp "The Ghost Train; (cc) by-nc squics.com.")
 
 This Friday I took a two hour photowalk in Vienna along the tracks of the Vienna metro and found a small bridge over the railway tracks. Standing in the middle of the small bridge, I experimented with long exposures using my iPhone. It took me a few attempts to get the timing right for the photo above. I call this shot (making eerie sounds) "The Ghost Train".
 
@@ -44,7 +44,7 @@ I mounted the iPhone to the bridge railing using the [Joby Griptight Gorillapod]
 
 To avoid camera shake and get a sharp picture despite the long exposure, I used Muku Shuttr, a wireless remote shutter release for Smartphones. It's small, uses bluetooth and works with all camera apps that support volume button shutter release. So make sure you've enabled that.
 
-![Settings for motion blur in Slow Shutter Cam App](/images/tutorials/general/slow-shuttercam-app-settings-ghost-train-photo.webp)
+![Settings for motion blur in Slow Shutter Cam App](/images/tutorials/general/slow-shuttercam-app-settings-ghost-train-photo.webp "Settings for motion blur in Slow Shutter Cam App.")
 
 In Slow Shutter Cam, I selected *motion blur* mode and set the *blur strength* to maximum. Then I made a wild guess about the capture duration I thought I'd need.  After trying slight variations of the exposure time, I settled for one second. If I had used a longer exposure time, the railcar would have made its way through the entire frame and the result would have been something like a huge grey bar running through the entire photo.
 
@@ -54,7 +54,7 @@ If you use a remote shutter like Muku Shuttr with Slow Shutter Cam App, make sur
 
 Once Slow Shutter Cam finishes exposing the photo, it displays the photo and a toolbar with *edit, clear* and *save*. The trick for the ghost effect is hidden behind the *edit* option.
 
-![Adjusting the motion blur effect in Slow Shutter Cam App](/images/tutorials/adjust-freeze-slow-shutter-cam-app.webp)
+![Adjusting the motion blur effect in Slow Shutter Cam App](/images/tutorials/adjust-freeze-slow-shutter-cam-app.webp "Adjusting the motion blur effect in Slow Shutter Cam App.")
 
 After tapping *edit*, you can adjust the amount of motion blur (called *freezing* here) by tapping freeze. Move the freeze slider all to the left to see the photo at the beginning of the exposure. Move it to the right will display the photo towards the end of the exposure, creating the motion blur and ghost effect.
 
@@ -66,7 +66,7 @@ In Lenslight, you can add different kinds of light effects to a photo. Each ligh
 
 I used the *search cone* effect for this photo.
 
-![Each light effect is a single layer in Lenslight](/images/tutorials/general/each-light-effect-is-a-single-layer-in-lenslight.webp)
+![Each light effect is a single layer in Lenslight](/images/tutorials/general/each-light-effect-is-a-single-layer-in-lenslight.webp "Each light effect is a single layer in Lenslight.")
 
 To add a new search light, load the photo into Lenslight. Then tap *layers* followed by "+" of the first empty layer.
 
@@ -76,7 +76,7 @@ To position the light effect properly, tap and drag the search light to the posi
 
 Each Layer (Light Effect) has an *edit* button that allows additional fine adjustments that you can use to make e.g. the light of the cone of the search light brighter, wider or smaller and you can even set a different color for the light.
 
-![First headlight added in Lenslight](/images/tutorials/general/first-headlight-added-in-lenslight.webp)
+![First headlight added in Lenslight](/images/tutorials/general/first-headlight-added-in-lenslight.webp "First headlight added in Lenslight.")
 
 For this photo I made the cone slightly smaller.
 
@@ -92,7 +92,7 @@ I used the new adjustment functions in iOS8 to convert the photo to black and wh
 
 Tap on the saved photo in the camera roll or *all photos* as it's called in iOS8. Then tap edit *edit* in the upper right corner. The new adjustments are hidden between the symbol that looks like a rotary knob. It's the third symbol from the left.
 
-![Converting the final photo to black and white with iOS8](/images/tutorials/general/converting-the-final-photo-to-black-and-white-with-ios8.webp)
+![Converting the final photo to black and white with iOS8](/images/tutorials/general/converting-the-final-photo-to-black-and-white-with-ios8.webp "Converting the final photo to black and white with iOS8.")
 
 Tap *B&W* and move the slider to convert the photo to black and white. For this photo, moving the slider to the right made it a little darker.
 
@@ -108,4 +108,4 @@ What makes this app worth buying is the possibility to edit and adjust the inten
 
 You can even take multiple long exposures in a single frame. I like to use this feature when [photographing fireworks with iPhone](/blog/how-to-photograph-fireworks-with-iphone).
 
-If you'd like to know more, head over to my [Slow Shutter Cam App review](/blog/review-slow-shutter-cam-app), [buy Slow Shutter Cam from the App Store](aff:slow-shutter-cam-app) or check out other ways about [how to take a long exposure on iPhone](/blog/long-exposure-iphone).
+If you'd like to know more, head over to my [Slow Shutter Cam App review](/blog/review-slow-shutter-cam-app), [buy Slow Shutter Cam from the App Store](aff:slow-shutter-cam-app) or check out other ways about [how to take a long exposure on iPhone](/blog/long-exposure-iphone-apps/).

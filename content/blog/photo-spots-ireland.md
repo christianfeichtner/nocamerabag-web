@@ -105,7 +105,7 @@ You can see all the spots mentioned in this article on an interactive map. You c
 
 Built in the 18th century, the old library at the trinity college is an impressive photo spot in Dublin. Unfortunately, when I visited in August 2024, all the books were already removed, digitized and stored in a climate controlled facility. Nevertheless, the long room is an iconic photo spot in Ireland worth visiting.
 
-![Long Room Library at Trintiy College, Dublin](/images/lost-places/ireland/long-room-library-trinty-college-ireland.webp)
+![Long Room Library at Trintiy College, Dublin](/images/lost-places/ireland/long-room-library-trinty-college-ireland.webp "Long Room Library at Trintiy College, Dublin.")
 
 If you plan to visit the long room, make sure to book your tickets online in advance. Unlike many other photo spots in Ireland, you won’t benefit much from being there early or late. This spot is always crowded. But you can still get a good photo if you mind the following tips: Take a photo right from the entrance of the long room. Hold your camera above your head or use a selfie-stick to raise your camera above the crowd. As you will need to tilt your camera slightly to capture the room, use one of the recommended [apps to fix perspective distortions on iPhone](/blog/fix-perspective-distortions-iphone-apps) like I did.
 
@@ -115,7 +115,7 @@ The Rock of Cashel was the seat of the kings of Munster. On top of the limestone
 
 After a 15-minute uphill walk, you’ll reach the main entrance of the area, where you need to purchase a ticket. You can either explore the place on your own or take a guided tour, which is the only way to get into the small chapel. I did both. I first took the tour and then spend another hour to walk around on my own.
 
-![Rock of Cashel, Ireland](/images/lost-places/ireland/rock-of-cashel-ireland.webp)
+![Rock of Cashel, Ireland](/images/lost-places/ireland/rock-of-cashel-ireland.webp "Rock of Cashel, Ireland.")
 
 From my perspective, the ideal location to photograph the Rock of Cashel and the abbey is talking the 15-minute walk to the rear of the rock. Here you can use the meadow with grazing sheep as a foreground and the abbey as the background. And while you're there, don't forget to turn around and photograph the ruins of Hore Abbey in all its glory.
 
@@ -123,7 +123,7 @@ From my perspective, the ideal location to photograph the Rock of Cashel and the
 
 Net to the Rock of Cashel, you’ll find the abandoned monastery Hore Abbey. If you've followed my recommendations for photographing the Rock of Cashel, simply turn around, and you’ll see Hore Abbey in the midst of a meadow.
 
-![Hore Abbey, Ireland](/images/lost-places/ireland/hore-abbey-ireland.webp)
+![Hore Abbey, Ireland](/images/lost-places/ireland/hore-abbey-ireland.webp "Hore Abbey, Ireland.")
 
 Hore Abbey lies in a private property. But in August 2024, you were allowed to enter it. Though it may be interesting to walk around the abbey, I didn’t find it as appealing for a photo as from the distance.
 
@@ -133,7 +133,7 @@ For this photo, I used the [rule of thirds composition technique](/blog/what-is-
 
 The Gleninchaquin Waterfall is a 140 meters high waterfall in the Gleninchaquin park, a national park in Kerry. To visit Gleninchaquin Park, be prepared to take a narrow and winding road. As parking is limited in the park, I recommend arriving early.
 
-![Gleninchaquin waterfall, Ireland](/images/landscapes/ireland/gleninchaquin-waterfall-ireland.jpeg)
+![Gleninchaquin waterfall, Ireland](/images/landscapes/ireland/gleninchaquin-waterfall-ireland.jpeg "Gleninchaquin waterfall, Ireland.")
 
 Once you arrived, decide which of the three routes to hike. I opted for the one which would take me past the waterfall to a beautiful lake and back to the valley. The round trip will take you around 90 minutes.
 
@@ -143,7 +143,7 @@ The best place to get a photo of the Gleninchaquin Waterfall is from the opposit
 
 If you plan to visit the Cliffs of Moher, the Cliffs of Kerry are a foretaste. The impressive photo spot rises over 1000 feet from the Atlantic Ocean. You’ll find two viewpoints there.
 
-![Kerry Cliffs, Ireland](/images/lost-places/ireland/kerry-cliffs-ireland.webp)
+![Kerry Cliffs, Ireland](/images/lost-places/ireland/kerry-cliffs-ireland.webp "Kerry Cliffs, Ireland.")
 
 The best view point for taking a photo is the right one (looking towards the sea). From here you’ll see the rugged Kerry Cliffs stretching to the horizon. Use either the standard wide lens or even the ultra-wide lens of your iPhone to capture the beauty of this view.
 
@@ -153,7 +153,7 @@ If there is ever no wind here, try a [long exposure with your iPhon](/blog/long-
 
 The origins of this castle date back to the 14th century. The medieval castle ruin resides on a grassy hill overlooking the sea behind it. The ruin is on a privately own property which was off limits as of August 2024. But that didn’t matter to me. You can take a walk around the castle and see and photograph it from three sides. One side totally overgrew!
 
-![Ballyberry Castle, Ireland](/images/lost-places/ireland/ballycarberry-castle-ireland.webp)
+![Ballyberry Castle, Ireland](/images/lost-places/ireland/ballycarberry-castle-ireland.webp "Ballyberry Castle, Ireland.")
 
 In my opinion, the best play to take a photo of the castle is of you take the path to the left. There you’ll get a beautiful foreground with wild grass and flowers. If you want to capture a photo of the castle in the hill only, I’d recommend walking along the shore of the sea to the right.
 
@@ -161,7 +161,7 @@ In my opinion, the best play to take a photo of the castle is of you take the pa
 
 You’ll find the friary next to the center of Ennis, the county town of Clare. Established in the 14th century, the friary had an eventful past. In 1871, the friary was abandoned. Today you can visit the friary in Ennis for a small fee.
 
-![Ennis Friary, Irland](/images/lost-places/ireland/ennis-friary-ireland.webp)
+![Ennis Friary, Irland](/images/lost-places/ireland/ennis-friary-ireland.webp "Ennis Friary, Irland.")
 
 In my opinion, the best spot to take a photo of the friary is from the back of the graveyard. I recommend using the pathway as a [leading line when composing the photo](/blog/what-are-leading-lines-photography), additionally placing a few tombstones in the foreground to add depth to the scene.
 
@@ -169,7 +169,7 @@ In my opinion, the best spot to take a photo of the friary is from the back of t
 
 The Cliffs of Moher are probably the best known photo spot in Ireland. According to a study, it’s even the most photographed place in Ireland.
 
-![Cliffs of Moher, Ireland](/images/lost-places/ireland/cliffs-of-moher-ireland.webp)
+![Cliffs of Moher, Ireland](/images/lost-places/ireland/cliffs-of-moher-ireland.webp "Cliffs of Moher, Ireland.")
 
 My tip for getting great photos of the Cliffs of Moher is to be there as early as possible. I arrived shortly before 9 am, which allowed me an hour to take photos before all the tourist busses arrived. The best place to take photos of the Cliffs is to take the hiking route to the left of the tower. On this route, you’ll get stunning views of the iconic cliffs.
 
@@ -179,7 +179,7 @@ The photo is also a good example of using the [rule of thirds for composing a ph
 
 I consider the House of Tyrone being an insider tip. It’s located in the residential area on a private property, which is off limits. But again, the best view is from the road, photographing the abandoned manor house.
 
-![House of Tyrone, Ireland](/images/lost-places/ireland/house-of-tyrone-ireland.webp)
+![House of Tyrone, Ireland](/images/lost-places/ireland/house-of-tyrone-ireland.webp "House of Tyrone, Ireland.")
 
 Please mind, that there’s no parking near the House of Tyrone. I parked my car in the gateway of the property. To photograph the house, I recommend taking a photo from either the left or right corner of the property. This will give you the angle you can see in the photo above.
 
@@ -189,7 +189,7 @@ I didn’t find a frontal view of the building very scenic, but you may want to 
 
 The huge outcrop makes Downpatrick Head an iconic photo spot in Ireland. At this spot, you’ll also find the remains of a World War II lookout post that yoyu can see in the photo.
 
-![Downpatrick Head, Ireland](/images/lost-places/ireland/dowpatrick-head-ireland.webp)
+![Downpatrick Head, Ireland](/images/lost-places/ireland/dowpatrick-head-ireland.webp "Downpatrick Head, Ireland.")
 
 There are actually two great photo spots here: the left and right side of headland. I captured the house on it to provide a bit of a context to the views about the size of the head.
 
@@ -197,7 +197,7 @@ There are actually two great photo spots here: the left and right side of headla
 
 You’ll find many shipwrecks along the coast of Ireland. But Bad Eddie, a washed up fishing boat, is probably the most iconic. The ship wreck was washed up to the beach in the 1970s and decayed since then. The wreck is only accessible during low tide.
 
-![Bad Eddie, Ireland](/images/lost-places/ireland/bad-eddie-shipwreck-ireland.webp)
+![Bad Eddie, Ireland](/images/lost-places/ireland/bad-eddie-shipwreck-ireland.webp "Bad Eddie, Ireland.")
 
 The photo I took is the typical viewpoint for this photo spot for a simple reason. It hides that there’s not much left of the ship. But that's precisely what could be interesting. Try capturing the wreck from different angles and view points and see which appeals most to you.
 
@@ -209,7 +209,7 @@ In addition to the Cliffs of Moher, the Dark Hedges are among the best known and
 
 When you arrive there by car, do not turn on the sign saying Dark Hedges! Continue to the dedicated (and paid) parking. From there, it will take you 5–7 minutes to get to the avenue.
 
-![Dark Hedges, Ireland](/images/landscapes/ireland/dark-hedges-ireland.webp)
+![Dark Hedges, Ireland](/images/landscapes/ireland/dark-hedges-ireland.webp "Dark Hedges, Ireland.")
 
 When I visited the dark Hedges, I saw many people taking photos at the beginning of the avenue, which, in my opinion, is not the best place. I recommend walking the avenue until you get to the top of the small hill and then photograph towards the entrance of the avenue on your way back.
 
@@ -227,7 +227,7 @@ During the trip to Ireland, I used an iPhone photo cage with an attached grip wi
 
 If you search for a photo location in Google Maps, you’ll see a chart highlighting the popular times. For some places, you’ll need to select “the official location”; e.g. for the Cliffs of Moher you have to select the visitor center (“the business”) to see them.
 
-![Popular times feature in Google Maps for the Cliffs of Moher](/images/lost-places/ireland/busy-times-google-maps.webp)
+![Popular times feature in Google Maps for the Cliffs of Moher](/images/lost-places/ireland/busy-times-google-maps.webp "Popular times feature in Google Maps for the Cliffs of Moher.")
 
 You may want to use this feature to plan your trip to any of the photos spots I’ve mentioned in this blog post.
 

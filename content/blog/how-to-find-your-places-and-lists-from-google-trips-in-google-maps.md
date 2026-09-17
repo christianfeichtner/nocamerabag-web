@@ -32,7 +32,7 @@ Google has already moved that feature into the Google Maps app. Just type *thing
 
 Just like in Google Trips, you can save those places to a list (that’s now in Google Maps, more on that in a minute) by tapping the bookmark icon.
 
-![Save Places feature from Google Trips in Google Maps.](/images/tutorials/general/save-places-feature-from-google-trips-in-google-maps.webp)
+![Save Places feature from Google Trips in Google Maps.](/images/tutorials/general/save-places-feature-from-google-trips-in-google-maps.webp "Save Places feature from Google Trips in Google Maps.")
 
 ## Saved places from Google Trips are now in Google Maps
 
@@ -46,9 +46,9 @@ To see your lists of saved places from Google Trips:
 * Tap the second option labeled *Saved*
 * Here are your lists from Google Trips including all the saved places from past and future trips.
 
-![Find Saved Places in Google Maps app under Your Places.](/images/tutorials/general/find-saved-places-in-google-maps-app-under-your-places.webp)
+![Find Saved Places in Google Maps app under Your Places.](/images/tutorials/general/find-saved-places-in-google-maps-app-under-your-places.webp "Find Saved Places in Google Maps app under Your Places.")
 
-![Tap saved to access the lists containing saved places from Google Trips in Google Maps](/images/tutorials/general/tap-saved-to-access-the-lists-containing-saved-places-from-g.webp)
+![Tap saved to access the lists containing saved places from Google Trips in Google Maps](/images/tutorials/general/tap-saved-to-access-the-lists-containing-saved-places-from-g.webp "Tap saved to access the lists containing saved places from Google Trips in Google Maps.")
 
 Of course, this list is also accessible in Google Maps on a desktop computer.
 
@@ -70,7 +70,7 @@ You may wonder where all your trips from Google Trips have gone. Simply type [ht
 
 If you’re logged in with the same account for Google Trips and Google Travel, you’ll find all your past trips in a list at the bottom of the page.
 
-![Past trips from Google Trips is available under https://google.com/travel](/images/tutorials/general/past-trips-from-google-trips-is-available-under-https-goog.webp)
+![Past trips from Google Trips is available under https://google.com/travel](/images/tutorials/general/past-trips-from-google-trips-is-available-under-https-goog.webp "Past trips from Google Trips is available under https://google.com/travel.")
 
 ## Where are day plans?
 

@@ -81,7 +81,7 @@ The easiest way to get there from the city of Lisbon is to take the bus line 753
 
 To my experience, there are basically two good places to photograph the statue. One is by standing right in front of it and photographing it upwards like I did. If the sky is a bit cloudy like in my photo below, that will result in a fantastic photo.
 
-![Monument of Christ the King in Almada](/images/cityscapes/portugal/monument-of-christ-the-king-alamada.webp)
+![Monument of Christ the King in Almada](/images/cityscapes/portugal/monument-of-christ-the-king-alamada.webp "Monument of Christ the King in Almada.")
 
 The second good spot for a picture of the statue is to photograph it from the beginning of the path leading to it.
 
@@ -93,7 +93,7 @@ A great location for a photo of the 25 de Abril Bridge is right from the Sanctua
 
 However, I took the photo below while hiking down from the monument to the shore. This photo location allows you to use the trees and bushes to create a frame for the bridge.
 
-![25 de Abril Bridge connecting the city of Lisbon with Almada](/images/cityscapes/portugal/25-de-abril-bridge-lisbon.webp)
+![25 de Abril Bridge connecting the city of Lisbon with Almada](/images/cityscapes/portugal/25-de-abril-bridge-lisbon.webp "25 de Abril Bridge connecting the city of Lisbon with Almada.")
 
 Learn more about this photo technique in my article about [how to use framing in photography](/blog/what-is-framing-photography).
 
@@ -103,7 +103,7 @@ By hiking down from the Christ the King Monument, you’ll reach an abandoned ha
 
 But as this is an abandoned place, please stay safe. You’ll find a few tips about staying safe during urban exploration in my summary of [urbex rules](/blog/urbex-rules).
 
-![House at the abandoned winery in Almada](/images/cityscapes/portugal/abandoned-winery-almada-lisbon.webp)
+![House at the abandoned winery in Almada](/images/cityscapes/portugal/abandoned-winery-almada-lisbon.webp "House at the abandoned winery in Almada.")
 
 To see more photos, please head over to my blog post about the [abandoned winery in Almada](/blog/abandoned-winery-harbor-almada-portugal).
 
@@ -113,7 +113,7 @@ From the abandoned winery, I recommend walking along the seaside until you reach
 
 The Torre de Belém was built between 1515 and 1521. It acted as a line of defense for Lisbon at the estuary funnel of the Tejo River. You can visit the interior of the tower. If you plan to do so, I recommend booking your tickets in advance for the first possible timeslot of the day. You can do that right at a booth near the tower.
 
-![Torre de Belém Lighthouse](/images/cityscapes/portugal/torre-de-belem-lighthouse-lisbon.webp)
+![Torre de Belém Lighthouse](/images/cityscapes/portugal/torre-de-belem-lighthouse-lisbon.webp "Torre de Belém Lighthouse.")
 
 When photographing the Torre de Belém, use the wooden bridge as a leading line towards the tower. Leading lines are one of the three [essential photo composition techniques](/blog/essential-photo-composition-techniques) I recommend you familiarize yourself with.
 
@@ -123,7 +123,7 @@ If you’d like to flatten the sea, especially if it is cloudy, I’d recommend 
 
 I discovered this photo spot in Lisbon accidentally. It’s right next to the Jardim Marcelino de Mesquita Park. At this photo spot, a triumphal arch and aqueduct intersect. If you wait a little, you may even catch a tram passing through the triumphal arch. However, this does not seem to be one of the busy tram lines. I waited there for almost half an hour but no tram came.
 
-![Triumphal Arch and aqueduct near Jardim Marcelino de Mesquita](/images/cityscapes/portugal/triumphal-arch-jardim-marcelino-de-mesquita.webp)
+![Triumphal Arch and aqueduct near Jardim Marcelino de Mesquita](/images/cityscapes/portugal/triumphal-arch-jardim-marcelino-de-mesquita.webp "Triumphal Arch and aqueduct near Jardim Marcelino de Mesquita.")
 
 ### Boca do Inferno in Cascais
 
@@ -131,7 +131,7 @@ Cascais is a city east of Lisbon. You can reach it within 30 minutes by train fr
 
 Boca do Inferno (Devil's Mouth) is a unique rock formation and an ideal place for long-exposure photography. As preparation, please check my blog post about the different ways of [how to take a long exposure photo with iPhone](/blog/long-exposure-iphone-apps). I took the photo below with Reeheld Camera App, which allows me to take long-exposure photos of up to 30 seconds without a tripod. Read more about this app in my [Reeheld camera app review](/blog/review-reeheld-camera-app).
 
-![Long exposure of the rock formation at the Devils Mouth in Cascais](/images/cityscapes/portugal/devils-mouth-cascais.webp)
+![Long exposure of the rock formation at the Devils Mouth in Cascais](/images/cityscapes/portugal/devils-mouth-cascais.webp "Long exposure of the rock formation at the Devils Mouth in Cascais.")
 
 But before you go to the Devils Mouth, check the weather. Due to its location next to the sea, it’s exposed to wind. During heavy winds, access to this photo spot is forbidden and dangerous. It’s called “devils mouth” for a reason!
 
@@ -141,7 +141,7 @@ Cabo da Roca is the westernmost place in Europe. You can get there by taking a b
 
 Once you arrive, follow the trails to the right (facing the lighthouse at the Cabo da Roca). You’ll be rewarded with spectacular views and photo opportunities of beaches and rocky formations.
 
-![Beach at the Cabo da Roca](/images/cityscapes/portugal/beach-cabo-da-roca-portugal.webp)
+![Beach at the Cabo da Roca](/images/cityscapes/portugal/beach-cabo-da-roca-portugal.webp "Beach at the Cabo da Roca.")
 
 But be careful. These hiking paths at the Cabo da Roca are not secured! Use them at your own risk.
 

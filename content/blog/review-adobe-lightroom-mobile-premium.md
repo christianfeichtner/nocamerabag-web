@@ -42,12 +42,12 @@ Since I started using Adobe Lightroom Mobile premium, it has made my life as an 
 1. Lightroom Mobile supports **non-destructive editing**. So you can always undo a single or all edits on any device, at any time, even after you closed and re-opened Lightroom. The new version feature in Lightroom makes cross-device editing even more convenient.
 2. It supports **selective adjustments**. This feature allows you to apply adjustments to only a part of your photo. I need and use this a lot, and it's convenient to use with Apple Pencil on an iPad. This is a feature I missed in a lot of other iPhone photo editing apps I tried. You can see selective adjustments in the following screenshot. I’ve added a selection (mask) to the castle. Now, all adjustments like reducing the highlights are only applied to the masked area (the castle).
 
-![Example of a selective adjustment in Adobe Lightroom Mobile Premium](/images/reviews/general/selective-adjustments-lightroom-mobile.webp)
+![Example of a selective adjustment in Adobe Lightroom Mobile Premium](/images/reviews/general/selective-adjustments-lightroom-mobile.webp "Example of a selective adjustment in Adobe Lightroom Mobile Premium.")
 
 1. With Lightroom Mobile, you can **create and apply presets**. If you have added your favorite presets in Lightroom Desktop, they will automatically sync to the mobile version, and you can even create your own right on your iPhone or iPad.
 2. I can **fix perspective distortions**, though not to the same extent that SKRWT App does.
 
-![Fix perspective distortions in Lightroom Mobile Premium](/images/reviews/general/fix-perspective-distortion-lightroom-moblile.webp)
+![Fix perspective distortions in Lightroom Mobile Premium](/images/reviews/general/fix-perspective-distortion-lightroom-moblile.webp "Fix perspective distortions in Lightroom Mobile Premium.")
 
 * You can **create web albums**. Share them with friends, clients, or cooperation partners right from Lightroom Mobile. You can even protect a web album with a password.
 * You get a **web version of Lightroom CC**. This way, you can access and use your Lightroom photos from any computer, anywhere in the world. The feature list of the web version is pretty impressive.
@@ -125,7 +125,7 @@ Now let's take a look at some of the Lightroom mobile premium editing features i
 * **Included Premium Presets:** The subscription includes hundreds of premium presets like cinematic presets or portrait presets. Lightroom will even suggest a preset for your photo if you like.
 * **Healing Brush:** Fix imperfections using the healing brush or clone stamp tool. Lightroom now also includes a generative removal brush that works awesome for small to medium-sized objects. However, usage of the generative removal tool consumes credits. Depending on your subscription plan, you’ll get a number of free credits. See the table above for details.
 
-![Using the Healing Brush with generative AI in Lightroom Mobile](/images/reviews/general/generative-remove-lightroom-mobile.webp)
+![Using the Healing Brush with generative AI in Lightroom Mobile](/images/reviews/general/generative-remove-lightroom-mobile.webp "Using the Healing Brush with generative AI in Lightroom Mobile.")
 
 * **Perspective Correction:** Apply geometric and perspective corrections. I use that a lot, especially when shooting architecture.
 * **Synchronization:** Your photos and edits will automatically sync between Lightroom on iPhone/iPad, Lightroom Web Edition, and Lightroom on the Desktop. Note that the subscription plan includes the desktop version of Lightroom CC.

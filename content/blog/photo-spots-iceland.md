@@ -88,7 +88,7 @@ I spent the first half of my Iceland vacation going east from Reykjavík along t
 
 If you ever wanted to walk or hike behind a waterfall, put Seljalandsfoss on your Iceland bucket list. The waterfall has hollowed out the rock. Thus, you can walk behind the waterfall and take stunning photos there
 
-![Seljalandsfoss in Iceland](/images/misc/iceland/seljalandsfoss-iceland.webp)
+![Seljalandsfoss in Iceland](/images/misc/iceland/seljalandsfoss-iceland.webp "Seljalandsfoss in Iceland.")
 
 Another great place to take photos at Seljalandsfoss is to climb the hills on the right side of the waterfall. But be careful: depending on the wind direction, it can be really muddy there.
 
@@ -98,7 +98,7 @@ You can get to Seljalandsfoss within two hours by car from Rekjavik.
 
 Skógafoss is a 25-meter wide and 60 meter high waterfall in southern Iceland. It’s about third minutes by car from Seljalandsfoss waterfall. This was my second stop on my road trip, and I've spent a few hours there. Buses started to arrive around 10 a.m. So if you want to see this place without hundreds of people running into your frame, be there early.
 
-![Skogafoss Waterfall](/images/misc/iceland/skogafoss-iceland.webp)
+![Skogafoss Waterfall](/images/misc/iceland/skogafoss-iceland.webp "Skogafoss Waterfall.")
 
 You’ll find many great photo spots here. The first recommendation is to photograph Skógafoss from the distance. If there are too many people standing around, you can remove them. I’ve outlined a few ways how to [remove people from a photo on iPhone](/blog/how-to-remove-people-from-photos-on-your-iphone) in a dedicated blog post.
 
@@ -110,7 +110,7 @@ If you have some more time to spend, follow the hiking trail once you've climbed
 
 The Black Beach is a spectacular photo spot, just 30 minutes from Skógafoss Waterfall. The black rocks and black gravel you’ll see there are from basaltic rock formations.
 
-![Waves breaking at the Black Beach in Iceland](/images/misc/iceland/black-beach-iceland.webp)
+![Waves breaking at the Black Beach in Iceland](/images/misc/iceland/black-beach-iceland.webp "Waves breaking at the Black Beach in Iceland.")
 
 Taking this photo was a bit difficult. To avoid the iPhone getting wet, I set up my tripod and used a remote shutter release. Also, I used a [Moment Telephoto Lens](/blog/review-moment-tele-lens) to take the photo from a perceived safe distance. Nevertheless, the iPhone got a bit wet, but luckily, nothing happened. It would have been challenging to find an Apple Store here.
 
@@ -124,7 +124,7 @@ Unlike many other spectacular sights, the Svartifoss waterfall is not located ne
 
 Here's the breathtaking view that you'll experience once you've climbed the last, small, hill.
 
-![Svartifoss Waterfall as seen after a one-hour hike](/images/misc/iceland/svartifoss-icland.webp)
+![Svartifoss Waterfall as seen after a one-hour hike](/images/misc/iceland/svartifoss-icland.webp "Svartifoss Waterfall as seen after a one-hour hike.")
 
 Another great place to photograph Svartifosss is from the small bridge that you can see in the above photo. To capture the sheer size and beauty of this waterfall and surrounding landscape, use a wide-angle lens.
 
@@ -132,7 +132,7 @@ Another great place to photograph Svartifosss is from the small bridge that you 
 
 The well-known glacier lagoon was the turning point of my road trip. I spent an entire day here and even took a boat trip on the glacier lake. But the most remarkable experience was that I could witness and iceberg flipping over. It was simply spectacular. This is a closeup of the iceberg that flipped over, taken during a boat tour.
 
-![Flipped iceberg at Jökulsárlón Glacier Lagoon](/images/misc/iceland/glacier-lagoon-iceland.webp)
+![Flipped iceberg at Jökulsárlón Glacier Lagoon](/images/misc/iceland/glacier-lagoon-iceland.webp "Flipped iceberg at Jökulsárlón Glacier Lagoon.")
 
 To enhance the stunning blue colors a bit, I use the same method that I described in my blog post about [how to change the color of water in Lightroom](/blog/how-to-change-the-color-of-water-lightroom-mobile).
 
@@ -144,7 +144,7 @@ For the second half of my Iceland vacation, I stayed in Reykjavík and took day 
 
 Hallgrímskirkja church is an iconic photo spot in Reykjavík. It sits on a small hill in the city center, so you can’t miss it.
 
-![Hallgrímskirkja in Reykjavík](/images/misc/iceland/hallgrimskirkja-church.webp)
+![Hallgrímskirkja in Reykjavík](/images/misc/iceland/hallgrimskirkja-church.webp "Hallgrímskirkja in Reykjavík.")
 
 For this photo, I used SKRWT app. That’s one way you can [fix perspective distortions on](/blog/fix-perspective-distortions-iphone-apps) iPhone, like falling lines.
 
@@ -152,7 +152,7 @@ For this photo, I used SKRWT app. That’s one way you can [fix perspective dist
 
 I spent the last two days in Reykjavík and Mae several half-day trips from there. One of these trips led me to the Strokkur Geyser, one of the few geysers that erupts quite regularly every 10-15 minutes or so.
 
-![Strokkur Geysir eruption](/images/misc/iceland/strokkur-geysir.webp)
+![Strokkur Geysir eruption](/images/misc/iceland/strokkur-geysir.webp "Strokkur Geysir eruption.")
 
 Using the burst mode of the iPhone helped me to get this beautiful photo right after the Geyser erupted.
 
@@ -160,7 +160,7 @@ Using the burst mode of the iPhone helped me to get this beautiful photo right a
 
 A must-see is Gulfoss waterfall. It's so damn huge - and quite loud, too. To give you an impression of the size of this waterfall, I placed a few people inside the frame. Can you spot them?
 
-![Gulfoss Waterfall is huge](/images/misc/iceland/gullfoss-waterfall-iceland.webp)
+![Gulfoss Waterfall is huge](/images/misc/iceland/gullfoss-waterfall-iceland.webp "Gulfoss Waterfall is huge.")
 
 ### Hraunfossar Waterfall
 
@@ -168,7 +168,7 @@ Visiting this waterfall was probably the calmest and relaxing experience during 
 
 So I sat down on one of the benches and enjoyed nature.
 
-![Long Exposure of Hraunfossar waterfall](/images/misc/iceland/hraunfossar-waterfall-iceland.webp)
+![Long Exposure of Hraunfossar waterfall](/images/misc/iceland/hraunfossar-waterfall-iceland.webp "Long Exposure of Hraunfossar waterfall.")
 
 To take this long exposure of the waterfall, I used Slow Shutter Cam App mounted to my tripod. To learn more, please head over to my blog post outlining several ways of [how to take a long exposure photo with iPhone](/blog/long-exposure-iphone-apps).
 

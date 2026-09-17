@@ -112,7 +112,7 @@ These are the alternatives to the ProCamera app:
 
 ### Best camera app for taking long exposure photos is the Slow Shutter Cam app
 
-Slow Shutter Cam App has been on my list of the best iPhone camera apps since 2012 because it does one thing and does it well: allowing you to take [long exposure photos with iPhone](/blog/long-exposure-iphone). I bought it in 2012 and have been a user ever since then.
+Slow Shutter Cam App has been on my list of the best iPhone camera apps since 2012 because it does one thing and does it well: allowing you to take [long exposure photos with iPhone](/blog/long-exposure-iphone-apps/). I bought it in 2012 and have been a user ever since then.
 
 {{< gallery
   src1="/images/reviews/long-exposure-of-a-fireworks-shot-on-iphone-xs-using-slow-sh.webp"

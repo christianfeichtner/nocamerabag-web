@@ -37,7 +37,7 @@ So, let’s take a look at how to remove power lines in a photo on the iPhone.
 
 First, open the photo in TouchRetouch. As I’ve mentioned, I prefer to launch it as a photo extension. So, tap on the photo you want to edit, then tap *edit* in the upper-right corner.
 
-![Launch TouchRetouch as a photo extension, step 1](/images/tutorials/general/launch-touchretouch-as-a-photo-extension-step-1.webp)
+![Launch TouchRetouch as a photo extension, step 1](/images/tutorials/general/launch-touchretouch-as-a-photo-extension-step-1.webp "Launch TouchRetouch as a photo extension, step 1.")
 
 The photo I’m using as an example here is the Vienna State Opera. Right above the building, you can see some kinds of wires.
 
@@ -45,15 +45,15 @@ These aren‘t power lines, but they’re used to holding the overhead wire of t
 
 Once you’ve tapped *edit* in the Photos App, tap the three icons in the upper-right corner. You should see a panel with TouchRetouch in it. If it’s not visible, tap *edit actions* and see if you need to enable it.
 
-![Launch TouchRetouch as a Photo Extension, Part 2](/images/tutorials/general/launch-touchretouch-as-a-photo-extension-part-2.webp)
+![Launch TouchRetouch as a Photo Extension, Part 2](/images/tutorials/general/launch-touchretouch-as-a-photo-extension-part-2.webp "Launch TouchRetouch as a Photo Extension, Part 2.")
 
 Next, chose the line *removal tool* in the lower toolbar.
 
-![Chose Line Removal Tool in Touch Retouch](/images/tutorials/general/chose-line-removal-tool-in-touch-retouch.webp)
+![Chose Line Removal Tool in Touch Retouch](/images/tutorials/general/chose-line-removal-tool-in-touch-retouch.webp "Chose Line Removal Tool in Touch Retouch.")
 
 Once you’ve tapped it, you’ll see three options:
 
-![Touchretoouch Line Removal Tool Options](/images/tutorials/general/touchretoouch-line-removal-tool-options.webp)
+![Touchretoouch Line Removal Tool Options](/images/tutorials/general/touchretoouch-line-removal-tool-options.webp "Touchretoouch Line Removal Tool Options.")
 
 The first option is the *complete line removal tool*. It will remove any line from a photo. Completely. The next tool is the segment remove, which allows you to remove only a specific range of the line from your photo.
 
@@ -63,21 +63,21 @@ The first thing I always do is to zoom into the lines I want to remove, and you 
 
 Just draw over the line you wish to remove.
 
-![Draw near the line you want to remove](/images/tutorials/general/draw-near-the-line-you-want-to-remove.webp)
+![Draw near the line you want to remove](/images/tutorials/general/draw-near-the-line-you-want-to-remove.webp "Draw near the line you want to remove.")
 
 You don’t have to draw exactly over the line. Just try to hit it once or twice. As soon as you’re finished drawing, release your finger. TouchRetouch will detect the line, mark it in green and remove it.
 
-![Detected line will be marked with green color](/images/tutorials/general/detected-line-will-be-marked-with-green-color.webp)
+![Detected line will be marked with green color](/images/tutorials/general/detected-line-will-be-marked-with-green-color.webp "Detected line will be marked with green color.")
 
 Done.
 
 Now let’s remove the other two lines (the left one and the one that leads towards the building) in the same way.
 
-![Remove line in front of building using TouchRetouch](/images/tutorials/general/remove-line-in-front-of-building-using-touchretouch.webp)
+![Remove line in front of building using TouchRetouch](/images/tutorials/general/remove-line-in-front-of-building-using-touchretouch.webp "Remove line in front of building using TouchRetouch.")
 
 Whenever you remove a line in front of anything else, like the building, in this case, zoom in and check if there’s anything that needs to be fixed manually. Though TouchRetouch App does an excellent job removing lines, occasionally, the image needs a bit of additional retouching. If you look closely, you’ll notice a little glitch where the line was.
 
-![Can you spot the glitch?](/images/tutorials/general/can-you-spot-the-glitch.webp)
+![Can you spot the glitch?](/images/tutorials/general/can-you-spot-the-glitch.webp "Can you spot the glitch?")
 
 In such a case, I recommend using the clone stamp tool to fix these little glitches. Or, if the glitch is small enough, you may even consider leaving it this way. 99% of people probably won’t even recognize it. The remaining 1% of pixel-peepers will most likely find a dozen of other issues in your photo.
 
@@ -85,7 +85,7 @@ Finally, I removed the small iron ring that connected the three lines using the 
 
 And that’s all you need to do. In the case of this photo, I also fixed perspective correction, before I uploaded it to [my Instagram](https://instagram.com/nocamerabag). Here's the final photo:
 
-![Final photo of the Vienna State Opera with lines removed](/images/cityscapes/austria/photo-spots-vienna-2.webp)
+![Final photo of the Vienna State Opera with lines removed](/images/cityscapes/austria/photo-spots-vienna-2.webp "Final photo of the Vienna State Opera with lines removed.")
 
 ## Summary
 

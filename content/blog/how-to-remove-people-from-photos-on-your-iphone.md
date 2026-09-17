@@ -45,21 +45,21 @@ To demonstrate how to remove people from a photo using this tool, I’ll use a p
 
 If you don’t see the “Clean Up” option, your iOS Versions is either too old, your iPhone does not support it or you don’t have Apple Intelligence enabled in the settings.
 
-![Switch to editing mode in Photos App](/images/tutorials/general/photos-app-editing-mode.webp)
+![Switch to editing mode in Photos App](/images/tutorials/general/photos-app-editing-mode.webp "Switch to editing mode in Photos App.")
 
-![Tap the Clean Up Tool](/images/tutorials/general/photos-app-clean-up-tool.webp)
+![Tap the Clean Up Tool](/images/tutorials/general/photos-app-clean-up-tool.webp "Tap the Clean Up Tool.")
 
 If you use Apple Intelligence Clean Up for the first time, it may take a while until the feature has been downloaded and set up. Once done, Apple Intelligence will highlight people in the photo using a glowing selection, like in the second screenshot above.
 
 Next, zoom in on the selected people and simple tap on them if they’re highlighted. The Apple intelligence Clean Up tool will remove them.
 
-![Tap selected people](/images/tutorials/general/photos-app-clean-up-tap-selected.webp)
+![Tap selected people](/images/tutorials/general/photos-app-clean-up-tap-selected.webp "Tap selected people.")
 
-![Selected people removed](/images/tutorials/general/photos-app-clean-up-people-removed.webp)
+![Selected people removed](/images/tutorials/general/photos-app-clean-up-people-removed.webp "Selected people removed.")
 
 If Apple Intelligence didn’t detect people, just draw a circle around them like illustrated in the next screenshot. Once you lift your finger from the screen, this person will be removed.
 
-![If people were not selected, circle them](/images/tutorials/general/photos-app-circle-people.webp)
+![If people were not selected, circle them](/images/tutorials/general/photos-app-circle-people.webp "If people were not selected, circle them.")
 
 If you don’t want to remove a person, simple don’t tap if it’s selected. Once you’re done, tap the *“Done*” button in the upper-right corner.
 
@@ -71,19 +71,19 @@ Touch Retouch App is one of the [best photo editing Apps on iPhone](/blog/recomm
 
 To remove people from a photo using the Touch Retouch App, open the photo in the App. Then tap *“Objects”*. A new menu will appear. Tap *“Erase AI”*.
 
-![Tap Objects in the toolbar](/images/tutorials/general/touch-retouch-open-photo.webp)
+![Tap Objects in the toolbar](/images/tutorials/general/touch-retouch-open-photo.webp "Tap Objects in the toolbar.")
 
-![Select “Erase AI”](/images/tutorials/general/touch-retouch-erase-ai.webp)
+![Select “Erase AI”](/images/tutorials/general/touch-retouch-erase-ai.webp "Select “Erase AI”.")
 
 Now, Touch Retouch will try to find the people in the photo and highlight them using a green selection. You can see that in the above screenshot.
 
 If you want to keep a person (like yourself) in the photo, use the eraser tool to remove the selection from a person.
 
-![To erase a selection, use the eraser tool](/images/tutorials/general/touch-retouch-erase-selection.webp)
+![To erase a selection, use the eraser tool](/images/tutorials/general/touch-retouch-erase-selection.webp "To erase a selection, use the eraser tool.")
 
 If you’re satisfied with the selection, tap “Go” and the selected people will be removed.
 
-![Once you tapped “Go” the selected people will be removed](/images/tutorials/general/touch-retouch-people-removed.webp)
+![Once you tapped “Go” the selected people will be removed](/images/tutorials/general/touch-retouch-people-removed.webp "Once you tapped “Go” the selected people will be removed.")
 
 Despite the good results I get from Apple Intelligence, I’ll keep the Touch Retouch App. It offers various tools to remove objects from photos that Apple intelligence can’t like meshes or power lines. It also has a clone stamp that I can use to fix artifacts created while removing people.
 
@@ -95,15 +95,15 @@ In this chapter, we’ll look at Adobe Lightroom’s removal tool with generativ
 
 To remove people with Lightroom Mobile, tap any photo to view it large and then tap the\* “removal”\* tool in the lower toolbar.
 
-![Use the Lightroom Mobile eraser tool to remove people](/images/tutorials/general/lightroom-mobile-eraser-tool.webp)
+![Use the Lightroom Mobile eraser tool to remove people](/images/tutorials/general/lightroom-mobile-eraser-tool.webp "Use the Lightroom Mobile eraser tool to remove people.")
 
 Next, make sure the *“Generative AI”* option is enabled and adjust the brush size to your needs. Now zoom in and paint over the person you want to remove. You don’t have to paint exactly over it. In fact, it’s even better to also include some space around the person.
 
-![Use the eraser tool with generative AI option enabled](/images/tutorials/general/lightroom-mobile-eraser-tool-settings.webp)
+![Use the eraser tool with generative AI option enabled](/images/tutorials/general/lightroom-mobile-eraser-tool-settings.webp "Use the eraser tool with generative AI option enabled.")
 
 As soon as you lift your finger, Lightroom’s generative AI starts to do its work and to replace the person with a generative AI pattern. As you can see from the next screenshot, it did a great Job removing this person. If you’re not satisfied, you can toggle through three patterns by tapping the buttons.
 
-![Refine generative AI pattern used to remove people](/images/tutorials/general/lightroom-mobile-refine-genrative-ai.webp)
+![Refine generative AI pattern used to remove people](/images/tutorials/general/lightroom-mobile-refine-genrative-ai.webp "Refine generative AI pattern used to remove people.")
 
 Can you spot the part of the image that generative AI added and that was not there in the original image? Sound off in the comments if you have.
 
@@ -123,7 +123,7 @@ Independently of the tool you decide to use, here are a few issues I encountered
 
 If you do not zoom in, you might miss the remaining shadows of the people you removed. Neither AI is perfect at detecting them at the time I wrote this blog post. Here’s an example screenshot of Touch Retouch.
 
-![Shadows are often missed by AI selections](/images/tutorials/general/touch-retouch-shadow-not-selected.webp)
+![Shadows are often missed by AI selections](/images/tutorials/general/touch-retouch-shadow-not-selected.webp "Shadows are often missed by AI selections.")
 
 How to fix this problem depends on the tool you’re using:
 
@@ -145,7 +145,7 @@ If you find objects selected that you don’t want to remove:
 
 I tried the Apple Intelligence Clean Up Tool to remove a bunch of people at the beginning of the Dark Hedges in Ireland. That didn’t work well, as you can see. Apple Intelligence placed a few bushes in the middle of the path, which I don’t want.
 
-![Generative AI sometimes creates artifacts when removing people](/images/tutorials/general/photos-app-clean-up-artifact.webp)
+![Generative AI sometimes creates artifacts when removing people](/images/tutorials/general/photos-app-clean-up-artifact.webp "Generative AI sometimes creates artifacts when removing people.")
 
 If you see such artifacts, you can try to:
 

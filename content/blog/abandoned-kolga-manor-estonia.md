@@ -18,9 +18,9 @@ cover:
 ---
 On my way back from the alleged ghost town [Viivikonna](/blog/viivikonna-ghost-town-estonia), I stopped at Kolga Manor, an abandoned, beautiful, neoclassicist, manor house.
 
-![Kolga Manor, Estonia, from the outside](/images/lost-places/estonia/kolga-manor-estonia-from-the-outside.webp)
+![Kolga Manor, Estonia, from the outside](/images/lost-places/estonia/kolga-manor-estonia-from-the-outside.webp "Kolga Manor, Estonia, from the outside.")
 
-Recently, I found myself using [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium) more and more for [photo perspective correction on iPhone](/blog/fix-perspective-distortions-iphone). With Adobe Lightroom, and especially using the guided method, fixing perspective distortions, especially horizontal and vertical distortions, is really easy.
+Recently, I found myself using [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium) more and more for [photo perspective correction on iPhone](/blog/fix-perspective-distortions-iphone-apps/). With Adobe Lightroom, and especially using the guided method, fixing perspective distortions, especially horizontal and vertical distortions, is really easy.
 
 ## Know before you go to Kolga Manor
 
@@ -38,12 +38,12 @@ First you'll see the beautiful and moody stairway from the ground floor to the f
 
 If all the doors of the rooms are open, you'll be able to see from one side of the manor right through the rooms to the other end. And make sure you visit the room with the fireplace.
 
-![View from the main room of Kolga Manor](/images/lost-places/estonia/view-from-the-main-room-of-kolga-manor.webp)
+![View from the main room of Kolga Manor](/images/lost-places/estonia/view-from-the-main-room-of-kolga-manor.webp "View from the main room of Kolga Manor.")
 
 I had to to use my [Moment Wide](/blog/review-moment-wide-lens) and [Moment Fisheye](/blog/review-moment-14mm-fisheye-lens) lens to be able to capture the beauty of those rooms. Using my [travel tripod](/blog/review-amazon-basics-travel-tripod) and [ProCamera in LowLight Mode](/blog/review-low-light-modes-procamera-app) also helped a lot!
 
-![Inside Kolga Manor](/images/lost-places/estonia/inside-kolga-manor.webp)
+![Inside Kolga Manor](/images/lost-places/estonia/inside-kolga-manor.webp "Inside Kolga Manor.")
 
-![Main Room of Kolga Manor](/images/lost-places/estonia/main-room-of-kolga-manor.webp)
+![Main Room of Kolga Manor](/images/lost-places/estonia/main-room-of-kolga-manor.webp "Main Room of Kolga Manor.")
 
 After I could explore the manor on my own for an hour or so, I went back to Tallinn for some night photography of the medieval city centre.

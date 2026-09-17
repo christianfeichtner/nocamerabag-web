@@ -18,7 +18,7 @@ cover:
   image: 
   alt: 'Abandoned airfield Rangsdorf: A lost place with a history!'
 ---
-The next day after I visited the [abandoned amusement park in Berlin](/blog/spreepark-berlin), I traveled to another lost place near Berlin: The abandoned airfield Rangsdorf. This is truly a fantastic lost place full of decayed and partially collapsed buildings.
+The next day after I visited the [abandoned amusement park in Berlin](/blog/abandoned-spreepark-berlin/), I traveled to another lost place near Berlin: The abandoned airfield Rangsdorf. This is truly a fantastic lost place full of decayed and partially collapsed buildings.
 
 {{< toc >}}
 
@@ -58,13 +58,13 @@ During the photo tour from go2know you can explore almost the entire area. You c
 
 The tower with the adjacent decayed hangers is a great place to photograph from the outside and inside.
 
-![Tower at the abandoned airfield Rangsdorf](/images/lost-places/germany/rangsdorf-airfield-tower-2.webp)
+![Tower at the abandoned airfield Rangsdorf](/images/lost-places/germany/rangsdorf-airfield-tower-2.webp "Tower at the abandoned airfield Rangsdorf.")
 
 ### The partially collapsed hangers near the tower
 
 One of the most impressive photo spots is the hanger to the left of the tower. Almost 90% of the roof is collapsed. Now, a beautiful garden with trees, bushes, and even moss grows inside the hangar.
 
-![The green hangar at the airfield Rangsdorf](/images/lost-places/germany/green-hangar-rangsdorf-airfield.webp)
+![The green hangar at the airfield Rangsdorf](/images/lost-places/germany/green-hangar-rangsdorf-airfield.webp "The green hangar at the airfield Rangsdorf.")
 
 ### The communication bunker
 
@@ -72,7 +72,7 @@ While most of the tour participants start at the tower and the hangers, I'd reco
 
 But inside the bunker, you'll find left behind robe, a few communication devices, and newspapers from 1987 (on the second floor).
 
-![Inside the communication bunker at airfield Rangsdorf](/images/lost-places/germany/communication-device-bunker-airfield-rangsdorf.jpeg)
+![Inside the communication bunker at airfield Rangsdorf](/images/lost-places/germany/communication-device-bunker-airfield-rangsdorf.jpeg "Inside the communication bunker at airfield Rangsdorf.")
 
 Inside the bunker, it's totally dark. So bring a flashlight. I've written a [review about the Olight S30R III that I used](/blog/review-olight-s30r-iii).
 
@@ -84,19 +84,19 @@ If you'd like to follow me while exploring the bunker at the Airfield Rangsdorf:
 
 ### Abandoned support buildings
 
-![Some machinery at the airfield Rangsdorf](/images/lost-places/germany/device-airfield-rangsdorf.webp)
+![Some machinery at the airfield Rangsdorf](/images/lost-places/germany/device-airfield-rangsdorf.webp "Some machinery at the airfield Rangsdorf.")
 
 Many of these small support buildings have fully or partially collapsed roofs. These are great photo spots!
 
-![Collapsed roof in a building at the airfield Rangsdorf](/images/lost-places/germany/collapsed-roof-airfield-rangsdorf.jpeg)
+![Collapsed roof in a building at the airfield Rangsdorf](/images/lost-places/germany/collapsed-roof-airfield-rangsdorf.jpeg "Collapsed roof in a building at the airfield Rangsdorf.")
 
 Also, when you explore the area, look out for broken windows. You can use them as frames when photographing into a building. Some still have curtains (or what's left of them).
 
-![Peeking into an abandoned building at the airfield Rangsdorf](/images/lost-places/germany/broken-window-and-vent-airfield-rangsdorf.jpeg)
+![Peeking into an abandoned building at the airfield Rangsdorf](/images/lost-places/germany/broken-window-and-vent-airfield-rangsdorf.jpeg "Peeking into an abandoned building at the airfield Rangsdorf.")
 
 Alternatively, you can take photos from inside the buildings of the broken windows like in this engineering hall.
 
-![Another broken window at the abandoned airfield Rangsdorf](/images/lost-places/germany/another-broken-window-rangsdorf.webp)
+![Another broken window at the abandoned airfield Rangsdorf](/images/lost-places/germany/another-broken-window-rangsdorf.webp "Another broken window at the abandoned airfield Rangsdorf.")
 
 ## Is the abandoned airfield Rangsdorf worth a visit?
 

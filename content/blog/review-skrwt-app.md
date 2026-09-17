@@ -49,7 +49,7 @@ You'll learn more about the three SKRWT modules in the next chapter.
 
 SKRWT consists of three core modules that'll help you to fix perspective distortions and to get perfect symmetry in your photos. When you open SKRWT, you'll have to choose which of the modules you want to use; once you've chosen one of the three SKRWT modules, you can send a photo to another one any time.
 
-![The three modules you’ll find in SKRWRT app](/images/reviews/general/the-three-modules-youll-find-in-skrwrt-app.webp)
+![The three modules you’ll find in SKRWRT app](/images/reviews/general/the-three-modules-youll-find-in-skrwrt-app.webp "The three modules you’ll find in SKRWRT app.")
 
 These three modules allow you to achieve different goals:
 
@@ -59,7 +59,7 @@ These three modules allow you to achieve different goals:
 
 These three modules don't exist in isolation. You can always send a photo from one module to another by tapping the share button at the bottom of the screen and choosing the module you want to use for the current picture. Just tap it, and SKRWT will open the photo in the selected module.
 
-![Easily share edits between the three modules in SKRWT](/images/reviews/general/easily-share-edits-between-the-three-modules-in-skrwt.webp)
+![Easily share edits between the three modules in SKRWT](/images/reviews/general/easily-share-edits-between-the-three-modules-in-skrwt.webp "Easily share edits between the three modules in SKRWT.")
 
 Let's have a look at these three core modules. You can choose the module when starting the app.
 
@@ -80,7 +80,7 @@ The first module is the original module and name giver for the app. With this mo
 
 You'll find all of these features in the toolbar at the bottom of the screen. Depending on your screen size, you may need to swipe left over the toolbar to see all the aforementioned functions.
 
-![SKRWT features are located in the toolbar at the bottom of the screen](/images/reviews/general/skrwt-features-are-located-in-the-toolbar-at-the-bottom-of-t.webp)
+![SKRWT features are located in the toolbar at the bottom of the screen](/images/reviews/general/skrwt-features-are-located-in-the-toolbar-at-the-bottom-of-t.webp "SKRWT features are located in the toolbar at the bottom of the screen.")
 
 Always make sure that your photo is perfectly leveled before applying perspective correction. That will make drastically improve the results and make applying perspective correction much easier
 
@@ -104,7 +104,7 @@ Using the 4PNTS module is allow pretty simple:
 3. Tap either corner of the photo you want to drag or tap the center circle to apply freeform perspective correction
 4. Now, just drag the select point if you selected one of the four corners or swipe over the entire image to apply perspective correction if you've selected the center option
 
-![Select the point to drag in 4PNTS in the bottom toolbar](/images/reviews/general/select-the-point-to-drag-in-4pnts-in-the-bottom-toolbar.webp)
+![Select the point to drag in 4PNTS in the bottom toolbar](/images/reviews/general/select-the-point-to-drag-in-4pnts-in-the-bottom-toolbar.webp "Select the point to drag in 4PNTS in the bottom toolbar.")
 
 ### The MRRW Module
 
@@ -115,7 +115,7 @@ Interestingly, the MRRW module doesn't do any perspective correction but allows 
 * Apply horizontal perspective correction
 * Apply vertical perspective correction
 
-![MRRW Example in SKRWT](/images/reviews/general/mrrw-example-in-skrwt.webp)
+![MRRW Example in SKRWT](/images/reviews/general/mrrw-example-in-skrwt.webp "MRRW Example in SKRWT.")
 
 ## Saving and exporting your edits
 
@@ -150,7 +150,7 @@ SKRWT also supports in-place editing right in Photos App. This way, you can save
 3. Tap the icon containing three dots in the upper right corner of Photos App
 4. Select *SKRWT* app
 
-![Using SKRWT app with in-place editing in iOS Photos App](/images/reviews/general/in-place-editing-skrwt-app.webp)
+![Using SKRWT app with in-place editing in iOS Photos App](/images/reviews/general/in-place-editing-skrwt-app.webp "Using SKRWT app with in-place editing in iOS Photos App.")
 
 In-Place editing in SKRWT app only works for the SKRWT module.
 

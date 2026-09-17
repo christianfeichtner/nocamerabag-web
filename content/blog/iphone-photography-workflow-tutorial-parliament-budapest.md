@@ -19,7 +19,7 @@ cover:
 ---
 Let's start this new decade with another iPhone photography workflow tutorial. It's about one of my favorite photos from last year: the Parliament in Budapest, Hungary.
 
-![iPhone Workflow Tutorial about how I composed, shot and edited this photo of the Parliament in Budapest](/images/tutorials/hungary/iphone-workflow-tutorial-about-how-i-composed-shot-and-edit.webp)
+![iPhone Workflow Tutorial about how I composed, shot and edited this photo of the Parliament in Budapest](/images/tutorials/hungary/iphone-workflow-tutorial-about-how-i-composed-shot-and-edit.webp "iPhone Workflow Tutorial about how I composed, shot and edited this photo of the Parliament in Budapest.")
 
 In this tutorial, I'll share how I composed, shot, and edited this photo.
 
@@ -56,27 +56,27 @@ Of course, With such a long exposure time, using a [tripod for iPhone](/blog/rec
 
 So, here's the photo I got:
 
-![Photo out of Slow Shutter Cam App](/images/tutorials/hungary/photo-out-of-slow-shutter-cam-app.webp)
+![Photo out of Slow Shutter Cam App](/images/tutorials/hungary/photo-out-of-slow-shutter-cam-app.webp "Photo out of Slow Shutter Cam App.")
 
 There are a few things that need adjustment. First and foremost, the horizon is not perfectly leveled. We're going to fix that in Adobe Lightroom Mobile using the geometry feature, which is an Adobe Lightroom Mobile Premium feature.
 
 For slight correction of the horizon, I prefer to use this feature instead of the straighten feature, because it keeps the resolution intact. I'll show you the details in a minute. First, let's check the resolution of the unedited photo:
 
-![Photo Resolution in Lightroom](/images/tutorials/hungary/photo-resolution-in-lightroom.webp)
+![Photo Resolution in Lightroom](/images/tutorials/hungary/photo-resolution-in-lightroom.webp "Photo Resolution in Lightroom.")
 
 The photo has the original iPhone camera resolution of 4032x3024 pixels. And we want to retain this resolution.
 
 Next, head over to the geometry feature in the lower toolbar of Lightroom Mobile and tap it. We're looking for the rotate slider in the geometry drawer. Drag it until the horizon is perfectly leveled again and just ignore the white edges that you get for a minute.
 
-![Lightroom Mobile Premium Feature: Geometry rotate](/images/tutorials/hungary/lightroom-mobile-premium-feature-geometry-rotate.webp)
+![Lightroom Mobile Premium Feature: Geometry rotate](/images/tutorials/hungary/lightroom-mobile-premium-feature-geometry-rotate.webp "Lightroom Mobile Premium Feature: Geometry rotate.")
 
 Then we'll slightly adjust the vertical lines so that the building looks perfectly upright.
 
-![Correct vertical perspective distortion in Lightroom Mobile](/images/tutorials/hungary/correct-vertical-perspective-distortion-in-lightroom-mobile.webp)
+![Correct vertical perspective distortion in Lightroom Mobile](/images/tutorials/hungary/correct-vertical-perspective-distortion-in-lightroom-mobile.webp "Correct vertical perspective distortion in Lightroom Mobile.")
 
 Again, we get some white corners and edges. Do as Bobby McFerrin sang: Don't worry, be happy (that you have Lightroom Mobile). Okay, he didn't sing the last line. I just made that up. But we're going to use a cool feature of Lightroom Mobile now, called *scale*. It's also inside the geometry drawer.
 
-![Scale Slider in Lightroom Mobile Premium](/images/tutorials/hungary/scale-slider-in-lightroom-mobile-premium.webp)
+![Scale Slider in Lightroom Mobile Premium](/images/tutorials/hungary/scale-slider-in-lightroom-mobile-premium.webp "Scale Slider in Lightroom Mobile Premium.")
 
 By dragging this slider, you'll scale, as the name suggests, the photo. You're essentially resizing it while retaining the full resolution. But won't the image be blurry if you scale it? Nope, if you keep scaling to a minimum, it won't. Try it for yourself and look at the resolution afterward. You can find it under the *Info* menu in the upper left corner.
 
@@ -88,16 +88,16 @@ The final two adjustments are the most important ones: Bringing up whites by +30
 
 As the ultimate and final adjustment, you can make it even more pop by applying a slight s-curve to the curves:
 
-![Curve Adjustment in Lightroom Mobile](/images/tutorials/hungary/curve-adjustment-in-lightroom-mobile.webp)
+![Curve Adjustment in Lightroom Mobile](/images/tutorials/hungary/curve-adjustment-in-lightroom-mobile.webp "Curve Adjustment in Lightroom Mobile.")
 
 And here's the final photo:
 
-![Final Photo of the Parliament in Budapest. Show on Slow Shutter Cam App. Edited with Lightroom Mobile](/images/tutorials/hungary/final-photo-of-the-parliament-in-budapest-show-on-slow-shut.webp)
+![Final Photo of the Parliament in Budapest. Show on Slow Shutter Cam App. Edited with Lightroom Mobile](/images/tutorials/hungary/final-photo-of-the-parliament-in-budapest-show-on-slow-shut.webp "Final Photo of the Parliament in Budapest. Show on Slow Shutter Cam App. Edited with Lightroom Mobile.")
 
 I hope you enjoyed this "How I composed, shot, and edited" iPhone photography workflow tutorial. As the geometry feature is paid feature, you may want to check my [Adobe Lightroom review](/blog/review-adobe-lightroom-mobile-premium) and see what else you get when you subscribe, like a free photo portfolio website plus a free license for the Adobe Spark Social Media Tools.
 
-Be sure to check out all the other free [iPhone photo tutorials](/blog/tag/Tutorials) in the blog.
+Be sure to check out all the other free [iPhone photo tutorials](/blog/tutorials/) in the blog.
 
-If you'd like to know more about taking long exposures, head over to the [long exposure iPhone](/blog/long-exposure-iphone) photography overview, where you'll learn different ways of how to take long exposures on iPhone.
+If you'd like to know more about taking long exposures, head over to the [long exposure iPhone](/blog/long-exposure-iphone-apps/) photography overview, where you'll learn different ways of how to take long exposures on iPhone.
 
 See you soon!

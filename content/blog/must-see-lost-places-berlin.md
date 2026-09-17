@@ -94,7 +94,7 @@ Let’s start with a few lost places that are directly located in Berlin, that y
 
 The abandoned Stadtbad Lichtenberg, also known as the Hubertusbad, is a lesser known lost place located directly in Berlin. It was opened in 1928 and served the public until 1991, when it was closed due to construction defects and lack of funds.
 
-![Bath tube at the abandoned Stadtbad Lichtenberg](/images/lost-places/germany/bath-cabins-stadtbad-lichtenberg-berlin.webp)
+![Bath tube at the abandoned Stadtbad Lichtenberg](/images/lost-places/germany/bath-cabins-stadtbad-lichtenberg-berlin.webp "Bath tube at the abandoned Stadtbad Lichtenberg.")
 
 Because this public bathhouse was locked and guarded after it was abandoned, it’s still in an excellent condition without graffiti and other damages.
 
@@ -108,7 +108,7 @@ After the Berlin Wall fell, the park quickly ran into financial problems. The nu
 
 There were many iconic photo spots at the Spreepark like the Ferris wheel, dinosaurs and the iconic rollercoaster. As of 2024, the park is being revitalized and the iconic Ferris wheel was deconstructed, and also the dinosaurs are no more.
 
-![Spreeblitz roller coaster at the abandoned Spreepark in Berlin](/images/lost-places/germany/spreeblitz-dragon.webp)
+![Spreeblitz roller coaster at the abandoned Spreepark in Berlin](/images/lost-places/germany/spreeblitz-dragon.webp "Spreeblitz roller coaster at the abandoned Spreepark in Berlin.")
 
 But you can still see many other abandoned rides, including the famous Spreeblitz roller coaster. Head to my blog post about the [abandoned Spreepark amusement park in Berlin](/blog/abandoned-spreepark-berlin) for more info and how to see it.
 
@@ -116,7 +116,7 @@ But you can still see many other abandoned rides, including the famous Spreeblit
 
 The abandoned Stasi Prison in the east of Berlin was a top secret location and prison-hospital in the GDR. Once abandoned, it became a memorial with a permanent exhibition about the prison hospital and how the people were treated there.
 
-![Prison cell at the Hohenschönhausen memorial](/images/lost-places/germany/hohenschoenhausen-memorial-cell.webp)
+![Prison cell at the Hohenschönhausen memorial](/images/lost-places/germany/hohenschoenhausen-memorial-cell.webp "Prison cell at the Hohenschönhausen memorial.")
 
 To learn more, please follow this link which will take you to my blog post about my [visit to the abandoned Hohenschönhausen Memorial in Berlin](/blog/abandoned-hohenschoenhausen-prison).
 
@@ -124,7 +124,7 @@ To learn more, please follow this link which will take you to my blog post about
 
 The Teufelsberg is an artificial hill made from Second World War debris. During the 1950s, the U.S. Army thought that this artificial hill would be a great place for a surveillance station to monitor radio communication of the Warsaw Pact states.
 
-![Abandoned surveillance station at the Teufelsberg in Berlin](/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp)
+![Abandoned surveillance station at the Teufelsberg in Berlin](/images/lost-places/germany/listening-outpost-tower-teufelsberg.webp "Abandoned surveillance station at the Teufelsberg in Berlin.")
 
 After the German reunification, the military surveillance station was abandoned in 1991. Until 1999 it was used for civil air traffic monitoring. After its abandonment in 1999, the area at the top of the Teufelsberg became another iconic lost place in Berlin.
 
@@ -140,7 +140,7 @@ The Beelitz Heilstätten are probably the most iconic and well known lost place 
 
 During both World Wars, the Beelitz Heilstätten was used as a military hospital. Once the second world war was over, it was occupied by the Red Army, and it was the largest Soviet hospital outside Russia.
 
-![Long hallway at the abandoned Beelitz Heilstätten](/images/lost-places/germany/long-corridors-at-beelitz-heilstaetten.webp)
+![Long hallway at the abandoned Beelitz Heilstätten](/images/lost-places/germany/long-corridors-at-beelitz-heilstaetten.webp "Long hallway at the abandoned Beelitz Heilstätten.")
 
 Moreover, the Beelitz Heilstätten were also used as filming locations. During the three trips to Beelitz I could see the superficially restored filming location of a Cure for Wellness.
 
@@ -154,7 +154,7 @@ Similar to Beelitz Heilstätten, the Heilstätten Grabowsee was a hospital compl
 
 But other than that, the Heilstätten Grabowsee shared a similar fate as the hospitals in Beelitz. During the two world wars, it was used as a military hospital but also for prisoners. There's a dedicated complex with prison doors and windows.
 
-![The iconic red sofa at the abandoned Heilstätten Grabowsee](/images/lost-places/germany/red-sofa-dark-heilstaetten-grabowsee.webp)
+![The iconic red sofa at the abandoned Heilstätten Grabowsee](/images/lost-places/germany/red-sofa-dark-heilstaetten-grabowsee.webp "The iconic red sofa at the abandoned Heilstätten Grabowsee.")
 
 Similar to Beelitz, the Heilstätten Grabowsee was used as a filming location. The first notable movie filmed here was Monuments Men (2014), starring John Goodman, Matt Damon and Cate Blanchett. The second one was Heilstätten (2018), which is actually set to play at the Beelitz Heilstätten. But Beelitz was occupied by the filming of a Cure of Wellness, so the directors filmed it at the Heilstätten Grabowsee.
 
@@ -166,7 +166,7 @@ The airport Rangsdorf is a historically interesting lost place near Berlin. The 
 
 On July 20th, 1944, Claus Schenk Graf von Stauffenberg departed from Rangsdorf, carrying two explosive kits in his briefcase to eliminate Adolf Hitler.
 
-![Communication devices in a bunker at the airport Rangsdorf](/images/lost-places/germany/communication-device-bunker-airfield-rangsdorf.jpeg)
+![Communication devices in a bunker at the airport Rangsdorf](/images/lost-places/germany/communication-device-bunker-airfield-rangsdorf.jpeg "Communication devices in a bunker at the airport Rangsdorf.")
 
 The most impressive photo spots at this lost place near Berlin are the huge halls and hangars.
 
@@ -176,7 +176,7 @@ I’ve dedicated an entire blog post to my visit at the [abandoned Airfield Rang
 
 The Airfield Schönwalde is a huge lost place in the east of Berlin similar to the airfield Rangsdorf. The uniqueness of this lost place are also the huge and partially decayed hangers and the decaying buildings with trees growing on top of them.
 
-![Decayed hangar the abandoned airport Schönwalde](/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg)
+![Decayed hangar the abandoned airport Schönwalde](/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg "Decayed hangar the abandoned airport Schönwalde.")
 
 See some [photos of the abandoned Airfield Schönewalde](/blog/abandoned-airfield-schoenwalde) in a dedicated blog post.
 
@@ -186,7 +186,7 @@ See some [photos of the abandoned Airfield Schönewalde](/blog/abandoned-airfiel
 
 Wünsdorf is a small town in the east of Berlin that you can reach within 1 hour and 15 minutes by car. The city of Wünsdorf is also known as the forbidden city because after the end of World War II it became the headquarters of the Red Army forces outside of Russia.
 
-![Boots in a building in the forbidden city Wünsdorf](/images/lost-places/germany/leftover-soviet-uniforms-in-wuensdorf.webp)
+![Boots in a building in the forbidden city Wünsdorf](/images/lost-places/germany/leftover-soviet-uniforms-in-wuensdorf.webp "Boots in a building in the forbidden city Wünsdorf.")
 
 I visited this lost place in eastern Berlin in 2016 and wrote a blog post with some [photos of my visit to the former Red Army headquarters in Wünsdorf](/blog/abandoned-red-army-headquarters-wuensdorf).
 
@@ -196,7 +196,7 @@ The city of Forst was once the center of Germany's textile industry. By the end 
 
 But the factories faced a similar fate as many other places I’ve written about on this blog. After the German reunification the production was not feasible anymore and factory after factory closed. So you’ll find many lost places in this city east of Berlin.
 
-![Collapsed roof at the abandoned textile factory in Forst](/images/lost-places/germany/collapsed-roof-textile-factory-forst-lausitz.webp)
+![Collapsed roof at the abandoned textile factory in Forst](/images/lost-places/germany/collapsed-roof-textile-factory-forst-lausitz.webp "Collapsed roof at the abandoned textile factory in Forst.")
 
 What makes this lost place special and interesting are the huge production halls and that I could still find plenty of bolts of fabric and yarn spindles.
 
@@ -208,7 +208,7 @@ The Freudenberg Bunker was intended to provide shelter to the members of the Min
 
 But beware: This is not one of the usual lost places. Only enter wearing an FFP2 mask!
 
-![Collapsed control room at the Freudenberg Bunker](/images/lost-places/germany/collapsed-control-room.webp)
+![Collapsed control room at the Freudenberg Bunker](/images/lost-places/germany/collapsed-control-room.webp "Collapsed control room at the Freudenberg Bunker.")
 
 Head to my blog post about the [abandoned Freudenberg Bunke](/blog/abandoned-freudenberg-bunker)r to learn why you should only enter the bunker with caution.
 

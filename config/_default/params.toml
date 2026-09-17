@@ -1,5 +1,7 @@
 # Public API Endpoints for Client-Side Rendering (Production / Cloudflare Pages)
-ratings_api_url = "https://ratings-api.cfe.workers.dev"
-comments_api_url = "https://comments-api.cfe.workers.dev"
+ratings_api_url = "https://ratings-api.nocamerabag.com"
+comments_api_url = "https://comments-api.nocamerabag.com"
+contact_api_url = "https://contact-api.nocamerabag.com"
+# Turnstile Site Key (use 1x00000000000000000000AA for testing or replace with Cloudflare production sitekey)
+turnstile_site_key = "0x4AAAAAAE49Y43pbnAqLHOy"
 build_secret = ""
-

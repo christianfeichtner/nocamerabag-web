@@ -39,19 +39,19 @@ If you move the iPhone too much within these three seconds, iOS will apply image
 
 Because of the way image stabilization works, the result will be a cropped photo.
 
-Using a Live Photo is just one way to create a long exposure with iPhone. Here are three ways to create a [long exposure with iPhone](/blog/long-exposure-iphone).
+Using a Live Photo is just one way to create a long exposure with iPhone. Here are three ways to create a [long exposure with iPhone](/blog/long-exposure-iphone-apps/).
 
 ## Editing in Superimpose
 
 As you can see from the screenshot below, the long exposure turned out quite well, with one exception. There are notable stripes visible that originate from the hinge of the streetcar.
 
-![Long Exposure taken using a Live Photo](/images/tutorials/general/long-exposure-taken-using-a-live-photo.webp)
+![Long Exposure taken using a Live Photo](/images/tutorials/general/long-exposure-taken-using-a-live-photo.webp "Long Exposure taken using a Live Photo.")
 
 I wanted to get rid of that and turned to Superimpose on my iPad Pro for that. Masking is a bit easier using Apple Pencil.
 
 After I imported the photo into Superimpose, I first duplicated the layer. To do so, tap the layer once and choose *Duplicate layer* in the menu, then hide the layer
 
-![Hide Layer in Superimpose](/images/tutorials/creating-a-mask-in-superimpose.webp)
+![Hide Layer in Superimpose](/images/tutorials/creating-a-mask-in-superimpose.webp "Hide Layer in Superimpose.")
 
 Then, after hiding the top layer, I applied a motion blur filter to strengthen the blurring effect of the streetcar just a bit so that the stripes would disappear. To apply a motion blur effect in Superimpose:
 
@@ -61,7 +61,7 @@ Then, after hiding the top layer, I applied a motion blur filter to strengthen t
 
 You'll see an arrow in the middle of the screen. Drag it into the desired direction.
 
-![Specify the direction of motion blue in Superimpose App](/images/tutorials/creating-a-mask-in-superimpose.webp)
+![Specify the direction of motion blue in Superimpose App](/images/tutorials/creating-a-mask-in-superimpose.webp "Specify the direction of motion blue in Superimpose App.")
 
 This is the direction of the motion blur effect. Drag the arrow from the center to increase the effect and drag it to the center to reduce the effect. Then tap the checkmark in the upper right corner.
 
@@ -71,11 +71,11 @@ Next, I displayed the top layer again and converted it to black and white. Just 
 * Tap *Colors*
 * Reduce the saturation to 0
 
-![Desaturating Photo in Superimpose](/images/tutorials/creating-a-mask-in-superimpose.webp)
+![Desaturating Photo in Superimpose](/images/tutorials/creating-a-mask-in-superimpose.webp "Desaturating Photo in Superimpose.")
 
 Next, I used a brush to mask out the streetcar of the topmost layer, which made the (colorful) streetcar from the layer below shine through.
 
-![Masked Streetcar in Superimpose](/images/tutorials/creating-a-mask-in-superimpose.webp)
+![Masked Streetcar in Superimpose](/images/tutorials/creating-a-mask-in-superimpose.webp "Masked Streetcar in Superimpose.")
 
 To create a mask in Superimpose:
 
@@ -83,7 +83,7 @@ To create a mask in Superimpose:
 * Tap *Mask Tool*
 * Select the desired masking tool.
 
-![Creating a mask in Superimpose](/images/tutorials/creating-a-mask-in-superimpose.webp)
+![Creating a mask in Superimpose](/images/tutorials/creating-a-mask-in-superimpose.webp "Creating a mask in Superimpose.")
 
 Superimpose supports quite a few masking tools. I usually use either the third or fourth option. The fourth masking tool (see screenshot above) is edge-aware. So it detects edges and does not mask these areas if you paint over it.
 
@@ -97,8 +97,8 @@ To bring out more details of the tunnel portal, I increased clarity to +55 and a
 
 To optimize the red of the train a bit, I reduced the saturation of the reds a bit and slightly decreased the luminance in the color panel.
 
-Finally, Sharpening. I've written a tutorial about how to [sharpen a photo in Lightroom Mobile](/blog/sharpening-lightroom-mobile). And there you go, here's the final result.
+Finally, Sharpening. I've written a tutorial about how to [sharpen a photo in Lightroom Mobile](/blog/sharpening-lightroom-mobile-tutorial/). And there you go, here's the final result.
 
-![Streetcar into the Tunnel Final Edit](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp)
+![Streetcar into the Tunnel Final Edit](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp "Streetcar into the Tunnel Final Edit.")
 
-I you found this tutorial helpful, see all the other [iPhone photography workflow tutorials](/blog/tag/Workflow). Moreover, here's a list of all the [recommended iPhone photo apps and iPhone photo gear](/iphone-photography) I rely on and updated regularly.
+I you found this tutorial helpful, see all the other [iPhone photography workflow tutorials](/blog/workflow/). Moreover, here's a list of all the [recommended iPhone photo apps and iPhone photo gear](/iphone-photography) I rely on and updated regularly.

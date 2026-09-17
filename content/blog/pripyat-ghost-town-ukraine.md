@@ -30,19 +30,19 @@ All the buildings are still standing, and not a single one was collapsed. Even t
 
 Our bus stopped in the Centre near the Polyssia hotel, which became the emergency center right after the disaster happened.
 
-![Polyssia Hotel in Pripyat](/images/lost-places/ukraine/polyssia-hotel-in-pripyat.webp)
+![Polyssia Hotel in Pripyat](/images/lost-places/ukraine/polyssia-hotel-in-pripyat.webp "Polyssia Hotel in Pripyat.")
 
-I like straight lines in Photos. So, as always, I [fixed the perspective distortions](/blog/fix-perspective-distortions-iphone) in this photo with Lightroom Mobile. I used the small building in the foreground as a [leading line](/blog/how-to-use-leading-lines) to the main subject of the photo, the Polyssia Hotel.
+I like straight lines in Photos. So, as always, I [fixed the perspective distortions](/blog/fix-perspective-distortions-iphone-apps/) in this photo with Lightroom Mobile. I used the small building in the foreground as a [leading line](/blog/what-are-leading-lines-photography/) to the main subject of the photo, the Polyssia Hotel.
 
 ## The Palace of Culture in Pripyat
 
 Right next to the Hotel is the former palace of culture. A vast building that once contained a theatre, a sports hall, and the iconic indoor swimming pool. The next photo shows the former theatre in the Palace of Culture in Pripyat.
 
-![Theatre in the Palace of Culture in Pripyat](/images/lost-places/ukraine/theatre-in-the-palace-of-culture-in-pripyat.webp)
+![Theatre in the Palace of Culture in Pripyat](/images/lost-places/ukraine/theatre-in-the-palace-of-culture-in-pripyat.webp "Theatre in the Palace of Culture in Pripyat.")
 
 And of course, here's a photo of the iconic swimming hall. Luckily, all the people from our tour stood on the right side of the pool so I could crop them out by cropping the photo to my favorite format, the [square photo format](/blog/why-i-love-the-square-photo-format).
 
-![Swimming Hall in the Palace of Culture in Pripyat](/images/lost-places/ukraine/swimming-hall-in-the-palace-of-culture-in-pripyat.webp)
+![Swimming Hall in the Palace of Culture in Pripyat](/images/lost-places/ukraine/swimming-hall-in-the-palace-of-culture-in-pripyat.webp "Swimming Hall in the Palace of Culture in Pripyat.")
 
 From the back of the palace of culture, you'll get another iconic view: The Pripyat Ferris Wheel.
 
@@ -50,7 +50,7 @@ From the back of the palace of culture, you'll get another iconic view: The Prip
 
 While many others rushed down to get a closeup of the Ferris Wheel, I chose to take a photo from a different perspective. By placing a part of the balcony in the foreground, I could add depth and a bit context to the photo. Otherwise, it would have looked just like a miniature version.
 
-![Ferris wheel at the fairground in Pripyat](/images/lost-places/ukraine/ferris-wheel-at-the-fairground-in-pripyat.webp)
+![Ferris wheel at the fairground in Pripyat](/images/lost-places/ukraine/ferris-wheel-at-the-fairground-in-pripyat.webp "Ferris wheel at the fairground in Pripyat.")
 
 After exploring the abandoned supermarket in Pripyat, we finally arrived the old school. And though we all got used to it, our Geiger Counters started to beep wildly again. The school is a zone with increased radioactivity, so there was a strict time limit for us.
 
@@ -58,21 +58,21 @@ After exploring the abandoned supermarket in Pripyat, we finally arrived the old
 
 All the classrooms in the school pretty much look the same, except for the tables having different colors. The books on the floor are another indication of how fast people had to leave Pripyat.
 
-![Classroom in a school in Pripyat](/images/lost-places/ukraine/classroom-in-a-school-in-pripyat.webp)
+![Classroom in a school in Pripyat](/images/lost-places/ukraine/classroom-in-a-school-in-pripyat.webp "Classroom in a school in Pripyat.")
 
 In another area of the old school, you'll find hundreds of gas masks lying on the floor. I've read many articles about Chernobyl that use these gas masks as illustration. But there's one thing about these masks. They weren't used after the accident in the power plant.
 
 But, allegedly putting on gas masks was part of the eduction in the former Soviet Union to be prepared for a sudden attack by western countries.
 
-![Gas Masks found in the School in Pripyat](/images/lost-places/ukraine/gas-masks-found-in-the-school-in-pripyat.webp)
+![Gas Masks found in the School in Pripyat](/images/lost-places/ukraine/gas-masks-found-in-the-school-in-pripyat.webp "Gas Masks found in the School in Pripyat.")
 
 ## Residential Building
 
-On the way back to the tour bus, I found this former residential building with a yellow phone booth in front. It's an excellent example of how to use [leading lines in a photo](/blog/how-to-use-leading-lines) to draw the attention of the viewer to a specific part of a photo.
+On the way back to the tour bus, I found this former residential building with a yellow phone booth in front. It's an excellent example of how to use [leading lines in a photo](/blog/what-are-leading-lines-photography/) to draw the attention of the viewer to a specific part of a photo.
 
-![Former residential building in Prypiat](/images/lost-places/ukraine/former-residential-building-in-prypiat.webp)
+![Former residential building in Prypiat](/images/lost-places/ukraine/former-residential-building-in-prypiat.webp "Former residential building in Prypiat.")
 
-I've [photographed several lost places](/blog/tag/Lost+Places), but Chernobyl was the eeriest so far. What makes this one so spooky is the silence on the one hand, and on the other side that many of the buildings still look quite okay from the outside. So it feels like the inhabitants just left.
+I've [photographed several lost places](/blog/lost-places/), but Chernobyl was the eeriest so far. What makes this one so spooky is the silence on the one hand, and on the other side that many of the buildings still look quite okay from the outside. So it feels like the inhabitants just left.
 
 ## Apps and Gear used for photographing in Pripyat
 

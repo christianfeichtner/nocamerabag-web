@@ -47,7 +47,7 @@ The second option is to set and customize a photographic style directly in the i
 * Adjust either tone or temperature by tapping the corresponding sliders. The sliders will become larger and you can fine tune the setting.
 * Tap the photographic styles icon in the upper toolbar again and this style along with the tone and temperature adjustment will be used from now on.
 
-![Choosing a photographic style in the iOS15 camera app](/images/iphone-photography/general/photographic-styles-ios15.webp)
+![Choosing a photographic style in the iOS15 camera app](/images/iphone-photography/general/photographic-styles-ios15.webp "Choosing a photographic style in the iOS15 camera app.")
 
 ### Take macro photos with iOS15 and iPhone 13 Pro
 
@@ -61,7 +61,7 @@ To enable macro control and the manual macro selector in iOS15:
 
 Now, when you get close enough to a subject to use the iOS15 macro mode, a yellow icon displaying a flower is displayed in the lower right corner of the screen. If it's yellow, then macro mode is turned on. Tap it to turn macro mode off. The icon will become white and crossed out.
 
-![Macro control in iOS15.2](/images/iphone-photography/general/macro-control-ios15.webp)
+![Macro control in iOS15.2](/images/iphone-photography/general/macro-control-ios15.webp "Macro control in iOS15.2.")
 
 ## What's new in the iOS15 Photos App?
 
@@ -79,7 +79,7 @@ Alternatively you can:
 1. Tap any photo in the Photos app to view it large
 2. Swipe up over the photo to see the EXIF data
 
-![iOS 15 EXIF viewer in Photos App](/images/iphone-photography/general/ios-15-exif-viewer-in-photos-app.webp)
+![iOS 15 EXIF viewer in Photos App](/images/iphone-photography/general/ios-15-exif-viewer-in-photos-app.webp "iOS 15 EXIF viewer in Photos App.")
 
 The EXIF viewer in iOS 15 will display the following info about your photo:
 
@@ -94,7 +94,7 @@ The EXIF viewer in iOS 15 will display the following info about your photo:
 
 Within the iOS 15 EXIF viewer, you can finally adjust the date and time when you took a photo. Just open the EXIF viewer for any photo and tap *adjust* next to the date and time. What I like is that you can also adjust the time zone!
 
-![Adjust date and time in the iOS 15 EXIF viewer](/images/iphone-photography/general/adjust-date-and-time-in-the-ios-15-exif-viewer.webp)
+![Adjust date and time in the iOS 15 EXIF viewer](/images/iphone-photography/general/adjust-date-and-time-in-the-ios-15-exif-viewer.webp "Adjust date and time in the iOS 15 EXIF viewer.")
 
 The same applies to the location. Tap *adjust* next to the location, and you can enter a new location for the photo or even tell iOS 15 Photos App to remove the location entirely by selecting the option *No Location*.
 
@@ -112,7 +112,7 @@ You can even search for photos saved from an app by typing the name of the camer
 
 Note the app icon in the search results. This indicates the search results found for the *last saved* app.
 
-![iOS 15 “saved from” information in the EXIF viewer](/images/iphone-photography/general/ios-15-saved-from-information-in-the-exif-viewer.webp)
+![iOS 15 “saved from” information in the EXIF viewer](/images/iphone-photography/general/ios-15-saved-from-information-in-the-exif-viewer.webp "iOS 15 “saved from” information in the EXIF viewer.")
 
 ### Surface Shared Photos in Photos App
 
@@ -123,7 +123,7 @@ To select if you want to see only your photos or your photos plus all shared pho
 1. In the grid view in Photos App, tap the three dots in the upper right corner
 2. Choose either "Your Photos only" to see only your photos or "Yours & Shared" to display all shared photos directly in Photos App
 
-![Select if you want display shared photos in Photos App in iOS 15](/images/iphone-photography/general/select-if-you-want-display-shared-photos-in-photos-app-in-io.webp)
+![Select if you want display shared photos in Photos App in iOS 15](/images/iphone-photography/general/select-if-you-want-display-shared-photos-in-photos-app-in-io.webp "Select if you want display shared photos in Photos App in iOS 15.")
 
 If you chose to display *Yours & Shared*, Photos App will show your own and shared photos in chronological order in Photos App based on their EXIF data.
 
@@ -139,7 +139,7 @@ With iOS 15, Apple moved that feature to the top left corner of the screen. So t
 2. Tap the *live* label in the upper left corner of the screen
 3. From the drop-down menu, chose any effect like *long exposure*
 
-![Live effects for Live Photos are now in the upper left corner in iOS 15](/images/iphone-photography/general/live-effects-for-live-photos-are-now-in-the-upper-left-corne.webp)
+![Live effects for Live Photos are now in the upper left corner in iOS 15](/images/iphone-photography/general/live-effects-for-live-photos-are-now-in-the-upper-left-corne.webp "Live effects for Live Photos are now in the upper left corner in iOS 15.")
 
 I've updated my tutorial about [how to convert a Live Photo to a long exposure](/blog/live-photo-to-long-exposure) to reflect the recent change in iOS15.
 
@@ -160,25 +160,25 @@ Here's how Live Text works:
 2. Tap and hold any text in a photo when viewing the photo large. A popup menu will appear.
 3. From the popup menu, choose to either *copy* the selected text, *translate* it or *look up* the meaning of the selected text either by searching for it on the web or looking it up in a dictionary. By tapping *share*, you can share the text to any contact or any other app.
 
-![Select text in photos using the Live Text feature in iOS 15](/images/iphone-photography/general/select-text-in-photos-using-the-live-text-feature-in-ios-15.webp)
+![Select text in photos using the Live Text feature in iOS 15](/images/iphone-photography/general/select-text-in-photos-using-the-live-text-feature-in-ios-15.webp "Select text in photos using the Live Text feature in iOS 15.")
 
 Now, if you tap translate, iOS 15 will translate the German word "Papier" correctly to the English word "paper".
 
-![Translated Live Text in iOS15](/images/iphone-photography/general/ios15-translate-text-in-photo.webp)
+![Translated Live Text in iOS15](/images/iphone-photography/general/ios15-translate-text-in-photo.webp "Translated Live Text in iOS15.")
 
 Since the latest beta, there's also a button in the lower right corner of a photo that will highlight all text iOS 15 discovered in a photo. Just tap it and all the text will be highlighted.
 
-![Highlight all text in a photo using the button in the lower right corner of the image](/images/iphone-photography/general/highlight-all-text-in-a-photo-using-the-button-in-the-lower.webp)
+![Highlight all text in a photo using the button in the lower right corner of the image](/images/iphone-photography/general/highlight-all-text-in-a-photo-using-the-button-in-the-lower.webp "Highlight all text in a photo using the button in the lower right corner of the image.")
 
 ### Visual Lookup helps you to identify objects in your photos
 
-One feature that I couldn't test yet is visual lookup. Though visual lookup was announced at the WWDC it's only available in a few countries as of iOS 15.4 (Mai 2022); for example it does not yet work in Austria. But during a recent trip to Germany, during which I visited an [abandoned amusement park in Berlin](/blog/spreepark-berlin), I could use and test Visual Lookup and it worked pretty okay for plants, animals and landmarks.
+One feature that I couldn't test yet is visual lookup. Though visual lookup was announced at the WWDC it's only available in a few countries as of iOS 15.4 (Mai 2022); for example it does not yet work in Austria. But during a recent trip to Germany, during which I visited an [abandoned amusement park in Berlin](/blog/abandoned-spreepark-berlin/), I could use and test Visual Lookup and it worked pretty okay for plants, animals and landmarks.
 
 There is not way to turn on Visual Lookup. If you can't use it, Apple has to enable it for your country. Please refer to Apple's [list of countries where Visual Lookup is available](https://www.apple.com/ios/feature-availability/#visual-look-up-visual-look-up)
 
 When iOS15 detects an object in a photo, it'll display a little star next to the info icon that will open the EXIF viewer. Tap it and iOS15 will display an icon over the objects it detected.
 
-![Example of Visual Lookup on iOS15](/images/iphone-photography/general/visual-lookup-ios15.webp)
+![Example of Visual Lookup on iOS15](/images/iphone-photography/general/visual-lookup-ios15.webp "Example of Visual Lookup on iOS15.")
 
 Now tap any of these icons and iOS15 will open a drawer displaying more info about the detected object. From what I could see so far, it works pretty okay for plants, animals and landmarks.
 
@@ -206,7 +206,7 @@ While the new features in the iOS 15 photos app are great, I miss a few features
 
 Pixelmator Photo displays a badge for RAW photos and if the photo was edited by showing a pencil badge on any edited photo.
 
-![I’d like to see such badges from Pixelmator Photos also in the iOS Photos App.](/images/iphone-photography/general/id-like-to-see-such-badges-from-pixelmator-photos-also-in-t.webp)
+![I’d like to see such badges from Pixelmator Photos also in the iOS Photos App.](/images/iphone-photography/general/id-like-to-see-such-badges-from-pixelmator-photos-also-in-t.webp "I’d like to see such badges from Pixelmator Photos also in the iOS Photos App.")
 
 Curious to see, if any of these features made it to iOS 16? Please head over to my detailed blog post about [what's new in iOS 16](/blog/whats-new-ios16).
 

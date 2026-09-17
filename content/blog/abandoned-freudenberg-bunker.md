@@ -36,11 +36,11 @@ Please mind that the bunker is in a really bad and potentially hazardous conditi
 
 Once you enter the area where the Freudenberg Bunker is hidden, you had to pass a small guardhouse which is in a very bad condition. The roof is leaking, the windows are broken and thus it looks a bit messy. You’ll find documents lying around everywhere and a few ancient communication devices (a.k.a. wired telephone).
 
-![Messy guardhouse at the area of the Freudenberg Bunker](/images/lost-places/germany/guard-house-bunker-freudenberg.webp)
+![Messy guardhouse at the area of the Freudenberg Bunker](/images/lost-places/germany/guard-house-bunker-freudenberg.webp "Messy guardhouse at the area of the Freudenberg Bunker.")
 
 As you continue further into the area, you’ll eventually get to see two GDR style buildings. The bunker is beneath them and the entrance is in one of them.
 
-![Freudenberg Bunker is below these two buildings](/images/lost-places/germany/freudenberg-bunker-below-buildings.webp)
+![Freudenberg Bunker is below these two buildings](/images/lost-places/germany/freudenberg-bunker-below-buildings.webp "Freudenberg Bunker is below these two buildings.")
 
 To enter the bunker, you have to find the correct entrance to the basement. From there you’ll have to walk a 350 feet long tunnel. And I was quite happy that I had my Wuben X1 flashlight with me. Operating it at full power, the 12.000 lumens flashlight illuminated almost the entire tunnel to the end. If you’re looking for a powerful and bright tactical flashlight for urban exploration, consider reading my [Wuben X1 review](/blog/review-wuben-x1-falcon-flashlight).
 
@@ -48,19 +48,19 @@ To enter the bunker, you have to find the correct entrance to the basement. From
 
 Once you’ve made it through the tunnel, you would have to pass a number of checkpoints with thick steel doors. But these were not just simple checkpoints. There’s at least one checkpoint where you’d have to hand in all your belongings and take a shower before you could enter.
 
-![One of the many checkpoints before you can enter the Freudenberg Bunker](/images/lost-places/germany/checkpoint-before-entering-bunker-freudenberg.webp)
+![One of the many checkpoints before you can enter the Freudenberg Bunker](/images/lost-places/germany/checkpoint-before-entering-bunker-freudenberg.webp "One of the many checkpoints before you can enter the Freudenberg Bunker.")
 
 All the rooms in the Freudenberg bunker are in a good condition; you'll still have electricity down there during your exploration. Except for the control room, where the roof collapsed. And in this photo you see why you shouldn’t enter the bunker without an FFP2 mask. See the white and black spots and areas in the foreground and on the furniture? That’s mold. White and black mold. Neither of them is very healthy.
 
-![Control Room with white an black mold everywhere](/images/lost-places/germany/collapsed-control-room.webp)
+![Control Room with white an black mold everywhere](/images/lost-places/germany/collapsed-control-room.webp "Control Room with white an black mold everywhere.")
 
 Compared to the control room, the technical room looks quite okay, maybe just a little bit ancient with all these cables and huge relays.
 
-![Technical room at the Bunker at Freudenberg](/images/lost-places/germany/technical-room-bunker-freudenberg.webp)
+![Technical room at the Bunker at Freudenberg](/images/lost-places/germany/technical-room-bunker-freudenberg.webp "Technical room at the Bunker at Freudenberg.")
 
 The same applies to the room with the teleprinters, except for the white mold that you can see there.
 
-![Teleprinter Room](/images/lost-places/germany/teleprinter-room-bunker-freudenberg.webp)
+![Teleprinter Room](/images/lost-places/germany/teleprinter-room-bunker-freudenberg.webp "Teleprinter Room.")
 
 The two buildings on the surface are not very spectacular. They’re just empty buildings with long hallways. I guess I’ve already seen too many of such abandoned buildings.
 

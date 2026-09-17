@@ -47,21 +47,21 @@ The castle is even shown briefly in the official trailer that I've embedded here
 
 And here's the castle as photographed.
 
-![Castle Kreuzenstein as seen in the film “The last Witch” at minute 14:53](/images/lost-places/austria/castle-kreuzenstein-as-seen-in-the-film-the-last-witch-at.webp)
+![Castle Kreuzenstein as seen in the film “The last Witch” at minute 14:53](/images/lost-places/austria/castle-kreuzenstein-as-seen-in-the-film-the-last-witch-at.webp "Castle Kreuzenstein as seen in the film “The last Witch” at minute 14:53.")
 
 There's one more hidden photo spot (that did not appear in the film). If you follow the path that leads around the castle to the right, you'll pass a small (locked) gate from which you get a nice view into the the castle moat
 
-![Castle moat at Castle Kreuzenstein](/images/lost-places/austria/castle-moat-at-castle-kreuzenstein.webp)
+![Castle moat at Castle Kreuzenstein](/images/lost-places/austria/castle-moat-at-castle-kreuzenstein.webp "Castle moat at Castle Kreuzenstein.")
 
 ## How I shot the photos of Castle Kreuzenstein
 
 The best time for taking pictures there is around noon. At this time the sun is in a 90 degree angle to the castle. During the afternoon the sun moves around the castle lighting it from the front. Here‘s a screenshot from Sun Surveyor App that I use to determine the position of the sun for my photography. I've written a review [blue hour calculators for iPhone](/blog/review-blue-hour-calculators-iphone) that also covers Sun Surveyor.
 
-![Determining best light using Sun Surveyor App](/images/lost-places/austria/determining-best-light-using-sun-surveyor-app.webp)
+![Determining best light using Sun Surveyor App](/images/lost-places/austria/determining-best-light-using-sun-surveyor-app.webp "Determining best light using Sun Surveyor App.")
 
 I used the [Moment Wide lens (reviewed here)](/blog/review-moment-wide-lens) for all those photos. For the photo of the battering ram and the castle moat I mounted the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
 
-![Castle Gate at Kreuzenstein shot on Moment](/images/lost-places/austria/castle-gate-at-kreuzenstein-shot-on-moment.webp)
+![Castle Gate at Kreuzenstein shot on Moment](/images/lost-places/austria/castle-gate-at-kreuzenstein-shot-on-moment.webp "Castle Gate at Kreuzenstein shot on Moment.")
 
 I ran all photos through SKRWT to fix the coaching lines and to make the lines as upright as possible. In this case, using a tool to fix perspective distortions as an undesirable side effect. Especially the top of the tower now looks skewed.
 

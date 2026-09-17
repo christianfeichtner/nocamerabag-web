@@ -49,7 +49,7 @@ First and foremost, I can confirm that backpack fulfills the EU maximum Carry-On
 
 If, by accident, you’ve packed a little too much, simply use the two outside tension straps to slim down the profile and make it compliant again. Further, the Osprey Farpoint 40 has two compression straps inside the main compartment, just like a suitcase, that you can and should use to firmly store and compress your stuff. For all those small things, there’s quite a huge mesh pocket inside the main compartment.
 
-![Osprey Farpoint 40 main compartment - 40L](/images/reviews/general/osprey-farpoint-40-main-compartment-40l.webp)
+![Osprey Farpoint 40 main compartment - 40L](/images/reviews/general/osprey-farpoint-40-main-compartment-40l.webp "Osprey Farpoint 40 main compartment - 40L.")
 
 The main compartment is as big as it can get. No unnecessary waste of space here. Here’s what I usually carry on my trips:
 
@@ -75,11 +75,11 @@ Packing and unpacking is really easy, because the cover of the main compartment 
 
 The secondary compartment at the outside has a padded sleeve for a notebook or a tablet. It’s big enough to hold all the small things needed for traveling like a power bank, flashlight, Kindle and so on. Like the main compartment, the zippers of the secondary compartment can be locked using travel locks.
 
-![Secondary compartment of the Osprey Farpoint 40](/images/reviews/general/secondary-compartment-of-the-osprey-farpoint-40.webp)
+![Secondary compartment of the Osprey Farpoint 40](/images/reviews/general/secondary-compartment-of-the-osprey-farpoint-40.webp "Secondary compartment of the Osprey Farpoint 40.")
 
 The shoulder straps and hip belt can be easily zipped away, transforming the backpack basically into a travel bag that can be carried using one of the two handles at the top or on the side. The backpack even comes with a long shoulder strap that you can use to carry the backpack like a sling bag. (Nice idea, but I don’t use this at all).
 
-![Shoulder Straps of the Osprey Farpoint 40 can be zipped away](/images/reviews/general/shoulder-straps-of-the-osprey-farpoint-40-can-be-zipped-away.webp)
+![Shoulder Straps of the Osprey Farpoint 40 can be zipped away](/images/reviews/general/shoulder-straps-of-the-osprey-farpoint-40-can-be-zipped-away.webp "Shoulder Straps of the Osprey Farpoint 40 can be zipped away.")
 
 Located on the outside are two mesh pockets, that can be used for carrying up to two bottles of water.
 
@@ -99,9 +99,9 @@ To fit all that stuff I listed above into this Carry-On backpack, I came up with
 
 Here are two photos of the main compartment, packed for a five day city trip, as outlined above.
 
-![Osprey farpoint 40 packed for five days: Tripod, skivvies, t-shirts, first aid kit (with carry on compliant knife and charger, toiletries](/images/reviews/general/osprey-farpoint-40-packed-for-five-days-tripod-skivvies-t.webp)
+![Osprey farpoint 40 packed for five days: Tripod, skivvies, t-shirts, first aid kit (with carry on compliant knife and charger, toiletries](/images/reviews/general/osprey-farpoint-40-packed-for-five-days-tripod-skivvies-t.webp "Osprey farpoint 40 packed for five days: Tripod, skivvies, t-shirts, first aid kit (with carry on compliant knife and charger, toiletries.")
 
-![Final layer is my Jack Wolfskin Soft Shell](/images/reviews/general/final-layer-is-my-jack-wolfskin-soft-shell.webp)
+![Final layer is my Jack Wolfskin Soft Shell](/images/reviews/general/final-layer-is-my-jack-wolfskin-soft-shell.webp "Final layer is my Jack Wolfskin Soft Shell.")
 
 You may (or may not) wonder why I use a packable backpack. The reason is simple. I see no point in running around during the day with a big backpack with only the tripod, water and the softshell inside. So I use this small, packable backpack as daypack. The rest of the stuff stays at the hotel. At least, it’s about traveling light - even when on site.
 

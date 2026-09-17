@@ -27,7 +27,7 @@ Then there's iCloud Photo Library. That's an excellent way to sync your photos b
 
 If you've read a few blog posts here you know that I love to travel light and so I looked for a lightweight solution to backup my photos during my travels. I tried a wireless hard disk as a backup but that wasn't very convenient. That thing is heavy and inconvenient to use. Turn the hard drive on, wait for it to establish the WiFi, connect the iPhone, and so on. Did I mention that that was not very convenient?
 
-![SanDisk iXpand iPhone/USB stick](/images/reviews/general/sandisk-ixpand-iphone-usb-stick.webp)
+![SanDisk iXpand iPhone/USB stick](/images/reviews/general/sandisk-ixpand-iphone-usb-stick.webp "SanDisk iXpand iPhone/USB stick.")
 
 In search for a better, lightweight and convenient solution I turned to the Sandisk iXpand a few weeks ago. That’s a small USB stick that has a lightning port at the other end. So you can plug it into your iPhone or iPad and store your photos (and other stuff) on it. It doesn’t get much simpler than that. Back home, you can connect it to a notebook or directly to a network hard drive like the Synology Diskstation.
 
@@ -35,11 +35,11 @@ Using the iXpand is dead simple and convenient: Plug it into your iPhone, launch
 
 Here's how it works:
 
-![Select ](/images/reviews/general/select.webp)
+![Select](/images/reviews/general/select.webp "Select ”Copy Files” in the iXpand app.")
 
-![Chose ](/images/reviews/general/chose.webp)
+![Chose](/images/reviews/general/chose.webp "Chose ”Copy Photos from Phone”.")
 
-![Select photos, tap ](/images/reviews/general/select-photos-tap.webp)
+![Select photos, tap](/images/reviews/general/select-photos-tap.webp "Select photos, tap ”Copy to iXpand Drive”, select target folder and you're done.")
 
 The iXpand is available with 16 GB, 32 GB, 64 GB and 128 GB. The 128 GB version I have has room for a lot of photos! A photo from an iPhone 6S plus is around 2 MB. That means you can store over 60.000 photos on the 128 GB model. Let's take this one step further. If you would shoot, let's say, 1000 photos a day you could store 2 months of photos on the 128 GB iXpand. I only take 1000-2000 photo a week during my trips. So I could backup over 6 months of photos from my iPhone.
 
@@ -49,7 +49,7 @@ Once I get home, I plug the stick into my Synology Diskstation and copy the phot
 
 The iXpand can even encrypt your files you store on it. On your iPhone, you can access your files by entering a password in the app or even use the fingerprint sensor for that. On your computer, you have to install a special software in order to read the encrypted files. The software is included right on the stick.
 
-![To encrypt files on your iXpand drive, select ](/images/reviews/general/to-encrypt-files-on-your-ixpand-drive-select.webp)
+![To encrypt files on your iXpand drive, select](/images/reviews/general/to-encrypt-files-on-your-ixpand-drive-select.webp "To encrypt files on your iXpand drive, select ”Enable Security” and enter a password. Optionally select that you want to use Touch ID.")
 
 The iXpand app also helps you to backup your social media photos that you've shared with your friends and even can backup the contacts from the iPhone. And finally, If you store other file types, e.g. PDFs on the stick, you can share them from the stick to other apps and send them via email for example.
 

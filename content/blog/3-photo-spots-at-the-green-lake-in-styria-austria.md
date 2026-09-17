@@ -32,12 +32,12 @@ You’ll see hundreds of beautiful photo spots on your hike. Here are my three f
 
 The first one is right at the beginning of the lake. The water is very shallow there and you’ll see the mountains behind the lake. A perfect spot for a reflection shot.
 
-![Photo Spot #1: Perfect for a mountain reflection shot.](/images/landscapes/austria/photo-spot-1-perfect-for-a-mountain-reflection-shot.webp)
+![Photo Spot #1: Perfect for a mountain reflection shot.](/images/landscapes/austria/photo-spot-1-perfect-for-a-mountain-reflection-shot.webp "Photo Spot #1: Perfect for a mountain reflection shot.")
 
 Continue until you see a small rocky island with a bench on it in the lake. The bench is a great place to relax and enjoy the stunning nature in late summer. In early spring you’d need a scuba diving equipment if you want to take a rest on the bench because the it will be several feet below the surface of the water.
 
-![Photo Spot #2: This bench will be several feet below the lake's surface in winter](/images/landscapes/austria/photo-spot-2-this-bench-will-be-several-feet-below-the-lak.webp)
+![Photo Spot #2: This bench will be several feet below the lake's surface in winter](/images/landscapes/austria/photo-spot-2-this-bench-will-be-several-feet-below-the-lak.webp "Photo Spot #2: This bench will be several feet below the lake's surface in winter.")
 
 Continue until you reach the other side of the lake and enjoy a view over the lake with the highest mountain in the background.
 
-![Photo Spot #3: Great view over the lake and surrounding mountains](/images/landscapes/austria/photo-spot-3-great-view-over-the-lake-and-surrounding-moun.webp)
+![Photo Spot #3: Great view over the lake and surrounding mountains](/images/landscapes/austria/photo-spot-3-great-view-over-the-lake-and-surrounding-moun.webp "Photo Spot #3: Great view over the lake and surrounding mountains.")

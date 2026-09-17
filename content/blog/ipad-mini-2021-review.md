@@ -48,7 +48,7 @@ If you've been reading this blog for a while, you know that I'm a kind of minima
 
 Obviously, the iPad mini is smaller than an iPad Pro, and thus, it's much lighter than any other iPad. Here's a size comparison between the iPad Pro, the iPad mini 2021 and the Kindle Oasis.
 
-![Tablet sizes. From left to right: iPad Pro 11 from 2018, iPad mini 2021, Kindle Oasis](/images/reviews/usa/tablet-sizes-from-left-to-right-ipad-pro-11-from-2018-ipa.webp)
+![Tablet sizes. From left to right: iPad Pro 11 from 2018, iPad mini 2021, Kindle Oasis](/images/reviews/usa/tablet-sizes-from-left-to-right-ipad-pro-11-from-2018-ipa.webp "Tablet sizes. From left to right: iPad Pro 11 from 2018, iPad mini 2021, Kindle Oasis.")
 
 After using the mini for a week, I can confirm that the iPad mini truly offers better portability than the iPad Pro. But that's no surprise. I didn't expect that the iPad mini is also much more convenient to use.
 
@@ -71,7 +71,7 @@ So, in addition to better portability, the iPad mini is more comfortable to use,
 
 Apple Pencil was one of the reasons I bought an iPad Pro in the first place. Editing photos, especially retouching, is much more convenient using an Apple Pencil than using your finger.
 
-![iPad mini 2021 with Apple Pencil running Lightroom Mobile](/images/reviews/usa/ipad-mini-2021-with-apple-pencil-running-lightroom-mobile.webp)
+![iPad mini 2021 with Apple Pencil running Lightroom Mobile](/images/reviews/usa/ipad-mini-2021-with-apple-pencil-running-lightroom-mobile.webp "iPad mini 2021 with Apple Pencil running Lightroom Mobile.")
 
 The iPad mini 2021 is the first iPad mini that supports Apple Pencil, and it supports Apple Pencil 2 just like the iPad Pro. You can magnetically attach it to the right side of the iPad mini to pair and charge it.
 

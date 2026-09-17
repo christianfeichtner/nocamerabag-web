@@ -45,7 +45,7 @@ So I attached the iPhone to my [travel tripod](/blog/review-amazon-basics-travel
 
 ## How I edited the photo of the CEC Building
 
-I combined the three differently exposed photos to an HDR using [Pro HDR X](/blog/review-pro-hdr-x-hdr-photography-with-iphone). Next, I fixed the crooked lines with [SKRWT](/blog/review-skrwt-app) and finally fine-tuned the shot with Enlight.
+I combined the three differently exposed photos to an HDR using [Pro HDR X](/blog/create-an-hdr-from-bracketed-shots-using-an-iphone-or-ipad/). Next, I fixed the crooked lines with [SKRWT](/blog/review-skrwt-app) and finally fine-tuned the shot with Enlight.
 
 ## 2019 Update
 
@@ -58,8 +58,8 @@ In 2019, I re-edited the photo using a single shot from the three exposures usin
 
 So, here's the updated and re-edited final photo
 
-![CEC Palace in Bucharest, Romania, shot on iPhone 6s Plus](/images/tutorials/romania/cec-palace-in-bucharest-romania-shot-on-iphone-6s-plus.webp)
+![CEC Palace in Bucharest, Romania, shot on iPhone 6s Plus](/images/tutorials/romania/cec-palace-in-bucharest-romania-shot-on-iphone-6s-plus.webp "CEC Palace in Bucharest, Romania, shot on iPhone 6s Plus.")
 
-Today, I'd take a different route to take this photo. A lot has changed since then, especially when it comes to [night photography with iPhone](/blog/night-photography-iphone).
+Today, I'd take a different route to take this photo. A lot has changed since then, especially when it comes to [night photography with iPhone](/blog/night-photography-iphone-apps/).
 
-While you're here, don't forget to check out all the other [iPhone Photography Workflow tutorials](/blog/tag/Workflow) here in the blog or head over to even more [photo spots in Bucharest, Romania](/blog/photo-spots-in-bucharest-romania). Enjoy!
+While you're here, don't forget to check out all the other [iPhone Photography Workflow tutorials](/blog/workflow/) here in the blog or head over to even more [photo spots in Bucharest, Romania](/blog/photo-spots-in-bucharest-romania). Enjoy!

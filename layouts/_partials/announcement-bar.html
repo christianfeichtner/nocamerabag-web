@@ -3,7 +3,8 @@
     <aside id="site-announcement" 
            class="announcement-wrapper" 
            data-nosnippet 
-           data-campaign-id="{{ .id }}" 
+           data-campaign-id="{{ or .campaign_id .id }}" 
+           {{ with or .campaign_name .campaign }}data-campaign-name="{{ . }}" {{ end }}
            data-cookie-days="{{ .cookie_days | default 30 }}" 
            aria-label="Announcement">
       <div class="announcement-inner">
@@ -11,7 +12,7 @@
           {{ with .badge }}<span class="announcement-badge">{{ . }}</span>{{ end }}
           <span class="announcement-text">{{ .text | markdownify }}</span>
           {{ if .link_url }}
-            <a href="{{ .link_url | relLangURL }}" class="announcement-link">{{ .link_text | default "Read more" | safeHTML }}</a>
+            <a href="{{ .link_url | relLangURL }}" class="announcement-link"{{ with or .campaign_name .campaign }} data-campaign-name="{{ . }}"{{ end }}>{{ .link_text | default "Read more" | safeHTML }}</a>
           {{ end }}
         </div>
         <button id="announcement-close" class="announcement-close" aria-label="Close">&times;</button>

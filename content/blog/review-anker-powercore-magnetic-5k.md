@@ -63,7 +63,7 @@ Eliminating the cables for everyday charging was the reason I originally switche
 
 And that was also the reason why I bought the Anker 521 magnetic battery: To be able to charge my iPhone on the go without using cables - like this:
 
-![Anker Powercore magnetic 5K attached to an iPhone 12 Pro Max](/images/reviews/general/anker-521-magnetic-battery-attached-to-iphone.webp)
+![Anker Powercore magnetic 5K attached to an iPhone 12 Pro Max](/images/reviews/general/anker-521-magnetic-battery-attached-to-iphone.webp "Anker Powercore magnetic 5K attached to an iPhone 12 Pro Max.")
 
 ## Features of the Anker 521 magnetic battery
 
@@ -122,7 +122,7 @@ All the Anker magnetic batteries have four LED status lights that indicate how m
 
 As I've outlined in the chapter about the power bank's capacity, one of the status lights was still lit after charging my iPhone 12 Pro Max wirelessly by 40%.
 
-![Status LEDs of the Anker Powercore magnetic 5K](/images/reviews/general/leds-anker-521-magnetic-battery.webp)
+![Status LEDs of the Anker Powercore magnetic 5K](/images/reviews/general/leds-anker-521-magnetic-battery.webp "Status LEDs of the Anker Powercore magnetic 5K.")
 
 Further, the power bank has a blue power light. It'll start blinking if you charge the power bank itself. Once you turn on the power bank and charge your iPhone, it's continuously lit.
 
@@ -155,9 +155,9 @@ To compare the Anker magnetic power banks with the Apple power bank, you have to
 
 The Anker wireless power bank uses a current of 3.7V, while Apple uses a current of 7.62V. So, this yields 18.5 Wh of the Anker MagSafe battery pack compared to 11.13 Wh of the Apple power bank. These two numbers are even in the fine print on the two power banks.
 
-![Technical details of the Anker PowerCore Magnetic 5K](/images/reviews/general/technical-details-of-the-anker-powercore-magnetic-5k.webp)
+![Technical details of the Anker PowerCore Magnetic 5K](/images/reviews/general/technical-details-of-the-anker-powercore-magnetic-5k.webp "Technical details of the Anker PowerCore Magnetic 5K.")
 
-![Technical details of the Apple MagSafe battery pack](/images/reviews/general/technical-details-of-the-apple-magsafe-battery-pack.webp)
+![Technical details of the Apple MagSafe battery pack](/images/reviews/general/technical-details-of-the-apple-magsafe-battery-pack.webp "Technical details of the Apple MagSafe battery pack.")
 
 So the Apple MagSafe battery pack's capacity is 60% compared to the Anker battery pack.
 

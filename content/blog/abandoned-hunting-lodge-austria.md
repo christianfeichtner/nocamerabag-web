@@ -26,7 +26,7 @@ The hunting lodge is rather small, so it probably was not used as a residential 
 
 After a 15 minute walk through the forest and encounters with a deer family and a number of squirrels, I saw the silhouette of the small building.
 
-![Trail to the abandoned hunting lodge](/images/lost-places/austria/trail-to-the-abandoned-hunting-lodge.webp)
+![Trail to the abandoned hunting lodge](/images/lost-places/austria/trail-to-the-abandoned-hunting-lodge.webp "Trail to the abandoned hunting lodge.")
 
 The majority of the exterior was in a surprisingly good condition except that all doors and windows were gone. One small wing of the building was collapsed.
 
@@ -34,14 +34,14 @@ The lodge probably consisted four rooms. One of them was completely collapsed.
 
 One great photo spot in there is the door with all the bricks in front of it.
 
-![Bricks & door at the abandoned hunting lodge](/images/lost-places/austria/bricks-door-at-the-abandoned-hunting-lodge.webp)
+![Bricks & door at the abandoned hunting lodge](/images/lost-places/austria/bricks-door-at-the-abandoned-hunting-lodge.webp "Bricks & door at the abandoned hunting lodge.")
 
 A second photo spot is what once may was the main room. I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens) to capture the entire room and [SKRWT App](/blog/review-skrwt-app) to fix the perspective distortion.
 
-![Main room shot with Moment Superfish Lens](/images/lost-places/austria/main-room-shot-with-moment-superfish-lens.webp)
+![Main room shot with Moment Superfish Lens](/images/lost-places/austria/main-room-shot-with-moment-superfish-lens.webp "Main room shot with Moment Superfish Lens.")
 
 Luckily, the place was well-lit so I didn’t need a [flashlight](/blog/review-olight-s30r-iii) or [tripod](/blog/review-amazon-basics-travel-tripod). Still I do recommended to always carry a first aid kit and wear shoes with thick soles. Usually there’s stuff like broken glass on the floor in such places.
 
 I edited both photos on my shiny new iPad Pro 11 using the Apple Pencil 2 and Lightroom Mobile.
 
-Since my interest for lost places was sparked by accidentally discovering an abandoned manor house I’ve [photographed quite a number of lost places](/blog/tag/Lost+Places) in Europe always following the mantra of urban exploration: Take nothing but photos, leave nothing but your footprints.
+Since my interest for lost places was sparked by accidentally discovering an abandoned manor house I’ve [photographed quite a number of lost places](/blog/lost-places/) in Europe always following the mantra of urban exploration: Take nothing but photos, leave nothing but your footprints.

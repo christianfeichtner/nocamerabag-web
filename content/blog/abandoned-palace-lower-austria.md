@@ -16,7 +16,7 @@ cover:
   image: /images/lost-places/austria/stairs-abandoned-castle-lower-austria.webp
   alt: Exploring an abandoned Palace somewhere in Austria
 ---
-During my search for [lost places](/blog/tag/Lost+Places) to photograph, I recently discovered a gorgeous abandoned castle in Lower Austria. The origins of the said castle date back to the 13th century!
+During my search for [lost places](/blog/lost-places/) to photograph, I recently discovered a gorgeous abandoned castle in Lower Austria. The origins of the said castle date back to the 13th century!
 
 Until the early 20th century, it was owned by a number of noble families before it was completely abandoned sometime between World War I and World War II. You may have heard that all forms of nobility were prohibited in many European countries after World War I but I have no idea if this was the reason that the castle was abandoned.
 
@@ -25,23 +25,23 @@ Well equipped, I traveled to the castle for a two hour iPhone photography sessio
 As all windows were boarded up I used [Low Light Mode](/blog/review-low-light-modes-procamera-app) from [ProCamera App](/blog/procamera-app-review).
 The first thing I notices once I entered the abandoned castle were those stairs to the upper floor.
 
-![Stairs in abandoned castle in Lower Austria](/images/lost-places/austria/stairs-abandoned-castle-lower-austria.webp)
+![Stairs in abandoned castle in Lower Austria](/images/lost-places/austria/stairs-abandoned-castle-lower-austria.webp "Stairs in abandoned castle in Lower Austria.")
 
 The stairs looked okayish in the lower half. But, though I wore my hiking boots which provide a really good grip, it was difficult to climb the second half of the stairs as they were totally covered in debris.
 
 Once I made it upstairs I passed through a dozen of rooms. All of them were totally empty except for some still having the, probably, century old wallpaper and some doors lying around.
 
-![Ancient wallpaper in abandoned castle in Lower Austria](/images/lost-places/austria/ancient-wallpaper-in-abandoned-castle-in-lower-austria.webp)
+![Ancient wallpaper in abandoned castle in Lower Austria](/images/lost-places/austria/ancient-wallpaper-in-abandoned-castle-in-lower-austria.webp "Ancient wallpaper in abandoned castle in Lower Austria.")
 
-![Room in abandoned castle in Lower Austria](/images/lost-places/austria/room-in-abandoned-castle-in-lower-austria.webp)
+![Room in abandoned castle in Lower Austria](/images/lost-places/austria/room-in-abandoned-castle-in-lower-austria.webp "Room in abandoned castle in Lower Austria.")
 
 After crossing a few rooms I encountered an obstacle. Such an obstacle is a clear warning sign of an unstable structure: Avoid at all costs.
 
-![Collapsed area in abandoned castle in Lower Austria](/images/lost-places/austria/collapsed-area-in-abandoned-castle-in-lower-austria.webp)
+![Collapsed area in abandoned castle in Lower Austria](/images/lost-places/austria/collapsed-area-in-abandoned-castle-in-lower-austria.webp "Collapsed area in abandoned castle in Lower Austria.")
 
 The roof timbering had collapsed here and in some other places. Such areas are really dangerous because you‘ll never known how stable the remaining part of the floor is.
 
-![Dark Basement](/images/lost-places/austria/dark-basement.webp)
+![Dark Basement](/images/lost-places/austria/dark-basement.webp "Dark Basement.")
 
 Back in the basement I tried to find a way to the chapel. Such medieval castles quite often have their own chapels and those are usually the most beautiful part of such an abandoned building like this.
 

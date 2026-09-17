@@ -65,25 +65,25 @@ Jerryously started the underground walking tour in a multi-story abandoned ice c
 
 In the second room of this abandoned cellar, we could explore a few relicts from the past decades, like this old box with books.
 
-![Abandoned box of books found in an abandoned tunnel in Vienna](/images/lost-places/austria/abandoned-box-of-books-abandoned-tunnel.webp)
+![Abandoned box of books found in an abandoned tunnel in Vienna](/images/lost-places/austria/abandoned-box-of-books-abandoned-tunnel.webp "Abandoned box of books found in an abandoned tunnel in Vienna.")
 
 Additionally, we found a few love letters from an alleged prisoner and a few files which looked like they were from a law firm.
 
 Then we walked through a huge room which may have been used as a storage room before World War II. Thanks to my new flashlight, which I bought for exactly such abandoned places, I could fully illuminate the room and take a photo.
 
-![Abandoned storage room below Vienna](/images/reviews/abandoned-cellar-vienna.webp)
+![Abandoned storage room below Vienna](/images/reviews/abandoned-cellar-vienna.webp "Abandoned storage room below Vienna.")
 
 In the next room, I discovered a few pages of an old newspaper on the floor - unfortunately, all without a date. But with a little bit of research in a newspaper archive, I was able to date the newspaper page to either January or February 1951 - so a few years after the second world war ended.
 
 In case you’re curious, how I discovered the date of the old newspaper: it announces a famous magician named Ralf Bialla for February in a well-known venue in Vienna, the Moulin Rouge. So I just had to search the newsletter archive for the name and the venue and was able to find an article. As validation, I checked the cinema programme on the left. None of the mentioned movies were released earlier than January 1951.
 
-![Newspaper Page from 1951 found in an abandoned cellar in Vienna](/images/lost-places/austria/newspaper-from-1951.webp)
+![Newspaper Page from 1951 found in an abandoned cellar in Vienna](/images/lost-places/austria/newspaper-from-1951.webp "Newspaper Page from 1951 found in an abandoned cellar in Vienna.")
 
 Next, we went up to the surface again and headed to another lost place below the first district in Vienna. Another abandoned cellar that looked like it once belonged to a bakery. And in the next photo you can clearly see why: There’s an old and lost scale along with some remains of pages of a recipe book.
 
-![Old scale found in a former WWII underground shelter in Vienna](/images/lost-places/austria/abandoned-scale-vienna.webp)
+![Old scale found in a former WWII underground shelter in Vienna](/images/lost-places/austria/abandoned-scale-vienna.webp "Old scale found in a former WWII underground shelter in Vienna.")
 
-![Page of an old recipe book from 1957](/images/lost-places/austria/recipe-from-1957.webp)
+![Page of an old recipe book from 1957](/images/lost-places/austria/recipe-from-1957.webp "Page of an old recipe book from 1957.")
 
 But for the last stop, it got really dusty: We had to crawl into the next room on all fours. The cellar was full of debris from World War II!
 
@@ -93,7 +93,7 @@ During this tour, I used my Wuben X1 flashlight that emits a whooping 12.000 lum
 
 If I explore a lost place on my own, For larger rooms I may also use a technique I described in the blog post about [how to take photos in total darkness with iPhone](/blog/take-photos-in-darkness).
 
-As always, I used the already [reviewed ProCamera App](/blog/procamera-app-review) and, of course, I shot them in [Apple’s ProRAW format](/blog/shoot-raw-iphone).
+As always, I used the already [reviewed ProCamera App](/blog/procamera-app-review) and, of course, I shot them in [Apple’s ProRAW format](/blog/how-to-shoot-raw-iphone/).
 
 ## Should you take a walking tour through the Vienna underground with Jerryously?
 

@@ -26,11 +26,11 @@ Since I turned to iPhone photography in 2012, I have tried to find ways to make 
 
 Before we have a look at the apps you can use for night photography with iPhone, let's have a look at these sample photos. I took them using the apps that I'll cover later in this blog post
 
-![View from the Shard at night shot on iPhone 6S Plus using ProCamera Low Light Mode](/images/reviews/london-at-night-shot-on-iphone-6s-plus-using-procamera-low-l.webp)
+![View from the Shard at night shot on iPhone 6S Plus using ProCamera Low Light Mode](/images/reviews/london-at-night-shot-on-iphone-6s-plus-using-procamera-low-l.webp "View from the Shard at night shot on iPhone 6S Plus using ProCamera Low Light Mode.")
 
-![Music Theatre in Vienna during a lockdown shot on iPhone 11 Pro using night mode](/images/cityscapes/austria/musikverein-vienna-at-night.jpg)
+![Music Theatre in Vienna during a lockdown shot on iPhone 11 Pro using night mode](/images/cityscapes/austria/musikverein-vienna-at-night.jpg "Music Theatre in Vienna during a lockdown shot on iPhone 11 Pro using night mode.")
 
-![Parliament in Budapest at night shot on iPhone Xs using Slow Shutter Camera App](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp)
+![Parliament in Budapest at night shot on iPhone Xs using Slow Shutter Camera App](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp "Parliament in Budapest at night shot on iPhone Xs using Slow Shutter Camera App.")
 
 All of the three camera apps I use for taking photos at night with iPhone have a dedicated low light or night mode. Slow Shutter Cam App was one of the first apps to offer such a night mode. Then came low light mode in ProCamera App and finally Apple released the night mode in the stock iPhone camera app.
 
@@ -59,13 +59,13 @@ Apple introduced night mode with the release of the iPhone 11 and iOS 13. Night 
 
 If the iPhone camera app detects a low light scene, it automatically enables night mode. That's indicated by a night mode symbol in the upper left corner of the screen that also displays the exposure time like 2 seconds in the screenshot below.
 
-![Night mode indicator in the iPhone’s stock camera app](/images/tutorials/general/night-mode-indicator-iphone-camera-app.webp)
+![Night mode indicator in the iPhone’s stock camera app](/images/tutorials/general/night-mode-indicator-iphone-camera-app.webp "Night mode indicator in the iPhone’s stock camera app.")
 
 You're ready to shoot if you see this night mode symbol and an exposure time. The exposure time the camera app displays is just for your info. You don't need to adjust it - though you can.
 
 To show the exposure adjustment slider in night mode, tap the night mode icon in the upper left corner of the screen. Then this slider will appear at the bottom of the screen. Now you can manually adjust the exposure time suggested by the camera app.
 
-![Night Mode exposure slider](/images/tutorials/general/exposure-slider-night-mode-camera-iphone.webp)
+![Night Mode exposure slider](/images/tutorials/general/exposure-slider-night-mode-camera-iphone.webp "Night Mode exposure slider.")
 
 Note: The exposure adjustment slider is only available if night mode is enabled.
 
@@ -82,15 +82,15 @@ I usually use night mode for snapshots. When I'm shooting, I rely on the night m
 
 Even before Apple introduced night mode, my favorite third-party camera app, ProCamera, introduced several night modes that they call *Low Light+*. I've used them frequently since they were launched.
 
-![Vintage Style Cinema in Vienna at night shot on iPhone XS using ProCamera Low Light Mode](/images/tutorials/general/vintage-style-cinema-shot-using-procamera-low-light-mode.webp)
+![Vintage Style Cinema in Vienna at night shot on iPhone XS using ProCamera Low Light Mode](/images/tutorials/general/vintage-style-cinema-shot-using-procamera-low-light-mode.webp "Vintage Style Cinema in Vienna at night shot on iPhone XS using ProCamera Low Light Mode.")
 
 To enable Low Light+ in ProCamera, tap the mode selector to the left of the shutter release button and select *low light+*.
 
-![Enable Low Light+ in ProCamera App](/images/tutorials/general/enable-low-light-procamera.webp)
+![Enable Low Light+ in ProCamera App](/images/tutorials/general/enable-low-light-procamera.webp "Enable Low Light+ in ProCamera App.")
 
 I prefer ProCamera's low light mode because the app always displays the exposure adjustment slider, and I don't have to tap to see it. Using this slider, you can adjust the exposure time.
 
-![Enable Lux+ in ProCamera App](/images/tutorials/general/procamera-exposure-compensation-night-mode.webp)
+![Enable Lux+ in ProCamera App](/images/tutorials/general/procamera-exposure-compensation-night-mode.webp "Enable Lux+ in ProCamera App.")
 
 Did you notice the Lux+ icon on the left side of the screen? ProCamera will apply an extra boost to the exposure time by tapping it and enables you to take well-lit photos in challenging low light situations. I use it mainly when photographing inside abandoned buildings.
 
@@ -106,7 +106,7 @@ Slow Shutter Camera App does what the name suggests: It lets you take long expos
 
 Please choose the *Low Light* mode to take photos in low light situations. Because I can manually adjust ISO and shutter speed, Slow Shutter Cam app is my preferred app for really challenging light conditions. You won't find that level of control in the stock camera app or the ProCamera app.
 
-![Parliament in Budapest shot on iPhone XS using Slow Shutter Cam App](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp)
+![Parliament in Budapest shot on iPhone XS using Slow Shutter Cam App](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp "Parliament in Budapest shot on iPhone XS using Slow Shutter Cam App.")
 
 Once you've chosen low light mode, set the noise reduction, shutter speed, and ISO. I generally recommend setting noise reduction to *low* and ISO to a value around 100 or even lower. If you set noise reduction to anything higher than *low*, you may kill all the fine details in your photo. If you set ISO to a value higher than 100, your image may be noisy.
 

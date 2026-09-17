@@ -52,7 +52,7 @@ The Roxon Flex Series consists of two multitools.
 
 Here’s a photo of the Roxon Flex Modular in my custom configuration with the knife still added. Please note, that’s not the configuration you get when you buy it. More on that in a minute.
 
-![The Roxon Flex Companion with my personal configuration](/images/reviews/general/roxon-flex-companion.webp)
+![The Roxon Flex Companion with my personal configuration](/images/reviews/general/roxon-flex-companion.webp "The Roxon Flex Companion with my personal configuration.")
 
 ### Basic Features of the Roxon Flex Companion Multitool
 
@@ -91,19 +91,19 @@ The package contains a tool for changing implements. It’s basically a plastic 
 
 Step 1: Open the knife and put the plastic cover over it. The cover protects you while removing the blade
 
-![To remove the blade, slide the blade into the protective cover](/images/reviews/general/replace-knife-roxon-flex-companion-1.webp)
+![To remove the blade, slide the blade into the protective cover](/images/reviews/general/replace-knife-roxon-flex-companion-1.webp "To remove the blade, slide the blade into the protective cover.")
 
 Step 2: Unlock the knife by sliding the knob all the way to the right. Now you can easily remove each tool. Then slightly press the blade backwards.
 
-![Unlock the blade and press it gently backwards](/images/reviews/general/replace-knife-roxon-flex-companion-2.webp)
+![Unlock the blade and press it gently backwards](/images/reviews/general/replace-knife-roxon-flex-companion-2.webp "Unlock the blade and press it gently backwards.")
 
 Step 3: Remove the blade.
 
-![Remove the blade](/images/reviews/general/replace-knife-roxon-flex-companion-3.webp)
+![Remove the blade](/images/reviews/general/replace-knife-roxon-flex-companion-3.webp "Remove the blade.")
 
 Now you add e.g. the comb. That works exactly the other way around.
 
-![Add a replacement for the blade; e.g. the comb](/images/reviews/general/replace-knife-roxon-flex-companion-4.webp)
+![Add a replacement for the blade; e.g. the comb](/images/reviews/general/replace-knife-roxon-flex-companion-4.webp "Add a replacement for the blade; e.g. the comb.")
 
 Step 1: You hook the comb into the place from which you removed the blade
 

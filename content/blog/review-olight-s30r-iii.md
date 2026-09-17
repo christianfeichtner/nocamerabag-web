@@ -36,7 +36,7 @@ And the S30R III perfectly meets those requirements.
 
 This flashlight emits a powerful 1050 lumen for approx. 3 minutes. I use this mode mainly for “light painting” in dark rooms. Here’s an example of a dentist's chair I photographed this way inside a lost place.
 
-![Dentist’s Chair light painted with an Olight S30R III](/images/reviews/general/dentists-chair-light-painted-with-an-olight-s30r-iii.webp)
+![Dentist’s Chair light painted with an Olight S30R III](/images/reviews/general/dentists-chair-light-painted-with-an-olight-s30r-iii.webp "Dentist’s Chair light painted with an Olight S30R III.")
 
 After 3 minutes in 1050 lumen mode, the Olight S30R III switches to 500 lumen which is still very bright and enough for exploring lost places.
 
@@ -44,9 +44,9 @@ In this mode (1050 for 3 minutes followed by 500 lumen), the battery provides li
 
 Here are two screenshots from a video I recorded inside an abandoned bunker. It gives you a good idea how bright the Olight S30R III is even after it switched to 500 lumens.
 
-![Olight S30R III in an abandoned bunker (1)](/images/reviews/general/olight-s30r-iii-in-an-abandoned-bunker-1.webp)
+![Olight S30R III in an abandoned bunker (1)](/images/reviews/general/olight-s30r-iii-in-an-abandoned-bunker-1.webp "Olight S30R III in an abandoned bunker (1).")
 
-![Olight S30R III in an abandoned bunker (2)](/images/reviews/general/olight-s30r-iii-in-an-abandoned-bunker-2.webp)
+![Olight S30R III in an abandoned bunker (2)](/images/reviews/general/olight-s30r-iii-in-an-abandoned-bunker-2.webp "Olight S30R III in an abandoned bunker (2).")
 
 The beam range is up to 600 feet and that has proven to be really valuable in the long hallways of abandoned factories and hospitals.
 

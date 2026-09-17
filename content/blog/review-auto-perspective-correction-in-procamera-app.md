@@ -28,9 +28,9 @@ The kind of perspective distortion we’re talking about here is an effect that 
 
 Here are two sample shots to illustrate that. First is a building I photographed in Bucharest and the second one is from a forest in Bohemia.
 
-![Perspective distortion (red lines) from a building](/images/reviews/general/perspective-distortion-red-lines-from-a-building.webp)
+![Perspective distortion (red lines) from a building](/images/reviews/general/perspective-distortion-red-lines-from-a-building.webp "Perspective distortion (red lines) from a building.")
 
-![Perspective distortion (red lines) in a forest.](/images/reviews/general/perspective-distortion-red-lines-in-a-forest.webp)
+![Perspective distortion (red lines) in a forest.](/images/reviews/general/perspective-distortion-red-lines-in-a-forest.webp "Perspective distortion (red lines) in a forest.")
 
 Unless you photograph with a more or less tilt-shift lens using a DSLR or “zoom out with your feet,” there’s practically no way to avoid perspective distortion. It occurs as soon as you tilt the camera.
 
@@ -52,7 +52,7 @@ Auto perspective correction in ProCamera is available as a really affordable in-
 
 Currently, perspective correction works only in photo mode. So make sure you‘ve got photo mode enabled by tapping the „photo“ option in the mode selector. Now you should see a little icon in the upper right corner that indicates if perspective correction is turned on or off.
 
-![Icon indicating if fixing perspective distortion is turned on or off in ProCamera](/images/reviews/general/icon-indicating-if-fixing-perspective-distortion-is-turned-o.webp)
+![Icon indicating if fixing perspective distortion is turned on or off in ProCamera](/images/reviews/general/icon-indicating-if-fixing-perspective-distortion-is-turned-o.webp "Icon indicating if fixing perspective distortion is turned on or off in ProCamera.")
 
 One important thing I’d like to mention is that though it may look like that ProCamera is actually cropping your image, you‘ll get the full 12 megapixels from the iPhone camera!
 
@@ -68,9 +68,9 @@ ProCamera used a feature from iOS that allows it to save the original photo and 
 
 And ProCamera does the same. So, if you see your corrected photo in the camera roll. Whenever you select a corrected photo and tap edit, you‘ll notice the red „revert to original“ icon is active.
 
-![Return to original photo without perspective distortion fixed in iOS camera roll](/images/reviews/general/return-to-original-photo-without-perspective-distortion-fixe.webp)
+![Return to original photo without perspective distortion fixed in iOS camera roll](/images/reviews/general/return-to-original-photo-without-perspective-distortion-fixe.webp "Return to original photo without perspective distortion fixed in iOS camera roll.")
 
-![Tap and hold photo with perspective distortion fixed in edit mode to see original shot](/images/reviews/general/tap-and-hold-photo-with-perspective-distortion-fixed-in-edit.webp)
+![Tap and hold photo with perspective distortion fixed in edit mode to see original shot](/images/reviews/general/tap-and-hold-photo-with-perspective-distortion-fixed-in-edit.webp "Tap and hold photo with perspective distortion fixed in edit mode to see original shot.")
 
 If you tap the „revert to original“ icon, you’ll permanently delete the perspective corrected version and get the original photo. Note that once you reverted to the original photo, there‘s no way to get the corrected version back. But that‘s a limitation of iOS and not a fault of ProCamera.
 
@@ -88,6 +88,6 @@ Last, auto perspective mode does not apply when shooting in RAW. As the name “
 
 Fixing perspective distortion in ProCamera is a fantastic feature, and you‘ll bet that I will use it quite often.
 
-However, it won‘t yet replace one of my favorite [photo perspective correction apps](/blog/fix-perspective-distortions-iphone), SKRWT, because it's the only app that can properly fix barrel distortions from the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
+However, it won‘t yet replace one of my favorite [photo perspective correction apps](/blog/fix-perspective-distortions-iphone-apps/), SKRWT, because it's the only app that can properly fix barrel distortions from the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
 
 If you haven't downloaded ProCamera yet, you can [get ProCamera App from the App Store](aff:procamera-app).

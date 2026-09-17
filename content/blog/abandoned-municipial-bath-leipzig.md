@@ -35,21 +35,21 @@ Allegedly the town pool hall was once one of the biggest and most beautiful pool
 
 It was abandoned in 2004 after a part of the roof in the ladies pool hall came down. Since then, Leipzig tries to collect money to eventually reopen the pool hall.
 
-![Lady's pool hall at the abandoned Stadtbad Leipzig](/images/lost-places/germany/lady-s-pool-hall-at-the-abandoned-stadtbad-leipzig.webp)
+![Lady's pool hall at the abandoned Stadtbad Leipzig](/images/lost-places/germany/lady-s-pool-hall-at-the-abandoned-stadtbad-leipzig.webp "Lady's pool hall at the abandoned Stadtbad Leipzig.")
 
-Above is a photo of the lady's pool hall. I took the photo with the Moment Superfish Lens and used these apps to [fix perspective distortion](/blog/fix-perspective-distortions-iphone).
+Above is a photo of the lady's pool hall. I took the photo with the Moment Superfish Lens and used these apps to [fix perspective distortion](/blog/fix-perspective-distortions-iphone-apps/).
 
 I photographed it using low light HDR mode in [ProCamera App](/blog/procamera-app-review). That's a special HDR mode you get when you buy the [ProCamera Low Light Modes](/blog/review-low-light-modes-procamera-app) add-on and the HDR package (both affordable in app purchases definitely worth the money).
 
 Next I tried to find the beautiful oriental sauna, that was accessible only for people with a first class ticket. Though the place was abandoned more than 10 years ago, the sauna is still in a great condition.
 
-![1st class oriental sauna at the Stadtbad Leipzig](/images/lost-places/germany/1st-class-oriental-sauna-at-the-stadtbad-leipzig.webp)
+![1st class oriental sauna at the Stadtbad Leipzig](/images/lost-places/germany/1st-class-oriental-sauna-at-the-stadtbad-leipzig.webp "1st class oriental sauna at the Stadtbad Leipzig.")
 
 For this photo I used Hydra Cam App on iPhone X to get a high resolution shot of almost 32 megapixel. Yes, that's possible with iPhone. Read more in the [Hydra Cam App review](/blog/review-hydra-app). I also used the Moment Superfish Lens here and ran the photo through SKRWT to fix the fisheye perspective distortion and finally processed it in Lightroom CC for iOS.
 
 And finally here's an iPhone photo of the administrative wing that's already in a decayed condition.
 
-![Decayed administrative wing of the Stadtbad Leipzig](/images/lost-places/germany/decayed-administrative-wing-of-the-stadtbad-leipzig.webp)
+![Decayed administrative wing of the Stadtbad Leipzig](/images/lost-places/germany/decayed-administrative-wing-of-the-stadtbad-leipzig.webp "Decayed administrative wing of the Stadtbad Leipzig.")
 
 I have uploaded a few more photos of the town pool hall on my Flickr account.
 
@@ -59,12 +59,12 @@ Wachau is an area 20 minutes from Leipzig by car. The church ruin is in the midd
 
 The church is surrounded by a small cemetery. It was built in in the late 19th century and was heavily damaged during World War II. Since then it decayed more and more. Today only the outer walls are still standing and the inside is accessible for a small donation that's used to maintain what's left of this once stunning church.
 
-![Abandoned Church Ruin at Wachau near Leipzig](/images/lost-places/germany/abandoned-church-ruin-at-wachau-near-leipzig.webp)
+![Abandoned Church Ruin at Wachau near Leipzig](/images/lost-places/germany/abandoned-church-ruin-at-wachau-near-leipzig.webp "Abandoned Church Ruin at Wachau near Leipzig.")
 
 I also used the Moment Superfish Lens for this shot and fixed the perspective distortion using SKRWT.
 
 ## More legally accessible lost places
 
-If you'd like to see the Stadtbad Leipzig, check [Phototors Berlin], where I booked my tour. I've also written a blog post about other [Lost Places you can visit legally](/blog/lost-places-visit-legally) through paid photo tours. And if you're curious, this way please to see all blog posts about [Lost Places](/blog/tag/Lost+Places) I've written in the past.
+If you'd like to see the Stadtbad Leipzig, check [Phototors Berlin], where I booked my tour. I've also written a blog post about other [Lost Places you can visit legally](/urbex-tours/) through paid photo tours. And if you're curious, this way please to see all blog posts about [Lost Places](/blog/lost-places/) I've written in the past.
 
 And finally, to get an overview about all the photo apps and iPhone photo accessories I use, check the page about [iPhone Photography](/iphone-photography).

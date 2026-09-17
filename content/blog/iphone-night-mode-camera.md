@@ -23,13 +23,13 @@ iPhone 11 Pro comes with a lot of cool new features for us iPhone photographers.
 
 In this article, I'll try to answer all your questions about iPhone night mode and even dare to compare it to my favorite low light camera app, ProCamera. But before we start, here are a few sample photos I've taken using the new night mode with iPhone 11 Pro.
 
-![Inside of St. Peter Church in Vienna shot using iPhone Night Mode Camera](/images/reviews/france/inside-of-st-peter-church-in-vienna-shot-using-iphone-night.webp)
+![Inside of St. Peter Church in Vienna shot using iPhone Night Mode Camera](/images/reviews/france/inside-of-st-peter-church-in-vienna-shot-using-iphone-night.webp "Inside of St. Peter Church in Vienna shot using iPhone Night Mode Camera.")
 
-![A bridge in Bratislava at night photographed using iPhone Night Mode Camera](/images/reviews/a-bridge-in-bratislava-at-night-photographed-using-iphone-ni.webp)
+![A bridge in Bratislava at night photographed using iPhone Night Mode Camera](/images/reviews/a-bridge-in-bratislava-at-night-photographed-using-iphone-ni.webp "A bridge in Bratislava at night photographed using iPhone Night Mode Camera.")
 
-![The Hofburg Palace in Vienna at night shot using iPhone Night Mode](/images/reviews/france/the-hofburg-palace-in-vienna-at-night-shot-using-iphone-nigh.webp)
+![The Hofburg Palace in Vienna at night shot using iPhone Night Mode](/images/reviews/france/the-hofburg-palace-in-vienna-at-night-shot-using-iphone-nigh.webp "The Hofburg Palace in Vienna at night shot using iPhone Night Mode.")
 
-![Belvedere Castle in Vienna at night shot on iPhone using night mode.](/images/reviews/france/belvedere-castle-in-vienna-at-night-shot-on-iphone-using-nig.webp)
+![Belvedere Castle in Vienna at night shot on iPhone using night mode.](/images/reviews/france/belvedere-castle-in-vienna-at-night-shot-on-iphone-using-nig.webp "Belvedere Castle in Vienna at night shot on iPhone using night mode.")
 
 ## Which iPhone Models support night mode camera?
 
@@ -67,11 +67,11 @@ With iOS14, Apple introduced a new feature that will help you to take better pho
 
 If you don't use a tripod and iPhone wants to use a longer exposure, then it will display two crosshairs if you move your iPhone too much during the exposure along with a text saying *hold still*.
 
-![New crosshairs guide for iOS14 night mode](/images/reviews/france/new-crosshairs-guide-for-ios14-night-mode.webp)
+![New crosshairs guide for iOS14 night mode](/images/reviews/france/new-crosshairs-guide-for-ios14-night-mode.webp "New crosshairs guide for iOS14 night mode.")
 
 Now, when you see the two crosshairs, try to align then for best results.
 
-To learn more about iOS14, I've published a detailed summary of [what's new in the iOS14 Camera App and Photos App](/blog/ios14-new-camera-photos-app).
+To learn more about iOS14, I've published a detailed summary of [what's new in the iOS14 Camera App and Photos App](/blog/whats-new-ios14/).
 
 ## How to enable Night Mode on iPhone 11?
 
@@ -79,19 +79,19 @@ Ba default, the stock iPhone camera app will automatically enable night mode if 
 
 If night mode is enabled, there is a white icon in the upper left corner. Enabled in this context means that you can use it (activate it) if you want. So, if you see the white icon, you may choose to activate and use night mode.
 
-![Night Mode enabled but not activated](/images/reviews/france/night-mode-enabled-but-not-activated.webp)
+![Night Mode enabled but not activated](/images/reviews/france/night-mode-enabled-but-not-activated.webp "Night Mode enabled but not activated.")
 
 Once you've activated night mode by tapping the white icon, the icon will turn yellow. Now, the night mode is active.
 
-![Night mode enabled and activated](/images/reviews/france/night-mode-enabled-and-activated.webp)
+![Night mode enabled and activated](/images/reviews/france/night-mode-enabled-and-activated.webp "Night mode enabled and activated.")
 
 You can also deactivate the night mode by tapping the icon. If you deactivate it, iPhone won't automatically enable it again. This is indicated by a white icon that's crossed out.
 
-![Night Mode enabled but deactivated](/images/reviews/france/night-mode-enabled-but-deactivated.webp)
+![Night Mode enabled but deactivated](/images/reviews/france/night-mode-enabled-but-deactivated.webp "Night Mode enabled but deactivated.")
 
 Finally, the iPhone may altogether disable night mode. In this case, the camera has enough light to take a photo. In this state, there is no night mode icon visible.
 
-![Night Mode disabled](/images/reviews/france/night-mode-disabled.webp)
+![Night Mode disabled](/images/reviews/france/night-mode-disabled.webp "Night Mode disabled.")
 
 If you want more control, you may want to look at other apps that also have their own implementation of low light modes like the ones I use and recommend for [night photography with iPhone](/blog/night-photography-iphone-apps/).
 
@@ -113,7 +113,7 @@ For this test, I went to a well-known photo spot here in Vienna. It's the Charle
 
 Here's the scene I used for this test. I photographed it without any night mode or long exposure. Pretty low light, isn't it?
 
-![Test scene for iPhone night camera mode (photographed without night mode)](/images/reviews/france/test-scene-for-iphone-night-camera-mode-photographed-withou.webp)
+![Test scene for iPhone night camera mode (photographed without night mode)](/images/reviews/france/test-scene-for-iphone-night-camera-mode-photographed-withou.webp "Test scene for iPhone night camera mode (photographed without night mode).")
 
 As for the two photos I took and we're going to compare: I took both of them using my [tripod for iPhone](/blog/review-amazon-basics-travel-tripod) and applied the same edits to both using the iOS photos app.
 
@@ -121,9 +121,9 @@ As for the two photos I took and we're going to compare: I took both of them usi
 
 Here's the first photo; taken with the iPhone night mode. The result is pretty impressive, isn't it?
 
-![Sample photo taken with iPhone using night camera mode](/images/reviews/france/sample-photo-taken-with-iphone-using-night-camera-mode.webp)
+![Sample photo taken with iPhone using night camera mode](/images/reviews/france/sample-photo-taken-with-iphone-using-night-camera-mode.webp "Sample photo taken with iPhone using night camera mode.")
 
-I did apply some adjustments to the photo, mainly [perspective correction](/blog/fix-perspective-distortions-iphone).
+I did apply some adjustments to the photo, mainly [perspective correction](/blog/fix-perspective-distortions-iphone-apps/).
 
 I also tried to get a photo of the scene handheld without a tripod. But as the exposure time that night mode suggested was longer than a second, the results were blurry, even without pixel-peeping.
 
@@ -133,9 +133,9 @@ So, as I mentioned above, once the suggested exposure time of night mode is abov
 
 Next, I photographed the same scene using ProCamera Low Light Plus mode. Here are the two photos side by side — one was taken using ProCamera Low Light Mode and one with iPhone night mode.
 
-![iPhone night camera mode](/images/reviews/france/iphone-night-camera-mode.webp)
+![iPhone night camera mode](/images/reviews/france/iphone-night-camera-mode.webp "iPhone night camera mode.")
 
-![ProCamera Low Light Mode](/images/reviews/france/procamera-low-light-mode.webp)
+![ProCamera Low Light Mode](/images/reviews/france/procamera-low-light-mode.webp "ProCamera Low Light Mode.")
 
 Let's have a more detailed look at a few aspects.
 
@@ -149,9 +149,9 @@ But this is something you can easily adjust using the tint and warmth adjustment
 
 I was positively surprised by the image quality and details that I got from the iPhone night. In a 100% side-by-side crop, I noticed that the iPhone night camera mode brings out the details slightly better than ProCamera Low Light Plus. Have a look at the pillar.
 
-![Details iPhone night camera mode](/images/reviews/france/details-iphone-night-camera-mode.webp)
+![Details iPhone night camera mode](/images/reviews/france/details-iphone-night-camera-mode.webp "Details iPhone night camera mode.")
 
-![Details ProCamera low light mode](/images/reviews/france/details-procamera-low-light-mode.webp)
+![Details ProCamera low light mode](/images/reviews/france/details-procamera-low-light-mode.webp "Details ProCamera low light mode.")
 
 But this is only visible if you pixel peep. You can't spot the difference by looking at the photo without zooming.
 
@@ -167,9 +167,9 @@ Instead, I prefer to use Adobe [Lightroom Mobile Premium](/blog/review-adobe-lig
 
 In my opinion, both photos show an equal (and low) amount of noise. So, we can quickly fix this in Lightroom Mobile.
 
-![Noise iPhone night camera mode](/images/reviews/france/noise-iphone-night-camera-mode.webp)
+![Noise iPhone night camera mode](/images/reviews/france/noise-iphone-night-camera-mode.webp "Noise iPhone night camera mode.")
 
-![Noise ProCamera low light mode.](/images/reviews/france/noise-procamera-low-light-mode.webp)
+![Noise ProCamera low light mode.](/images/reviews/france/noise-procamera-low-light-mode.webp "Noise ProCamera low light mode.")
 
 One final word about noise. Of course, I like my photos to have as little noise as possible. But, and this is my advice, don't be obsessed about noise. Pixel peepers will always find noise in a photo.
 
@@ -192,6 +192,6 @@ So, from now on, I'll use the following setup:
 
 If you should use night mode or, instead invest in a camera app like ProCamera with Low Light Modes, depends on your requirements. If you can live with the limitation of night mode to the 1x lens, then stick with night mode camera. If you want more freedom, check out [ProCamera with Low Light Mode](/blog/review-low-light-modes-procamera-app).
 
-But iPhone night mode is not the only way to take photos at night with iPhone. To learn about other options, please read my blog post about different ways to do [night photography with iPhone](/blog/night-photography-iphone).
+But iPhone night mode is not the only way to take photos at night with iPhone. To learn about other options, please read my blog post about different ways to do [night photography with iPhone](/blog/night-photography-iphone-apps/).
 
 And now, let's take fantastic night photos with iPhone together.

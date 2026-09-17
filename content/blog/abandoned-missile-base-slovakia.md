@@ -36,11 +36,11 @@ And as a backup, I always carry an [Olight S1R Baton](/blog/review-olight-s1r-ba
 
 This is the spot you’ll see. It’s near the main road to your left. It’s a three story building. The stairs inside were still intact as of April 2018: only the handrails were missing. All floors have the same layout except for the first floor. It seems like there was a kitchen and cafeteria. A great photo spot because of the colorful graffiti and a fallen over wall. I’ve no idea what the tires are doing in the kitchen, but what the hell!
 
-![The room behind this hole could have once been a kitchen](/images/lost-places/slovakia/the-room-behind-this-hole-could-have-once-been-a-kitchen.webp)
+![The room behind this hole could have once been a kitchen](/images/lost-places/slovakia/the-room-behind-this-hole-could-have-once-been-a-kitchen.webp "The room behind this hole could have once been a kitchen.")
 
 A second spot for great photos is the stairwell. I strongly recommend using a fisheye lens there. I took this one using the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens) and then ran the final photo through SKRWT to fix the bent lines.
 
-![Use a fisheye lens to get this shot if the stairwell in the abandoned residential building](/images/lost-places/slovakia/use-a-fisheye-lens-to-get-this-shot-if-the-stairwell-in-the.webp)
+![Use a fisheye lens to get this shot if the stairwell in the abandoned residential building](/images/lost-places/slovakia/use-a-fisheye-lens-to-get-this-shot-if-the-stairwell-in-the.webp "Use a fisheye lens to get this shot if the stairwell in the abandoned residential building.")
 
 Finally, then ground floor is a great place to phot9graph, too. The wooden ceiling was partially fallen down. Be careful on the ground floor. There’s a quite dark area with two doors. Behind those doors is something like a cellar - 6 feet down with no stairs!
 
@@ -48,15 +48,15 @@ Finally, then ground floor is a great place to phot9graph, too. The wooden ceili
 
 Once you’re done in the residential building, continue along the main road. You’ll pass by a few more unspectacular sheds and three garages until you reach a place that probably was a car wash. Go back and turn right and follow the road uphill. Now you’ll encounter three bunkers with hangers where, most likely, the mobile missile launchers were hidden from air surveillance.
 
-![My good friend Mike standing in front of a hangar entrance](/images/lost-places/slovakia/my-good-friend-mike-standing-in-front-of-a-hangar-entrance.webp)
+![My good friend Mike standing in front of a hangar entrance](/images/lost-places/slovakia/my-good-friend-mike-standing-in-front-of-a-hangar-entrance.webp "My good friend Mike standing in front of a hangar entrance.")
 
 You have to look closely to find them all. They’re hidden in the woods. Follow the small trails leaving the main road to get to the huge hangars.
 
-![The bunkers at Devinska Kobyla are well hidden in the woods.](/images/lost-places/slovakia/the-bunkers-at-devinska-kobyla-are-well-hidden-in-the-woods.webp)
+![The bunkers at Devinska Kobyla are well hidden in the woods.](/images/lost-places/slovakia/the-bunkers-at-devinska-kobyla-are-well-hidden-in-the-woods.webp "The bunkers at Devinska Kobyla are well hidden in the woods.")
 
 For each hangar, there’s also a bunker that’s accessible either through a door in the back or on the of the hangar. Those narrow corridors inside the bunkers connect the hangars. They’re narrow and the doors between the corridors are only 3 feet in height. Don’t go in there if you’re not comfortable in narrow, cold, dark and wet places.
 
-![Inside a a bunker at Devinska Kobyla](/images/lost-places/slovakia/inside-a-a-bunker-at-devinska-kobyla.webp)
+![Inside a a bunker at Devinska Kobyla](/images/lost-places/slovakia/inside-a-a-bunker-at-devinska-kobyla.webp "Inside a a bunker at Devinska Kobyla.")
 
 ## Bonus: Great View over the Danube valley
 
@@ -64,10 +64,10 @@ Once you’ve explored the last bunker, keep left until you reach the wall surro
 
 ## Apps and gear I used to take iPhone photos at Devínska Kobyla
 
-To photograph inside those buildings and bunkers, I used either [ProCamera App](/blog/procamera-app-review) in [Low Light Mode](/blog/review-low-light-modes-procamera-app) or [Hydra Camera App](/blog/review-hydra-app) for the better lit places. My iPhone X was permanently mounted to the [Amazon Basics Travel Tripod](/blog/review-amazon-basics-travel-tripod) that, so far, survived all the lost lost places I’ve been to, including the [Chernobyl Exclusion Zone](/blog/pripyat-chernobyl-exclusion-zone).
+To photograph inside those buildings and bunkers, I used either [ProCamera App](/blog/procamera-app-review) in [Low Light Mode](/blog/review-low-light-modes-procamera-app) or [Hydra Camera App](/blog/review-hydra-app) for the better lit places. My iPhone X was permanently mounted to the [Amazon Basics Travel Tripod](/blog/review-amazon-basics-travel-tripod) that, so far, survived all the lost lost places I’ve been to, including the [Chernobyl Exclusion Zone](/blog/pripyat-ghost-town-ukraine/).
 
 Inside the residential building I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
 
 Back home, I edited all the photos in [Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium).
 
-And finally, here are more eerie [lost place photos](/blog/tag/Lost+Places) taken around the world.
+And finally, here are more eerie [lost place photos](/blog/lost-places/) taken around the world.

@@ -49,7 +49,6 @@
 /destinations /blog 301
 /techniques /blog 301
 /info /about 301
-/iphone-photography/blog/* /blog/:splat 301
 /blog/review-sony-x1-vs-qx100-vs-moment-lenses /blog/review-sony-qx1-vs-qx100-vs-moment-lenses 301
 /iphone-photography/tutorials /blog/tutorials 301
 /blog/moment-2x-tele-lens /blog/review-moment-tele-lens 301
@@ -103,7 +102,6 @@
 /blog/review-fix-perspective-distortions-in-procamera-app /blog/review-auto-perspective-correction-in-procamera-app 301
 /blog/how-to-take-long-exposures-in-ios-11 /blog/live-photo-to-long-exposure 301
 /blog/beelitz-heilstaetten-canopy-walk-germany /blog/abandoned-beelitz-heilstaetten-canopy-walk 301
-/ads.txt https://files.cfe.email/lXKmgd 301
 /iphone-photography/apps /iphone-photography 301
 /blog/review-moment-2x-tele-lens /blog/review-moment-tele-lens 301
 /blog/review-touch-retouch-app-for-removing-unwanted-objects-from-photos /blog/review-touch-retouch 301

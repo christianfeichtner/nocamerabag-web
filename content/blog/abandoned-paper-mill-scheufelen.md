@@ -66,7 +66,7 @@ On such photo tours, I usually watch where the crowd is going and go in the oppo
 
 My first photo spot was the abandoned sewage treatment plant. This plant looks like the workers were let go from one day to the next. The chemical tanks were still full of dangerous chemicals, and the basin was still full of water waiting to be processed. The most spectacular highlight here was the abandoned control room.
 
-![Abandoned control room](/images/lost-places/germany/abandoned-control-room-2.webp)
+![Abandoned control room](/images/lost-places/germany/abandoned-control-room-2.webp "Abandoned control room.")
 
 As some other photographers followed me to this location, I accidentally captured them in this photo. Can you spot them? If not, then because I removed them using my favorite app to remove objects from photos: Touch Retouch.
 
@@ -74,7 +74,7 @@ As some other photographers followed me to this location, I accidentally capture
 
 All the paper machines in this factory were powered by steam. So you'll find a vast boiler house with miles of big and small pipes and gauges.
 
-![Pipes at the abandoned boiler house](/images/lost-places/germany/abandoned-boiler-house.webp)
+![Pipes at the abandoned boiler house](/images/lost-places/germany/abandoned-boiler-house.webp "Pipes at the abandoned boiler house.")
 
 This is a snapshot that I didn't plan to publish. But after I fixed the perspective distortion with [SKRWT](/blog/review-skrwt-app) App and [processed it with Adobe Photoshop Express](/blog/review-adobe-photoshop-express), it turned out quite okay.
 
@@ -82,30 +82,30 @@ This is a snapshot that I didn't plan to publish. But after I fixed the perspect
 
 All of the modern paper machines were sold before the paper mill was abandoned. But you'll still find a few smaller and old machines on the first floor of one of the factory buildings.
 
-![Old and unused paper machine](/images/lost-places/germany/unused-paper-machine.webp)
+![Old and unused paper machine](/images/lost-places/germany/unused-paper-machine.webp "Old and unused paper machine.")
 
 ### The paper machine halls
 
 The old paper machines from the previous photo were relatively small compared to the new ones. This is one of the production streets of a new and modern paper machine. It's enormous, isn't it?
 
-![Empty factory hall](/images/lost-places/germany/abandoned-paper-mill-hall.webp)
+![Empty factory hall](/images/lost-places/germany/abandoned-paper-mill-hall.webp "Empty factory hall.")
 
 ### The abandoned offices
 
 It looks like the employees searched for something before they had to leave. The offices are still intact. You'll find everything you'll expect in these abandoned offices: Coffee machines, radios, unfinished snacks (yes, they didn't walk away - yet) and a lot of what looks like unfinished paper work.
 
-![Abandoned office](/images/lost-places/germany/abandoned-office.webp)
+![Abandoned office](/images/lost-places/germany/abandoned-office.webp "Abandoned office.")
 
 ### The unfinished snacks
 
 Don't believe me about the unfinished snacks? There you go! I discovered them at a small office next to the main entrance.
 
-![Unfinished Snacks](/images/lost-places/germany/unfinished-snacks.webp)
+![Unfinished Snacks](/images/lost-places/germany/unfinished-snacks.webp "Unfinished Snacks.")
 
 ### The paper
 
 And everywhere in this factory, you'll see skids with paper that still needed to be removed before the factory was abandoned.
 
-![Abandoned paper](/images/lost-places/germany/abandoned-paper.webp)
+![Abandoned paper](/images/lost-places/germany/abandoned-paper.webp "Abandoned paper.")
 
-If you're curious, head over to the [list of lost places I've visited](/blog/tag/Lost+Places) or check the list of [iPhone camera apps](/blog/recommended-camera-apps) and my [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I rely on.
+If you're curious, head over to the [list of lost places I've visited](/blog/lost-places/) or check the list of [iPhone camera apps](/blog/recommended-camera-apps) and my [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I rely on.

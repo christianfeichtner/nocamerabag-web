@@ -27,9 +27,9 @@ Long story short: Yes, it is and here's why. But as always, let me show you a fe
 
 ![40 Second long exposure of the London Eye at night](/images/reviews/a-long-exposure-of-the-london-eye-shot-on-iphone-6-using-slo.webp "40-second long exposure of the London Eye at night.")
 
-![56 second long exposure of the New York Skyline](/images/reviews/brooklyn-bridge-with-moving-clouds-shot-on-iphone-7-plus-usi.webp)
+![56 second long exposure of the New York Skyline](/images/reviews/brooklyn-bridge-with-moving-clouds-shot-on-iphone-7-plus-usi.webp "56 second long exposure of the New York Skyline.")
 
-![8 second long exposure of the Parliament in Budapest](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp)
+![8 second long exposure of the Parliament in Budapest](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp "8 second long exposure of the Parliament in Budapest.")
 
 ## When to use a tripod for your iPhone photography
 
@@ -64,11 +64,11 @@ So if you find a travel tripod that's in the 12"-13" range when folded and longe
 
 Each leg of the carbon fiber AmazonBasics Travel Tripod has 4 segments, and each of them is locked into position with a rotating leg lock. The feet are made of rubber and provide an excellent footing on all kinds of surfaces.
 
-![AmazonBasics Travel Tripod on stone wall in Yosemite](/images/reviews/general/amazonbasics-travel-tripod-on-stone-wall-in-yosemite.webp)
+![AmazonBasics Travel Tripod on stone wall in Yosemite](/images/reviews/general/amazonbasics-travel-tripod-on-stone-wall-in-yosemite.webp "AmazonBasics Travel Tripod on stone wall in Yosemite.")
 
 The center column has two segments, also with rotating locks, and is invertible. It comes with a hook that you can use to attach a stabilizing weight in windy situations as I did with my backpack at the Hraunfossar waterfall in Iceland.
 
-![AmazonBasics Travel Tripod with iPhone mounted using Joby Griptight with my old backpack used as a stabilizing weight.](/images/reviews/general/amazonbasics-travel-tripod-with-iphone-mounted-using-joby-gr.webp)
+![AmazonBasics Travel Tripod with iPhone mounted using Joby Griptight with my old backpack used as a stabilizing weight.](/images/reviews/general/amazonbasics-travel-tripod-with-iphone-mounted-using-joby-gr.webp "AmazonBasics Travel Tripod with iPhone mounted using Joby Griptight with my old backpack used as a stabilizing weight.")
 
 The small ball head allows you to fully rotate your iPhone 360 degrees and tilt it 90 degrees for using the iPhone in portrait mode. I shoot exclusively in landscape mode so I don't really use this that much.
 

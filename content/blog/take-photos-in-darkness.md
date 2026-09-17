@@ -17,7 +17,7 @@ cover:
   image: /images/tutorials/general/stairway-in-darkness.webp
   alt: 'Tutorial: How to take Photos in total darkness with iPhone'
 ---
-Sometimes, when exploring a lost place, I find rooms and corners that probably haven‘t seen any light for decades. When I started with urban exploration with iPhone, I tried to find ways to take photos in almost total darkness with iPhone. After a few failed attempts and seeing pictures of light paintings, it struck me. Just take a [long exposure with iPhone](/blog/long-exposure-iphone) and use a flashlight!
+Sometimes, when exploring a lost place, I find rooms and corners that probably haven‘t seen any light for decades. When I started with urban exploration with iPhone, I tried to find ways to take photos in almost total darkness with iPhone. After a few failed attempts and seeing pictures of light paintings, it struck me. Just take a [long exposure with iPhone](/blog/long-exposure-iphone-apps/) and use a flashlight!
 
 So, in this blog post, I‘ll show you a simple way how to take photos in almost dark rooms with iPhone. And here‘s what you need:
 
@@ -28,11 +28,11 @@ So, in this blog post, I‘ll show you a simple way how to take photos in almost
 
 And before we start, here are some sample shots. They are not perfect yet, but I think you‘ll get the point.
 
-![Basement of a lost place without light.](/images/tutorials/general/basement-of-a-lost-place-without-light.webp)
+![Basement of a lost place without light.](/images/tutorials/general/basement-of-a-lost-place-without-light.webp "Basement of a lost place without light.")
 
-![Limoni tunnel in Linz, Austria](/images/tutorials/general/limoni-tunnel-in-linz-austria.webp)
+![Limoni tunnel in Linz, Austria](/images/tutorials/general/limoni-tunnel-in-linz-austria.webp "Limoni tunnel in Linz, Austria.")
 
-![Basement of another lost place](/images/tutorials/general/basement-of-another-lost-place.webp)
+![Basement of another lost place](/images/tutorials/general/basement-of-another-lost-place.webp "Basement of another lost place.")
 
 ## How to photograph in almost total darkness
 
@@ -58,7 +58,7 @@ Make sure you paint at a constant, slow velocity. If you move too fast over cert
 
 So, here‘s an unedited photo that I took this way. It turned out a bit too bright, but still usable.
 
-![Lightpainted photo out of the camera](/images/tutorials/general/lightpainted-photo-out-of-the-camera.webp)
+![Lightpainted photo out of the camera](/images/tutorials/general/lightpainted-photo-out-of-the-camera.webp "Lightpainted photo out of the camera.")
 
 Next, let‘s have a look at how to edit the photo in Adobe Lightroom Mobile.
 
@@ -70,7 +70,7 @@ You could play a bit with the contrast sliders, but the most straightforward way
 
 Next, add a bit more contrast using the clarity and contrast sliders and adjust all other settings to your liking. Viola, there‘s the final photo.
 
-![Photo taken in total darkness edited with Lightroom](/images/tutorials/general/photo-taken-in-total-darkness-edited-with-lightroom.webp)
+![Photo taken in total darkness edited with Lightroom](/images/tutorials/general/photo-taken-in-total-darkness-edited-with-lightroom.webp "Photo taken in total darkness edited with Lightroom.")
 
 If you have a look at the sample photos I posted at the beginning, you‘ll see that there are some darker areas. These are the areas where I moved too fast. For such areas, try to use the shadows adjustment or selective adjustments in Lightroom. Of course, you can also use that in an artsy way to basically dodge and burn the scene while you take it.
 

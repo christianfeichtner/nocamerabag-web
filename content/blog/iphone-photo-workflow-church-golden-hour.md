@@ -23,7 +23,7 @@ Again, this photo was selected for Flickr explore, a curated photo feed on Flick
 
 Here's the original, unedited photo:
 
-![Church at sunset in Vienna shot on iPhone](/images/tutorials/general/church-at-sunset-in-vienna-shot-on-iphone.webp)
+![Church at sunset in Vienna shot on iPhone](/images/tutorials/general/church-at-sunset-in-vienna-shot-on-iphone.webp "Church at sunset in Vienna shot on iPhone.")
 
 If you'd like to plan ahead and see, when the blue and golden hours are, check out my review of the [blue hour calculators for iPhone](/blog/review-blue-hour-calculators-iphone) - one of them, [Sun Surveyor App](/blog/review-blue-hour-calculators-iphone/#sun-surveyor-app-helps-you-to-discover-then-the-golden-hour-and-the-blue-hour-starts), also works great for the golden hour.
 
@@ -59,7 +59,7 @@ So open the photo in Touch Retouch and tap the *clone* tool in the toolbar at th
 
 But before we get started, make sure to set the brush for the clone stamp to use hard edges and no opacity at all by tapping *settings* and dragging the opacity slider to the right and the hardness to the left.
 
-![Clone brush settings in Touch Retouch App](/images/tutorials/general/clone-brush-settings-in-touch-retouch-app.webp)
+![Clone brush settings in Touch Retouch App](/images/tutorials/general/clone-brush-settings-in-touch-retouch-app.webp "Clone brush settings in Touch Retouch App.")
 
 If you use soft edges when copying an irregular texture, like the tree, you may get nasty smooth edges where you painted, and that doesn't look good.
 
@@ -67,17 +67,17 @@ Second, using the clone brush can be a bit "dangerous" for two reasons. First is
 
 Second, if you just keep painting while using the clone stamp, you're creating a repeating pattern that screams "retouched." So the key to success here is to change the source area a few times while painting the tree over the wall. This will result in a more natural look. To do so, I tapped on different areas in the tree while painting over the wall. Here's the result
 
-![Wall remove in Touch Retouch App](/images/tutorials/general/wall-remove-in-touch-retouch-app.webp)
+![Wall remove in Touch Retouch App](/images/tutorials/general/wall-remove-in-touch-retouch-app.webp "Wall remove in Touch Retouch App.")
 
 ### Perspective Correction Adobe Lightroom
 
-As the church is not perfectly upright, we'll use the guided [perspective correction](/blog/fix-perspective-distortions-iphone). In this mode, you'll draw two lines along the building's edges and Lightroom will make it upright.
+As the church is not perfectly upright, we'll use the guided [perspective correction](/blog/fix-perspective-distortions-iphone-apps/). In this mode, you'll draw two lines along the building's edges and Lightroom will make it upright.
 
-![Guided perspective correction in Lightroom Mobile](/images/tutorials/general/guided-perspective-correction-in-lightroom-mobile.webp)
+![Guided perspective correction in Lightroom Mobile](/images/tutorials/general/guided-perspective-correction-in-lightroom-mobile.webp "Guided perspective correction in Lightroom Mobile.")
 
 But it will also distort the building a bit, which we can quickly fix using the aspect and the scale sliders.
 
-![Fix aspect ratio in Lightroom Mobile](/images/tutorials/general/fix-aspect-ratio-in-lightroom-mobile.webp)
+![Fix aspect ratio in Lightroom Mobile](/images/tutorials/general/fix-aspect-ratio-in-lightroom-mobile.webp "Fix aspect ratio in Lightroom Mobile.")
 
 ### Final Adjustments in Adobe Lightroom
 
@@ -89,14 +89,14 @@ Then, I increased the saturation for the yellows to bring out the golden light m
 
 Now for the temperature. To further enhance the golden touch for the entire image, I increased the temperature slider to about +22. This is the most crucial step, as it will add this goldish tint for the whole image.
 
-![Adjust temperature in Lightroom Mobile](/images/tutorials/general/adjust-temperature-in-lightroom-mobile.webp)
+![Adjust temperature in Lightroom Mobile](/images/tutorials/general/adjust-temperature-in-lightroom-mobile.webp "Adjust temperature in Lightroom Mobile.")
 
-As for the effects adjustments, I just applied a bit of texture and finally, I [sharpened the entire photo in Lightroom Mobile](/blog/sharpening-lightroom-mobile) using a strong sharpening mask at +85 to only sharpen the edges.
+As for the effects adjustments, I just applied a bit of texture and finally, I [sharpened the entire photo in Lightroom Mobile](/blog/sharpening-lightroom-mobile-tutorial/) using a strong sharpening mask at +85 to only sharpen the edges.
 
 And that's it. Here's the final edit that I shared to [Instagram](https://instagram.com/nocamerabag), [Twitter](https://twitter.com/nocamerabag) and [Flickr](https://www.flickr.com/photos/chrisfeichtner/).
 
-![Final edit of the church at sunset shot and edited on iPhone](/images/tutorials/general/final-edit-of-the-church-at-sunset-shot-and-edited-on-iphone.webp)
+![Final edit of the church at sunset shot and edited on iPhone](/images/tutorials/general/final-edit-of-the-church-at-sunset-shot-and-edited-on-iphone.webp "Final edit of the church at sunset shot and edited on iPhone.")
 
 I hope you found this iPhone workflow tutorial helpful, and I'd be happy to hear your thoughts in the comments.
 
-Oh yes, don't forget to check out all the other [iPhone Photo Workflow Tutorials](/blog/tag/Workflow) I’ve published in the blog or see which [recommended iPhone Photo Apps and iPhone Photo Accessories](/iphone-photography) I rely on.
+Oh yes, don't forget to check out all the other [iPhone Photo Workflow Tutorials](/blog/workflow/) I’ve published in the blog or see which [recommended iPhone Photo Apps and iPhone Photo Accessories](/iphone-photography) I rely on.

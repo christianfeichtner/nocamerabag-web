@@ -80,7 +80,7 @@ But there’s one thing that made this lost place interesting to photograph: sma
 
 The tower building also acted as a sort of parting line between the runway and the living area with barracks, the school and shops.
 
-![Abandoned tower at the airfield Schönewalde](/images/lost-places/germany/schoenewalde-airfield-tower.webp)
+![Abandoned tower at the airfield Schönewalde](/images/lost-places/germany/schoenewalde-airfield-tower.webp "Abandoned tower at the airfield Schönewalde.")
 
 ### The hangars
 
@@ -88,13 +88,13 @@ Allegedly, the Schönewalde airfield contained 7 hangers. 4 huge ones and 3 smal
 
 When I visited the airfield, it was windy, which made exploring the decayed hangars a bit spooky and dangerous. When there was a gust of wind, you could hear the metal parts squeaking loudly as if the hangars wanted to say “Get out, I’m tired and want to lay down”.
 
-![One of the larger, decayed, hangars at. the airfield Schönewalde](/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg)
+![One of the larger, decayed, hangars at. the airfield Schönewalde](/images/lost-places/germany/decayed-hangar-airfield-schoenwalde.jpeg "One of the larger, decayed, hangars at. the airfield Schönewalde.")
 
 ### Row of Shops
 
 In the middle of the abandoned airfield, you can find a row of shops. Unfortunately, I was unable to figure out what was sold in these shops, as I didn’t enter them.
 
-![Broken tiles hanging from the roof at an abandoned shop](/images/lost-places/germany/abandoned-shop.webp)
+![Broken tiles hanging from the roof at an abandoned shop](/images/lost-places/germany/abandoned-shop.webp "Broken tiles hanging from the roof at an abandoned shop.")
 
 ### Treatment Room
 
@@ -102,29 +102,29 @@ I’ve already mentioned that almost all buildings were cleared out. There were 
 
 Obviously, it was a medical treatment room
 
-![Former treatment room at the airfield Schönwalde](/images/lost-places/germany/abandoned-treatment-room-schoenewalde.webp)
+![Former treatment room at the airfield Schönwalde](/images/lost-places/germany/abandoned-treatment-room-schoenewalde.webp "Former treatment room at the airfield Schönwalde.")
 
 ### Canteen
 
 As the abandoned airfield Schönwalde was also a small town, there was a huge canteen with two big kitchens. What’s left of both kitchens are the extractor hoods.
 
-![One of the two kitchens at the canteen](/images/lost-places/germany/abandoned-canteen-kitchen.webp)
+![One of the two kitchens at the canteen](/images/lost-places/germany/abandoned-canteen-kitchen.webp "One of the two kitchens at the canteen.")
 
 ### Residential area
 
 The residential area at the airfield Schönwalde was built after World War II, when the airfield was occupied by the Red Army. Soldiers who had a corresponding rank were allowed to bring their families, which then lived in the buildings you can see behind the barrack in the following photo.
 
-![Abandoned residential building at the former airfield Schönwalde](/images/lost-places/germany/abandoned-residential-building.webp)
+![Abandoned residential building at the former airfield Schönwalde](/images/lost-places/germany/abandoned-residential-building.webp "Abandoned residential building at the former airfield Schönwalde.")
 
 ### The playground
 
 The houses in the residential area are formed in a U-shape and in the middle was a playground for children. This abandoned playground is already completely overgrown and it was impossible to explore it any further. So I just took a photo of the slide at the beginning of the playground.
 
-![The abandoned playground at Schönwalde](/images/lost-places/germany/slide.webp)
+![The abandoned playground at Schönwalde](/images/lost-places/germany/slide.webp "The abandoned playground at Schönwalde.")
 
 ## How I photographed ad the abandoned Airfield Schönewalde
 
-As I took the majority of the photos outside, I used the [ProCamera App](/blog/procamera-app-review) and took all photos in [RAW format with my iPhone](/blog/shoot-raw-iphone). On my way home, I developed the RAW photos using Adobe Lightroom mobile, which is on the [best iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I’ve been using for years and recommend.
+As I took the majority of the photos outside, I used the [ProCamera App](/blog/procamera-app-review) and took all photos in [RAW format with my iPhone](/blog/how-to-shoot-raw-iphone/). On my way home, I developed the RAW photos using Adobe Lightroom mobile, which is on the [best iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I’ve been using for years and recommend.
 
 ## The verdict: Is visiting the abandoned Schönewalde airfield worth it?
 

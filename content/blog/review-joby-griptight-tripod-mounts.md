@@ -24,13 +24,13 @@ A bit later, Joby released the Joby Griptight One iPhone tripod mount and a bit 
 
 I own and use both of these tripod mounts, and in this review, I'll compare the two to help you decide if and which one is right for you.
 
-![Joby Griptight One and Griptight Pro iPhone tripod mounts](/images/reviews/general/joby-griptight-one-and-griptight-pro-iphone-tripod-mounts.webp)
+![Joby Griptight One and Griptight Pro iPhone tripod mounts](/images/reviews/general/joby-griptight-one-and-griptight-pro-iphone-tripod-mounts.webp "Joby Griptight One and Griptight Pro iPhone tripod mounts.")
 
 ## Joby Griptight One iPhone tripod mount
 
 The Griptight One is a small clamp. Most important is the word *small* in this context. The small form-factor makes it easy to carry but also easy to lose. I guess I've spread a few of these across Europe in the last years.
 
-![Joby Griptight One iPhone Tripod Mount](/images/reviews/general/joby-griptight-one-iphone-tripod-mount.webp)
+![Joby Griptight One iPhone Tripod Mount](/images/reviews/general/joby-griptight-one-iphone-tripod-mount.webp "Joby Griptight One iPhone Tripod Mount.")
 
 You can attach the Griptight One to each tripod that has a standard 1/4-20" screw - which should cover 95% of all tripods available on the market.
 
@@ -46,7 +46,7 @@ If you are looking for a more robust solution and move your tripod around a lot 
 
 While the Griptight Pro is also a clamp, it's notably more robust and has a screw to fix the clamp and to ensure, your iPhone does not fall out. Additionally, you can turn the clamp 90 degrees and use your iPhone in portrait mode if you need to.
 
-![Back of Joby Griptight Pro iPhone tripod mount](/images/reviews/general/back-of-joby-griptight-pro-iphone-tripod-mount.webp)
+![Back of Joby Griptight Pro iPhone tripod mount](/images/reviews/general/back-of-joby-griptight-pro-iphone-tripod-mount.webp "Back of Joby Griptight Pro iPhone tripod mount.")
 
 I've used the Griptight Pro mount with different plus and regular-sized iPhone models in the past.
 
@@ -58,7 +58,7 @@ And with just 0.32 ounces it does not add too much weight to carry on luggage.
 
 The Joby Griptight Pro works quite simple. You just put your iPhone between the rubber coated clamps, push the clamps together, and secure them with the rotary knob on the back. Done.
 
-![iPhone with Moment Case in Joby Griptight Pro iPhone tripod mount](/images/reviews/general/iphone-with-moment-case-in-joby-griptight-pro-iphone-tripod.webp)
+![iPhone with Moment Case in Joby Griptight Pro iPhone tripod mount](/images/reviews/general/iphone-with-moment-case-in-joby-griptight-pro-iphone-tripod.webp "iPhone with Moment Case in Joby Griptight Pro iPhone tripod mount.")
 
 Again, you can mount the Griptight Pro to any tripod that has a standard 1/4"-20 tripod screw, so it will, most likely, even fit your existing tripod.
 

@@ -39,7 +39,7 @@ To access the new versions in Lightroom Mobile, open any photo for editing and m
 
 Once you've applied a few adjustments, swipe the toolbar at the bottom of the screen to the left until you see the *versions* icon. It's almost at the end of the toolbar.
 
-![Where to find Versions in Lightroom Mobile](/images/tutorials/usa/where-to-find-versions-in-lightroom-mobile.webp)
+![Where to find Versions in Lightroom Mobile](/images/tutorials/usa/where-to-find-versions-in-lightroom-mobile.webp "Where to find Versions in Lightroom Mobile.")
 
 Tap it. Here you'll find the named version and autosave versions from now on.
 
@@ -51,7 +51,7 @@ But Adobe does not tell us (yet?), what an important edit is. I assumed that an 
 
 In the screenshot below, you'll see three automatically saved versions (from right to left)
 
-![Autosaved Versions in Lightroom Mobile](/images/tutorials/usa/autosaved-versions-in-lightroom-mobile.webp)
+![Autosaved Versions in Lightroom Mobile](/images/tutorials/usa/autosaved-versions-in-lightroom-mobile.webp "Autosaved Versions in Lightroom Mobile.")
 
 1. The original
 2. A version automatically created after I applied perspective correction and color adjustments
@@ -64,7 +64,7 @@ From this tab, you can revert and continue to use any previously saved version.
 1. Tap the version you want to revert to in the *Auto* tab under versions
 2. Tap the big blue *Apply* button in the upper right corner.
 
-![Revert to an autosaved Version](/images/tutorials/usa/revert-to-an-autosaved-version.webp)
+![Revert to an autosaved Version](/images/tutorials/usa/revert-to-an-autosaved-version.webp "Revert to an autosaved Version.")
 
 If you want to save any autosaved version as a named version, then:
 
@@ -72,11 +72,11 @@ If you want to save any autosaved version as a named version, then:
 2. At the bottom of the screen, a menu will appear containing *Save as Named Version* and *Delete*
 3. Tap *Save as Named Version* to create a named version.
 
-![Create a named Version from an autosaved Version](/images/tutorials/usa/create-a-named-version-from-an-autosaved-version.webp)
+![Create a named Version from an autosaved Version](/images/tutorials/usa/create-a-named-version-from-an-autosaved-version.webp "Create a named Version from an autosaved Version.")
 
 Once you've created a named version, it will show up under this name in the *Named* tab under Versions.
 
-![The named Version that I created from an autosaved Version](/images/tutorials/usa/the-named-version-that-i-created-from-an-autosaved-version.webp)
+![The named Version that I created from an autosaved Version](/images/tutorials/usa/the-named-version-that-i-created-from-an-autosaved-version.webp "The named Version that I created from an autosaved Version.")
 
 And, if you want to delete an automatic version, follow the same procedure as outlined above and tap *Delete* in step 2.
 
@@ -91,11 +91,11 @@ Named versions work similarly to autosaves in Lightroom Mobile. Once you've reac
 3. Now tap the big blue *Create Version* button in the upper left corner of the screen.
 4. A dialog will appear, asking you for a name for the named version. Enter any name and tap *Create*.
 
-![Create a named Version anytime in Lightroom Mobile](/images/tutorials/usa/create-a-named-version-anytime-in-lightroom-mobile.webp)
+![Create a named Version anytime in Lightroom Mobile](/images/tutorials/usa/create-a-named-version-anytime-in-lightroom-mobile.webp "Create a named Version anytime in Lightroom Mobile.")
 
 The newly created, named, version will be displayed as the last version.
 
-![A named Version in Lightroom Mobile](/images/tutorials/usa/a-named-version-in-lightroom-mobile.webp)
+![A named Version in Lightroom Mobile](/images/tutorials/usa/a-named-version-in-lightroom-mobile.webp "A named Version in Lightroom Mobile.")
 
 You can also rename or delete a named version. To do so:
 
@@ -111,7 +111,7 @@ Similar to the autosaved versions, you can always revert back to a previously na
 
 Now Lightroom Mobile will set the selected version as the current version while all the other versions remain saved. The most left version in the versions tab will always display the most current edit. If you chose to revert to any previously saved edit, this version will be displayed as the current version.
 
-![Current Version in Lightroom Mobile](/images/tutorials/usa/current-version-in-lightroom-mobile.webp)
+![Current Version in Lightroom Mobile](/images/tutorials/usa/current-version-in-lightroom-mobile.webp "Current Version in Lightroom Mobile.")
 
 ## Do Versions Sync between iPhone and iPad?
 
@@ -125,4 +125,4 @@ Using versions, that's so much easier. Just create a version anytime during the 
 
 It also looks like that this feature is not a [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium) feature so that anyone can use it.
 
-If you found this tutorial helpful, check out all the other [iPhone Photography Tutorials](/blog/tag/Tutorials) on my blog. To learn about all the iPhone camera and photo editing apps I use, head over to my page about [iPhone Photography Apps and Accessories](/iphone-photography).
+If you found this tutorial helpful, check out all the other [iPhone Photography Tutorials](/blog/tutorials/) on my blog. To learn about all the iPhone camera and photo editing apps I use, head over to my page about [iPhone Photography Apps and Accessories](/iphone-photography).

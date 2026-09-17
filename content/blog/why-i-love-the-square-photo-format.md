@@ -43,7 +43,7 @@ In the following two photos I aligned the main subject inside the center square(
 
 The second shot shows Skogafoss waterfall in Iceland which I also placed inside the center squares. Cropping this one to square format removes the unnecessary rocks to each side of the waterfall and the direction of the water (typically downwards ;) leads the eye to the small person in front of the waterfall, which I placed in the center bottom square to illustrate the size of the waterfall.
 
-![Center composition using the square image format](/images/iphone-photography/general/square-image-format-composition-landscape.webp)
+![Center composition using the square image format](/images/iphone-photography/general/square-image-format-composition-landscape.webp "Center composition using the square image format.")
 
 As the main subject in the next photo, the Golden Gate Bridge, is actually in the background, I placed it in the upper right intersection of the grid lines and used the beach and the waves as a leading line to guide the eye towards it. The line created by the waves runs almost in a perfect diagonal through the lower left and middle square of the grid lines.
 
@@ -67,7 +67,7 @@ And finally, one more shot from London. The main subject here is Tower Bridge. S
 
 ## Lost places and indoor photography in square format
 
-My third area of photography are [lost places](/blog/tag/Lost+Places). And as for land- and cityscapes, the square photo format works quite well for photographing the interior of lost places. Here is a shot I took inside a lost place in Beelitz, near Berlin.
+My third area of photography are [lost places](/blog/lost-places/). And as for land- and cityscapes, the square photo format works quite well for photographing the interior of lost places. Here is a shot I took inside a lost place in Beelitz, near Berlin.
 
 It’s a shot of the movie set of the film A cure for Wellness. The entrance to the room with the door on the floor is placed exactly along the two vertical grid lines and the door in the lower square.
 

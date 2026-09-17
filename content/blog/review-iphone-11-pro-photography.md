@@ -40,17 +40,17 @@ So, here are two series of sample photos I took from the same spot without zoomi
 
 From left to right you'll find a photo taken with the 2x telephoto lens, the 1x wide lens, and the 0.5x ultra-wide lens. Click any photo to view it large.
 
-![Cathedral shot on iPhone 11 telephoto lens](/images/reviews/general/cathedral-shot-on-iphone-11-telephoto-lens.webp)
+![Cathedral shot on iPhone 11 telephoto lens](/images/reviews/general/cathedral-shot-on-iphone-11-telephoto-lens.webp "Cathedral shot on iPhone 11 telephoto lens.")
 
-![Cathedral shot on iPhone 11 wide lens](/images/reviews/general/cathedral-shot-on-iphone-11-wide-lens.webp)
+![Cathedral shot on iPhone 11 wide lens](/images/reviews/general/cathedral-shot-on-iphone-11-wide-lens.webp "Cathedral shot on iPhone 11 wide lens.")
 
-![Cathedral shot on iPhone 11 ultra-wide lens](/images/reviews/general/cathedral-shot-on-iphone-11-ultra-wide-lens.webp)
+![Cathedral shot on iPhone 11 ultra-wide lens](/images/reviews/general/cathedral-shot-on-iphone-11-ultra-wide-lens.webp "Cathedral shot on iPhone 11 ultra-wide lens.")
 
-![Lost Place shot on iPhone 11 telephoto lens](/images/reviews/general/lost-place-shot-on-iphone-11-telephoto-lens.webp)
+![Lost Place shot on iPhone 11 telephoto lens](/images/reviews/general/lost-place-shot-on-iphone-11-telephoto-lens.webp "Lost Place shot on iPhone 11 telephoto lens.")
 
-![Lost place shot on iPhone 11 wide lens](/images/reviews/general/lost-place-shot-on-iphone-11-wide-lens.webp)
+![Lost place shot on iPhone 11 wide lens](/images/reviews/general/lost-place-shot-on-iphone-11-wide-lens.webp "Lost place shot on iPhone 11 wide lens.")
 
-![Lost Place shot on iPhone 11 ultra-wide lens](/images/reviews/general/lost-place-shot-on-iphone-11-ultra-wide-lens.webp)
+![Lost Place shot on iPhone 11 ultra-wide lens](/images/reviews/general/lost-place-shot-on-iphone-11-ultra-wide-lens.webp "Lost Place shot on iPhone 11 ultra-wide lens.")
 
 Isn't the ultra-wide lens amazing? So, what does that mean for the Moment Wide Lens I've used so far?
 
@@ -58,7 +58,7 @@ Isn't the ultra-wide lens amazing? So, what does that mean for the Moment Wide L
 
 I'm still a huge fan of the Moment Lenses. But the iPhone 11 has changed the game a bit. Most likely, I won't need the [Moment Wide Angle Lens](/blog/review-moment-wide-lens) as much as I did before.
 
-But based from my experience with the iPhone 11 so far, there are still a number of scenarios where I will use it. I also will try the [Moment Fisheye](/blog/review-moment-14mm-fisheye-lens) and the [Moment telephoto Lens](/blog/review-moment-tele-lens) as soon as I get the [iPhone 11 Photo Case from Moment](/blog/review-moment-photo-cases).
+But based from my experience with the iPhone 11 so far, there are still a number of scenarios where I will use it. I also will try the [Moment Fisheye](/blog/review-moment-14mm-fisheye-lens) and the [Moment telephoto Lens](/blog/review-moment-tele-lens) as soon as I get the [iPhone 11 Photo Case from Moment](/blog/review-moment-photo-case/).
 
 It should arrive sometime in October. As soon as I get it, I'll test all the Moment Lenses and update this blog post.
 
@@ -77,7 +77,7 @@ Then, when you take a photo with the telephoto lens, iPhone will automatically t
 
 Now you have 30 days to use that additional photo. After 30 days, that extra photo will be deleted. To identify a photo that has a photo outside the frame, look for the icon in the upper right corner. The icon is only visible if you view a photo large. You won't see it in the thumbnail view.
 
-![Icon indicating a photo captured outside the frame](/images/reviews/general/icon-indicating-a-photo-captured-outside-the-frame.webp)
+![Icon indicating a photo captured outside the frame](/images/reviews/general/icon-indicating-a-photo-captured-outside-the-frame.webp "Icon indicating a photo captured outside the frame.")
 
 Here's how capture outside the frame works after you've taken the photo.
 
@@ -97,7 +97,7 @@ Lastly, I tried the iPhone night camera mode.
 
 If you own a new iPhone 11, you'll notice a new icon in the upper left corner of your camera screen if you're trying to take a photo in a low light environment.
 
-![iPhone night camera mode icon](/images/reviews/general/iphone-night-camera-mode-icon.webp)
+![iPhone night camera mode icon](/images/reviews/general/iphone-night-camera-mode-icon.webp "iPhone night camera mode icon.")
 
 This icon is for the iPhone night camera mode. In this mode, the iPhone will take several longer exposures and combine them to a low noise and well-lit photo.
 

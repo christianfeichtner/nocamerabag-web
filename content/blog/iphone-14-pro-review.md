@@ -84,9 +84,9 @@ If you plan to take 48-megapixel ProRAW photos with the iPhone 14 Pro, ensure yo
 
 However, the larger file size of the ProRAW files will result in detail-rich photos you have never seen before from an iPhone. I was blown away. In this photo, you can see the texture of the bricks, each branch of the trees and shrubs that grow into the room, and all the cracks in the walls. It's just amazing.
 
-![A photo converted from an 48-megapixel ProRAW](/images/reviews/usa/mensa-abandoned-textile-factory.webp)
+![A photo converted from an 48-megapixel ProRAW](/images/reviews/usa/mensa-abandoned-textile-factory.webp "A photo converted from an 48-megapixel ProRAW.")
 
-Mind that you'll have to develop the ProRAW files into a JPEG or HEIC before sharing them. I have a dedicated blog post outlining [how to shoot RAW with iPhone](/blog/shoot-raw-iphone).
+Mind that you'll have to develop the ProRAW files into a JPEG or HEIC before sharing them. I have a dedicated blog post outlining [how to shoot RAW with iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ### Dynamic Island
 
@@ -94,13 +94,13 @@ Another new feature of the iPhone 14 Pro models is Dynamic Island. Dynamic Islan
 
 For example, if you have an active route in Apple Maps, it will display an icon, and if you tap it, Apple Maps will open.
 
-![iPhone 14 Pro Dynamic Island with Apple Maps navigation active](/images/reviews/usa/iphone-14-pro-dynamic-island-navigation.webp)
+![iPhone 14 Pro Dynamic Island with Apple Maps navigation active](/images/reviews/usa/iphone-14-pro-dynamic-island-navigation.webp "iPhone 14 Pro Dynamic Island with Apple Maps navigation active.")
 
 Similarly, listening to music will display a small cover icon that you can tap to open Apple Music.
 
 And if you do both, you'll get two icons in Dynamic Island. One to open Apple Maps and the other one to open Apple Music.
 
-![iPhone 14 Pro Dynamic Island with Apple Maps navigation and Music active](/images/reviews/usa/iphone-14-pro-dynamic-island-navigation-and-music.webp)
+![iPhone 14 Pro Dynamic Island with Apple Maps navigation and Music active](/images/reviews/usa/iphone-14-pro-dynamic-island-navigation-and-music.webp "iPhone 14 Pro Dynamic Island with Apple Maps navigation and Music active.")
 
 During Apple's keynote, I wondered if I'd ever use Dynamic Island. After six months of using the iPhone 14 Pro, my short answer is: Yes, I'm using it quite often and like it.
 
@@ -115,7 +115,7 @@ Try it: Cover the Dynamic Island with your hand. The always-on display will turn
 
 When I first heard about the always-on display during the keynote, I thought, "Okay. Nice. Next feature, please". But I found iPhone 14's always on display helpful while traveling because it does not only display the lock screen with up to four widgets. It can also show e.g. the stops of an active route in Apple Maps.
 
-![Apple Maps always-on iPhone 14 Pro](/images/reviews/usa/always-on-apple-maps.webp)
+![Apple Maps always-on iPhone 14 Pro](/images/reviews/usa/always-on-apple-maps.webp "Apple Maps always-on iPhone 14 Pro.")
 
 Here is how it works: Open Apple Maps, start a route, and lock the screen. Now you have your travel plan right at hand. I found that helpful while riding the train in Germany. With a glance at the always-on screen, I could see if the announced next stop was where I needed to change trains.
 
@@ -135,7 +135,7 @@ All iPhone 14 pro models have a storage capacity of either 128GB, 256 Gb, 512GB 
 
 As always, I bought the iPhone 14 Pro with the lowest capacity (128 GB), which is perfectly alright for me as I tend to "shoot more but keep less". As you can see, I still have almost 80GB left on my iPhone 14 Pro.
 
-![Remaining Storage on my iPhone 14 Pro](/images/reviews/usa/iphone-14-pro-storage-remaining.webp)
+![Remaining Storage on my iPhone 14 Pro](/images/reviews/usa/iphone-14-pro-storage-remaining.webp "Remaining Storage on my iPhone 14 Pro.")
 
 I should note that I use iCloud Photos with the "optimize iPhone storage" turned on.
 

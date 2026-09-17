@@ -86,7 +86,7 @@ Not a single piece of waste was lying around, and you'll notice wastebaskets eve
 
 Victory square is the city center of Minsk. Busy roads surround the square, and to get to the place you need to find the underpass. There's one on the left and one of the right. Don't try to cross the streets. Primarily when a police officer is regulating the traffic nearby. Terrible idea.
 
-![Victory Square in Minks, Belarus during the blue hour.](/images/cityscapes/belarus/victory-square-in-minks-belarus-during-the-blue-hour.webp)
+![Victory Square in Minks, Belarus during the blue hour.](/images/cityscapes/belarus/victory-square-in-minks-belarus-during-the-blue-hour.webp "Victory Square in Minks, Belarus during the blue hour.")
 
 The flame in front of the monument was lit in 1961 due to the 17th anniversary of the liberation of Minsk.
 
@@ -96,21 +96,21 @@ I got there just in time for the end of the blue hour that I determined by using
 
 Gorky Park is right near victory square, and I went there for an early morning walk when no one was there.
 
-![Gorky Park in Minsk, Belarus, in fall.](/images/cityscapes/belarus/gorky-park-in-minsk-belarus-in-fall.webp)
+![Gorky Park in Minsk, Belarus, in fall.](/images/cityscapes/belarus/gorky-park-in-minsk-belarus-in-fall.webp "Gorky Park in Minsk, Belarus, in fall.")
 
 I saw only a few workers plus one person standing around, looking important, who took care of greenery.
 
 Finding the Ferris wheel may be a little difficult unless you can read the Russian signs. You won't see the Ferris wheel from a distance. It's located on a small hill. Once you've entered the park and are in the forest, take one of the uphill paths on the left. It will take you to the Ferris wheel. The rest of the park is also quite beautiful. I enjoyed strolling around there in autumn.
 
-![Ferris wheel at the Gorki Park in Minsk, Belarus](/images/cityscapes/belarus/ferris-wheel-at-the-gorki-park-in-minsk-belarus.webp)
+![Ferris wheel at the Gorki Park in Minsk, Belarus](/images/cityscapes/belarus/ferris-wheel-at-the-gorki-park-in-minsk-belarus.webp "Ferris wheel at the Gorki Park in Minsk, Belarus.")
 
-As there were no people nearby and I had time to compose the frame, I chose to [shoot this photo as a RAW on my iPhone](/blog/shoot-raw-iphone) 7 Plus.
+As there were no people nearby and I had time to compose the frame, I chose to [shoot this photo as a RAW on my iPhone](/blog/how-to-shoot-raw-iphone/) 7 Plus.
 
 ## Palace of the Republic
 
 I'm not an expert in architecture. I just take photos. But a building like the Place of the Republic comes to my mind when I think of typical Russian Architecture. The entire building is just massive, and it's in the middle of a vast square. It takes you like 10 minutes to cross that square on foot.
 
-![Palace of the Republic in Minsk, Belarus](/images/cityscapes/belarus/palace-of-the-republic-in-minsk-belarus.webp)
+![Palace of the Republic in Minsk, Belarus](/images/cityscapes/belarus/palace-of-the-republic-in-minsk-belarus.webp "Palace of the Republic in Minsk, Belarus.")
 
 So there's enough room to zoom out with your feet if you don't have a wide-angle lens like the [Moment Wide Lens](/blog/review-moment-wide-lens) for your iPhone.
 
@@ -120,7 +120,7 @@ I will call this one just "Bolshoi Theatre." Typing "National Academic Bolshoi O
 
 The Bolshoi Theatre is a 10 minutes walk from the Palace of the Republic. I found this water basin right in front of it. I don't know if it has fountains; I didn't see any during my four days stay in Minsk.
 
-![Bolshoi Theatre Minsk, Belarus](/images/cityscapes/belarus/bolshoi-theatre-minsk-belarus.webp)
+![Bolshoi Theatre Minsk, Belarus](/images/cityscapes/belarus/bolshoi-theatre-minsk-belarus.webp "Bolshoi Theatre Minsk, Belarus.")
 
 ## Light show at the national library of Belarus
 
@@ -142,7 +142,7 @@ To cut a long story short, shooting RAW with the iPhone works great if you're ph
 
 It does not work so well when shooting darker scenes like the National Library of Belarus. Here I used the familiar ProCamera Low Light Modes.
 
-Beware that shooting RAW adds one more step to your workflow. As a RAW photo is an unmodified dump of the camera sensor data from your iPhone, you need to develop the RAW first using either ProCamera RAW development or Adobe Lightroom Mobile. I've a dedicated FAW about shooting [RAW with iPhone](/blog/shoot-raw-iphone).
+Beware that shooting RAW adds one more step to your workflow. As a RAW photo is an unmodified dump of the camera sensor data from your iPhone, you need to develop the RAW first using either ProCamera RAW development or Adobe Lightroom Mobile. I've a dedicated FAW about shooting [RAW with iPhone](/blog/how-to-shoot-raw-iphone/).
 
 I use [Adobe Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium) to develop RAW files. It's one of the few [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps/) that I've regularly been using.
 

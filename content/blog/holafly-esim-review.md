@@ -74,9 +74,9 @@ Once you’ve purchased an eSim, you’ll get an email with a QR code. One day b
 3. In the SIM area tap *add eSim*
 4. Next, tap the option *use QR Code* and take a photo of the QR code in the email.
 
-![Add the Holafly eSim by tapping add eSim in the cellular settings on your iPhone](/images/reviews/general/add-esim-iphone.webp)
+![Add the Holafly eSim by tapping add eSim in the cellular settings on your iPhone](/images/reviews/general/add-esim-iphone.webp "Add the Holafly eSim by tapping add eSim in the cellular settings on your iPhone.")
 
-![Chose the option Use QR Code and take a photo of the eSim QR Code received via eMail.](/images/reviews/general/add-esim-using-qrcode-iphone.webp)
+![Chose the option Use QR Code and take a photo of the eSim QR Code received via eMail.](/images/reviews/general/add-esim-using-qrcode-iphone.webp "Chose the option Use QR Code and take a photo of the eSim QR Code received via eMail.")
 
 Now take a photo of the QR code you received in the email from Holafly. Now, the eSim will be installed - but do not enable it yet! By default, your new eSim is disabled. Keep it that way!
 
@@ -97,7 +97,7 @@ Now, once you’ve left the plane, do the following:
 3. Tap your Holafly eSim
 4. Enable it by flipping the *turn on this line* switch.
 
-![Enable the Holafly eSim at the destination](/images/reviews/general/turn-on-line-iphone.webp)
+![Enable the Holafly eSim at the destination](/images/reviews/general/turn-on-line-iphone.webp "Enable the Holafly eSim at the destination.")
 
 Now, once you’ve turned on your Holafly eSim, wait a few seconds. The screen where you just switched the eSim on will change and once it does, you should see a data roaming option for your Holafly sim. Turn it on!
 
@@ -105,7 +105,7 @@ I believe that’s necessary because Holafly sells eSims from several countries 
 
 As the last step, while still inside the cellular section in the settings app, tap cellular data at the top of the screen. There, select your active Holafly eSim (I called mine *Travel*) and make sure that the option *Allow Cellular Data Switching* is off.
 
-![Set the cellular data to use your Holafly eSim](/images/reviews/general/select-data-sim-iphone.webp)
+![Set the cellular data to use your Holafly eSim](/images/reviews/general/select-data-sim-iphone.webp "Set the cellular data to use your Holafly eSim.")
 
 You’re done. Enjoy unlimited data at your destination.
 

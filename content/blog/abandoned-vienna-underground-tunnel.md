@@ -29,39 +29,39 @@ Most of the Vienna underground tunnels are below residential buildings in the in
 
 The first things we spotted in the tunnel were some fluorescent signs from the Second World War.
 
-![Fluorescent sign in a underground tunnel in Vienna](/images/lost-places/austria/flourescent-signs.webp)
+![Fluorescent sign in a underground tunnel in Vienna](/images/lost-places/austria/flourescent-signs.webp "Fluorescent sign in a underground tunnel in Vienna.")
 
 Despite that these signs are roughly 80 years old, they are still fluorescent if you point your flashlight at them for 30 seconds. But the effect only lasts for a few seconds.
 
 Next, we entered two huge chambers that were connected by smaller underground tunnels. In these chambers, hundreds of people seeked shelter during the more than 50 air raids on Vienna between 1943 and 1945, where almost 10.000 people lost their lives and more than 35.000 buildings were destroyed.
 
-![One of the chambers of the abandoned air raid shelters below Vienna](/images/lost-places/austria/chamber-of-abandoned-air-raid-shelter-below-vienna.webp)
+![One of the chambers of the abandoned air raid shelters below Vienna](/images/lost-places/austria/chamber-of-abandoned-air-raid-shelter-below-vienna.webp "One of the chambers of the abandoned air raid shelters below Vienna.")
 
 In case one of the main entrances would be buried by debris, each chamber had an emergency exit. From this photo, you'll get an idea how
 
-![Emergency exit from the underground tunnel](/images/lost-places/austria/emergency-exit-from-a-vienna-underground-tunnel.webp)
+![Emergency exit from the underground tunnel](/images/lost-places/austria/emergency-exit-from-a-vienna-underground-tunnel.webp "Emergency exit from the underground tunnel.")
 
 ## Relicts of World War II
 
 Walking through this underground tunnel is like walking through a time capsule. You'll find a lot of leftovers from World War II, like jugs, bottles, and even a shoe.
 
-![Leftovers from World War II](/images/lost-places/austria/world-war-ii-leftovers.webp)
+![Leftovers from World War II](/images/lost-places/austria/world-war-ii-leftovers.webp "Leftovers from World War II.")
 
 We also found a huge wooden box that looked like it would crumble to dust if you moved it. To answer a possible upcoming question: No, there is no gold in it.
 
-![Wooden Box discovered in the abandoned air raid shelter](/images/lost-places/austria/box-discovered-in-the-vienna-underground-tunnel.webp)
+![Wooden Box discovered in the abandoned air raid shelter](/images/lost-places/austria/box-discovered-in-the-vienna-underground-tunnel.webp "Wooden Box discovered in the abandoned air raid shelter.")
 
 ## Other branches of the underground tunnel
 
 There were several branches from the main tunnel. But almost all of them were either empty or partially collapsed. Only one branch was still accessible. You can guess the purpose of this underground tunnel branch, can you?
 
-![You can guess the purpose of this branch, can't you?](/images/lost-places/austria/branch-of-a-vienna-underground-tunnel.webp)
+![You can guess the purpose of this branch, can't you?](/images/lost-places/austria/branch-of-a-vienna-underground-tunnel.webp "You can guess the purpose of this branch, can't you?")
 
 Taking photos in low light conditions or total darkness is challenging - not only with iPhone. I took all photos in this post using [ProCamera](/blog/procamera-app-review) and [ProCamera'sLow Light mode](/blog/review-low-light-modes-procamera-app). I've also used the [Anker 610 magnetic phone grip](/blog/review-anker-610-magnetic-phone-grip) instead of a wrist strap.
 
 During this photo walk, I also experimented with indirect light using the VIJIM VL120 RGB photo light ([Amazon Link](aff:vijim-vl120-rgb-light)). I love the effects you can get from indirect light like the shadows in this image.
 
-![Experimenting with indirect light](/images/lost-places/austria/items-found-in-the-vienna-underground-tunnel.webp)
+![Experimenting with indirect light](/images/lost-places/austria/items-found-in-the-vienna-underground-tunnel.webp "Experimenting with indirect light.")
 
 It was the first time I used this technique. I'll need to experiment more and will write a review about the VL 120 RBG light once I get the hang of it.
 

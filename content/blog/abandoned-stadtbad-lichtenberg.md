@@ -70,7 +70,7 @@ Back in 1928, Berlin was a rapidly growing city. The exponential influx led to a
 
 At the Stadtbad Lichtenberg you’ll find a few dozen bathing cabins on the upper floor of the main building
 
-![Bath cabins on an upper floor at the abandoned Stadtbad Lichtenberg](/images/lost-places/germany/bath-cabins-stadtbad-lichtenberg-berlin.webp)
+![Bath cabins on an upper floor at the abandoned Stadtbad Lichtenberg](/images/lost-places/germany/bath-cabins-stadtbad-lichtenberg-berlin.webp "Bath cabins on an upper floor at the abandoned Stadtbad Lichtenberg.")
 
 For the composition of this [photo I used the framing technique](/blog/what-is-framing-photography) I’ve written about earlier on the blog. Specifically, I used the frame of the door as a revealing frame in the sense of “look what I found”.
 
@@ -78,7 +78,7 @@ For the composition of this [photo I used the framing technique](/blog/what-is-f
 
 One place I always explore at the beginning is the usually completely dark basement, for which I use my Wuben X1 flashlight to illuminate even the darkest corner. In the basement of the Hubertusbad I discovered several rooms which seem to have been used for beauty treatments like this hairdressers room.
 
-![Harddressers room at the Stadtbad Lichtenberg](/images/lost-places/germany/hairdressers-room-basement-abandoned-hubertusbad-berlin.webp)
+![Harddressers room at the Stadtbad Lichtenberg](/images/lost-places/germany/hairdressers-room-basement-abandoned-hubertusbad-berlin.webp "Harddressers room at the Stadtbad Lichtenberg.")
 
 For this photo, I used a [photo composition technique known as the rule of thirds](/blog/what-is-the-rule-of-thirds-photography). I placed the wall to the left of the corner of the room in the left third, and filled the right two thirds of the frame with the wall to the right of the corner of the room.
 
@@ -86,37 +86,37 @@ For this photo, I used a [photo composition technique known as the rule of third
 
 At the basement I have to look and check each room and corner for remains of the previous owners and look at what I found in a storage-room. An old GDR-style black and white TV! And no, I couldn’t check if it worked because as the place is abandoned, there’s no electricity.
 
-![Old TV in the basement of the abandoned Stadtbad Lichtenberg](/images/lost-places/germany/old-tv-basement-stadtbad-lichtenberg-berlin.webp)
+![Old TV in the basement of the abandoned Stadtbad Lichtenberg](/images/lost-places/germany/old-tv-basement-stadtbad-lichtenberg-berlin.webp "Old TV in the basement of the abandoned Stadtbad Lichtenberg.")
 
 ### The Office Room
 
 I have no idea what this room was used for. First I thought it was some sort of medical treatment room due to the bed I found in there. But on the other hand, I believe it’s a bit too big for a treatment room. So, maybe it was an office room? What do you think?
 
-![An abandoned office Room?](/images/lost-places/germany/office-room.webp)
+![An abandoned office Room?](/images/lost-places/germany/office-room.webp "An abandoned office Room?")
 
 ### The immersion pool
 
 Back on the top floor, I discovered an immersion pool and this time I’m quite sure it’s an immersion pool, because of the sign on the door. What I found interesting is that the immersion poolroom uses a totally different architectural style. I didn’t find the green tiles I saw in this room anywhere else.
 
-![Immersion pool](/images/lost-places/germany/immersion-pool-hubertusbad-berlin.webp)
+![Immersion pool](/images/lost-places/germany/immersion-pool-hubertusbad-berlin.webp "Immersion pool.")
 
 ### The men’s swimming pool
 
 Before WW2, baths like the Stadbad Lichtenberg had (two have?) two different pools: one for men and one for women. The men’s pool was usually longer and deeper than the one for women. At this location, the women’s pool as covered with a wooden floor and the hall is used for exhibitions and as an event venue - similar to what I saw at the [abandoned Stadtbad Leipzig](/blog/abandoned-municipial-bath-leipzig). So I only have a photo of the men’s pool.
 
-![Men's pool at the Stadtbad Lichtenberg](/images/lost-places/germany/mens-pool-stadtbad-lichtenberg-berlin.webp)
+![Men's pool at the Stadtbad Lichtenberg](/images/lost-places/germany/mens-pool-stadtbad-lichtenberg-berlin.webp "Men's pool at the Stadtbad Lichtenberg.")
 
 ### The locker room
 
 And finally, here’s a photo of the locker room where the visitors could store their belongings while visiting the venue. Interestingly, if you take a look at the previous photo, there were also lockable changing rooms on two floors around the pool. So I assume this locker room was used by people who couldn’t afford to rent an entire changing room.
 
-![Lockers in the locker room](/images/lost-places/germany/locker-room.webp)
+![Lockers in the locker room](/images/lost-places/germany/locker-room.webp "Lockers in the locker room.")
 
 ## How I photographed inside the building
 
 As the Stadtbad is abandoned, there’s no electricity. But the building has quite many and huge windows. So you have lots of natural light on the ground and upper floors. You’ll only need artificial light in the basement. There I used either my Wuben X1 20.000 lumens flashlight or a newly bought portable LED photo light, which I'll write about soon.
 
-Needless to say, I used the ProCamera App for taking photos and I shot all the photos in Apple ProRAW. You can learn more about this camera app in my [ProCamera App review](/blog/procamera-app-review) and in my article about [how to shoot RAW on iPhone](/blog/shoot-raw-iphone).
+Needless to say, I used the ProCamera App for taking photos and I shot all the photos in Apple ProRAW. You can learn more about this camera app in my [ProCamera App review](/blog/procamera-app-review) and in my article about [how to shoot RAW on iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ## The verdict: Is the Stadtbad Lichtenberg worth visiting?
 

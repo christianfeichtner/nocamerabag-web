@@ -36,7 +36,7 @@ Everything I needed for those three days fitted nicely into my carry-on complian
 
 But please mind, that this photo spot does not exist any longer. In the past you could visit the abandoned Sanatoriums at Beelitz, where a cure for wellness was filmed, legally by booking a photo tour either from [go2know.de](aff:go2know-beelitz-heilstaetten) or [Photo Tours Berlin](https://www.fototouren-berlin.de/berlin-lost-places/). But as a large part of the Beelitz Heilstätten were revitialized and turned ito residential homes, you can't visit this photo spot any longer.
 
-However, a few of the abandoned buildings of the Beelitz Heilstätten have been preserved. You can experience them either from the [Beelitz Heilstätten canopy walk](/blog/beelitz-heilstaetten-baumkronenpfad-canopy-walk-germany) or by guided tours that you can book via [baumandzeit.de](https://baumundzeit.de/shop/), the homepage of the Beelitz Heilstätten canopy walk.
+However, a few of the abandoned buildings of the Beelitz Heilstätten have been preserved. You can experience them either from the [Beelitz Heilstätten canopy walk](/blog/abandoned-beelitz-heilstaetten-canopy-walk/) or by guided tours that you can book via [baumandzeit.de](https://baumundzeit.de/shop/), the homepage of the Beelitz Heilstätten canopy walk.
 
 {{< callout type="info" title="Please keep in mind" >}}
 Urbex tour programs and site access change over time. I do not monitor if tours continue to be offered as they were when I visited. Please check the tour operator's website linked at the end of this post for current status and updates.
@@ -66,35 +66,35 @@ Urbex tour programs and site access change over time. I do not monitor if tours 
 
 The film was shot inside two of the three main buildings at the men's sanatorium at the Beelitz-Heilstätten back in 2012. For the film, the ground floor and a few rooms were “renovated.” I put that in quotation marks because the renovation was mainly to paint the walls and add glass to the broken windows. Six years later, the paint already starts to peel off again, and you can see that in the next photo of a hallway that was used in the film.
 
-![Film Location of A Cure for Wellness decaying](/images/lost-places/germany/film-location-of-a-cure-for-wellness-decaying.webp)
+![Film Location of A Cure for Wellness decaying](/images/lost-places/germany/film-location-of-a-cure-for-wellness-decaying.webp "Film Location of A Cure for Wellness decaying.")
 
 Inside, they only painted those areas that would be visible in the film.
 
 A room that supports that hypothesis is in the next photo. So probably they didn’t need the room at all and would only show the closed door. So the door was new, but the room behind was still in its decayed state. I was just wondering why the door was on the floor? Maybe someone knocked a bit hard, or they didn’t even fix the door for shooting the film?
 
-![Someone knocked a bit too hard at Beelitz?](/images/lost-places/germany/someone-knocked-a-bit-too-hard-at-beelitz.webp)
+![Someone knocked a bit too hard at Beelitz?](/images/lost-places/germany/someone-knocked-a-bit-too-hard-at-beelitz.webp "Someone knocked a bit too hard at Beelitz?")
 
 This is a prop still left from the movie. It also has a short appearance together with actor Dane DeHaan.
 
-![Communal Water Tap as seen in the film](/images/lost-places/germany/communal-water-tap-as-seen-in-the-film.webp)
+![Communal Water Tap as seen in the film](/images/lost-places/germany/communal-water-tap-as-seen-in-the-film.webp "Communal Water Tap as seen in the film.")
 
 And this is the dining room that you can see in the film that is set on fire at the end. Allegedly the crew did not get the permission to burn down the building. Some say because the buildings are under monument protection. Others, because a vast forest surrounds the premises.
 
-![At the end of the film, this hall burns down.](/images/lost-places/germany/at-the-end-of-the-film-this-hall-burns-down.webp)
+![At the end of the film, this hall burns down.](/images/lost-places/germany/at-the-end-of-the-film-this-hall-burns-down.webp "At the end of the film, this hall burns down.")
 
 So they rebuilt the room in the nearby Babelsberger film studio and burned it down there - and along with it an entire studio.
 
-To be able to photograph the entire hallway, I used the Moment [Fisheye Lens for iPhone](/blog/review-moment-14mm-fisheye-lens) and applied [perspective correction](/blog/fix-perspective-distortions-iphone) using SKRWT.
+To be able to photograph the entire hallway, I used the Moment [Fisheye Lens for iPhone](/blog/review-moment-14mm-fisheye-lens) and applied [perspective correction](/blog/fix-perspective-distortions-iphone-apps/) using SKRWT.
 
 You won’t see this entire hall in the film, but you’ll see the protagonist entering and leaving through one of the doors to the left. The room is the former bathhouse.
 
-![Bathhouse seen in A Cure for Wellness](/images/lost-places/germany/bathhouse-seen-in-a-cure-for-wellness.webp)
+![Bathhouse seen in A Cure for Wellness](/images/lost-places/germany/bathhouse-seen-in-a-cure-for-wellness.webp "Bathhouse seen in A Cure for Wellness.")
 
 Again, to be able to fit the entire hall into the frame, I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
 
 You’ll also get to see the entrance area and hall a few times through the film. Compared to some other sets, the doors and room still look pretty okay, given the fact the film was shot six years ago.
 
-![Hospital Entrance Hall seen in A Cure for Wellness](/images/lost-places/germany/hospital-entrance-hall-seen-in-a-cure-for-wellness.webp)
+![Hospital Entrance Hall seen in A Cure for Wellness](/images/lost-places/germany/hospital-entrance-hall-seen-in-a-cure-for-wellness.webp "Hospital Entrance Hall seen in A Cure for Wellness.")
 
 ## Camera Apps and iPhone Photo Accessories used
 
@@ -104,10 +104,10 @@ Except for the two photos for which I used the Moment Fisheye Lens, I shot all t
 
 ## More Lost Places and Beelitz Heilstätten
 
-Fun Fact: There’s a German horror movie named “Heilstätten” that’s set to play in Beelitz, but was filmed at another abandoned sanatorium. Of course, I’ve visited that film location, too, and you can find more about that in the blog post about the abandoned [Heilstätte Grabowsee](/blog/heilstaette-grabowsee)
+Fun Fact: There’s a German horror movie named “Heilstätten” that’s set to play in Beelitz, but was filmed at another abandoned sanatorium. Of course, I’ve visited that film location, too, and you can find more about that in the blog post about the abandoned [Heilstätte Grabowsee](/blog/abandoned-heilstaette-grabowse/)
 
-Beelitz Heilstätten is worth a visit! And if you don’t want to wait for one of the photo tours you can book through go2know.de, maybe visiting the [Beelitz Heilstätten Canopy walk](/blog/beelitz-heilstaetten-baumkronenpfad-canopy-walk-germany) would be an option?
+Beelitz Heilstätten is worth a visit! And if you don’t want to wait for one of the photo tours you can book through go2know.de, maybe visiting the [Beelitz Heilstätten Canopy walk](/blog/abandoned-beelitz-heilstaetten-canopy-walk/) would be an option?
 
-And finally, I have a blog post about [7 Lost Places you can visit legally](/blog/lost-places-visit-legally) or check all my posts about [Lost Places](/blog/tag/Lost+Places) in the Blog. Happy exploring (and take care!)
+And finally, I have a blog post about [7 Lost Places you can visit legally](/urbex-tours/) or check all my posts about [Lost Places](/blog/lost-places/) in the Blog. Happy exploring (and take care!)
 
 {{< youtube id="uOjRY10CEDU" title="A Cure for Wellness movie trailer" >}}

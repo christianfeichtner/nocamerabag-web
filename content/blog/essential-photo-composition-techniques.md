@@ -32,7 +32,7 @@ The background is usually the part of an image that’s furthest away from the v
 
 Take a look at the photo of the Statue of Liberty I took during a trip to New York. It’s a good example of a photo containing all three layers.
 
-![Example of a photo containing a foreground, middle ground and background](/images/tutorials/general/uncropped-photo-statue-of-liberty.webp)
+![Example of a photo containing a foreground, middle ground and background](/images/tutorials/general/uncropped-photo-statue-of-liberty.webp "Example of a photo containing a foreground, middle ground and background.")
 
 The sea is in the foreground. The skyline and the sky are the background, and in the middle ground is the main subject: the Statue of Liberty.
 
@@ -64,7 +64,7 @@ The framing technique is the second essential photo composition technique. It’
 
 But there’s more. You can also use the framing technique to convey all sorts of emotions like sadness or anger by contrasting the main subject, the frame and the background like in this photo.
 
-![Example of the framing technique in photography](/images/tutorials/usa/fountains-bellagio-window.webp)
+![Example of the framing technique in photography](/images/tutorials/usa/fountains-bellagio-window.webp "Example of the framing technique in photography.")
 
 To learn more and what you can use as a frame, please head to my blog post about [what is framing in photography](/blog/what-is-framing-photography) and how to use it.
 
@@ -76,7 +76,7 @@ A photo can contain any number of leading lines having any form. They can be str
 
 In this photo of an abandoned dentists chair, I used diverging leading lines that diverge from the background to highlight the main subject. And yes, the light that I used as leading lines actually form a frame around the subject.
 
-![Light as leading lines and frame to highlight the main subject](/images/tutorials/general/light-as-a-guideing-line.webp)
+![Light as leading lines and frame to highlight the main subject](/images/tutorials/general/light-as-a-guideing-line.webp "Light as leading lines and frame to highlight the main subject.")
 
 So you can well combine any of the essential photo composition guidelines. For more examples about how to use lines, consider reading my blog post about [how to use leading lines for your photos](/blog/what-are-leading-lines-photography).
 

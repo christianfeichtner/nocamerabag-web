@@ -67,11 +67,11 @@ The two flak towers of pair number 5 are located in the 6th and 7th district of 
 
 The lead tower is the only flak tower that was put to non-military use after World War II. Since 1957, it houses the Vienna aquarium, also known as the aqua terra zoo Vienna. It's the only accessible flak tower in Vienna. On the upper floors of the aquarium, you'll find a permanent exhibition about the Vienna Flak Towers, and you'll get an impression of the thickness of the almost 10 feet thick walls.
 
-![The Vienna Aquarium was built inside and around a former lead flak tower](/images/cityscapes/austria/the-vienna-aquarium-was-built-inside-and-around-a-former-lea.webp)
+![The Vienna Aquarium was built inside and around a former lead flak tower](/images/cityscapes/austria/the-vienna-aquarium-was-built-inside-and-around-a-former-lea.webp "The Vienna Aquarium was built inside and around a former lead flak tower.")
 
 I took this photo on an iPhone 12 Pro Max using Apple ProRAW that I developed in Lightroom Mobile on iPhone - while taking a break on a bench in Esterhazypark, where this flak tower is located. That's why I love iPhone Photography: You take a photo and then edit it on the same device. No more laptop needed.
 
-About the photo composition: I found the blue sky a bit boring, so I used the [framing technique](/blog/photo-framing-techniques). The branches of the trees in the park worked perfectly as a frame.
+About the photo composition: I found the blue sky a bit boring, so I used the [framing technique](/blog/what-is-framing-photography/). The branches of the trees in the park worked perfectly as a frame.
 
 Suppose the sky would have been a bit more cloudy. In that case, I'd have tried to capture a long exposure using the [Gorillapod Magnetic for iPhone](/blog/review-joby-gorillapod-magnetic) that I always carry with me in my [foldable backpack](/blog/review-gonex-packable-backpack).
 
@@ -83,30 +83,30 @@ Until 1942/1943, Vienna was out of reach for allied bombers. But that changed qu
 
 Here, you'll find Flak Tower pair number 8, which was finished in January 1945.
 
-![The lead tower at Augarten. Can you spot the people?](/images/cityscapes/austria/the-lead-tower-at-augarten-can-you-spot-the-people.webp)
+![The lead tower at Augarten. Can you spot the people?](/images/cityscapes/austria/the-lead-tower-at-augarten-can-you-spot-the-people.webp "The lead tower at Augarten. Can you spot the people?")
 
 To give you an impression of the dimensions of these flak towers, I put two people inside the frame? Can you spot them?
 
-Photography-wise, I used two photo techniques in this photo: [Leading lines](/blog/how-to-use-leading-lines) formed by the trees to guide the user towards the two people. At the same time, I used the trees as a v-shaped revealing [frame](/blog/photo-framing-techniques). The photo is a snapshot I took during a walk in January using the iPhone 12 Pro Max.
+Photography-wise, I used two photo techniques in this photo: [Leading lines](/blog/what-are-leading-lines-photography/) formed by the trees to guide the user towards the two people. At the same time, I used the trees as a v-shaped revealing [frame](/blog/what-is-framing-photography/). The photo is a snapshot I took during a walk in January using the iPhone 12 Pro Max.
 
 The second flak tower at Augarten is the combat tower.
 
-![The combat flak tower at Augarten. Notice the cables around the top](/images/cityscapes/austria/the-combat-flak-tower-at-augarten-notice-the-cables-around.webp)
+![The combat flak tower at Augarten. Notice the cables around the top](/images/cityscapes/austria/the-combat-flak-tower-at-augarten-notice-the-cables-around.webp "The combat flak tower at Augarten. Notice the cables around the top.")
 
 As the story goes, two kids entered the tower in 1946 and caused the remaining ammunition to detonate at the top of the tower. A huge explosion damaged the entire tower and especially the roof. That's why you'll see many cracks in the upper part of the tower and why it's surrounded by several steel cables to prevent it from collapsing.
 
-I Tool this photo back in 2014 using an iPhone 5s. The technique I used for this photo is quite obvious, I think: [Leading Lines](/blog/how-to-use-leading-lines).
+I Tool this photo back in 2014 using an iPhone 5s. The technique I used for this photo is quite obvious, I think: [Leading Lines](/blog/what-are-leading-lines-photography/).
 
-Back in 2014, [taking RAW photos with iPhone](/blog/shoot-raw-iphone) wasn't possible. So for the photo of the combat tower, I used a camera app named 645 Pro MK II that would save photos as uncompressed TIFFs. That was the best image quality you could get back then.
+Back in 2014, [taking RAW photos with iPhone](/blog/how-to-shoot-raw-iphone/) wasn't possible. So for the photo of the combat tower, I used a camera app named 645 Pro MK II that would save photos as uncompressed TIFFs. That was the best image quality you could get back then.
 
 ## Flak Towers VIII - Arenabergpark
 
 The Flak Towers at Arenabergpark in Vienna's third district, code name "Baldrian", was the 8th pair flak towers. They were finished in 1943.
 
-![The lead flak tower at Arenabergpark in Vienna](/images/cityscapes/austria/the-lead-flak-tower-at-arenabergpark-in-vienna.webp)
+![The lead flak tower at Arenabergpark in Vienna](/images/cityscapes/austria/the-lead-flak-tower-at-arenabergpark-in-vienna.webp "The lead flak tower at Arenabergpark in Vienna.")
 
 Similar to the other flak towers, the first few floors provided shelter for civilians during air raids.
 
-![The combat flak tower at Arenabergpark in Vienna](/images/cityscapes/austria/the-combat-flak-tower-at-arenabergpark-in-vienna.webp)
+![The combat flak tower at Arenabergpark in Vienna](/images/cityscapes/austria/the-combat-flak-tower-at-arenabergpark-in-vienna.webp "The combat flak tower at Arenabergpark in Vienna.")
 
 Both photos are snapshots I took during a walk in this park. I used my iPhone 12 Pro Max to take them.

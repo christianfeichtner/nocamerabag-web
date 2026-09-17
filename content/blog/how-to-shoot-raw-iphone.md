@@ -27,11 +27,11 @@ But first, here are a few sample photos that I took in RAW format using iPhone a
 
 iPhone RAW photos shot on iPhone using [ProCamera App](/blog/procamera-app-review). All edited with Adobe [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium).
 
-![Abandoned textile factory. 48 megapixel Apple ProRAW shot on iPhone 14 Pro](/images/tutorials/general/collapsed-roof-textile-factory-forst-lausitz.webp)
+![Abandoned textile factory. 48 megapixel Apple ProRAW shot on iPhone 14 Pro](/images/tutorials/general/collapsed-roof-textile-factory-forst-lausitz.webp "Abandoned textile factory. 48 megapixel Apple ProRAW shot on iPhone 14 Pro.")
 
 ![Kaiserwasser in Vienna shot as a 12 megapixel RAW on iPhone using ProCamera App](/images/cityscapes/austria/kaiserwasser-vienna.webp "Kaiserwasser in Vienna shot as a 12 megapixel RAW on iPhone using ProCamera App.")
 
-![Nature takes back. 12 megapixel Apple ProRAW shot on iPhone 12 Pro Max using stock camera app](/images/tutorials/general/nature-takes-back-12-megapixel-apple-proraw-shot-on-iphone.webp)
+![Nature takes back. 12 megapixel Apple ProRAW shot on iPhone 12 Pro Max using stock camera app](/images/tutorials/general/nature-takes-back-12-megapixel-apple-proraw-shot-on-iphone.webp "Nature takes back. 12 megapixel Apple ProRAW shot on iPhone 12 Pro Max using stock camera app.")
 
 ## What's the difference between the JPEG/HEIF, classic RAW and ProRAW format?
 
@@ -76,9 +76,9 @@ It's also worth noting that an iPhone RAW photo may look worse than a correspond
 
 The first photo is an unedited RAW photo, while the second one is a screenshot of the same picture with some adjustments applied.
 
-![Unedited RAW photo in Lightroom Mobile](/images/tutorials/general/unedited-raw-photo-in-lightroom-mobile.webp)
+![Unedited RAW photo in Lightroom Mobile](/images/tutorials/general/unedited-raw-photo-in-lightroom-mobile.webp "Unedited RAW photo in Lightroom Mobile.")
 
-![Developed RAW Photo in Lightroom Mobile](/images/tutorials/general/developed-raw-photo-in-lightroom-mobile.webp)
+![Developed RAW Photo in Lightroom Mobile](/images/tutorials/general/developed-raw-photo-in-lightroom-mobile.webp "Developed RAW Photo in Lightroom Mobile.")
 
 Notice how many details you can recover from the photos' dark areas if you shoot in RAW. That's one of the reasons I like to shoot RAW!
 
@@ -118,7 +118,7 @@ If you don't see the *Apple ProRAW* option, make sure you have at least an iPhon
 
 Once you have enabled ProRAW, you can easily active it by tapping the RAW icon in the upper right corner of the iOS camera app.
 
-![Enable shooting RAW with the stock camera app on iOS 14.3 and iPhone 12](/images/tutorials/general/enable-shooting-raw-with-the-stock-camera-app-on-ios-14-3-an.webp)
+![Enable shooting RAW with the stock camera app on iOS 14.3 and iPhone 12](/images/tutorials/general/enable-shooting-raw-with-the-stock-camera-app-on-ios-14-3-an.webp "Enable shooting RAW with the stock camera app on iOS 14.3 and iPhone 12.")
 
 Unless you've enabled *Apple ProRAW* under *Preserve Settings* in the camera app's settings, Apple ProRAW will be turned off whenever you close the camera app or put your iPhone to sleep. You'll need to tap the RAW icon in the camera app again to activate it on.
 
@@ -136,11 +136,11 @@ Simple answer: A RAW photo contains much more image information and allows you t
 
 For example, you may be able to fix burnt highlights or blown out dark areas from a RAW photo that would otherwise be unrecoverable in a JPG photo. In JPEG photos, such regions would be merely white or black.
 
-Further, applying noise reduction to a RAW photo gives you much better and more fine granular control. So you can get better pictures with less noise compared to a JPEG photo. If you use or plan to use Adobe Lightroom, I've a tutorial about how to [reduce noise using Lightroom Mobile](/blog/noise-reduction-in-lightroom-mobile).
+Further, applying noise reduction to a RAW photo gives you much better and more fine granular control. So you can get better pictures with less noise compared to a JPEG photo. If you use or plan to use Adobe Lightroom, I've a tutorial about how to [reduce noise using Lightroom Mobile](/blog/noise-reduction-in-lightroom-mobile-tutorial/).
 
 As a summary, when it comes to detail and low noise, shooting RAW beats shooting JPEG - at the price that you'll need to edit and develop each RAW photo before publishing it. Here's one sample photo to illustrate that.
 
-![Inside of a church with low light shot as RAW photo on iPhone](/images/tutorials/inside-votiv-church.webp)
+![Inside of a church with low light shot as RAW photo on iPhone](/images/tutorials/inside-votiv-church.webp "Inside of a church with low light shot as RAW photo on iPhone.")
 
 ## When should I shoot RAW on iPhone?
 
@@ -153,7 +153,7 @@ That question is difficult to answer. In the DSLR world, you'll often hear that 
 
 You can't tell if a photo is a RAW photo the thumbnail view of the Photos App on iPhone or iPad. But starting with iOS13, the Photos App will display *RAW* in the upper left corner if you tap an image to see it in its full glory.
 
-![RAW Sticker iOS Photos App](/images/tutorials/general/raw-sticker-ios-photos-app.webp)
+![RAW Sticker iOS Photos App](/images/tutorials/general/raw-sticker-ios-photos-app.webp "RAW Sticker iOS Photos App.")
 
 But Adobe Lightroom will help you here. If you import a photo, it'll display a *DNG* sticker for RAW photos even in thumbnail view to make it easy for you to pick the correct file.
 

@@ -46,11 +46,11 @@ Because of these requirements I'm looking for a tactical flashlight. But what is
 
 Before I start the Wuben X1 review, here are some photos taken in lost places while using the 12000 lumen tactical flashlight.
 
-[![An abandoned harbor in Lisbon illuminated with the Wuben X1.](/images/reviews/general/wuben-x1-beam-portugal-1.webp)](An abandoned harour in Lisbon illuminated with the Wuben X1)
+[![An abandoned harbor in Lisbon illuminated with the Wuben X1.](/images/reviews/general/wuben-x1-beam-portugal-1.webp "An abandoned harbor in Lisbon illuminated with the Wuben X1.")](An abandoned harour in Lisbon illuminated with the Wuben X1)
 
-![The Wuben X1 illuminating an abandoned air raid shelter in Vienna.](/images/reviews/abandoned-cellar-vienna.webp)
+![The Wuben X1 illuminating an abandoned air raid shelter in Vienna.](/images/reviews/abandoned-cellar-vienna.webp "The Wuben X1 illuminating an abandoned air raid shelter in Vienna.")
 
-![Abandoned hairdressers room illuminated using the Wuben X1](/images/reviews/general/hairdressers-room-basement-abandoned-hubertusbad-berlin.webp)
+![Abandoned hairdressers room illuminated using the Wuben X1](/images/reviews/general/hairdressers-room-basement-abandoned-hubertusbad-berlin.webp "Abandoned hairdressers room illuminated using the Wuben X1.")
 
 As demonstrated by the photos above, the 12000 lumens of the Wuben X1 illuminate even the darkest corners in lost places.
 
@@ -76,7 +76,7 @@ What's worth noting is that the X1 has an active cooling system built in that'll
 
 To switch through the brightness levels, turn the X1 on and click the button briefly again. This will cycle between the different modes. To enable turbo mode, double-click the button.
 
-![Wuben X1 Falcon button](/images/reviews/general/wuben-x1-button.webp)
+![Wuben X1 Falcon button](/images/reviews/general/wuben-x1-button.webp "Wuben X1 Falcon button.")
 
 Additionally, it offers a strobe mode and a SOS mode. In strobe mode, the Wuben X1 emits a rapidly flashing light, while in SOS mode, it will emit the well-known three short, three long, and three short flashing sequences. I've never used these two modes with any other flashlight, and I hope I'll never need to use them with the Wuben X1, so I can't write much about them.
 
@@ -113,7 +113,7 @@ To calculate the Wh from the maH, we'll multiply the 4800 mAh with 3.8 volts and
 
 I've already switched entirely to USB-C charging, and I'm pretty happy that the iPhone 15 also supports USB-C. So I can charge all my devices using USB-C while on the road - and the Wuben X1 is no exception. It supports fast charging using a 27W charger (not included) via USB-C. The USB-C port is hidden behind a rubber latch.
 
-![The USB-C port of the Wuben X1 is hidden behind a rubber latch](/images/reviews/general/wuben-x1-falcon-usb-c.webp)
+![The USB-C port of the Wuben X1 is hidden behind a rubber latch](/images/reviews/general/wuben-x1-falcon-usb-c.webp "The USB-C port of the Wuben X1 is hidden behind a rubber latch.")
 
 I didn't measure the exact charging time, but it's fast! Wubenlight claims you can charge it in two hours using a 27W charger.
 
@@ -144,9 +144,9 @@ The second major difference are the dimensions. If you compare the photos of the
 
 Yes, I'd definitely repurchase the Wuben Lightok X1. The compact form makes it easy to carry in my luggage and on-site. With the included holster, I have conveniently located ut within reach on my belt. The immense brightness of 12000 lumens makes exploring a lost place much more enjoyable and safer because I can see much further and better in dark areas. To give you an impression of the brightness, I took two photos of an abandoned place in Portugal with the brightness set to 12000 lumens.
 
-![Wuben X1 illuminating a dark corridor in a lost place](/images/reviews/general/wuben-x1-beam-portugal-1.webp)
+![Wuben X1 illuminating a dark corridor in a lost place](/images/reviews/general/wuben-x1-beam-portugal-1.webp "Wuben X1 illuminating a dark corridor in a lost place.")
 
-![Wuben X1 brightness illuminating an overgrown corridor](/images/reviews/general/wuben-x1-brightness-portugal-2.webp)
+![Wuben X1 brightness illuminating an overgrown corridor](/images/reviews/general/wuben-x1-brightness-portugal-2.webp "Wuben X1 brightness illuminating an overgrown corridor.")
 
 In these two photos you can see, that the Wuben X1 Falcon not only is really bright, but the beam illuminates everything in the two corridors: From the wall in the distance (first photo) to the floor, the walls on each side and the ceiling. I like that!
 

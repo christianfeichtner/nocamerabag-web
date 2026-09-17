@@ -1,0 +1,94 @@
+{{- /*
+  Contact & Feedback Form Partial
+  Path: layouts/_partials/contact-form.html
+*/ -}}
+
+{{- $apiUrl := site.Params.contact_api_url | default (site.Params.contact.api_url | default "https://contact-api.nocamerabag.com") -}}
+{{- $turnstileSiteKey := site.Params.turnstile_site_key | default "1x00000000000000000000AA" -}}
+
+<div class="contact-form-container" id="contactSection" data-api-url="{{ $apiUrl }}" data-sitekey="{{ $turnstileSiteKey }}">
+
+  <!-- Success Notification -->
+  <div class="contact-notice contact-notice-success" id="contactSuccessNotice" role="alert" style="display: none;">
+    <svg class="contact-notice-icon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+      <polyline points="22 4 12 14.01 9 11.01"></polyline>
+    </svg>
+    <div class="contact-notice-body">
+      <h3 class="contact-notice-title">Thank you!</h3>
+      <p class="contact-notice-text">Your message has been sent successfully. I will get back to you as soon as possible.</p>
+    </div>
+  </div>
+
+  <!-- General Error Notification -->
+  <div class="contact-notice contact-notice-error" id="contactErrorNotice" role="alert" style="display: none;">
+    <svg class="contact-notice-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="8" x2="12" y2="12"></line>
+      <line x1="12" y1="16" x2="12.01" y2="16"></line>
+    </svg>
+    <span class="contact-notice-text" id="contactErrorText">Something went wrong. Please try again or email hello@nocamerabag.com directly.</span>
+  </div>
+
+  <!-- Main Contact Form -->
+  <form id="contactForm" class="contact-form" novalidate>
+    
+    <!-- Field: Name -->
+    <div class="contact-form-group">
+      <label for="contactName" class="contact-label">Name <span class="contact-required">*</span></label>
+      <input type="text" id="contactName" name="name" class="contact-input" placeholder="Your name" required maxlength="100" autocomplete="name">
+      <span class="contact-field-error" id="contactNameError" style="display: none;"></span>
+    </div>
+
+    <!-- Field: Email -->
+    <div class="contact-form-group">
+      <label for="contactEmail" class="contact-label">Email Address <span class="contact-required">*</span></label>
+      <input type="email" id="contactEmail" name="email" class="contact-input" placeholder="name@example.com" required maxlength="150" autocomplete="email">
+      <span class="contact-field-error" id="contactEmailError" style="display: none;"></span>
+    </div>
+
+    <!-- Field: Message -->
+    <div class="contact-form-group">
+      <label for="contactMessage" class="contact-label">Message <span class="contact-required">*</span></label>
+      <textarea id="contactMessage" name="message" class="contact-textarea" rows="6" placeholder="Write your message or feedback here..." required maxlength="5000"></textarea>
+      <span class="contact-field-error" id="contactMessageError" style="display: none;"></span>
+    </div>
+
+    <!-- Anti-Spam: Invisible Honeypot Trap -->
+    <div class="contact-trap" aria-hidden="true" style="position: absolute; left: -9999px; opacity: 0; pointer-events: none; width: 0; height: 0; overflow: hidden;">
+      <label for="contactWebsiteTrap">Leave this field blank</label>
+      <input type="text" id="contactWebsiteTrap" name="website_trap" tabindex="-1" autocomplete="off" value="">
+    </div>
+
+    <!-- Cloudflare Turnstile CAPTCHA -->
+    <div class="contact-turnstile-wrapper">
+      <div class="cf-turnstile" data-sitekey="{{ $turnstileSiteKey }}" data-theme="light"></div>
+      <span class="contact-field-error" id="contactTurnstileError" style="display: none;"></span>
+    </div>
+
+    <!-- Form Actions / Submit Button -->
+    <div class="contact-form-actions">
+      <button type="submit" id="contactSubmitBtn" class="contact-submit-btn">
+        <span class="contact-btn-spinner" id="contactSpinner" aria-hidden="true" style="display: none;">
+          <svg class="contact-spinner-svg" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle class="contact-spinner-track" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="3"></circle>
+            <path class="contact-spinner-arc" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+          </svg>
+        </span>
+        <span class="contact-btn-text" id="contactBtnText">Send Message</span>
+      </button>
+    </div>
+
+  </form>
+</div>
+
+<!-- Cloudflare Turnstile API Script -->
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+<!-- Contact Form JS Controller -->
+{{- with resources.Get "js/contact.js" -}}
+  {{- $contactJS := . | minify | fingerprint -}}
+  <script defer src="{{ $contactJS.RelPermalink }}" integrity="{{ $contactJS.Data.Integrity }}"></script>
+{{- else -}}
+  <script defer src="{{ "js/contact.js" | relURL }}"></script>
+{{- end -}}

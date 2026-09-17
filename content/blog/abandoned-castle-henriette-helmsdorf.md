@@ -77,7 +77,7 @@ Urbex tour offerings and site conditions change over time. I don't verify whethe
 
 I started my exploration in the attic, which is basically the third floor of the building. Here you’ll find lots of old furniture, like this old commode chair.
 
-![Old commode chair in the attic of castle Henriette-Helmsdorf](/images/lost-places/germany/commode-chair-castle-henriette.jpeg)
+![Old commode chair in the attic of castle Henriette-Helmsdorf](/images/lost-places/germany/commode-chair-castle-henriette.jpeg "Old commode chair in the attic of castle Henriette-Helmsdorf.")
 
 The stuff you see on the floor are feathers. I assume they’re from the bedding I found in a storage room in the attic. As you can see from the photo, the attic is almost totally dark except for the light coming in from a few small windows. I used my 12000 lumens flashlight for exploring the attic. You’ll find more info about that flashlight in my [Wuben X1 flashlight review](/blog/review-wuben-x1-falcon-flashlight).
 
@@ -85,7 +85,7 @@ The stuff you see on the floor are feathers. I assume they’re from the bedding
 
 As the now abandoned castle Henriette was used as an old people's home for decades, you’ll still find a number of hospital beds there.
 
-![Hospital bed in the abandoned castle](/images/lost-places/germany/sickbed-castle-henriette.jpeg)
+![Hospital bed in the abandoned castle](/images/lost-places/germany/sickbed-castle-henriette.jpeg "Hospital bed in the abandoned castle.")
 
 One thing I noticed while photographing in the abandoned castle was the wonderful contrasts created by the light coming in through the windows. I used them in almost all my photos. In the above photo, I used them basically as a frame for the old hospital bed. But there’s another frame in the photo: the doors!
 
@@ -95,7 +95,7 @@ So basically, the main subject is double-framed. Framing in photography is one o
 
 Due to its remote location, the abandoned castle was protected from vandalism. So you’ll still find much of the elegant and noble interior, like the wooden stairs. It looks like the castle was abandoned only a few months ago.
 
-![Wooden Stairs at Castle Henriette-Helmsdorf](/images/lost-places/germany/wooden-stairs-castle-henriette.jpeg)
+![Wooden Stairs at Castle Henriette-Helmsdorf](/images/lost-places/germany/wooden-stairs-castle-henriette.jpeg "Wooden Stairs at Castle Henriette-Helmsdorf.")
 
 Again, I used the light coming in from a window and the harsh contrasts it creates for this photo. I just enhanced them a bit using Adobe Lightroom Mobile, which is one of the [recommended photo editing apps for iOS](/blog/recommended-photo-editing-apps) I use myself.
 
@@ -103,7 +103,7 @@ Again, I used the light coming in from a window and the harsh contrasts it creat
 
 Another beautiful photo spot at the abandoned castle Henriette is the fireplace room. A beautiful wood-paneled room with the fireplace that’s perfectly illuminated by the window on the opposite side of the room
 
-![Fireplace Room](/images/lost-places/germany/fireplace-room-castle-henriette.jpeg)
+![Fireplace Room](/images/lost-places/germany/fireplace-room-castle-henriette.jpeg "Fireplace Room.")
 
 If you visit the castle, there’s a picture of the previous owners' family tree in this room. It’s not in the photo, but on the left side.
 
@@ -113,7 +113,7 @@ Last year I bought a rig for my iPhone, and I’m so happy I did. The handle and
 
 Since a castle serves representative purposes, you’ll find a number of larger rooms. Maybe they were used as reception rooms? I have no idea. But they’re beautiful photo spots at the castle Henriette. Again, use the wonderful contrast of lights and shadows
 
-![Big Room at the abandoned Castle Henriette-Helmsdorf](/images/lost-places/germany/room-castle-henriette.jpeg)
+![Big Room at the abandoned Castle Henriette-Helmsdorf](/images/lost-places/germany/room-castle-henriette.jpeg "Big Room at the abandoned Castle Henriette-Helmsdorf.")
 
 ## Summary
 

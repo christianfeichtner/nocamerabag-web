@@ -46,23 +46,23 @@ Plan half a day for the hike that I’m going to share with you.
 
 Right after the booth where you paid the entrance fee, you’ll hike through a forest for about 15 to 30 Minutes. You’ll already see the Ötscher Creek. You’ll pass over a few small bridges until you enter the gorge.
 
-![Footbridge over the Ötscher Creek](/images/landscapes/austria/footbridge-oetscher-gorge.webp)
+![Footbridge over the Ötscher Creek](/images/landscapes/austria/footbridge-oetscher-gorge.webp "Footbridge over the Ötscher Creek.")
 
 From here, you’ll hike downhill. It will take you between 15 and 30 Minutes to reach the bottom of the gorge.
 
-![Hiking down into the Ötscher Gorge](/images/landscapes/austria/hiking-down-oetscher-gorge.webp)
+![Hiking down into the Ötscher Gorge](/images/landscapes/austria/hiking-down-oetscher-gorge.webp "Hiking down into the Ötscher Gorge.")
 
 ### The bottom of the Ötscher Gorge
 
 Once you’ve reached the bottom of the gorge, you’ll hike on gravel paths and small, wooden footbridges right next to the Ötscher Creek.
 
-![Bottom of the Ötscher Gorge](/images/landscapes/austria/bottom-oetscher-gorge.webp)
+![Bottom of the Ötscher Gorge](/images/landscapes/austria/bottom-oetscher-gorge.webp "Bottom of the Ötscher Gorge.")
 
 There are even some spots where you can dip your feet into the creek. That’s a welcoming opportunity on hot summer days.
 
 After about 90 minutes, you’ll see a snack station on the left. But it’s a small snack station. So if you arrive here at noon, do not expect to find a free table. Many other hikers had the same idea already. From the snack station, continue for another 30 minutes to get to a beautiful waterfall.
 
-![Waterfall at the Ötscher Gorge](/images/landscapes/austria/waterfall-oetscher-gorge.webp)
+![Waterfall at the Ötscher Gorge](/images/landscapes/austria/waterfall-oetscher-gorge.webp "Waterfall at the Ötscher Gorge.")
 
 Once you’ve taken your photos, return to the snack station and leave the gorge.
 

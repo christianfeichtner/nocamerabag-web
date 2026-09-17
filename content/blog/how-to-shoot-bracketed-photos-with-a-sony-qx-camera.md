@@ -18,7 +18,7 @@ cover:
   image: /images/tutorials/general/how-to-shoot-bracketed-photos-with-a-sony-qx-camer.webp
   alt: How To shoot bracketed shots for HDR with a Sony QX
 ---
-![The Charles Bridge; (cc) by-nc squics.com](/images/tutorials/general/the-charles-bridge-cc-by-nc-squics-com.webp)
+![The Charles Bridge; (cc) by-nc squics.com](/images/tutorials/general/the-charles-bridge-cc-by-nc-squics-com.webp "The Charles Bridge; (cc) by-nc squics.com.")
 
 During a visit in Prague I tried to shoot bracketed photos with a Sony QX100 attachable lens style camera from which I wanted to create an HDR. You can see the result above. It's the famous Charles Bridge which is considered to be one of the oldest stone bridges in Europe.
 
@@ -35,7 +35,7 @@ To shoot bracketed photos, launch the PlayMemories App and connect your phone, t
 \* P(rogramm)
 \* A(perture Priority)
 
-![Manual bracketing mode with a Sony QX attachable lens style camera.](/images/tutorials/general/manual-bracketing-mode-with-a-sony-qx-attachable-lens-style.webp)
+![Manual bracketing mode with a Sony QX attachable lens style camera.](/images/tutorials/general/manual-bracketing-mode-with-a-sony-qx-attachable-lens-style.webp "Manual bracketing mode with a Sony QX attachable lens style camera.")
 
 We need aperture priority mode "A". Tap the mode selector and select it. At the bottom of the screen adjust the aperture settings to your liking. Next to the aperture settings is an aperture compensation setting.
 

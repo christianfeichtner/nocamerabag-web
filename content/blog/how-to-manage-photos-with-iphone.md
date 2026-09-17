@@ -24,7 +24,7 @@ I thought that this could be interesting for a few more readers, so enjoy this p
 
 First, Let‘s talk about the amount of photos I manage with those two apps. I photograph digitally since 2000 and since then, I‘ve accumulated about 25500 photos that I manage with iOS Photos app and Adobe Lightroom Mobile.
 
-![25.000+ photos in the camera roll](/images/tutorials/general/25-000-photos-in-the-camera-roll.webp)
+![25.000+ photos in the camera roll](/images/tutorials/general/25-000-photos-in-the-camera-roll.webp "25.000+ photos in the camera roll.")
 
 Let‘s bring this number in a context. 25500 photos over 20 years are roughly 1200 photos per year or 3 photos per day. That‘s not really that much, is it?
 
@@ -54,7 +54,7 @@ The next step is to select the photos that I want to edit and publish. I use pub
 
 For this step, I created an album in Photos app named *selected*. It‘s where I add all the photos I want to edit. At most, 50%-75% of the remaining photos from the previous step find their way into this folder. The rest are usually personal memories I don‘t publish and that I adjust only with Photos app.
 
-![Selected album used to collect photos for editing](/images/tutorials/general/selected-album-used-to-collect-photos-for-editing.webp)
+![Selected album used to collect photos for editing](/images/tutorials/general/selected-album-used-to-collect-photos-for-editing.webp "Selected album used to collect photos for editing.")
 
 Next, I import those photos from the selected folder into Adobe Lightroom Mobile.
 
@@ -66,7 +66,7 @@ In Adobe Lightroom Mobile, I edit the photos from the *selected* album. Once I�
 
 Each photo in Lightroom Mobile gets between one and three keywords after I’m done with editing. The keywords I use here are usually keywords, that Adobe Sensei, the AI image recognition from Creative Cloud that‘s used in Lightroom, does not recognize and therefore can’t assign automatically like the keyword *Lost Place* or the name of the camera app.
 
-![Keywords assigned to a photo in Lightroom Mobile](/images/tutorials/general/keywords-assigned-to-a-photo-in-lightroom-mobile.webp)
+![Keywords assigned to a photo in Lightroom Mobile](/images/tutorials/general/keywords-assigned-to-a-photo-in-lightroom-mobile.webp "Keywords assigned to a photo in Lightroom Mobile.")
 
 ### Folders and Albums in Ligthroom Mobile
 
@@ -105,13 +105,13 @@ To assign an accepted or rejected flag in Adobe Lightroom Mobile:
 * At the bottom, either tap the flag containing a checkmate (accepted) or the flag containing a cross (rejected).
 * To completely remove any flag, just tap the selected flag again.
 
-![Assigning flags in Lightroom Mobile](/images/tutorials/general/assigning-flags-in-lightroom-mobile.webp)
+![Assigning flags in Lightroom Mobile](/images/tutorials/general/assigning-flags-in-lightroom-mobile.webp "Assigning flags in Lightroom Mobile.")
 
 ### Filtering Photos in Lightroom Mobile
 
 A great feature in Ligthroom Mobile is the filter you can apply to albums. You can find it in the upper toolbar in the library view.
 
-![Applying a filter to an album in Lightroom Mobile](/images/tutorials/general/applying-a-filter-to-an-album-in-lightroom-mobile.webp)
+![Applying a filter to an album in Lightroom Mobile](/images/tutorials/general/applying-a-filter-to-an-album-in-lightroom-mobile.webp "Applying a filter to an album in Lightroom Mobile.")
 
 Here, I can select to filter the photo library for a number of things. I use this feature in addition to search to find photos inside the library. Using the filter feature, you can filter for:
 
@@ -140,9 +140,9 @@ First, it has an excellent search that you can either use by typing in a search 
 * Enter a location, year, or even the name of a person (if you use the people feature) to discover photos.
 * Use search terms of things displayed in a photo. Using machine learning, the search functions can detect a number of things like buildings, seaside, mountains, trees and so on. It can even distinguish between cats and dogs!
 
-![Places album to re-discover photos](/images/tutorials/general/places-album-to-re-discover-photos.webp)
+![Places album to re-discover photos](/images/tutorials/general/places-album-to-re-discover-photos.webp "Places album to re-discover photos.")
 
-![Searching for locations in photos app](/images/tutorials/general/searching-for-locations-in-photos-app.webp)
+![Searching for locations in photos app](/images/tutorials/general/searching-for-locations-in-photos-app.webp "Searching for locations in photos app.")
 
 ## Backing up photos from iOS Photos App
 
@@ -181,7 +181,7 @@ To enable automatic backup to Amazon Prime Photos, you need to have a paid Amazo
 * Enable *auto save*
 * Choose if you want to upload photos also using mobile data.
 
-![Automatically backup photos from iPhone to Amazon Prime](/images/tutorials/general/automatically-backup-photos-from-iphone-to-amazon-prime.webp)
+![Automatically backup photos from iPhone to Amazon Prime](/images/tutorials/general/automatically-backup-photos-from-iphone-to-amazon-prime.webp "Automatically backup photos from iPhone to Amazon Prime.")
 
 ## Summary
 

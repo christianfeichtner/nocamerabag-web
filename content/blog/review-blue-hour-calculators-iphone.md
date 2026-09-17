@@ -28,11 +28,11 @@ During the golden hour, you'll experience warm light that applies a nice golden 
 
 It's not for nothing that many photographers value these two periods of the day and swarm out to take photos. Here are some sample photos that I took during the blue and golden hour to illustrate what I'm talking about.
 
-![A mosque in Tirana, Albania, during the blue hour](/images/iphone-photography/general/a-mosque-in-tirana-albania-during-the-blue-hour.webp)
+![A mosque in Tirana, Albania, during the blue hour](/images/iphone-photography/general/a-mosque-in-tirana-albania-during-the-blue-hour.webp "A mosque in Tirana, Albania, during the blue hour.")
 
-![Federal Chancellery in Berlin during the holden hour](/images/iphone-photography/general/federal-chancellery-in-berlin-during-the-holden-hour.webp)
+![Federal Chancellery in Berlin during the holden hour](/images/iphone-photography/general/federal-chancellery-in-berlin-during-the-holden-hour.webp "Federal Chancellery in Berlin during the holden hour.")
 
-![An abandoned ship in Vienna during the blue hour](/images/iphone-photography/general/an-abandoned-ship-in-vienna-during-the-blue-hour.webp)
+![An abandoned ship in Vienna during the blue hour](/images/iphone-photography/general/an-abandoned-ship-in-vienna-during-the-blue-hour.webp "An abandoned ship in Vienna during the blue hour.")
 
 ## Sequence of Light during a day
 
@@ -65,7 +65,7 @@ ProCamera App is an excellent camera app with tons of awesome features. I've bee
 
 ProCamera app comes with a free widget. From that widget, you can either launch ProCamera app in any mode, plus it displays the beginning and end of the blue hour.
 
-![ProCamera App widget with blue hour timings](/images/iphone-photography/general/procamera-app-widget-with-blue-hour-timings.webp)
+![ProCamera App widget with blue hour timings](/images/iphone-photography/general/procamera-app-widget-with-blue-hour-timings.webp "ProCamera App widget with blue hour timings.")
 
 To use this ProCamera widget, make sure you have ProCamera App installed:
 
@@ -75,7 +75,7 @@ To use this ProCamera widget, make sure you have ProCamera App installed:
 
 Now, locate the ProCamera App widget you've just added. You may need to tap *Show more* icon in the upper right corner inside the widget, and it will expand, showing the time of sunrise and sunset as well as the time when the blue hour begins and ends at your current location.
 
-![Adding the ProCamera widget to your widget screen on iPhone](/images/iphone-photography/general/adding-the-procamera-widget-to-your-widget-screen-on-iphone.webp)
+![Adding the ProCamera widget to your widget screen on iPhone](/images/iphone-photography/general/adding-the-procamera-widget-to-your-widget-screen-on-iphone.webp "Adding the ProCamera widget to your widget screen on iPhone.")
 
 It's a great and simple way to determine the blue hour if you're already on site.
 
@@ -103,7 +103,7 @@ And here's how to find the beginning and end for the blue hour for any location,
 * Now, to plan ahead, tap the date in the lower-left corner and choose any future date. Tap *ok*
 * The timeline at the bottom will update with the proper timings.
 
-![Golden and Blue Hour in Sun Surveyor App](/images/iphone-photography/general/golden-and-blue-hour-in-sun-surveyor-app.webp)
+![Golden and Blue Hour in Sun Surveyor App](/images/iphone-photography/general/golden-and-blue-hour-in-sun-surveyor-app.webp "Golden and Blue Hour in Sun Surveyor App.")
 
 Now you can predict the future. At least for the proper time of sunrise, sunset, blue hour, and golden hour. One thing that Sun Surveyor doesn't do is to take into account is the weather.
 

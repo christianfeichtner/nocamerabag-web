@@ -61,47 +61,47 @@ Yes, you can visit a small part of the former military hospital complex. Specifi
 
 The hospital complex consisted of about 60 buildings. Many of them were huge, long, three-story buildings. Inside I found dozens of huge corridors with either half open or completely missing doors, broken windows and sometimes difficult but interesting light to photograph.
 
-![Huge corridor at the abandoned military hospital called Beelitz Heilstätten](/images/lost-places/germany/long-corridors-at-beelitz-heilstaetten.webp)
+![Huge corridor at the abandoned military hospital called Beelitz Heilstätten](/images/lost-places/germany/long-corridors-at-beelitz-heilstaetten.webp "Huge corridor at the abandoned military hospital called Beelitz Heilstätten.")
 
 ### The Auditorium
 
 There was not much left of the furniture at the Beelitz Heilstätten. Occasionally, I found a room that contained a few remains like this auditorium. It was used as a classroom for educating and training the staff.
 
-![Abandoned auditorium at the Beelitz Heilstätten](/images/lost-places/germany/auditorium-at-beelitz-heilstaetten.webp)
+![Abandoned auditorium at the Beelitz Heilstätten](/images/lost-places/germany/auditorium-at-beelitz-heilstaetten.webp "Abandoned auditorium at the Beelitz Heilstätten.")
 
 ### Peeling Paint
 
 What I found cool and interesting to photograph at the Beelitz Heilstätten was the peeling paint that I saw on many walls, like in this dark corner of the famous Whitney Houston House. But don’t be misled. The famous Singer Whitney Houston never performed here. The house got its name from an art performance dedicated to the famous Singer.
 
-![Paint peeling off the walls at the Beelitz Heilstätten](/images/lost-places/germany/peeling-paint-beelitz-heilstaetten.webp)
+![Paint peeling off the walls at the Beelitz Heilstätten](/images/lost-places/germany/peeling-paint-beelitz-heilstaetten.webp "Paint peeling off the walls at the Beelitz Heilstätten.")
 
 ### Decaying Structures
 
 Though exploring such a huge abandoned place is fascinating and sometimes eerie, it's also dangerous, like this window frame illustrates. It could fall off any time. So as a rule of thumb, when you enter a lost place: Always look up if there's anything that could come down and do not try to open or close doors and windows.
 
-![A window frame falling off](/images/lost-places/germany/window-frame-falling-off.webp)
+![A window frame falling off](/images/lost-places/germany/window-frame-falling-off.webp "A window frame falling off.")
 
 ### Filming Location
 
 If the Beelitz Heilstätten was used as a filming location, the parts of the building that would be visible in the film were superficially renovated. But if you’d open a door, you’d still encounter the decaying rooms behind them (PS: Sorry for the door!). To see more photos of this set, please head to my blog post about the [filming location of a Cure for Wellness](/blog/filming-location-a-cure-for-wellness).
 
-![A former filming location at the Beelitz Heilstätten](/images/lost-places/germany/beelitz-heilstaetten-filming-location.webp)
+![A former filming location at the Beelitz Heilstätten](/images/lost-places/germany/beelitz-heilstaetten-filming-location.webp "A former filming location at the Beelitz Heilstätten.")
 
 ### Dark Areas
 
 Each lost place has dark corners and rooms. So bring a flashlight to explore them and to take photos. Back then, I used flashlights from Olight to explore the Beelitz Heilstätten, but recently switched to a more powerful 12,000 lumens flashlight from Wuben. If you're curious, please check my [review of the Wuben X1 flashlight](/blog/review-wuben-x1-falcon-flashlight). But on the other hand, you may not need a flashlight for taking photos in a lost place, because the darkness and harsh shadows can be used to compose interesting photos.
 
-![Dark corner in the basement](/images/lost-places/germany/dark-corners-beelitz-heiltaetten.webp)
+![Dark corner in the basement](/images/lost-places/germany/dark-corners-beelitz-heiltaetten.webp "Dark corner in the basement.")
 
 ### The Rooftop Forrest
 
 At the former military hospital in Beelitz, you’ll also encounter a building with an entire forest growing on the roof! The building was heavily damaged during World War II and wasn’t used by the Red Army. This building is called *Alpenhaus* and it's one of the few buildings you can still see. I wrote about it in my blog post about the [canopy walk at Beelitz Heilstätten](/blog/abandoned-beelitz-heilstaetten-canopy-walk)
 
-![Experience this rooftop forest from the Beelitz Heilstätten canopy walk](/images/lost-places/germany/rooftop-forest-alpenhaus-beelitz.webp)
+![Experience this rooftop forest from the Beelitz Heilstätten canopy walk](/images/lost-places/germany/rooftop-forest-alpenhaus-beelitz.webp "Experience this rooftop forest from the Beelitz Heilstätten canopy walk.")
 
 ## How I photographed at the Beelitz Heilstätten with my iPhone
 
-During my trips to the Beelitz Heilstätten I photographed with different iPhone models: An iPhone X, an iPhone 6s plus and an iPhone 6. The camera apps I used back then do not exist anymore. I used ProHDR and PureShot. As the iPhone was not capable of taking RAW photos back then, I used PureShot to save the photos in the lossless TIFF format. Today, I’d definitely [take RAW photos with my iPhone](/blog/shoot-raw-iphone). To learn more about my iPhone photography apps and accessories I use to photograph in lost places, please head to my blog post about my [recommended iPhone camera apps](/blog/recommended-camera-apps) and [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I use.
+During my trips to the Beelitz Heilstätten I photographed with different iPhone models: An iPhone X, an iPhone 6s plus and an iPhone 6. The camera apps I used back then do not exist anymore. I used ProHDR and PureShot. As the iPhone was not capable of taking RAW photos back then, I used PureShot to save the photos in the lossless TIFF format. Today, I’d definitely [take RAW photos with my iPhone](/blog/how-to-shoot-raw-iphone/). To learn more about my iPhone photography apps and accessories I use to photograph in lost places, please head to my blog post about my [recommended iPhone camera apps](/blog/recommended-camera-apps) and [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I use.
 
 ## Is Beelitz Heilstätten worth visiting?
 

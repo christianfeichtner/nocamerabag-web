@@ -22,7 +22,7 @@ cover:
 ---
 Okay, what could anyone write about a *pen*? Quite a lot as it turns out. After I discovered the [Field Notes Notebooks](/blog/review-field-notes-notebooks), that have become an integral part of my life to jot down ideas and for travel journaling, I found the Fisher Bullet Space Pens.
 
-![Fisher Bullet Space Pens I use with my current Field Notes Travel Journal](/images/reviews/usa/fisher-bullet-space-pens-i-use-with-my-current-field-notes-t.webp)
+![Fisher Bullet Space Pens I use with my current Field Notes Travel Journal](/images/reviews/usa/fisher-bullet-space-pens-i-use-with-my-current-field-notes-t.webp "Fisher Bullet Space Pens I use with my current Field Notes Travel Journal.")
 
 Seems like for many people, who are sort of obsessed with their everyday carry, Field Notebooks and Fisher Space pens are inextricable.
 
@@ -54,7 +54,7 @@ The top two (plus one) features that made me buy it were:
 * The pen is small and when you remove the cap and put it on the back, it transforms into a full-sized pen. The lower part has a grip.
 * Fisher sells a version with a stylus that works with iPhone and that I use mainly for retouching photos on iPhone.
 
-![Bullet Space Pen size comparison (from l.t.r.): With cap on the back, normal click pen, with cap closed.](/images/reviews/usa/bullet-space-pen-size-comparison-from-l-t-r-with-cap-on.webp)
+![Bullet Space Pen size comparison (from l.t.r.): With cap on the back, normal click pen, with cap closed.](/images/reviews/usa/bullet-space-pen-size-comparison-from-l-t-r-with-cap-on.webp "Bullet Space Pen size comparison (from l.t.r.): With cap on the back, normal click pen, with cap closed.")
 
 There are like a ton of different editions of the Fisher Space Pen Bullet. It comes in different colors, and there are even some special editions like the Apollo 11 50th anniversary edition.
 

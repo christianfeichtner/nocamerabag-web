@@ -41,11 +41,11 @@ For the last few miles Google Maps told me to leave the main road and go on a di
 
 After 20 minutes or so I saw the first three residential houses; well, the remains of them to be exact. I parked the car and walked around through the high gras between those houses to take photos.
 
-![Resident House in Viivikonna](/images/lost-places/estonia/resident-house-in-viivikonna.webp)
+![Resident House in Viivikonna](/images/lost-places/estonia/resident-house-in-viivikonna.webp "Resident House in Viivikonna.")
 
-![Collapsed residential house in Viivikonna](/images/lost-places/estonia/decayed-house-viivikonna.webp)
+![Collapsed residential house in Viivikonna](/images/lost-places/estonia/decayed-house-viivikonna.webp "Collapsed residential house in Viivikonna.")
 
-![Ruin in Viivikonna](/images/lost-places/estonia/ruin-in-viivikonna.webp)
+![Ruin in Viivikonna](/images/lost-places/estonia/ruin-in-viivikonna.webp "Ruin in Viivikonna.")
 
 But before we continue, let‘s define the term „Ghost Town“ together. I believe we can agree on the following criteria:
 
@@ -55,13 +55,13 @@ But before we continue, let‘s define the term „Ghost Town“ together. I bel
 
 So, after I took the first set of photos, I drove further into the town. To photograph old storage units, I parked my car near something that looked like an old bus stop.
 
-![Suspicious Lock in Viivikonna](/images/lost-places/estonia/suspicious-lock-in-viivikonna.webp)
+![Suspicious Lock in Viivikonna](/images/lost-places/estonia/suspicious-lock-in-viivikonna.webp "Suspicious Lock in Viivikonna.")
 
 After looking closely, I saw something suspicious on this photo. Can you spot it too? Look at the lock on the first gate. That lock on the first gate looks quite new! I thought that this was a little strange but didn‘t investigate further and walked back to my car. You remember that I parked it near something that looked like a bus stop, right? It was a bus stop and an old man with a plastic bag sat there. Once he saw me, he walked up to me and I used Bing Translator to explain what I‘m doing here. He just smiled. I still wonder if he smiled because I used a translation app on an iPhone or because of the translation.
 
 Next, I drove a little further into the city. And again, I encountered something suspicious. Look at the lawn! That‘s not something you‘d expect in a ghost town, do you?
 
-![Maintained lawn in Viivikonna](/images/lost-places/estonia/maintained-lawn-in-viivikonna.webp)
+![Maintained lawn in Viivikonna](/images/lost-places/estonia/maintained-lawn-in-viivikonna.webp "Maintained lawn in Viivikonna.")
 
 A few seconds later, I saw a kid on his bike. Another few moments later I spotted a parked car between the houses and even more moments later, a pickup truck with four people came down the road. They didn‘t care much about me either.
 
@@ -71,11 +71,11 @@ I drove along a few more streets and encountered the same situation everywhere. 
 
 In respect of the inhabitants I left the town and on my way out I spotted a ruin right near the city limits of Viivikonna. I‘ve no idea what this place was. There‘s a beaten path right near this building that takes you past it and revealed two more ruins. Be careful if you walk inside that former four-storied building. Some of the upper floors have already collapsed and the debris can be found on the ground floor.
 
-![Large ruin in Viivikonna](/images/lost-places/estonia/large-ruin-in-viivikonna.webp)
+![Large ruin in Viivikonna](/images/lost-places/estonia/large-ruin-in-viivikonna.webp "Large ruin in Viivikonna.")
 
-![Inside one of there decayed buildings in Viivikonna](/images/lost-places/estonia/inside-one-of-there-decayed-buildings-in-viivikonna.webp)
+![Inside one of there decayed buildings in Viivikonna](/images/lost-places/estonia/inside-one-of-there-decayed-buildings-in-viivikonna.webp "Inside one of there decayed buildings in Viivikonna.")
 
-![Side building ruin in Viivikonna](/images/lost-places/estonia/side-building-ruin-in-viivikonna.webp)
+![Side building ruin in Viivikonna](/images/lost-places/estonia/side-building-ruin-in-viivikonna.webp "Side building ruin in Viivikonna.")
 
 So, Viivikonna is clearly not a ghost town. It’s still inhabited. Allegedly around 50-90 people, mostly elderly, still live there. I can‘t image how living in a 90% decayed city is.
 
@@ -83,6 +83,6 @@ So if you plan to go to Viivikonna, show respect to the people that still (have 
 
 The best places to see and photograph decayed buildings in Viivikonna are near the city limits.
 
-And don't forget to drop by [Kolga Manor](/blog/abandoned-kolga-manor-a-beautiful-lost-place-in-estonia) on your way back to Tallinn.
+And don't forget to drop by [Kolga Manor](/blog/abandoned-kolga-manor-estonia/) on your way back to Tallinn.
 
 And finally, here's some of the stuff and gear I use to explore and photograph in lost places like this one.

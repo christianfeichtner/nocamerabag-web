@@ -77,7 +77,7 @@ Alternatively, you can also get around hop-on-hop-off buses. They’ll take you 
 
 The 44 Montgomery building is a skyscraper in the financial district of San Francisco, close to the Transamerica pyramid. It’s a great photo spot for black and white fine art photography.
 
-![Fine Art edit of a skyscraper in San Francisco](/images/cityscapes/usa/skyscraper.webp)
+![Fine Art edit of a skyscraper in San Francisco](/images/cityscapes/usa/skyscraper.webp "Fine Art edit of a skyscraper in San Francisco.")
 
 If you’re using Adobe Lightroom Mobile like I do, you may want to check my tutorial about [how to convert photos to black and white in Lightroom Mobile](/blog/how-to-convert-to-black-and-white-in-lightroom-mobile).
 
@@ -87,7 +87,7 @@ You’ll find a lot more photo opportunities if you walk around the streets in t
 
 This is one of my favorite photo spots in San Francisco. The 400-foot long beach is located on the west side of Tomalas Bay. You can reach it by foot in just 15–20 minutes from the Golden Gate Bridge. A small sign and a few stairs will take you down to the beach from the top of the bay.
 
-![Marshall’s Beach San Francisco](/images/cityscapes/usa/marshalls-beach-san-francisco.webp)
+![Marshall’s Beach San Francisco](/images/cityscapes/usa/marshalls-beach-san-francisco.webp "Marshall’s Beach San Francisco.")
 
 The top of the stairs is the first photo opportunity at this photo spot. Marshall’s Beach forms a perfect line towards the Golden Gate Bridge. So take this opportunity to practice [using leading lines in photography](/blog/what-are-leading-lines-photography).
 
@@ -97,13 +97,13 @@ Allegedly, Mark Twain once said that the coldest winter he ever spent was a summ
 
 This is not a specific photo spot. But when you stroll around in San Francisco, keep an eye open for all these old buildings with the iconic fire escape stairs. You’ll find lots of them in San Francisco.
 
-![Fire Escape Stairs](/images/cityscapes/usa/fire-escape-stairs-san-francisco.webp)
+![Fire Escape Stairs](/images/cityscapes/usa/fire-escape-stairs-san-francisco.webp "Fire Escape Stairs.")
 
 ### Alcatraz Island (“The Rock”)
 
 Alcatraz Island also known as “the Rock” was a United States federal prison. After it closed in 1963, the island was abandoned. So if you ever wanted to visit a lost place, this is your chance. You’ll find plenty of tours that depart regularly, e.g. from Fisherman's Wharf or nearby.
 
-![Prison Cells on Alcatraz Island](/images/cityscapes/usa/alcatraz-pirson-cells.webp)
+![Prison Cells on Alcatraz Island](/images/cityscapes/usa/alcatraz-pirson-cells.webp "Prison Cells on Alcatraz Island.")
 
 Tip: Make sure to book your tickets for Alcatraz in advance. They sell out quickly!
 
@@ -113,7 +113,7 @@ The Golden Gate Bridge is probably the most iconic photo spot in San Francisco. 
 
 Another great way is to walk across the bridge, especially in the morning, when the towers of the Golden Gate Bridge are in the clouds. I bet you can get some cool photos this way.
 
-![Golden Gate Bridge photographed during a boat tour](/images/cityscapes/usa/golden-gate-bridge-boat-tour.webp)
+![Golden Gate Bridge photographed during a boat tour](/images/cityscapes/usa/golden-gate-bridge-boat-tour.webp "Golden Gate Bridge photographed during a boat tour.")
 
 Lastly, take a boat tour in the San Francisco Bay. Longer tours will pass directly under the bridge. You’ll have plenty of time to photograph the bridge while approaching it. The tour boats seem to attract seagulls; maybe because people feed them. Try to make them a part of your photo. They usually fly steadily and close to the boats.
 
@@ -121,7 +121,7 @@ Lastly, take a boat tour in the San Francisco Bay. Longer tours will pass direct
 
 Located in the Marina District of San Francisco, the Palace of Fine Arts is a monumental building next to a lake. It was built in 1915 for the Panama-Pacific International Exposition.
 
-![Palace of Fine Arts in San Francisco](/images/cityscapes/usa/palace-of-fine-arts.webp)
+![Palace of Fine Arts in San Francisco](/images/cityscapes/usa/palace-of-fine-arts.webp "Palace of Fine Arts in San Francisco.")
 
 What you can try here is to capture the monumental building with the lake in the foreground using a long exposure. This way, you can flatten the lake, which may result in a fantastic reflection of the building. For such a long exposure, you can either try to the scene using Live Photos and then [convert your Live Photo into a long exposure](/blog/live-photo-to-long-exposure). Alternatively, you can use one of the other ways I use to [take long exposure photos with iPhone](/blog/long-exposure-iphone-apps).
 
@@ -129,7 +129,7 @@ What you can try here is to capture the monumental building with the lake in the
 
 This Art Deco Tower was built in the 1930s to beautify San Francisco. From the top of Telegraph Hill, you’ll also enjoy a great view over San Francisco.
 
-![Coit Tower San Francisco](/images/cityscapes/usa/coit-tower-san-francisco.webp)
+![Coit Tower San Francisco](/images/cityscapes/usa/coit-tower-san-francisco.webp "Coit Tower San Francisco.")
 
 ## Summary
 

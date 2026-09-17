@@ -22,7 +22,7 @@ Many photographers don't like noise in their photos; unless you want to create a
 
 Whenever you take a photo with the iPhone and save it as JPEG or HEIC, the camera app automatically applies noise reduction to enhance your photo.
 
-But when you [shoot RAW on iPhone](/blog/shoot-raw-iphone), the camera leaves developing the photo entirely to you, and that includes noise reduction! And that's the sense of the matter when shooting RAW; that you can develop your picture in your style.
+But when you [shoot RAW on iPhone](/blog/how-to-shoot-raw-iphone/), the camera leaves developing the photo entirely to you, and that includes noise reduction! And that's the sense of the matter when shooting RAW; that you can develop your picture in your style.
 
 So, in this tutorial, I'll walk you through the noise reduction adjustments in [Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium) and will provide a few tips along the way. As an example, I've chosen a photo that contains quite a hefty amount of noise to illustrate the process.
 
@@ -57,7 +57,7 @@ In the sample photo below, you'll see the two different types of noise that can 
 
 Second, there's also quite a bit of luminance noise in the photo, that's mainly visible in the surrounding sky and the tower.
 
-![Noisy Photo in Lightroom Mobile](/images/tutorials/usa/noisy-photo-in-lightroom-mobile.webp)
+![Noisy Photo in Lightroom Mobile](/images/tutorials/usa/noisy-photo-in-lightroom-mobile.webp "Noisy Photo in Lightroom Mobile.")
 
 As you can see from the screenshot, I've reduced sharpness, color noise reduction, and luminance noise reduction to zero.
 
@@ -67,11 +67,11 @@ Now, let's fix this.
 
 I'll start with the color noise, as this is the most visible noise here. If you have a close look the noise reduction sliders in Lightroom, their default value is actually not zero. There's a small grey area in each of these sliders. The end of this area is the default value for noise reduction, which is 25 for color noise and 10 for luminance noise.
 
-![Color Noise Slider in Lightroom Mobile](/images/tutorials/usa/color-noise-slider-in-lightroom-mobile.webp)
+![Color Noise Slider in Lightroom Mobile](/images/tutorials/usa/color-noise-slider-in-lightroom-mobile.webp "Color Noise Slider in Lightroom Mobile.")
 
 To fix color noise, double tap on the slider knob, and it will go to the default value of 25. Boom. Color Noise fixed. If there's still color noise visible, then gradually increase the value of the slider but continuously look at your image, so you don't kill the details.
 
-![Color Noise fixed Lightroom Mobile](/images/tutorials/usa/color-noise-fixed-lightroom-mobile.webp)
+![Color Noise fixed Lightroom Mobile](/images/tutorials/usa/color-noise-fixed-lightroom-mobile.webp "Color Noise fixed Lightroom Mobile.")
 
 But there are two more sliders for luminance noise. The detail slider will protect fine edges in the photo and is especially useful if you're de-noising a photo with a decent amount of texture. For this sample image, the slider has almost no effect as the church tower does not have that much texture.
 
@@ -89,21 +89,21 @@ If the slider does not have any effect if you move it, then Lightroom could not 
 
 Now for the more difficult part, which is to reduce the luminance noise. Just look at what happens if you move the luminance de-noise slider to the right. No noise! But also no detail. So moving the luminance slider to the right will kill detail in your photo.
 
-![Luminance Noise Slider in Lightroom Mobile](/images/tutorials/usa/luminance-noise-slider-in-lightroom-mobile.webp)
+![Luminance Noise Slider in Lightroom Mobile](/images/tutorials/usa/luminance-noise-slider-in-lightroom-mobile.webp "Luminance Noise Slider in Lightroom Mobile.")
 
 So for this photo, I'll adjust the slider to 35. When working with the luminance noise reduction, always zoom-in (when changing the slider) and then zoom-out to see the results. But don't forget that you're editing on a small screen! While the noise may not be visible on the iPhone or even iPad, you may still see it when printing the photo or viewing it on a large TV. So, maybe set it slightly (like five or so) higher than you would do if you'd only edit the photo for iPad or iPhone.
 
-![Luminance Noise Slider in Lightroom set to 35](/images/tutorials/usa/luminance-noise-slider-in-lightroom-set-to-35.webp)
+![Luminance Noise Slider in Lightroom set to 35](/images/tutorials/usa/luminance-noise-slider-in-lightroom-set-to-35.webp "Luminance Noise Slider in Lightroom set to 35.")
 
 Next, let's bring back some details. You're right, that's what we use the details slider for. But if you move the slider to the right, you'll recover some details but also bring back some noise. So you have to experiment and see what's a good combination of the denoise and of the details slider. For this photo, I set the details slider to 75.
 
-![Luminance Detail Slider set to 75](/images/tutorials/usa/luminance-detail-slider-set-to-75.webp)
+![Luminance Detail Slider set to 75](/images/tutorials/usa/luminance-detail-slider-set-to-75.webp "Luminance Detail Slider set to 75.")
 
 The contrast slider protects contrast at the edges. Again, it comes at the price of noise reduction. The more you move the slider to the right, the more contrast (and noise) you'll bring back.
 
 And so here's the final photo with noise reduction and sharpness applied.
 
-![Final Photo with noise reduction applied](/images/tutorials/usa/final-photo-with-noise-reduction-applied.webp)
+![Final Photo with noise reduction applied](/images/tutorials/usa/final-photo-with-noise-reduction-applied.webp "Final Photo with noise reduction applied.")
 
 ## Tips for Noise Reduction in Lightroom Mobile
 

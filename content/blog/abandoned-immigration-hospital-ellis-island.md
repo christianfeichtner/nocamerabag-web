@@ -49,33 +49,33 @@ Yes, the Hard Hat Tour is absolutely safe. You’ll be accompanied by a guide al
 
 You’ll experience long corridors with broken windows to the left and right in the abandoned Immigration Hospital. Usually, the guide stops the crowd so that everyone has a chance to take a photo. If not, just follow the crowd as the last person and take a photo in the direction you came from. That helps to avoid people running into your photo.
 
-![One of the endless long corridors of the abandoned Immigrant Hospital at Ellis Island](/images/lost-places/usa/hallway-immigration-hospital.webp)
+![One of the endless long corridors of the abandoned Immigrant Hospital at Ellis Island](/images/lost-places/usa/hallway-immigration-hospital.webp "One of the endless long corridors of the abandoned Immigrant Hospital at Ellis Island.")
 
-![Not so long corridor with stairs](/images/lost-places/usa/another-hallway-abandoned-immigration-hospital-ellis-island.webp)
+![Not so long corridor with stairs](/images/lost-places/usa/another-hallway-abandoned-immigration-hospital-ellis-island.webp "Not so long corridor with stairs.")
 
 ### Hospital Rooms
 
 You’ll also see a few hospital rooms like the one in the next photo. Again, be the last one in the crowd and take your photo once the crowd left.
 
-![If only that furniture could tell what it has seen](/images/lost-places/usa/sick-room-ellis-island.webp)
+![If only that furniture could tell what it has seen](/images/lost-places/usa/sick-room-ellis-island.webp "If only that furniture could tell what it has seen.")
 
 ### Autopsy Room
 
 The autopsy room was definitely the most eerie room. You’ll see the box, where they kept dead people. To get a good photo of this room, take it from the middle of the stairs at the back of the room.
 
-![Autopsy room at the abandoned Immigrant Hospital at Ellis Island](/images/lost-places/usa/morgue-abandoned-immigration-hospital-ellis-island.webp)
+![Autopsy room at the abandoned Immigrant Hospital at Ellis Island](/images/lost-places/usa/morgue-abandoned-immigration-hospital-ellis-island.webp "Autopsy room at the abandoned Immigrant Hospital at Ellis Island.")
 
 ### Doors with Stairs behind it
 
 During your tour, you’ll pass by a few half open doors with stairs behind it. This is a great photo spot at the abandoned Immigration Hospital. Please mind, that you don’t have much space here to zoom out with your feet. So you may want to use the ultra-wide lens of your iPhone to capture the door fully. But you may need to fix barrel distortion afterwards. Luckily, there are a number of [iPhone apps that help you to fix perspective distortions](/blog/fix-perspective-distortions-iphone-apps).
 
-![Lots of rusty doors there. Unfortunately, the upper floor is off limits.](/images/lost-places/usa/door-with-stairs.webp)
+![Lots of rusty doors there. Unfortunately, the upper floor is off limits.](/images/lost-places/usa/door-with-stairs.webp "Lots of rusty doors there. Unfortunately, the upper floor is off limits.")
 
 ### Bathrooms
 
 There are some special bathrooms at the abandoned Immigration Hospital, which you’ll see during your hard hat tour. They have mirrors which reflect the Statue of Liberty if photographed from the right angle.
 
-![Bathroom with mirror reflecting the Statue of Liberty](/images/lost-places/usa/bath-room-with-statue-of-libery-reflection.webp)
+![Bathroom with mirror reflecting the Statue of Liberty](/images/lost-places/usa/bath-room-with-statue-of-libery-reflection.webp "Bathroom with mirror reflecting the Statue of Liberty.")
 
 ## How I photographed inside the Ellis Island Immigrant Hospital
 

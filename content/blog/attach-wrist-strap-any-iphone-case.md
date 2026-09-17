@@ -36,7 +36,7 @@ But I found something else that enables you to attach a wrist strap to almost an
 
 What I found doesn’t have any brand or official product name yet. Some call it silicone phone case inlays. Others call it a Cellphone lanyard tether tab. Others simply call it phone tether tabs. But let’s take a look at a photo:
 
-![Average iPhone case with tether tab to attach a wrist strap](/images/reviews/general/phone-case-with-tether-tab.webp)
+![Average iPhone case with tether tab to attach a wrist strap](/images/reviews/general/phone-case-with-tether-tab.webp "Average iPhone case with tether tab to attach a wrist strap.")
 
 At the bottom of the case, you place these tiny, flat (and in my case black) pads and slide the small tab through the charging opening port of your iPhone case. Some tether tabs come with an adhesive that allows you to more securely attach them to your case. Throughout my research, I found phone tether tabs made of silicone and others from alternative materials such as Oxford fabric.
 

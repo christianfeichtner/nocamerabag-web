@@ -42,17 +42,17 @@ Kruunuvuori Is a 30 minute bus ride from the city centre of Helsinki. Once I arr
 
 After a 20 minute hike that lead me past a small lake I arrived at the first abandoned house; or what was left of it. I call this one the "0.5 house".
 
-![](/images/lost-places/finland/kruunuvuori-ghost-town-finnland.webp)
+![](/images/lost-places/finland/kruunuvuori-ghost-town-finnland.webp "”The 0.5 house” in Kruunuvuori, Helsinki, Finland.")
 
-I used[ProCamera](/blog/procamera-app-review) with ISO set to 50 to avoid noise and set to save the photos in [RAW format](/blog/shoot-raw-iphone). I continued along the trail and got to the second house a few minutes later. This one is still completely intact. It was built on stilts and the stairs were gone. But if you’re sporty (which I’m not) I’m sure you can find a way to enter the house through the main entrance. A small platform with the main entrance is at a height of approx 6.5 feet.
+I used[ProCamera](/blog/procamera-app-review) with ISO set to 50 to avoid noise and set to save the photos in [RAW format](/blog/how-to-shoot-raw-iphone/). I continued along the trail and got to the second house a few minutes later. This one is still completely intact. It was built on stilts and the stairs were gone. But if you’re sporty (which I’m not) I’m sure you can find a way to enter the house through the main entrance. A small platform with the main entrance is at a height of approx 6.5 feet.
 
-![An abandoned villa in Kruunuvuori, Helsinki, Finland](/images/lost-places/finland/an-abandoned-villa-in-kruunuvuori-helsinki-finland.webp)
+![An abandoned villa in Kruunuvuori, Helsinki, Finland](/images/lost-places/finland/an-abandoned-villa-in-kruunuvuori-helsinki-finland.webp "An abandoned villa in Kruunuvuori, Helsinki, Finland.")
 
 After taking some more shots using [ProCamera](/blog/procamera-app-review), I headed back. On the way I met a Finnish guy and his dog. I asked him if there are any more houses left here. He told me, that all but the two I already found were either torn or burned down during the last years. But he told me about a place where another (now gone) house was located and that I'd have a nice view over the sea and Helsinki but I'd need to go through the covert.
 
 So I switched to Indiana Jones mode and left the beaten path (who wouldn't?). After I few minutes I reached a small hill with some overgrown stone stairs. I went up there. This house that was previously located here was probably the most expensive one. It had probably the best view of all.
 
-![Remains of a house in Kruunuvuori, Helsinki, Finnland](/images/lost-places/finland/remains-of-a-house-in-kruunuvuori-helsinki-finnland.webp)
+![Remains of a house in Kruunuvuori, Helsinki, Finnland](/images/lost-places/finland/remains-of-a-house-in-kruunuvuori-helsinki-finnland.webp "Remains of a house in Kruunuvuori, Helsinki, Finnland.")
 
 So, in total, I found 1 house that was completely intact, a halfway burned down house (+0.5) and a few relics of a third one (+0.01). So in total I found 1.51 abandoned houses. Not bad.
 
@@ -60,7 +60,7 @@ So, in total, I found 1 house that was completely intact, a halfway burned down 
 
 On my way back to the bus station I found some more leftovers of the former inhabitants, which brings me back to the Indiana Jones thing. If you go there, wear sturdy shoes. The place is quite swampy.
 
-![Abandoned trail in Kruunuvuori, Helsinki, Finnland](/images/lost-places/finland/abandoned-trail-in-kruunuvuori-helsinki-finnland.webp)
+![Abandoned trail in Kruunuvuori, Helsinki, Finnland](/images/lost-places/finland/abandoned-trail-in-kruunuvuori-helsinki-finnland.webp "Abandoned trail in Kruunuvuori, Helsinki, Finnland.")
 
 While I waited for the bus, I flipped through the photos I took on my iPhone and deleted those I didn't want to keep. During the bus ride back to the city, I developed the remaining shots using Adobe Lightroom Mobile.
 

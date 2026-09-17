@@ -23,7 +23,7 @@ Before the outbreak of the Covid-19 Pandemic, I spent a few days in my hometown 
 
 Austria, which was annexed by Germany in 1938, was out of range of allied bombers until 1943. That changed once the allies occupied Italy. Suddenly, Austria was in the range of allied bombers. So the Germans ordered to build an air-raid shelter in Linz by connecting various century-old wine- and beer-cellars located inside a hill in Linz.
 
-![Former wine cellar at the Limonitunnel](/images/lost-places/austria/former-wine-cellar-at-the-limonitunnel.webp)
+![Former wine cellar at the Limonitunnel](/images/lost-places/austria/former-wine-cellar-at-the-limonitunnel.webp "Former wine cellar at the Limonitunnel.")
 
 The resulting bunker should provide protection for more than 20.000 people and is known as the Limonitunnel ("Limonistollen" in German).
 
@@ -63,17 +63,17 @@ Though the tunnel is partially electrified, I found a few spots that weren't, an
 
 The tunnel itself is huge and in some areas up to 10 feet high.
 
-![The Limonitunnel ist quite. huge in some areas](/images/lost-places/austria/the-limonitunnel-ist-quite-huge-in-some-areas.webp)
+![The Limonitunnel ist quite. huge in some areas](/images/lost-places/austria/the-limonitunnel-ist-quite-huge-in-some-areas.webp "The Limonitunnel ist quite. huge in some areas.")
 
 During your tour, you'll also see the remains of the old airflow system
 
-![Remains of the old air flow system at the Limonitunnel](/images/lost-places/austria/remains-of-the-old-air-flow-system-at-the-limonitunnel.webp)
+![Remains of the old air flow system at the Limonitunnel](/images/lost-places/austria/remains-of-the-old-air-flow-system-at-the-limonitunnel.webp "Remains of the old air flow system at the Limonitunnel.")
 
 When I was young, I knew someone who owned a part of the tunnel and provided a personal tour. I remember seeing some machines from World War II stuck in the rocks and a few rooms where the forced laborers had to sleep. I bet you can imagine where these forced laborers came from.
 
 Speaking of unfinished parts: here's such a tunnel that was never finished and that you'll see during your tour.
 
-![Unfinished tunnel](/images/lost-places/austria/unfinished-tunnel.webp)
+![Unfinished tunnel](/images/lost-places/austria/unfinished-tunnel.webp "Unfinished tunnel.")
 
 ## Summary
 

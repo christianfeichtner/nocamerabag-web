@@ -42,11 +42,11 @@ Let's discuss each of the above requirements one by one.
 
 The packaging makes the S1R flashlight look bigger than it actually is because the bottom of the packaging contains the charging cable, clip, pouch, and the wrist strap.
 
-![Olight S1R Baton I Packaging](/images/reviews/general/olight-s1r-baton-i-packaging.webp)
+![Olight S1R Baton I Packaging](/images/reviews/general/olight-s1r-baton-i-packaging.webp "Olight S1R Baton I Packaging.")
 
 The Olight S1R flashlight is really small. With a length of 2.59 inches, it's the size of my little finger, and its diameter is smaller than a 10 (Dollar) cent coin. The entire flashlight fits in the palm of my hand. That small form factor makes it a perfect Everyday Carry flashlight that doesn't add much bulk if you carry it in your trousers or the pocket of your jacket.
 
-![Olight S1R Baton I size](/images/reviews/general/olight-s1r-baton-i-size.webp)
+![Olight S1R Baton I size](/images/reviews/general/olight-s1r-baton-i-size.webp "Olight S1R Baton I size.")
 
 With the included clip, you can attach it to all kinds of pockets, be it your trousers, inside your jacket, or in a pocket in my [Osprey Farpoint carry-on compliant backpack](/blog/review-osprey-farpoint-40-carry-on-backpack).
 
@@ -106,7 +106,7 @@ But in the basic version of the Olight S1R that I bought, I found the following:
 * An original Olight wrist strap
 * Charging Cable
 
-![Olight S1R Baton I Box contents](/images/reviews/general/olight-s1r-baton-i-box-contents.webp)
+![Olight S1R Baton I Box contents](/images/reviews/general/olight-s1r-baton-i-box-contents.webp "Olight S1R Baton I Box contents.")
 
 ## What's the difference between the Olight S1R Baton I and the Olight S1R Baton II?
 
