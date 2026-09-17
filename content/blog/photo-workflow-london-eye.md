@@ -17,7 +17,7 @@ cover:
   image: /images/tutorials/england/london-eye-long-exposure.webp
   alt: 'iPhone Workflow Tutorial: "The London Eye"'
 ---
-It's been a while since I took this photo of the London Eye. I shot it back in 2015 using an iPhone 6 Plus during a [nightly photo walk in London](/blog/tutorial-iphone-night-photography-in-london).
+It's been a while since I took this photo of the London Eye. I shot it back in 2015 using an iPhone 6 Plus during a [nightly photo walk in London](/blog/photo-spots-london/).
 
 In this blog post, I'll share my thoughts about how and why I composed the photo this way, which apps I used to photograph it and how I edited it.
 
@@ -35,7 +35,7 @@ After a bit of zooming in and out with my feet, I found the perfect angle.
 
 ## Taking a long exposure of the London Eye
 
-Because the London Eye spins really slow, my only option was to use [Slow Shutter Cam App](/blog/review-slow-shutter-cam-app) to shoot a long exposure of the Ferris Wheel - and back then, all the other options to take a [long exposure with iPhone](/blog/long-exposure-iphone) were not available.
+Because the London Eye spins really slow, my only option was to use [Slow Shutter Cam App](/blog/review-slow-shutter-cam-app) to shoot a long exposure of the Ferris Wheel - and back then, all the other options to take a [long exposure with iPhone](/blog/long-exposure-iphone-apps/) were not available.
 
 I set Slow Shutter Cam App to *motion blur* mode and mounted the iPhone to my AmazonBasics Travel Tripod, that I've replaced meanwhile with one from Rollei. See why I chose this one in my [Rollei Compact Traveller No. 1 Review](/blog/review-rollei-compact-traveller-no-1-carbon-tripod).
 
@@ -71,6 +71,6 @@ In a later re-edit using [Lightroom Mobile Premium](/blog/review-adobe-lightroom
 
 Slow Shutter Cam App is still my favorite app when it comes to taking long exposures - during the day and the night. With *bulb* mode, you can open the shutter as long as you like and watch the photo develop on the screen.
 
-For further reading, read the post about [how to take a long exposure with iPhone](/blog/long-exposure-iphone) or read the blog post about how to do [iPhone night photography](/blog/night-photography-iphone).
+For further reading, read the post about [how to take a long exposure with iPhone](/blog/long-exposure-iphone-apps/) or read the blog post about how to do [iPhone night photography](/blog/night-photography-iphone-apps/).
 
-You'll also find some [iPhone Photography workflow](/blog/tag/Workflow) articles in the blog where I explain my thoughts and how I photographed some of my best photos with iPhone.
+You'll also find some [iPhone Photography workflow](/blog/workflow/) articles in the blog where I explain my thoughts and how I photographed some of my best photos with iPhone.

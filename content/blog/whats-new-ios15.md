@@ -172,7 +172,7 @@ Since the latest beta, there's also a button in the lower right corner of a phot
 
 ### Visual Lookup helps you to identify objects in your photos
 
-One feature that I couldn't test yet is visual lookup. Though visual lookup was announced at the WWDC it's only available in a few countries as of iOS 15.4 (Mai 2022); for example it does not yet work in Austria. But during a recent trip to Germany, during which I visited an [abandoned amusement park in Berlin](/blog/spreepark-berlin), I could use and test Visual Lookup and it worked pretty okay for plants, animals and landmarks.
+One feature that I couldn't test yet is visual lookup. Though visual lookup was announced at the WWDC it's only available in a few countries as of iOS 15.4 (Mai 2022); for example it does not yet work in Austria. But during a recent trip to Germany, during which I visited an [abandoned amusement park in Berlin](/blog/abandoned-spreepark-berlin/), I could use and test Visual Lookup and it worked pretty okay for plants, animals and landmarks.
 
 There is not way to turn on Visual Lookup. If you can't use it, Apple has to enable it for your country. Please refer to Apple's [list of countries where Visual Lookup is available](https://www.apple.com/ios/feature-availability/#visual-look-up-visual-look-up)
 

@@ -52,7 +52,7 @@ You’ll find human-made leading lines basically everywhere in a city. I used th
 
 ### Light as a leading line
 
-You may know this photo from my blog post about [how to use the framing technique](/blog/photo-framing-techniques). It uses light as a leading line to guide the viewer from the bright opening at the top of the frame towards the old dentist’s chair. The edges of the light cone from the window act as diverging guiding lines to draw the attention of the viewer to the chair.
+You may know this photo from my blog post about [how to use the framing technique](/blog/what-is-framing-photography/). It uses light as a leading line to guide the viewer from the bright opening at the top of the frame towards the old dentist’s chair. The edges of the light cone from the window act as diverging guiding lines to draw the attention of the viewer to the chair.
 
 ![The contrast between light and shadow as diverging leading lines](/images/tutorials/usa/light-as-a-guideing-line.webp "The contrast between light and shadow as diverging leading lines.")
 
@@ -98,4 +98,4 @@ And finally, if there are too many leading lines in a scene, use that to your ad
 
 ## Summary
 
-Leading lines are a great photo composition technique that will draw the attention of the viewer to a main subject or concept. They don’t have to be straight and you can use almost anything you’ll find in nature or in a city as leading lines. And once you've mastered using leading lines, check my blog post about another important composition technique: [how to use framing in photography](/blog/photo-framing-techniques).
+Leading lines are a great photo composition technique that will draw the attention of the viewer to a main subject or concept. They don’t have to be straight and you can use almost anything you’ll find in nature or in a city as leading lines. And once you've mastered using leading lines, check my blog post about another important composition technique: [how to use framing in photography](/blog/what-is-framing-photography/).

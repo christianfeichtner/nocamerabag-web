@@ -77,7 +77,7 @@ Next was the Mandalay Bay Resorts with its beautiful surroundings.
 
 ![Mandalay Bay Las Vegas shot on iPhone 5](/images/cityscapes/usa/mandalay-bay-las-vegas-shot-on-iphone-5.webp "Mandalay Bay Las Vegas shot on iPhone 5.")
 
-Finally, on this day, I tried to get an acceptable photo at night using the iPhone. Back then, there was no [iPhone night mode](/blog/iphone-night-mode-camera) and no special apps for [night photography with iPhone](/blog/night-photography-iphone). So I took this one using the built-in camera and applied noise reduction in [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium).
+Finally, on this day, I tried to get an acceptable photo at night using the iPhone. Back then, there was no [iPhone night mode](/blog/iphone-night-mode-camera) and no special apps for [night photography with iPhone](/blog/night-photography-iphone-apps/). So I took this one using the built-in camera and applied noise reduction in [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium).
 
 ![Mirage Vulcano shot at night using iPhone 5](/images/cityscapes/usa/mirage-vulcano-shot-at-night-using-iphone-5.webp "Mirage Vulcano shot at night using iPhone 5.")
 
@@ -93,7 +93,7 @@ And finally, here's the Mirage in Las Vegas during the daytime.
 
 ![Mirage Las Vegas shot on iPhone 6 Plus](/images/cityscapes/usa/mirage-las-vegas-shot-on-iphone-6-plus.webp "Mirage Las Vegas shot on iPhone 6 Plus.")
 
-For this photo, I originally used SKRWT to fix the [perspective distortion on my iPhone](/blog/fix-perspective-distortions-iphone). Today and in such light conditions, I'd most likely use the [automatic perspective correction in ProCamera App](/blog/review-auto-perspective-correction-in-procamera-app).
+For this photo, I originally used SKRWT to fix the [perspective distortion on my iPhone](/blog/fix-perspective-distortions-iphone-apps/). Today and in such light conditions, I'd most likely use the [automatic perspective correction in ProCamera App](/blog/review-auto-perspective-correction-in-procamera-app).
 
 And finally, a night photo taken with iPhone of the Eiffel Tower in Las Vegas. That's a great place to get a view over the city and to photograph the Fountains of Bellagio from above.
 

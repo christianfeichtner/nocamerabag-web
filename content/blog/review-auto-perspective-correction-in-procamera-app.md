@@ -88,6 +88,6 @@ Last, auto perspective mode does not apply when shooting in RAW. As the name “
 
 Fixing perspective distortion in ProCamera is a fantastic feature, and you‘ll bet that I will use it quite often.
 
-However, it won‘t yet replace one of my favorite [photo perspective correction apps](/blog/fix-perspective-distortions-iphone), SKRWT, because it's the only app that can properly fix barrel distortions from the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
+However, it won‘t yet replace one of my favorite [photo perspective correction apps](/blog/fix-perspective-distortions-iphone-apps/), SKRWT, because it's the only app that can properly fix barrel distortions from the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
 
 If you haven't downloaded ProCamera yet, you can [get ProCamera App from the App Store](aff:procamera-app).

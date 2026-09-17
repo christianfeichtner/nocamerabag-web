@@ -151,6 +151,6 @@ Field Notes Memo Books are just the perfect size for everyday use and for travel
 
 You can get different editions of the [Field Notes Memo Books on Amazon](affiliates://field-notes-memo-books) or directly from the [Field Notes Brand](https://fieldnotesbrand.com) website.
 
-Now, please excuse me. I've to prepare my next trip to [Budapest](/blog/5-photo-spots-in-budapest-to-visit-during-the-day-and-night), Hungary, and need to write down the essential travel information in my Field Notes Memo Book.
+Now, please excuse me. I've to prepare my next trip to [Budapest](/blog/photo-spots-budapest/), Hungary, and need to write down the essential travel information in my Field Notes Memo Book.
 
 See you there!

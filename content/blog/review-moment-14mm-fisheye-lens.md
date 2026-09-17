@@ -64,7 +64,7 @@ It comes with a small carrying pouch and a lens cap (Thanks Moment that you incl
 
 ## Mounting the Moment Fisheye Lens to your iPhone
 
-To mount any Moment lens to your iPhone, you need one of the affordable cases ([Read my review about the Moment cases here](/blog/review-moment-photo-cases)). Using a dedicated case is a way better solution than the old one where you had to attach a small plate with an adhesive to your iPhone.
+To mount any Moment lens to your iPhone, you need one of the affordable cases ([Read my review about the Moment cases here](/blog/review-moment-photo-case/)). Using a dedicated case is a way better solution than the old one where you had to attach a small plate with an adhesive to your iPhone.
 
 What makes the Moment cases so great is that you can add a wrist strap! I've been wanting for such a case with a wrist strap ever since I started with iPhone photography! It just feels a little more secure.
 
@@ -126,7 +126,7 @@ I had the original 14mm lens since it hit the market and was totally satisfied w
 
 Though photos taken with a fisheye lens, requires a bit of post-processing, it really helps to capture even more of a scene.
 
-Don't forget that you'll need a Moment case to mount the lens. I've [reviewed the Moment cases here in the blog](/blog/review-moment-photo-cases), and don't forget to get SKRWT app ([iTunes Link][5]) to fix all those perspective distortions.
+Don't forget that you'll need a Moment case to mount the lens. I've [reviewed the Moment cases here in the blog](/blog/review-moment-photo-case/), and don't forget to get SKRWT app ([iTunes Link][5]) to fix all those perspective distortions.
 
 If you decide to buy the Fisheye lens, take care to choose the right one. The new 14mm lens is intended only for iPhone 11 users.
 

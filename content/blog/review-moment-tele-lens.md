@@ -50,7 +50,7 @@ Okay, with a price tag of around 100,- USD the Moment tele lens is a premium len
 
 The current Moment tele lens is the third iteration of the lens and was released in 2018. The main differences between the old and the new Moment telephoto lens are:
 
-* New mounting system (compared to the very first Moment tele lens). Gone are the days of attaching an adhesive plate to your iPhone. The lens now mounts to an [affordable Moment mounting case](/blog/review-moment-photo-cases) that comes with a wrist strap mount. That alone is worth the money for the case.
+* New mounting system (compared to the very first Moment tele lens). Gone are the days of attaching an adhesive plate to your iPhone. The lens now mounts to an [affordable Moment mounting case](/blog/review-moment-photo-case/) that comes with a wrist strap mount. That alone is worth the money for the case.
 * The new lens has a slightly larger diameter of the mounting system.
 * It's somewhat bigger, and the focal length is 58mm compared to 60mm of the old lens.
 
@@ -58,7 +58,7 @@ The current Moment tele lens is the third iteration of the lens and was released
 
 The first Moment tele lens required a small adhesive plate to be attached to your iPhone that had a bayonet mount to attach the lens to your iPhone. Those days are gone.
 
-Today, Moment sells several [affordable cases](/blog/review-moment-photo-cases) that are required to mount the Moment lenses to your iPhone.
+Today, Moment sells several [affordable cases](/blog/review-moment-photo-case/) that are required to mount the Moment lenses to your iPhone.
 
 I even encourage you to get one of those cases even if you don't use a Moment lens. Simply because those cases have one essential feature for iPhone photographers that all other cases are lacking: You can attach a wrist strap to the case!
 

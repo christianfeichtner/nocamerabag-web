@@ -29,7 +29,7 @@ And here's a photo taken outside of Votiv Church
 
 The Votiv church is so huge. I also like the simplicity of the interior with the pure stone pillars on both sides of the central aisle. It’s totally in contrast to St. Stephans cathedral. There you’ll find lots of statues, ornaments and other decoration everywhere in the church.
 
-I used a symmetrical composition using the pillars as [leading lines](/blog/how-to-use-leading-lines) that guide the eye towards the background and the golden altar. A symmetrical composition like this is one option to convey distance and size.
+I used a symmetrical composition using the pillars as [leading lines](/blog/what-are-leading-lines-photography/) that guide the eye towards the background and the golden altar. A symmetrical composition like this is one option to convey distance and size.
 
 Lastly, I wanted to get as much of the ceiling into the frame as possible. That’s why I placed the floor only on the lower third of the frame. So basically, I applied the rule of thirds here.
 
@@ -37,7 +37,7 @@ Lastly, I wanted to get as much of the ceiling into the frame as possible. That�
 
 To capture all the space inside, I used the [Moment Wide Lens](/blog/review-moment-wide-lens) with my iPhone XS. With the Moment Wide Lens, I was able to place the pillars precisely at the edge of the frame. Moreover, a wide lens pushes back the background a bit so the viewer can really get an impression of how massive this church is.
 
-As you can see from the original, unedited, RAW photo, it was quite dark inside, and especially the left side has a lot of shadows. This is one of the scenarios where I [shoot RAW with iPhone](/blog/shoot-raw-iphone).
+As you can see from the original, unedited, RAW photo, it was quite dark inside, and especially the left side has a lot of shadows. This is one of the scenarios where I [shoot RAW with iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ![Unedited RAW in Lightroom Mobile](/images/tutorials/general/unedited-raw-in-lightroom-mobile.webp "Unedited RAW in Lightroom Mobile.")
 
@@ -62,7 +62,7 @@ That helps a lot when shooting with a manual setting of ISO 25 and an exposure t
 
 ## Editing
 
-First thing I did is to [fix perspective distortion](/blog/fix-perspective-distortions-iphone) to make the pillars parallel to the edges of the frame. Setting the vertical slider under *Geometry* to -30 was perfect for this scene. To fill the frame again, I had to adjust the *y-offset* a bit, too.
+First thing I did is to [fix perspective distortion](/blog/fix-perspective-distortions-iphone-apps/) to make the pillars parallel to the edges of the frame. Setting the vertical slider under *Geometry* to -30 was perfect for this scene. To fill the frame again, I had to adjust the *y-offset* a bit, too.
 
 Next, I fixed the exposure and light by increasing the exposure by 1 step (+1) and lifting the shadows by +90. Next, I turned down the highlights by -90, reducing the highlights. This way, I get details back in the highlight areas.
 
@@ -74,6 +74,6 @@ Finally, I sharpened the image with masking set to +90 to ensure only the edges 
 
 ## Summary
 
-When it comes to shooting in low light conditions (especially without a tripod) I have to decide between using [ProCamera Low Light Modes](/blog/review-low-light-modes-procamera-app) or [shooting RAW with iPhone](/blog/shoot-raw-iphone) and then adjusting the photo in Lightroom.
+When it comes to shooting in low light conditions (especially without a tripod) I have to decide between using [ProCamera Low Light Modes](/blog/review-low-light-modes-procamera-app) or [shooting RAW with iPhone](/blog/how-to-shoot-raw-iphone/) and then adjusting the photo in Lightroom.
 
 It really depends how dark the scene is and if I use a tripod or not. If I'm able to shoot the scene with an exposure time of up to one second, which is the most you can get from ProCamera in manual mode, I shoot RAW. If it's so dark I'd need a longer exposure time, I'd turn to [ProCamera Low Light Modes](/blog/review-low-light-modes-procamera-app).

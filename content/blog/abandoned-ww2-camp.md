@@ -32,7 +32,7 @@ I wasn't prepared to explore an abandoned building. Neither did I have my [Amazo
 
 As I didn't have my tripod with me, I used a neat feature of [ProCamera App](/blog/procamera-app-review): The motion detection shutter release, which will only trigger the shutter release if you can hold your camera still.
 
-I set ProCamera to manual mode with ISO speed set as low as possible to achieve at least a shutter speed of 1/20 and set ProCamera to save the photos in RAW format. In a dedicated blog post, you can learn about [how to shoot RAW on iPhone](/blog/shoot-raw-iphone).
+I set ProCamera to manual mode with ISO speed set as low as possible to achieve at least a shutter speed of 1/20 and set ProCamera to save the photos in RAW format. In a dedicated blog post, you can learn about [how to shoot RAW on iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ## The research
 
@@ -60,4 +60,4 @@ Behind the water tower, I came across the remains of something that looked like 
 
 ![Trench between two WW2 bunkers](/images/lost-places/austria/world-war-ii-trench.webp "Trench between two WW2 bunkers.")
 
-I was pretty excited to discover these new structured during my second visit. If you've been following my blog for a while, you know I have a soft spot for lost places and abandoned structures. In the blog, you can read more about [lost places I've discovered and photographed](/blog/tag/Lost+Places).
+I was pretty excited to discover these new structured during my second visit. If you've been following my blog for a while, you know I have a soft spot for lost places and abandoned structures. In the blog, you can read more about [lost places I've discovered and photographed](/blog/lost-places/).

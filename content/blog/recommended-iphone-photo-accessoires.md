@@ -62,7 +62,7 @@ There’s no specific brand I recommend. I’ve just ordered a bunch of them via
 
 ### The Best Tripods for iPhone Photography
 
-A tripod for iPhone is essential if you want to [take long exposures with iPhone](/blog/long-exposure-iphone) like photographing a firework or photographing flowing water.
+A tripod for iPhone is essential if you want to [take long exposures with iPhone](/blog/long-exposure-iphone-apps/) like photographing a firework or photographing flowing water.
 
 Back in my DSLR-era, I had to carry a massive tripod capable of holding a bulky and heavy DSLR camera. But you don't need such a bulky tripod for iPhone Photography. Tripods for iPhones can be notably lighter and, thus, are ideal for travel photography.
 

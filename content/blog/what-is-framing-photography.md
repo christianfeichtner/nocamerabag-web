@@ -69,7 +69,7 @@ I discovered this abandoned dentist’s chair at the abandoned Beelitz Heilstät
 
 You can clearly see that I used the light that shines into the dark room from the window as a circular frame for the chair. Using [Lightroom mobile, which I reviewed](/blog/review-adobe-lightroom-mobile-premium) in my blog, I brightened the light a bit to emphasize the frame event more
 
-Additionally, the light rays demonstrate the [leading lines photo composition technique](/blog/how-to-use-leading-lines). The bright light at the top of the window attracts the attention of the viewer. Then the light rays direct the viewer towards the chair which itself is framed by the light.
+Additionally, the light rays demonstrate the [leading lines photo composition technique](/blog/what-are-leading-lines-photography/). The bright light at the top of the window attracts the attention of the viewer. Then the light rays direct the viewer towards the chair which itself is framed by the light.
 
 ## Using framing to enhance your travel photos
 
@@ -121,4 +121,4 @@ I also recommend turning on grid lines as a compositional aid when composing a p
 
 The framing technique in photography is a powerful concept when composing a photo. By using frames, you'll draw the eye of the viewer towards the main subject, you can add context and depth to a photo and also spark certain feelings. Just give it a try!
 
-Once you mastered the art of using framing in your travel photos, consider learning the [composition technique of using leading lines](/blog/how-to-use-leading-lines).
+Once you mastered the art of using framing in your travel photos, consider learning the [composition technique of using leading lines](/blog/what-are-leading-lines-photography/).

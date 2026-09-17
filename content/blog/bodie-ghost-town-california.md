@@ -28,7 +28,7 @@ Bodie is located high up in the hills and the last few miles to the town is an u
 
 During its boom years around the 1880s, around 7000 souls lived here in roughly 2000 buildings and though the majority of the city was destroyed by a fire, there are still 170 buildings left and a lot of places to take stunning pictures!
 
-The most notable building in Bodie is the skewed hotel. It's underpinned so it does not fall over. The most notable building in Bodie is the skewed hotel. It's underpinned so it does not fall over - and to fix the converging lines, I used SKRWT, a [photo perspective correction app](/blog/fix-perspective-distortions-iphone).
+The most notable building in Bodie is the skewed hotel. It's underpinned so it does not fall over. The most notable building in Bodie is the skewed hotel. It's underpinned so it does not fall over - and to fix the converging lines, I used SKRWT, a [photo perspective correction app](/blog/fix-perspective-distortions-iphone-apps/).
 
 ![Old Hotel in Bodie](/images/lost-places/usa/bodie-ghost-town-california.webp "Old Hotel in Bodie.")
 
@@ -52,4 +52,4 @@ I had a bright and sunny day in Bodie and I photographed only using the iOS came
 
 I've uploaded some [more photos from Bodie to my flickr account](https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=bodie&user_id=126248160%40N03&view_all=1).
 
-Maybe not as spectacular as Bodie but still worth a visit is [Rhyolite Ghost Town](/blog/photo-spots-rhyolite-ghost-town) in Nevada. I visited it a few days after I've been to Bodie on my way to Las Vegas. I've visited a number of similar places. Check my posts about [ghost towns](/blog/tag/Ghost+Town) and [lost places](/blog/tag/Lost+Places) in the blog.
+Maybe not as spectacular as Bodie but still worth a visit is [Rhyolite Ghost Town](/blog/rhyolite-ghost-town-nevada/) in Nevada. I visited it a few days after I've been to Bodie on my way to Las Vegas. I've visited a number of similar places. Check my posts about [ghost towns](/blog/ghost-town/) and [lost places](/blog/lost-places/) in the blog.

@@ -70,7 +70,7 @@ Though a bigger battery is a good thing, let's not forget that the iPhone 12 Pro
 
 ### Apple ProRAW
 
-Shooting RAW with iPhone has been possible for a while if you use a third-party camera app. During the keynote, Apple announced that the stock camera app would support a particular RAW format, called Apple ProRAW. This will be available with iOS 14.3, which is currently in beta. I have already updated the blog post about [how to shoot raw with iPhone](/blog/shoot-raw-iphone).
+Shooting RAW with iPhone has been possible for a while if you use a third-party camera app. During the keynote, Apple announced that the stock camera app would support a particular RAW format, called Apple ProRAW. This will be available with iOS 14.3, which is currently in beta. I have already updated the blog post about [how to shoot raw with iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ### Magsafe
 

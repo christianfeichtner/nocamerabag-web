@@ -44,4 +44,4 @@ Luckily, the place was well-lit so I didn’t need a [flashlight](/blog/review-o
 
 I edited both photos on my shiny new iPad Pro 11 using the Apple Pencil 2 and Lightroom Mobile.
 
-Since my interest for lost places was sparked by accidentally discovering an abandoned manor house I’ve [photographed quite a number of lost places](/blog/tag/Lost+Places) in Europe always following the mantra of urban exploration: Take nothing but photos, leave nothing but your footprints.
+Since my interest for lost places was sparked by accidentally discovering an abandoned manor house I’ve [photographed quite a number of lost places](/blog/lost-places/) in Europe always following the mantra of urban exploration: Take nothing but photos, leave nothing but your footprints.

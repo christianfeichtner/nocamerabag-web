@@ -119,7 +119,7 @@ For taking a long exposure of 30 seconds or longer with iPhone, I'd recommend Sl
 
 And finally, as you've made it to the end of this blog post, here are some ideas to try to get you started with long exposure photography on your iPhone:
 
-* Take a [long exposure of a waterfall with iPhone](/blog/how-to-take-a-long-exposure-of-a-waterfall-with-iphone) to capture flowing water. Try to find the perfect exposure time. The longer the exposure, the more the waterfall will look like milk. Do experiment a little.
+* Take a [long exposure of a waterfall with iPhone](/blog/how-to-photograph-waterfall-iphone/) to capture flowing water. Try to find the perfect exposure time. The longer the exposure, the more the waterfall will look like milk. Do experiment a little.
 * Find a safe place in your city to capture light trails of cars driving by. Also, experiment with different exposure settings and see the difference.
 * Try to [photograph fireworks with iPhone](/blog/how-to-photograph-fireworks-with-iphone) and try to capture the entire timeframe from the rocket launch until it explodes.
 * Find a well-illuminated building in your city and capture a sharp and noise-free night photo.

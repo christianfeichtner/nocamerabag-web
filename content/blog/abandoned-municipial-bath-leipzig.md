@@ -37,7 +37,7 @@ It was abandoned in 2004 after a part of the roof in the ladies pool hall came d
 
 ![Lady's pool hall at the abandoned Stadtbad Leipzig](/images/lost-places/germany/lady-s-pool-hall-at-the-abandoned-stadtbad-leipzig.webp "Lady's pool hall at the abandoned Stadtbad Leipzig.")
 
-Above is a photo of the lady's pool hall. I took the photo with the Moment Superfish Lens and used these apps to [fix perspective distortion](/blog/fix-perspective-distortions-iphone).
+Above is a photo of the lady's pool hall. I took the photo with the Moment Superfish Lens and used these apps to [fix perspective distortion](/blog/fix-perspective-distortions-iphone-apps/).
 
 I photographed it using low light HDR mode in [ProCamera App](/blog/procamera-app-review). That's a special HDR mode you get when you buy the [ProCamera Low Light Modes](/blog/review-low-light-modes-procamera-app) add-on and the HDR package (both affordable in app purchases definitely worth the money).
 
@@ -65,6 +65,6 @@ I also used the Moment Superfish Lens for this shot and fixed the perspective di
 
 ## More legally accessible lost places
 
-If you'd like to see the Stadtbad Leipzig, check [Phototors Berlin], where I booked my tour. I've also written a blog post about other [Lost Places you can visit legally](/blog/lost-places-visit-legally) through paid photo tours. And if you're curious, this way please to see all blog posts about [Lost Places](/blog/tag/Lost+Places) I've written in the past.
+If you'd like to see the Stadtbad Leipzig, check [Phototors Berlin], where I booked my tour. I've also written a blog post about other [Lost Places you can visit legally](/urbex-tours/) through paid photo tours. And if you're curious, this way please to see all blog posts about [Lost Places](/blog/lost-places/) I've written in the past.
 
 And finally, to get an overview about all the photo apps and iPhone photo accessories I use, check the page about [iPhone Photography](/iphone-photography).

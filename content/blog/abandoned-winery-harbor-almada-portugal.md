@@ -62,7 +62,7 @@ Once you've taken the stairs down to the harbor platform, take a few wide-angle 
 
 ## Tips for photographing
 
-Though the area is relatively small, I suggest you bring a wide-angle lens - or an iPhone Pro with a built-in ultra-wide lens. As always, I recommend to [shoot RAW with your iPhone](/blog/shoot-raw-iphone). This will allow you to bring out the stunning details of decay.
+Though the area is relatively small, I suggest you bring a wide-angle lens - or an iPhone Pro with a built-in ultra-wide lens. As always, I recommend to [shoot RAW with your iPhone](/blog/how-to-shoot-raw-iphone/). This will allow you to bring out the stunning details of decay.
 
 If you want to capture long exposures like moving clouds with an iPhone, [Reeheld camera app is a great way to take long exposure photos without a tripod on iPhone](/blog/review-reeheld-camera-app).
 

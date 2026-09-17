@@ -93,7 +93,7 @@ The inverted pyramid is the building of Slovakia's national radio. This one was 
 
 ![The inverted Pyramid in Bratislava](/images/cityscapes/slovakia/inverted-pyramid-building-bratislava-bw.jpg "The inverted Pyramid in Bratislava.")
 
-I [shot it as RAW on my iPhone](/blog/shoot-raw-iphone) converted this one to black and white using Lightroom Mobile, just as I've outlined in the tutorial about how to convert a photo to [black & white with Adobe Lightroom mobile](/blog/how-to-convert-to-black-and-white-in-lightroom-mobile)
+I [shot it as RAW on my iPhone](/blog/how-to-shoot-raw-iphone/) converted this one to black and white using Lightroom Mobile, just as I've outlined in the tutorial about how to convert a photo to [black & white with Adobe Lightroom mobile](/blog/how-to-convert-to-black-and-white-in-lightroom-mobile)
 
 ## The abandoned Hospital
 
@@ -131,4 +131,4 @@ An excellent place to take a photo of the castle is from the viewing platform of
 
 ## More Photo Spots in Bratislava
 
-You'll find even more great photo spots at [Devin Castle](/blog/devin-castle) or, if you're willing to hike a bit, there's also an [abandoned missile base](/blog/abandoned-anti-aircraft-missile-base-slovakia) near Bratislava.
+You'll find even more great photo spots at [Devin Castle](/blog/devin-castle-ruin-bratislava/) or, if you're willing to hike a bit, there's also an [abandoned missile base](/blog/abandoned-missile-base-slovakia/) near Bratislava.

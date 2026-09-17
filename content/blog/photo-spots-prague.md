@@ -34,7 +34,7 @@ photo_spots:
     camera: "iPhone 6 · Main 29mm"
     tag: "Night Shot"
 ---
-After my [night photography experiments in London](/blog/tutorial-iphone-night-photography-in-london) last month, I visited Prague and did some more.
+After my [night photography experiments in London](/blog/photo-spots-london/) last month, I visited Prague and did some more.
 
 {{< map-callout title="Explore the Locations" button="View Map now" >}}
 You can see all the spots mentioned in this article on an interactive map. You can also open the map also from each photo with a "Map View" button.

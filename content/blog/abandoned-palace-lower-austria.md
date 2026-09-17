@@ -16,7 +16,7 @@ cover:
   image: /images/lost-places/austria/stairs-abandoned-castle-lower-austria.webp
   alt: Exploring an abandoned Palace somewhere in Austria
 ---
-During my search for [lost places](/blog/tag/Lost+Places) to photograph, I recently discovered a gorgeous abandoned castle in Lower Austria. The origins of the said castle date back to the 13th century!
+During my search for [lost places](/blog/lost-places/) to photograph, I recently discovered a gorgeous abandoned castle in Lower Austria. The origins of the said castle date back to the 13th century!
 
 Until the early 20th century, it was owned by a number of noble families before it was completely abandoned sometime between World War I and World War II. You may have heard that all forms of nobility were prohibited in many European countries after World War I but I have no idea if this was the reason that the castle was abandoned.
 

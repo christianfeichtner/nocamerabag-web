@@ -99,8 +99,8 @@ You can use it with all lenses of your iPhone 11 and iPhone 11 Pro, while the st
 
 ## Conclusion
 
-ProCamera Low Light Modes are one of the best in class. With the option to use *Lux+*, you can give your photos an extra boost when necessary for all your [iPhone night photography](/iphone-photography/night-photography) needs.
+ProCamera Low Light Modes are one of the best in class. With the option to use *Lux+*, you can give your photos an extra boost when necessary for all your [iPhone night photography](/blog/night-photography-iphone-apps/) needs.
 
-With all the other features like [automatic perspective correction](/blog/review-auto-perspective-correction-in-procamera-app), [shooting RAW with iPhone](/blog/shoot-raw-iphone), HDR and so much more, ProCamera App truly lives up to its name. ProCamera App has tons of great ratings and can get [ProCamera App from the App Store](aff:procamera-app).
+With all the other features like [automatic perspective correction](/blog/review-auto-perspective-correction-in-procamera-app), [shooting RAW with iPhone](/blog/how-to-shoot-raw-iphone/), HDR and so much more, ProCamera App truly lives up to its name. ProCamera App has tons of great ratings and can get [ProCamera App from the App Store](aff:procamera-app).
 
-And, if you're interested in how to take good photos with your iPhone at night, head over to my dedicated [iPhone night photography](/blog/night-photography-iphone) page where I collect all apps, accessories and blog posts about this topic.
+And, if you're interested in how to take good photos with your iPhone at night, head over to my dedicated [iPhone night photography](/blog/night-photography-iphone-apps/) page where I collect all apps, accessories and blog posts about this topic.

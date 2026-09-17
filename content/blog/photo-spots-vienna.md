@@ -186,7 +186,7 @@ Now we're moving towards the city center, where you'll find the *Votiv Church*, 
 
 ![Votiv Church](/images/reviews/votiv-church-in-vienna-shot-on-iphone-xs-using-hydra-camera.webp "Votiv Church.")
 
-But the church is also quite impressive from the inside. You can see more of the interior in an [iPhone workflow tutorial](/blog/tutorial-inside-votiv-church)that I've written about how I photographed the inside of this Church. I shot this photo using the [RAW image format on my iPhone](/blog/how-to-shoot-raw-iphone).
+But the church is also quite impressive from the inside. You can see more of the interior in an [iPhone workflow tutorial](/blog/inside-votiv-church-workflow/)that I've written about how I photographed the inside of this Church. I shot this photo using the [RAW image format on my iPhone](/blog/how-to-shoot-raw-iphone).
 
 ### Kaiserwasser in Vienna’s 22nd District
 
@@ -334,7 +334,7 @@ Right in front of the memorial is a massive fountain with changing lights. I too
 
 ### Michaelerplatz
 
-This place is usually crowded with tourists, no matter when you go there. I took the photo below on a Sunday evening before the first lockdown of the pandemic began. To be able to fit the entire building into the frame, I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens) and then applied [perspective correction](/blog/fix-perspective-distortions-iphone).
+This place is usually crowded with tourists, no matter when you go there. I took the photo below on a Sunday evening before the first lockdown of the pandemic began. To be able to fit the entire building into the frame, I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens) and then applied [perspective correction](/blog/fix-perspective-distortions-iphone-apps/).
 
 It was truly spooky. I've never seen Vienna so empty. You could even hear the wind blowing through the empty streets.
 

@@ -36,7 +36,7 @@ Everything I needed for those three days fitted nicely into my carry-on complian
 
 But please mind, that this photo spot does not exist any longer. In the past you could visit the abandoned Sanatoriums at Beelitz, where a cure for wellness was filmed, legally by booking a photo tour either from [go2know.de](aff:go2know-beelitz-heilstaetten) or [Photo Tours Berlin](https://www.fototouren-berlin.de/berlin-lost-places/). But as a large part of the Beelitz Heilstätten were revitialized and turned ito residential homes, you can't visit this photo spot any longer.
 
-However, a few of the abandoned buildings of the Beelitz Heilstätten have been preserved. You can experience them either from the [Beelitz Heilstätten canopy walk](/blog/beelitz-heilstaetten-baumkronenpfad-canopy-walk-germany) or by guided tours that you can book via [baumandzeit.de](https://baumundzeit.de/shop/), the homepage of the Beelitz Heilstätten canopy walk.
+However, a few of the abandoned buildings of the Beelitz Heilstätten have been preserved. You can experience them either from the [Beelitz Heilstätten canopy walk](/blog/abandoned-beelitz-heilstaetten-canopy-walk/) or by guided tours that you can book via [baumandzeit.de](https://baumundzeit.de/shop/), the homepage of the Beelitz Heilstätten canopy walk.
 
 {{< callout type="info" title="Please keep in mind" >}}
 Urbex tour programs and site access change over time. I do not monitor if tours continue to be offered as they were when I visited. Please check the tour operator's website linked at the end of this post for current status and updates.
@@ -84,7 +84,7 @@ And this is the dining room that you can see in the film that is set on fire at 
 
 So they rebuilt the room in the nearby Babelsberger film studio and burned it down there - and along with it an entire studio.
 
-To be able to photograph the entire hallway, I used the Moment [Fisheye Lens for iPhone](/blog/review-moment-14mm-fisheye-lens) and applied [perspective correction](/blog/fix-perspective-distortions-iphone) using SKRWT.
+To be able to photograph the entire hallway, I used the Moment [Fisheye Lens for iPhone](/blog/review-moment-14mm-fisheye-lens) and applied [perspective correction](/blog/fix-perspective-distortions-iphone-apps/) using SKRWT.
 
 You won’t see this entire hall in the film, but you’ll see the protagonist entering and leaving through one of the doors to the left. The room is the former bathhouse.
 
@@ -104,10 +104,10 @@ Except for the two photos for which I used the Moment Fisheye Lens, I shot all t
 
 ## More Lost Places and Beelitz Heilstätten
 
-Fun Fact: There’s a German horror movie named “Heilstätten” that’s set to play in Beelitz, but was filmed at another abandoned sanatorium. Of course, I’ve visited that film location, too, and you can find more about that in the blog post about the abandoned [Heilstätte Grabowsee](/blog/heilstaette-grabowsee)
+Fun Fact: There’s a German horror movie named “Heilstätten” that’s set to play in Beelitz, but was filmed at another abandoned sanatorium. Of course, I’ve visited that film location, too, and you can find more about that in the blog post about the abandoned [Heilstätte Grabowsee](/blog/abandoned-heilstaette-grabowse/)
 
-Beelitz Heilstätten is worth a visit! And if you don’t want to wait for one of the photo tours you can book through go2know.de, maybe visiting the [Beelitz Heilstätten Canopy walk](/blog/beelitz-heilstaetten-baumkronenpfad-canopy-walk-germany) would be an option?
+Beelitz Heilstätten is worth a visit! And if you don’t want to wait for one of the photo tours you can book through go2know.de, maybe visiting the [Beelitz Heilstätten Canopy walk](/blog/abandoned-beelitz-heilstaetten-canopy-walk/) would be an option?
 
-And finally, I have a blog post about [7 Lost Places you can visit legally](/blog/lost-places-visit-legally) or check all my posts about [Lost Places](/blog/tag/Lost+Places) in the Blog. Happy exploring (and take care!)
+And finally, I have a blog post about [7 Lost Places you can visit legally](/urbex-tours/) or check all my posts about [Lost Places](/blog/lost-places/) in the Blog. Happy exploring (and take care!)
 
 {{< youtube id="uOjRY10CEDU" title="A Cure for Wellness movie trailer" >}}

@@ -58,7 +58,7 @@ Isn't the ultra-wide lens amazing? So, what does that mean for the Moment Wide L
 
 I'm still a huge fan of the Moment Lenses. But the iPhone 11 has changed the game a bit. Most likely, I won't need the [Moment Wide Angle Lens](/blog/review-moment-wide-lens) as much as I did before.
 
-But based from my experience with the iPhone 11 so far, there are still a number of scenarios where I will use it. I also will try the [Moment Fisheye](/blog/review-moment-14mm-fisheye-lens) and the [Moment telephoto Lens](/blog/review-moment-tele-lens) as soon as I get the [iPhone 11 Photo Case from Moment](/blog/review-moment-photo-cases).
+But based from my experience with the iPhone 11 so far, there are still a number of scenarios where I will use it. I also will try the [Moment Fisheye](/blog/review-moment-14mm-fisheye-lens) and the [Moment telephoto Lens](/blog/review-moment-tele-lens) as soon as I get the [iPhone 11 Photo Case from Moment](/blog/review-moment-photo-case/).
 
 It should arrive sometime in October. As soon as I get it, I'll test all the Moment Lenses and update this blog post.
 

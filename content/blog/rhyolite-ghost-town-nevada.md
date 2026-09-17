@@ -134,4 +134,4 @@ But as soon as 1908, it was suspected that the mine was overvalued, and a mining
 
 Rhyolite Ghost Town is definitely worth visiting, especially if you're a fan of lost place or want to see a former film set. Just be prepared for the hot and dry climate in the ghost town of Rhyolite.
 
-Another former mining town I recommend visiting is the [Bodie State Historic Park](/blog/bodie-ghost-town-california) or see the other [ghost towns](/blog/tag/Ghost+Town) or [lost places](/blog/tag/Lost+Places) I visited and photographed with my iPhone.
+Another former mining town I recommend visiting is the [Bodie State Historic Park](/blog/bodie-ghost-town-california) or see the other [ghost towns](/blog/ghost-town/) or [lost places](/blog/lost-places/) I visited and photographed with my iPhone.

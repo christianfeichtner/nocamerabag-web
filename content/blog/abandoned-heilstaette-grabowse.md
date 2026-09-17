@@ -38,7 +38,7 @@ Just like Beelitz Heilstätten, the Heilstätte Grabowsee is a private property 
 
 The area consists of 15+ buildings. The majority of them are located around a small square. Though many buildings look quite okay from the outside, you’ll see lots of collapsed roofs and floors inside. So watch your step and avoid wooden floors!
 
-As always, I recommend to have a good flashlight at hand when you explore such places. I use two different [Olight flashlights](/blog/tag/Flashlights); especially because I can charge them without disassembly and they both can be charged using a power bank.
+As always, I recommend to have a good flashlight at hand when you explore such places. I use two different [Olight flashlights](/blog/flashlights/); especially because I can charge them without disassembly and they both can be charged using a power bank.
 
 {{< callout type="info" title="Please note" >}}
 Urban exploration tours and visiting options change on a regular basis. I do not check if these tours remain identical to how I experienced them. Please check the provider's website linked at the bottom of the page for current availability.
@@ -54,7 +54,7 @@ A little photography tip here: many photos I've seen of this red sofa were shot 
 
 This one is also a quite iconic photo spot at the Heilstaten Grabowsee. If you do an image search for „piano heilstaetten grabowsee“, you’ll see how others took this photo.
 
-I opted not to take a photo using the same perspective as everyone else. I left the building, walked around it and saw this view and used the [photo framing technique](/blog/photo-framing-techniques) to compose it.
+I opted not to take a photo using the same perspective as everyone else. I left the building, walked around it and saw this view and used the [photo framing technique](/blog/what-is-framing-photography/) to compose it.
 
 ![Grand Piano at Heilstätten Grabowsee](/images/lost-places/germany/grand-piano-at-heilstatten-grabowsee.webp "Grand Piano at Heilstätten Grabowsee.")
 
@@ -66,7 +66,7 @@ The film ”Heilstätten” was filmed at several locations here. One of them is
 
 ![The goods elevator from the German horror film “Heilstätten”](/images/lost-places/germany/the-goods-elevator-from-the-german-horror-film-heilstatten.webp "The goods elevator from the German horror film “Heilstätten”.")
 
-To be able to capture the entire elevator despite the limited space there, I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens) and [fixed the perspective distortion](/blog/fix-perspective-distortions-iphone).
+To be able to capture the entire elevator despite the limited space there, I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens) and [fixed the perspective distortion](/blog/fix-perspective-distortions-iphone-apps/).
 
 Here's the complete movie trailer of the Horror movie that was filmed here (in German). You can see the elevator briefly at 0:33 and at 1:08. If you're curious, you can watch [Hautend Hospital - Heilstätten on Apple TV](aff:apple-tv-haunted-hospital-heilstaetten).
 
@@ -90,6 +90,6 @@ As I mentioned at the beginning, the area is fenced and there’s a guard on dut
 
 ## More lost places near Berlin
 
-There are quite a number of lost places in and near Berlin. Check out the [abandoned echelon surveillance station](/blog/abandoned-echolon-listening-outpost-berlin) or the [Beelitz Heilstätten](/blog/abandoned-beelitz-hospital/). But better hurry with Beelitz. Everything there is being renovated and sold, except for a few buildings that you can see from the [Beelitz Canopy walk](/blog/beelitz-heilstaetten-baumkronenpfad-canopy-walk-germany).
+There are quite a number of lost places in and near Berlin. Check out the [abandoned echelon surveillance station](/blog/abandoned-echolon-outpost-teufelsberg/) or the [Beelitz Heilstätten](/blog/abandoned-beelitz-hospital/). But better hurry with Beelitz. Everything there is being renovated and sold, except for a few buildings that you can see from the [Beelitz Canopy walk](/blog/abandoned-beelitz-heilstaetten-canopy-walk/).
 
 Over the years, I've been to several lost places in and around Berlin. I've listed them in a dedicated blog post about [lost places in Berlin you can visit legally](/blog/must-see-lost-places-berlin).

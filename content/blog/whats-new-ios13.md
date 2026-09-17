@@ -27,7 +27,7 @@ In this blog post, I’ll walk you through the new editing features and explain 
 
 ## Editing RAW photos with iOS 13 Photos app
 
-If you’re not familiar with shooting RAW on iPhone, I have a blog post explaining [how to shoot RAW with iPhone](/blog/shoot-raw-iphone) here in the blog.
+If you’re not familiar with shooting RAW on iPhone, I have a blog post explaining [how to shoot RAW with iPhone](/blog/how-to-shoot-raw-iphone/) here in the blog.
 
 One thing I notice about iOS13.1 is that it seems that if you apply adjustments to a RAW photo, those adjustments are applied to the RAW photo and not to the preview JPG like it was in previous iOS versions.
 

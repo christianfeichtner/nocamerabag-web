@@ -75,4 +75,4 @@ And that’s it. Once again, here’s the final edit:
 
 ![Final edit of “The old mill” in Lightroom Mobile](/images/tutorials/final-edit-of-the-old-mill-in-lightroom-mobile.webp "Final edit of “The old mill” in Lightroom Mobile.")
 
-Be sure to check out all the other [iPhone Photo Workflow Tutorials](/blog/tag/Workflow) I’ve published in the blog or head to the list of [recommended iPhone Photo Apps and iPhone Photo Accessories](/iphone-photography) I rely on.
+Be sure to check out all the other [iPhone Photo Workflow Tutorials](/blog/workflow/) I’ve published in the blog or head to the list of [recommended iPhone Photo Apps and iPhone Photo Accessories](/iphone-photography) I rely on.

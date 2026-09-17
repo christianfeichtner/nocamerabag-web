@@ -36,7 +36,7 @@ Though it was abandoned in 1976, the interior is still intact. In fact, the word
 
 ## Inside the Suedbahnhotel
 
-I've been to a number of abandoned places, from the abandoned sanatoriums in Beelitz to the remains of [Pripyat in Chernobyl](/blog/pripyat-chernobyl-exclusion-zone). But so far, I've never seen an abandoned place like this. There are still wallpapers, chimneys, beds, chairs, tables and lockers inside the rooms. I even found a piano on one of the floors.
+I've been to a number of abandoned places, from the abandoned sanatoriums in Beelitz to the remains of [Pripyat in Chernobyl](/blog/pripyat-ghost-town-ukraine/). But so far, I've never seen an abandoned place like this. There are still wallpapers, chimneys, beds, chairs, tables and lockers inside the rooms. I even found a piano on one of the floors.
 
 The rooms are quite huge given how old the hotel is. Two rooms shared a bathroom and a toilet and, just in case a huge family or noble person checks in with their staff, several rooms have connecting doors.
 
@@ -54,7 +54,7 @@ Located on the ground floor is a huge lounge with a beautiful dining- and ballro
 
 ![A high key edit of the abandoned ballroom at the Suedbahn Hotel](/images/lost-places/austria/abandoned-ballroom-high-key.webp "A high key edit of the abandoned ballroom at the Suedbahn Hotel.")
 
-To learn more about how I edited this photo, please head to the tutorial about how to simulate [High-Key Lighting in Adobe Lightroom Mobile](/blog/high-key-edit-lightroom-mobile).
+To learn more about how I edited this photo, please head to the tutorial about how to simulate [High-Key Lighting in Adobe Lightroom Mobile](/blog/high-key-edit-lightroom-mobile-tutorial/).
 
 However, take note that this is not a classic lost place. There's no way to enter and quite some heavy security and surveillance there. But if you have a good concept for e.g. a photo shoot, you may want to contact the caretaker at [https://suedbahnhotel-semmering.at](https://suedbahnhotel-semmering.at) and see if there's a chance to get inside. I've seen a few fashion shootings that were done there. The ballroom upstairs is also a superb place for such photos.
 

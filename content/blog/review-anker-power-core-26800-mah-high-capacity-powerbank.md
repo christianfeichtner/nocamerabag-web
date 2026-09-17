@@ -29,7 +29,7 @@ But let me start with a short chapter about powerbanks and carry on luggage base
 
 You know that I love to travel light and travel only with carry on luggage using the [Osprey Farpoint 40 Backpack](/blog/review-osprey-farpoint-40-carry-on-backpack).
 
-So, recently, during on the flight back from the [abandoned hospitals at Grabowsee](/blog/heilstaette-grabowsee) near Berlin, I was pulled from the security check for an additional inspection. The security guy was particularly interested in my power banks. Here’s what I’ve learned from this procedure.
+So, recently, during on the flight back from the [abandoned hospitals at Grabowsee](/blog/abandoned-heilstaette-grabowse/) near Berlin, I was pulled from the security check for an additional inspection. The security guy was particularly interested in my power banks. Here’s what I’ve learned from this procedure.
 
 I was aware that we travelers have to put power banks in our carry on luggage; but I wasn’t aware that there are some limits. An [article on the website of the federal aviation association](https://www.faa.gov/hazmat/packsafe/more_info/?hazmat=7) says, that power banks in carry on luggage are limited to 100 watt hours.
 

@@ -71,7 +71,7 @@ If you don't use a tripod and iPhone wants to use a longer exposure, then it wil
 
 Now, when you see the two crosshairs, try to align then for best results.
 
-To learn more about iOS14, I've published a detailed summary of [what's new in the iOS14 Camera App and Photos App](/blog/ios14-new-camera-photos-app).
+To learn more about iOS14, I've published a detailed summary of [what's new in the iOS14 Camera App and Photos App](/blog/whats-new-ios14/).
 
 ## How to enable Night Mode on iPhone 11?
 
@@ -123,7 +123,7 @@ Here's the first photo; taken with the iPhone night mode. The result is pretty i
 
 ![Sample photo taken with iPhone using night camera mode](/images/reviews/france/sample-photo-taken-with-iphone-using-night-camera-mode.webp "Sample photo taken with iPhone using night camera mode.")
 
-I did apply some adjustments to the photo, mainly [perspective correction](/blog/fix-perspective-distortions-iphone).
+I did apply some adjustments to the photo, mainly [perspective correction](/blog/fix-perspective-distortions-iphone-apps/).
 
 I also tried to get a photo of the scene handheld without a tripod. But as the exposure time that night mode suggested was longer than a second, the results were blurry, even without pixel-peeping.
 
@@ -192,6 +192,6 @@ So, from now on, I'll use the following setup:
 
 If you should use night mode or, instead invest in a camera app like ProCamera with Low Light Modes, depends on your requirements. If you can live with the limitation of night mode to the 1x lens, then stick with night mode camera. If you want more freedom, check out [ProCamera with Low Light Mode](/blog/review-low-light-modes-procamera-app).
 
-But iPhone night mode is not the only way to take photos at night with iPhone. To learn about other options, please read my blog post about different ways to do [night photography with iPhone](/blog/night-photography-iphone).
+But iPhone night mode is not the only way to take photos at night with iPhone. To learn about other options, please read my blog post about different ways to do [night photography with iPhone](/blog/night-photography-iphone-apps/).
 
 And now, let's take fantastic night photos with iPhone together.

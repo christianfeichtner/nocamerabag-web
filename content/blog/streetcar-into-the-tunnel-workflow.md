@@ -39,7 +39,7 @@ If you move the iPhone too much within these three seconds, iOS will apply image
 
 Because of the way image stabilization works, the result will be a cropped photo.
 
-Using a Live Photo is just one way to create a long exposure with iPhone. Here are three ways to create a [long exposure with iPhone](/blog/long-exposure-iphone).
+Using a Live Photo is just one way to create a long exposure with iPhone. Here are three ways to create a [long exposure with iPhone](/blog/long-exposure-iphone-apps/).
 
 ## Editing in Superimpose
 
@@ -97,8 +97,8 @@ To bring out more details of the tunnel portal, I increased clarity to +55 and a
 
 To optimize the red of the train a bit, I reduced the saturation of the reds a bit and slightly decreased the luminance in the color panel.
 
-Finally, Sharpening. I've written a tutorial about how to [sharpen a photo in Lightroom Mobile](/blog/sharpening-lightroom-mobile). And there you go, here's the final result.
+Finally, Sharpening. I've written a tutorial about how to [sharpen a photo in Lightroom Mobile](/blog/sharpening-lightroom-mobile-tutorial/). And there you go, here's the final result.
 
 ![Streetcar into the Tunnel Final Edit](/images/cityscapes/slovakia/long-exposure-of-a-tram-entering-the-tunnel.webp "Streetcar into the Tunnel Final Edit.")
 
-I you found this tutorial helpful, see all the other [iPhone photography workflow tutorials](/blog/tag/Workflow). Moreover, here's a list of all the [recommended iPhone photo apps and iPhone photo gear](/iphone-photography) I rely on and updated regularly.
+I you found this tutorial helpful, see all the other [iPhone photography workflow tutorials](/blog/workflow/). Moreover, here's a list of all the [recommended iPhone photo apps and iPhone photo gear](/iphone-photography) I rely on and updated regularly.

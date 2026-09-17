@@ -89,7 +89,7 @@ From the port gate, you can walk to the port and the abandoned Linnahall concert
 
 ![The Port Gate in Tallinn at night](/images/cityscapes/estonia/the-port-gate-in-tallinn-at-night.webp "The Port Gate in Tallinn at night.")
 
-For this photo, I combined two photography techniques, which are [leading lines](/blog/how-to-use-leading-lines) and [framing](/blog/photo-framing-techniques). In this photo, I frame the leading line or use the leading line to guide the eye to the frame. Whichever way you want to view it, it's a great photo spot that can give you a glimpse of medieval Tallinn because of the lack of cars and many other modern civilization artifacts. Just imagine that there are candles inside the street lights, will you?
+For this photo, I combined two photography techniques, which are [leading lines](/blog/what-are-leading-lines-photography/) and [framing](/blog/what-is-framing-photography/). In this photo, I frame the leading line or use the leading line to guide the eye to the frame. Whichever way you want to view it, it's a great photo spot that can give you a glimpse of medieval Tallinn because of the lack of cars and many other modern civilization artifacts. Just imagine that there are candles inside the street lights, will you?
 
 ## Kopli Lines
 
@@ -123,7 +123,7 @@ I think this is the second Alexander Nevsky Cathedral I've visited. There's also
 
 ![Alexander Nevsky Cathedral in Tallinn](/images/cityscapes/estonia/alexander-nevsky-cathedral-in-tallinn.webp "Alexander Nevsky Cathedral in Tallinn.")
 
-As the place was quite crowded, I didn't want to put up my big tripod. I just used a small bench in front of the church as a tripod by putting my [Gorillapod for iPhone](/blog/review-joby-gorillapod-magnetic) on it and took a [long exposure with my iPhone](/blog/long-exposure-iphone) and Slow Shutter Cam App to capture the moving clouds that, at this time, were moving perfectly horizontally through the scene.
+As the place was quite crowded, I didn't want to put up my big tripod. I just used a small bench in front of the church as a tripod by putting my [Gorillapod for iPhone](/blog/review-joby-gorillapod-magnetic) on it and took a [long exposure with my iPhone](/blog/long-exposure-iphone-apps/) and Slow Shutter Cam App to capture the moving clouds that, at this time, were moving perfectly horizontally through the scene.
 
 ## St. Catherine's Passage
 
@@ -131,4 +131,4 @@ There's no better place to get a feeling of medieval Tallinn than at St. Catheri
 
 ![St. Cathrine’s Passage Tallinn](/images/cityscapes/estonia/st-cathrines-passage-tallinn.webp "St. Cathrine’s Passage Tallinn.")
 
-Back in 2018, there was no iPhone 11 and no [night mode](/blog/iphone-night-mode-camera) to take low noise and well-exposed photos with iPhone at night. Back then, [ProCamera Low Light Mode](/blog/review-low-light-modes-procamera-app) was my preferred way for [night photography with iPhone](/blog/night-photography-iphone) - and it still is for a straightforward reason: It works with all three lenses of the iPhone 11 Pro while iPhone night mode camera only works with the standard 1x lens.
+Back in 2018, there was no iPhone 11 and no [night mode](/blog/iphone-night-mode-camera) to take low noise and well-exposed photos with iPhone at night. Back then, [ProCamera Low Light Mode](/blog/review-low-light-modes-procamera-app) was my preferred way for [night photography with iPhone](/blog/night-photography-iphone-apps/) - and it still is for a straightforward reason: It works with all three lenses of the iPhone 11 Pro while iPhone night mode camera only works with the standard 1x lens.

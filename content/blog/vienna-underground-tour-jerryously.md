@@ -93,7 +93,7 @@ During this tour, I used my Wuben X1 flashlight that emits a whooping 12.000 lum
 
 If I explore a lost place on my own, For larger rooms I may also use a technique I described in the blog post about [how to take photos in total darkness with iPhone](/blog/take-photos-in-darkness).
 
-As always, I used the already [reviewed ProCamera App](/blog/procamera-app-review) and, of course, I shot them in [Apple’s ProRAW format](/blog/shoot-raw-iphone).
+As always, I used the already [reviewed ProCamera App](/blog/procamera-app-review) and, of course, I shot them in [Apple’s ProRAW format](/blog/how-to-shoot-raw-iphone/).
 
 ## Should you take a walking tour through the Vienna underground with Jerryously?
 

@@ -54,7 +54,7 @@ Then I placed the main subject, the abandoned observation tower, in the upper tw
 
 ![Use the rule of thirds to create more dynamic photos](/images/tutorials/usa/centered-composition-rule-of-thirds.webp "Use the rule of thirds to create more dynamic photos.")
 
-Moreover, I used the branches of the trees as a frame for the main subject. So this photo is also a good example of [how to use framing in photography](/blog/photo-framing-techniques).
+Moreover, I used the branches of the trees as a frame for the main subject. So this photo is also a good example of [how to use framing in photography](/blog/what-is-framing-photography/).
 
 ### Use the rule of thirds for photos with no main subject
 
@@ -94,4 +94,4 @@ I frequently do this.
 
 ## Summary
 
-You even may want to combine it with two other compositional techniques I’ve written about on my blog. The first one outlines [how to use framing to improve your photos](/blog/photo-framing-techniques) and the second one illustrated [how to use leading lines to create more dynamic photos](/blog/how-to-use-leading-lines).
+You even may want to combine it with two other compositional techniques I’ve written about on my blog. The first one outlines [how to use framing to improve your photos](/blog/what-is-framing-photography/) and the second one illustrated [how to use leading lines to create more dynamic photos](/blog/what-are-leading-lines-photography/).

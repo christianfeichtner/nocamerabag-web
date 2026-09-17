@@ -19,7 +19,7 @@ cover:
   image: 
   alt: Photos from my visit to the abandoned Spreepark
 ---
-Spreepark is an abandoned amusement park in Berlin. Since its closure in 2002, it decayed quickly and became one of Berlin's most famous [lost places](/blog/tag/Lost+Places).
+Spreepark is an abandoned amusement park in Berlin. Since its closure in 2002, it decayed quickly and became one of Berlin's most famous [lost places](/blog/lost-places/).
 
 If you want to visit the abandoned Spreepark, you better hurry. The abandoned amusement park is currently being revitalized and will reopen in waves to the public as a recreation area. You can still see some of the iconic photo spots of this abandoned amusement park in Berlin, like the dragonhead of the roller coaster or the famous cup carousel.
 
@@ -60,7 +60,7 @@ The most popular film shot at Spreepark is the action-thriller *Hanna*. It's abo
 
 ## Photos of the abandoned Spreepark
 
-I visited Spreepark in Mai 2022 and took all photos with an iPhone 13 pro max using the Apple ProRAW format. To learn more, please head over to my blog post about [how to shoot RAW on iPhone](/blog/shoot-raw-iphone).
+I visited Spreepark in Mai 2022 and took all photos with an iPhone 13 pro max using the Apple ProRAW format. To learn more, please head over to my blog post about [how to shoot RAW on iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ### Spreepark Ferris wheel
 

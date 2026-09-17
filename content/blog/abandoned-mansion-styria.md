@@ -28,4 +28,4 @@ So in 2018 I re-edited the middle RAW exposure of the bracketed shots using Ligh
 
 Back at the hotel, I did some research and discovered that the ruin I had found was named *Höhenbergen* and was owned by the noble families *Perger von Höhenperg* and *Windischgraetz*. Allegedly a renovation was planned in the 19th century but it never began.
 
-Update: It was this accidental discovery of this impressive thing that sparked my interest in lost places. Because of this discovery I traveled to Germany, Romania, Finnland and other countries to explore and photograph lost places in Europe. Check out my blog posts about all the [lost places I’ve visited to far](/blog/tag/Lost+Places).
+Update: It was this accidental discovery of this impressive thing that sparked my interest in lost places. Because of this discovery I traveled to Germany, Romania, Finnland and other countries to explore and photograph lost places in Europe. Check out my blog posts about all the [lost places I’ve visited to far](/blog/lost-places/).

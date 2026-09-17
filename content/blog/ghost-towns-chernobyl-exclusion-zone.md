@@ -18,7 +18,7 @@ cover:
   image: /images/lost-places/ukraine/childrens-sleeping-room-in-chernobyl.webp
   alt: 7 more Photo Spots in the Chernobyl Exclusion Zone
 ---
-Following a post I wrote a while ago about 7 [Photo Spots in Pripyat in the Chernobyl Exclusion](/blog/pripyat-chernobyl-exclusion-zone), finally, here are seven more photos I took during the excursion to Chernobyl Exclusion Zone in 2016.
+Following a post I wrote a while ago about 7 [Photo Spots in Pripyat in the Chernobyl Exclusion](/blog/pripyat-ghost-town-ukraine/), finally, here are seven more photos I took during the excursion to Chernobyl Exclusion Zone in 2016.
 
 ## Zalyssia
 
@@ -42,7 +42,7 @@ The following two photos show the abandoned kindergarten from a distance with th
 
 ![Children’s Sleeping Room in Chernobyl](/images/lost-places/ukraine/childrens-sleeping-room-in-chernobyl.webp "Children’s Sleeping Room in Chernobyl.")
 
-Before we headed to the power plant, we stopped in Pripyat, the probably best known ghost town in the world. I’ve a dedicated blog post containing photos from [Pripyat](/blog/pripyat-chernobyl-exclusion-zone).
+Before we headed to the power plant, we stopped in Pripyat, the probably best known ghost town in the world. I’ve a dedicated blog post containing photos from [Pripyat](/blog/pripyat-ghost-town-ukraine/).
 
 ## The exploded reactor in Chernobyl
 

@@ -67,7 +67,7 @@ And finally, one more shot from London. The main subject here is Tower Bridge. S
 
 ## Lost places and indoor photography in square format
 
-My third area of photography are [lost places](/blog/tag/Lost+Places). And as for land- and cityscapes, the square photo format works quite well for photographing the interior of lost places. Here is a shot I took inside a lost place in Beelitz, near Berlin.
+My third area of photography are [lost places](/blog/lost-places/). And as for land- and cityscapes, the square photo format works quite well for photographing the interior of lost places. Here is a shot I took inside a lost place in Beelitz, near Berlin.
 
 It’s a shot of the movie set of the film A cure for Wellness. The entrance to the room with the door on the floor is placed exactly along the two vertical grid lines and the door in the lower square.
 

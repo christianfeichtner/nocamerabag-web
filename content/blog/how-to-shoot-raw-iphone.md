@@ -136,7 +136,7 @@ Simple answer: A RAW photo contains much more image information and allows you t
 
 For example, you may be able to fix burnt highlights or blown out dark areas from a RAW photo that would otherwise be unrecoverable in a JPG photo. In JPEG photos, such regions would be merely white or black.
 
-Further, applying noise reduction to a RAW photo gives you much better and more fine granular control. So you can get better pictures with less noise compared to a JPEG photo. If you use or plan to use Adobe Lightroom, I've a tutorial about how to [reduce noise using Lightroom Mobile](/blog/noise-reduction-in-lightroom-mobile).
+Further, applying noise reduction to a RAW photo gives you much better and more fine granular control. So you can get better pictures with less noise compared to a JPEG photo. If you use or plan to use Adobe Lightroom, I've a tutorial about how to [reduce noise using Lightroom Mobile](/blog/noise-reduction-in-lightroom-mobile-tutorial/).
 
 As a summary, when it comes to detail and low noise, shooting RAW beats shooting JPEG - at the price that you'll need to edit and develop each RAW photo before publishing it. Here's one sample photo to illustrate that.
 

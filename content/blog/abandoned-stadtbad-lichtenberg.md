@@ -116,7 +116,7 @@ And finally, here’s a photo of the locker room where the visitors could store 
 
 As the Stadtbad is abandoned, there’s no electricity. But the building has quite many and huge windows. So you have lots of natural light on the ground and upper floors. You’ll only need artificial light in the basement. There I used either my Wuben X1 20.000 lumens flashlight or a newly bought portable LED photo light, which I'll write about soon.
 
-Needless to say, I used the ProCamera App for taking photos and I shot all the photos in Apple ProRAW. You can learn more about this camera app in my [ProCamera App review](/blog/procamera-app-review) and in my article about [how to shoot RAW on iPhone](/blog/shoot-raw-iphone).
+Needless to say, I used the ProCamera App for taking photos and I shot all the photos in Apple ProRAW. You can learn more about this camera app in my [ProCamera App review](/blog/procamera-app-review) and in my article about [how to shoot RAW on iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ## The verdict: Is the Stadtbad Lichtenberg worth visiting?
 

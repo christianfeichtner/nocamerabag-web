@@ -41,7 +41,7 @@ Using a lower angle, the lakeshore would have been visible; and I wanted to avoi
 
 ![Unedited Photo out of the Camera](/images/tutorials/austria/unedited-photo-out-of-the-camera.webp "Unedited Photo out of the Camera.")
 
-If you'd like to know more about RAW and iPhone, here's a blog post about [how to shoot RAW with iPhone](/blog/shoot-raw-iphone).
+If you'd like to know more about RAW and iPhone, here's a blog post about [how to shoot RAW with iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ## iPhone Photo Editing Apps used for this photo
 
@@ -79,4 +79,4 @@ Lastly, I used a big local adjustment to add a bit more sharpness to the main su
 
 Finally (for real this time), I made some minor adjustments to the overall image by increasing contrast, reducing highlights and whites, increasing vibrance, and applying a bit of clarity.
 
-Any thoughts? Sound off in the comment area below or check all the other [iPhone photography workflow tutorials](/blog/tag/Workflow) I wrote. I've also a list of all the [recommended iPhone photo apps and iPhone photo gear](/iphone-photography) I rely on - regularly updated.
+Any thoughts? Sound off in the comment area below or check all the other [iPhone photography workflow tutorials](/blog/workflow/) I wrote. I've also a list of all the [recommended iPhone photo apps and iPhone photo gear](/iphone-photography) I rely on - regularly updated.

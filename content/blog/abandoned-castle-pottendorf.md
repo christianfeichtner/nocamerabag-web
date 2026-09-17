@@ -16,7 +16,7 @@ cover:
   image: /images/lost-places/austria/castle-pottendorf-tower.webp
   alt: Exploring the abandoned Castle Pottendorf, Lower Austria
 ---
-A few weeks ago, I strolled through the castle gardens in Pottendorf, a village near Vienna. During that walk, I got a beautiful photo of the decaying castle Pottendorf, and I wrote a blog post about the [iPhone photo workflow](/blog/photo-workflow-castle-pottendorf) I used to compose, shoot and edit this photo
+A few weeks ago, I strolled through the castle gardens in Pottendorf, a village near Vienna. During that walk, I got a beautiful photo of the decaying castle Pottendorf, and I wrote a blog post about the [iPhone photo workflow](/blog/photo-workflow-pottendorf/) I used to compose, shoot and edit this photo
 
 ![Castle Pottendorf shot on iPhone](/images/lost-places/austria/castle-pottendorf-shot-on-iphone.webp "Castle Pottendorf shot on iPhone.")
 

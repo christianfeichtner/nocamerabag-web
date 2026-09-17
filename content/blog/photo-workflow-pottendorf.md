@@ -17,7 +17,7 @@ cover:
   image: /images/tutorials/general/castle-pottendorf.webp
   alt: 'iPhone Photography Workflow: Castle Pottendorf'
 ---
-During the lockdown, I got a few great [photos of the empty city of Vienna](/blog/empty-vienna-lockdown), and once the restrictions were lifted, I went for a walk in a nearby park with a well known abandoned and partially decayed castle named Castle Pottendorf. The park (but not the castle) is publicly accessible.
+During the lockdown, I got a few great [photos of the empty city of Vienna](/blog/photo-spots-vienna/), and once the restrictions were lifted, I went for a walk in a nearby park with a well known abandoned and partially decayed castle named Castle Pottendorf. The park (but not the castle) is publicly accessible.
 
 ![Castle Pottendorf is a beautiful abandoned castle in Lower Austria](/images/tutorials/general/abandoned-castle-iphone-11-pro.webp "Castle Pottendorf is a beautiful abandoned castle in Lower Austria.")
 
@@ -27,7 +27,7 @@ After I posted this photo to my [flickr account](http://flickr.com/photos/chrisf
 
 ## How I shot the photo of castle Pottendorf
 
-Strolling through the castle grounds, I noticed a few trees that perfectly [framed](/blog/photo-framing-techniques) the castle and its reflection in the water.
+Strolling through the castle grounds, I noticed a few trees that perfectly [framed](/blog/what-is-framing-photography/) the castle and its reflection in the water.
 
 As I wasn't walking along, I just took a quick snapshot using the iOS built-in camera app. I've to admit that I like the shutter release button on the Apple [Smart Battery Case](/blog/review-apple-smart-battery-case) the more I use it. Convenient stuff.
 
@@ -82,4 +82,4 @@ That's it, and here's the final edit that made it to Flick Explore.
 
 ![Castle Pottendorf shot on iPhone 11 Pro](/images/tutorials/general/castle-pottendorf-shot-on-iphone-11-pro.webp "Castle Pottendorf shot on iPhone 11 Pro.")
 
-If you liked this post, check all the other [iPhone photography workflow tutorials](/blog/tag/Workflow) I wrote. And if you're still curious, see all the [recommended iPhone photo apps and iPhone photo gear](/iphone-photography)) I use regularly.
+If you liked this post, check all the other [iPhone photography workflow tutorials](/blog/workflow/) I wrote. And if you're still curious, see all the [recommended iPhone photo apps and iPhone photo gear](/iphone-photography)) I use regularly.

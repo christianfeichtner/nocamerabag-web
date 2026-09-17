@@ -68,6 +68,6 @@ And if you need a rest, you'll find benches in quiet, picturesque locations at t
 
 I took all those photos using an iPhone 6S plus back in 2016. Luckily, I already had the [Moment Wide Angle Lens](/blog/review-moment-wide-lens) that helped me to capture the entire building and the surrounding area easily.
 
-Because of the size of the castle, I applied [perspective correction](/blog/fix-perspective-distortions-iphone) in almost every photo and re-edited these photos a few years later using [Adobe Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium), my main photo editing app. Note that you'll need a paid Lightroom premium plan to use the features for perspective correction.
+Because of the size of the castle, I applied [perspective correction](/blog/fix-perspective-distortions-iphone-apps/) in almost every photo and re-edited these photos a few years later using [Adobe Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium), my main photo editing app. Note that you'll need a paid Lightroom premium plan to use the features for perspective correction.
 
 It's been a while since I visited the castle. If you're curious about which apps and accessories I use nowadays, check out my [iPhone photography](/iphone-photography) overview page where you'll find answers to all of these questions.

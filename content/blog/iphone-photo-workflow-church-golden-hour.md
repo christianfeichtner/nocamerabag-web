@@ -71,7 +71,7 @@ Second, if you just keep painting while using the clone stamp, you're creating a
 
 ### Perspective Correction Adobe Lightroom
 
-As the church is not perfectly upright, we'll use the guided [perspective correction](/blog/fix-perspective-distortions-iphone). In this mode, you'll draw two lines along the building's edges and Lightroom will make it upright.
+As the church is not perfectly upright, we'll use the guided [perspective correction](/blog/fix-perspective-distortions-iphone-apps/). In this mode, you'll draw two lines along the building's edges and Lightroom will make it upright.
 
 ![Guided perspective correction in Lightroom Mobile](/images/tutorials/general/guided-perspective-correction-in-lightroom-mobile.webp "Guided perspective correction in Lightroom Mobile.")
 
@@ -91,7 +91,7 @@ Now for the temperature. To further enhance the golden touch for the entire imag
 
 ![Adjust temperature in Lightroom Mobile](/images/tutorials/general/adjust-temperature-in-lightroom-mobile.webp "Adjust temperature in Lightroom Mobile.")
 
-As for the effects adjustments, I just applied a bit of texture and finally, I [sharpened the entire photo in Lightroom Mobile](/blog/sharpening-lightroom-mobile) using a strong sharpening mask at +85 to only sharpen the edges.
+As for the effects adjustments, I just applied a bit of texture and finally, I [sharpened the entire photo in Lightroom Mobile](/blog/sharpening-lightroom-mobile-tutorial/) using a strong sharpening mask at +85 to only sharpen the edges.
 
 And that's it. Here's the final edit that I shared to [Instagram](https://instagram.com/nocamerabag), [Twitter](https://twitter.com/nocamerabag) and [Flickr](https://www.flickr.com/photos/chrisfeichtner/).
 
@@ -99,4 +99,4 @@ And that's it. Here's the final edit that I shared to [Instagram](https://instag
 
 I hope you found this iPhone workflow tutorial helpful, and I'd be happy to hear your thoughts in the comments.
 
-Oh yes, don't forget to check out all the other [iPhone Photo Workflow Tutorials](/blog/tag/Workflow) I’ve published in the blog or see which [recommended iPhone Photo Apps and iPhone Photo Accessories](/iphone-photography) I rely on.
+Oh yes, don't forget to check out all the other [iPhone Photo Workflow Tutorials](/blog/workflow/) I’ve published in the blog or see which [recommended iPhone Photo Apps and iPhone Photo Accessories](/iphone-photography) I rely on.

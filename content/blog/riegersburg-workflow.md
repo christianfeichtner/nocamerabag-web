@@ -41,7 +41,7 @@ As I did my lengths in the pool, I noticed the reflection of the castle in the w
 
 In fact, the scrub bothered me a little. But as I love to travel light and didn't bring my lawnmower and hedge clippers, I just had to take it as it is. And, honestly, I doubt the hotel would let me remove the hedge for the photo.
 
-So I waited at the other end of the pool for the water to calm. Then, I saw the line from the lower-left corner that goes directly towards the reflection. That would make a perfect [leading line](/blog/how-to-use-leading-lines) to the main subject, which is the reflection of the castle.
+So I waited at the other end of the pool for the water to calm. Then, I saw the line from the lower-left corner that goes directly towards the reflection. That would make a perfect [leading line](/blog/what-are-leading-lines-photography/) to the main subject, which is the reflection of the castle.
 
 The line comes from the different depths of the pool. It's more shallow on the left side, and it seems they used a different underground for the shallow area.
 
@@ -87,7 +87,7 @@ As for the composition rules, I used the following for this photo:
 * Symmetry, because I placed it in the middle.
 * Rules of thirds by placing the main item off the center towards the left edge.
 
-To shoot and edit this photo, I used ProCamera App and Adobe Lightroom Mobile. I have a [review of ProCamera App](/blog/procamera-app-review) and a [review of Adobe Lightroom](/blog/review-adobe-lightroom-mobile-premium) here in the blog. To prevent the iPhone from slipping out of my hands into the water, I used a [Moment Case](/blog/review-moment-photo-cases) with a wrist strap.
+To shoot and edit this photo, I used ProCamera App and Adobe Lightroom Mobile. I have a [review of ProCamera App](/blog/procamera-app-review) and a [review of Adobe Lightroom](/blog/review-adobe-lightroom-mobile-premium) here in the blog. To prevent the iPhone from slipping out of my hands into the water, I used a [Moment Case](/blog/review-moment-photo-case/) with a wrist strap.
 
 And finally, if you're curious, here's a post describing [why I love the square photo format](/blog/why-i-love-the-square-photo-format).
 

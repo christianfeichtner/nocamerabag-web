@@ -124,7 +124,7 @@ The houses in the residential area are formed in a U-shape and in the middle was
 
 ## How I photographed ad the abandoned Airfield Schönewalde
 
-As I took the majority of the photos outside, I used the [ProCamera App](/blog/procamera-app-review) and took all photos in [RAW format with my iPhone](/blog/shoot-raw-iphone). On my way home, I developed the RAW photos using Adobe Lightroom mobile, which is on the [best iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I’ve been using for years and recommend.
+As I took the majority of the photos outside, I used the [ProCamera App](/blog/procamera-app-review) and took all photos in [RAW format with my iPhone](/blog/how-to-shoot-raw-iphone/). On my way home, I developed the RAW photos using Adobe Lightroom mobile, which is on the [best iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I’ve been using for years and recommend.
 
 ## The verdict: Is visiting the abandoned Schönewalde airfield worth it?
 

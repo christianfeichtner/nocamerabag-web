@@ -83,6 +83,6 @@ So if you plan to go to Viivikonna, show respect to the people that still (have 
 
 The best places to see and photograph decayed buildings in Viivikonna are near the city limits.
 
-And don't forget to drop by [Kolga Manor](/blog/abandoned-kolga-manor-a-beautiful-lost-place-in-estonia) on your way back to Tallinn.
+And don't forget to drop by [Kolga Manor](/blog/abandoned-kolga-manor-estonia/) on your way back to Tallinn.
 
 And finally, here's some of the stuff and gear I use to explore and photograph in lost places like this one.

@@ -64,10 +64,10 @@ Once you’ve explored the last bunker, keep left until you reach the wall surro
 
 ## Apps and gear I used to take iPhone photos at Devínska Kobyla
 
-To photograph inside those buildings and bunkers, I used either [ProCamera App](/blog/procamera-app-review) in [Low Light Mode](/blog/review-low-light-modes-procamera-app) or [Hydra Camera App](/blog/review-hydra-app) for the better lit places. My iPhone X was permanently mounted to the [Amazon Basics Travel Tripod](/blog/review-amazon-basics-travel-tripod) that, so far, survived all the lost lost places I’ve been to, including the [Chernobyl Exclusion Zone](/blog/pripyat-chernobyl-exclusion-zone).
+To photograph inside those buildings and bunkers, I used either [ProCamera App](/blog/procamera-app-review) in [Low Light Mode](/blog/review-low-light-modes-procamera-app) or [Hydra Camera App](/blog/review-hydra-app) for the better lit places. My iPhone X was permanently mounted to the [Amazon Basics Travel Tripod](/blog/review-amazon-basics-travel-tripod) that, so far, survived all the lost lost places I’ve been to, including the [Chernobyl Exclusion Zone](/blog/pripyat-ghost-town-ukraine/).
 
 Inside the residential building I used the [Moment Fisheye Lens](/blog/review-moment-14mm-fisheye-lens).
 
 Back home, I edited all the photos in [Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium).
 
-And finally, here are more eerie [lost place photos](/blog/tag/Lost+Places) taken around the world.
+And finally, here are more eerie [lost place photos](/blog/lost-places/) taken around the world.

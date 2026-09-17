@@ -86,7 +86,7 @@ However, the larger file size of the ProRAW files will result in detail-rich pho
 
 ![A photo converted from an 48-megapixel ProRAW](/images/reviews/usa/mensa-abandoned-textile-factory.webp "A photo converted from an 48-megapixel ProRAW.")
 
-Mind that you'll have to develop the ProRAW files into a JPEG or HEIC before sharing them. I have a dedicated blog post outlining [how to shoot RAW with iPhone](/blog/shoot-raw-iphone).
+Mind that you'll have to develop the ProRAW files into a JPEG or HEIC before sharing them. I have a dedicated blog post outlining [how to shoot RAW with iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ### Dynamic Island
 

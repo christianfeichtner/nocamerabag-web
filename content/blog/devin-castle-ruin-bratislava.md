@@ -37,7 +37,7 @@ As you can walk around the castle hill, you'll discover a beautiful photo spot. 
 
 Of course, you can visit the entire castle. Unfortunately, when I was there in 2014, half of the enormous castle was closed due to reconstruction. But still, you'll enjoy a stunning view over the two rivers towards Vienna and Bratislava. A great photo spot for sunset photos!
 
-And inside the castle, you may find grazing goats everywhere. Once you're done inside the castle, enjoy a stroll along the rivers, or, if you're more an adventurous person, you may want to have a close look at Google maps to find a [famous lost place](/blog/abandoned-anti-aircraft-missile-base-slovakia) nearby.
+And inside the castle, you may find grazing goats everywhere. Once you're done inside the castle, enjoy a stroll along the rivers, or, if you're more an adventurous person, you may want to have a close look at Google maps to find a [famous lost place](/blog/abandoned-missile-base-slovakia/) nearby.
 
 Meanwhile, I've been to the castle a few times. I took the photos in this post with different iPhone models ranging from the iPhone 5s to iPhone 6s.
 

@@ -100,7 +100,7 @@ I went there to photograph it twice. Once during the day and later at night. The
 
 ![Parliament in Budapest shot on iPhone using Slow Shutter Cam App](/images/reviews/8-second-long-exposure-of-the-parliament-in-budapest.webp "Parliament in Budapest shot on iPhone using Slow Shutter Cam App.")
 
-I got this photo of the Parliament building in Budapest using [Slow Shutter Cam App](/blog/review-slow-shutter-cam-app) in Low light mode with a manual ISO setting and an 8-second exposure; that, of course, required the use of tripod; see the [night photography with iPhone](/blog/night-photography-iphone) page.
+I got this photo of the Parliament building in Budapest using [Slow Shutter Cam App](/blog/review-slow-shutter-cam-app) in Low light mode with a manual ISO setting and an 8-second exposure; that, of course, required the use of tripod; see the [night photography with iPhone](/blog/night-photography-iphone-apps/) page.
 
 ## Chain Bridge
 

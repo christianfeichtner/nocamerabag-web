@@ -125,4 +125,4 @@ Using versions, that's so much easier. Just create a version anytime during the 
 
 It also looks like that this feature is not a [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium) feature so that anyone can use it.
 
-If you found this tutorial helpful, check out all the other [iPhone Photography Tutorials](/blog/tag/Tutorials) on my blog. To learn about all the iPhone camera and photo editing apps I use, head over to my page about [iPhone Photography Apps and Accessories](/iphone-photography).
+If you found this tutorial helpful, check out all the other [iPhone Photography Tutorials](/blog/tutorials/) on my blog. To learn about all the iPhone camera and photo editing apps I use, head over to my page about [iPhone Photography Apps and Accessories](/iphone-photography).

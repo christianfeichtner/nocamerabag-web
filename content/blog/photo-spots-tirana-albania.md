@@ -53,7 +53,7 @@ photo_spots:
     camera: "iPhone 6s Plus · Main 29mm"
     tag: "Lost Place"
 ---
-It's been a while since I visited Albania; I've written a blog post about [Night Photography in Tirana](/blog/nightly-photo-spots-tirana-albania) in 2016. As a supplement to this blog post, here are a few more photo spots worth visiting in Tirana, Albania, all shot with an iPhone 6s Plus.
+It's been a while since I visited Albania; I've written a blog post about [Night Photography in Tirana](/blog/photo-spots-tirana-albania/) in 2016. As a supplement to this blog post, here are a few more photo spots worth visiting in Tirana, Albania, all shot with an iPhone 6s Plus.
 
 A few of them are within walking distance of each other. Let's start with this first.
 
@@ -97,7 +97,7 @@ The next photo spot probably doesn't exist anymore in the sense that it's hopefu
 
 ![Under Construction in Tirana, Albania](/images/tutorials/usa/skyscraper-shell-tirana.webp "Under Construction in Tirana, Albania.")
 
-For this photo, I used the well known [photo framing technique](/blog/photo-framing-techniques) to hide all the construction stuff behind the trees. For the remaining crane, I used [Touch Retouch App](/blog/review-touch-retouch) to remove it.
+For this photo, I used the well known [photo framing technique](/blog/what-is-framing-photography/) to hide all the construction stuff behind the trees. For the remaining crane, I used [Touch Retouch App](/blog/review-touch-retouch) to remove it.
 
 And finally, there's an old and abandoned amphitheater-like structure in the biggest park in Tirana, which is called the Grand Park of Tirana. It's a beautiful place with an artificial lake that's just perfect for relaxing and strolling after (or during) a long day.
 

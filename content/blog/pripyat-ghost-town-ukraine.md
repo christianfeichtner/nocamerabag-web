@@ -32,7 +32,7 @@ Our bus stopped in the Centre near the Polyssia hotel, which became the emergenc
 
 ![Polyssia Hotel in Pripyat](/images/lost-places/ukraine/polyssia-hotel-in-pripyat.webp "Polyssia Hotel in Pripyat.")
 
-I like straight lines in Photos. So, as always, I [fixed the perspective distortions](/blog/fix-perspective-distortions-iphone) in this photo with Lightroom Mobile. I used the small building in the foreground as a [leading line](/blog/how-to-use-leading-lines) to the main subject of the photo, the Polyssia Hotel.
+I like straight lines in Photos. So, as always, I [fixed the perspective distortions](/blog/fix-perspective-distortions-iphone-apps/) in this photo with Lightroom Mobile. I used the small building in the foreground as a [leading line](/blog/what-are-leading-lines-photography/) to the main subject of the photo, the Polyssia Hotel.
 
 ## The Palace of Culture in Pripyat
 
@@ -68,11 +68,11 @@ But, allegedly putting on gas masks was part of the eduction in the former Sovie
 
 ## Residential Building
 
-On the way back to the tour bus, I found this former residential building with a yellow phone booth in front. It's an excellent example of how to use [leading lines in a photo](/blog/how-to-use-leading-lines) to draw the attention of the viewer to a specific part of a photo.
+On the way back to the tour bus, I found this former residential building with a yellow phone booth in front. It's an excellent example of how to use [leading lines in a photo](/blog/what-are-leading-lines-photography/) to draw the attention of the viewer to a specific part of a photo.
 
 ![Former residential building in Prypiat](/images/lost-places/ukraine/former-residential-building-in-prypiat.webp "Former residential building in Prypiat.")
 
-I've [photographed several lost places](/blog/tag/Lost+Places), but Chernobyl was the eeriest so far. What makes this one so spooky is the silence on the one hand, and on the other side that many of the buildings still look quite okay from the outside. So it feels like the inhabitants just left.
+I've [photographed several lost places](/blog/lost-places/), but Chernobyl was the eeriest so far. What makes this one so spooky is the silence on the one hand, and on the other side that many of the buildings still look quite okay from the outside. So it feels like the inhabitants just left.
 
 ## Apps and Gear used for photographing in Pripyat
 

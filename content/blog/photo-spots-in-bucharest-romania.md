@@ -85,7 +85,7 @@ Next is the building that houses the national bank. It's almost impossible to mi
 
 ![National Bank in Bucharest, Romania](/images/cityscapes/romania/national-bank-in-bucharest-romania.webp "National Bank in Bucharest, Romania.")
 
-For the above photo, I've a complete workflow tutorial where I write about [how I composed, shot and edited the CEC Palace in Bucharest](/blog/the-cec-palace-in-bucharest).
+For the above photo, I've a complete workflow tutorial where I write about [how I composed, shot and edited the CEC Palace in Bucharest](/blog/cec-palace-bucharest-workflow/).
 
 A must-see place is the palace of parliament. A colossal palace built to impress. Allegedly, it's the heaviest building in the world.
 

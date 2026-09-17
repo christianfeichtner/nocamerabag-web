@@ -104,7 +104,7 @@ Finding the Ferris wheel may be a little difficult unless you can read the Russi
 
 ![Ferris wheel at the Gorki Park in Minsk, Belarus](/images/cityscapes/belarus/ferris-wheel-at-the-gorki-park-in-minsk-belarus.webp "Ferris wheel at the Gorki Park in Minsk, Belarus.")
 
-As there were no people nearby and I had time to compose the frame, I chose to [shoot this photo as a RAW on my iPhone](/blog/shoot-raw-iphone) 7 Plus.
+As there were no people nearby and I had time to compose the frame, I chose to [shoot this photo as a RAW on my iPhone](/blog/how-to-shoot-raw-iphone/) 7 Plus.
 
 ## Palace of the Republic
 
@@ -142,7 +142,7 @@ To cut a long story short, shooting RAW with the iPhone works great if you're ph
 
 It does not work so well when shooting darker scenes like the National Library of Belarus. Here I used the familiar ProCamera Low Light Modes.
 
-Beware that shooting RAW adds one more step to your workflow. As a RAW photo is an unmodified dump of the camera sensor data from your iPhone, you need to develop the RAW first using either ProCamera RAW development or Adobe Lightroom Mobile. I've a dedicated FAW about shooting [RAW with iPhone](/blog/shoot-raw-iphone).
+Beware that shooting RAW adds one more step to your workflow. As a RAW photo is an unmodified dump of the camera sensor data from your iPhone, you need to develop the RAW first using either ProCamera RAW development or Adobe Lightroom Mobile. I've a dedicated FAW about shooting [RAW with iPhone](/blog/how-to-shoot-raw-iphone/).
 
 I use [Adobe Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium) to develop RAW files. It's one of the few [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps/) that I've regularly been using.
 

@@ -96,8 +96,8 @@ And here's the final photo:
 
 I hope you enjoyed this "How I composed, shot, and edited" iPhone photography workflow tutorial. As the geometry feature is paid feature, you may want to check my [Adobe Lightroom review](/blog/review-adobe-lightroom-mobile-premium) and see what else you get when you subscribe, like a free photo portfolio website plus a free license for the Adobe Spark Social Media Tools.
 
-Be sure to check out all the other free [iPhone photo tutorials](/blog/tag/Tutorials) in the blog.
+Be sure to check out all the other free [iPhone photo tutorials](/blog/tutorials/) in the blog.
 
-If you'd like to know more about taking long exposures, head over to the [long exposure iPhone](/blog/long-exposure-iphone) photography overview, where you'll learn different ways of how to take long exposures on iPhone.
+If you'd like to know more about taking long exposures, head over to the [long exposure iPhone](/blog/long-exposure-iphone-apps/) photography overview, where you'll learn different ways of how to take long exposures on iPhone.
 
 See you soon!

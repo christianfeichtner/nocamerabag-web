@@ -22,7 +22,7 @@ Many photographers don't like noise in their photos; unless you want to create a
 
 Whenever you take a photo with the iPhone and save it as JPEG or HEIC, the camera app automatically applies noise reduction to enhance your photo.
 
-But when you [shoot RAW on iPhone](/blog/shoot-raw-iphone), the camera leaves developing the photo entirely to you, and that includes noise reduction! And that's the sense of the matter when shooting RAW; that you can develop your picture in your style.
+But when you [shoot RAW on iPhone](/blog/how-to-shoot-raw-iphone/), the camera leaves developing the photo entirely to you, and that includes noise reduction! And that's the sense of the matter when shooting RAW; that you can develop your picture in your style.
 
 So, in this tutorial, I'll walk you through the noise reduction adjustments in [Lightroom Mobile](/blog/review-adobe-lightroom-mobile-premium) and will provide a few tips along the way. As an example, I've chosen a photo that contains quite a hefty amount of noise to illustrate the process.
 

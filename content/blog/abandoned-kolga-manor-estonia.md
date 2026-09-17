@@ -20,7 +20,7 @@ On my way back from the alleged ghost town [Viivikonna](/blog/viivikonna-ghost-t
 
 ![Kolga Manor, Estonia, from the outside](/images/lost-places/estonia/kolga-manor-estonia-from-the-outside.webp "Kolga Manor, Estonia, from the outside.")
 
-Recently, I found myself using [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium) more and more for [photo perspective correction on iPhone](/blog/fix-perspective-distortions-iphone). With Adobe Lightroom, and especially using the guided method, fixing perspective distortions, especially horizontal and vertical distortions, is really easy.
+Recently, I found myself using [Lightroom Mobile Premium](/blog/review-adobe-lightroom-mobile-premium) more and more for [photo perspective correction on iPhone](/blog/fix-perspective-distortions-iphone-apps/). With Adobe Lightroom, and especially using the guided method, fixing perspective distortions, especially horizontal and vertical distortions, is really easy.
 
 ## Know before you go to Kolga Manor
 

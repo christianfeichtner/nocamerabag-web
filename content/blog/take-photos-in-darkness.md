@@ -17,7 +17,7 @@ cover:
   image: /images/tutorials/general/stairway-in-darkness.webp
   alt: 'Tutorial: How to take Photos in total darkness with iPhone'
 ---
-Sometimes, when exploring a lost place, I find rooms and corners that probably haven‘t seen any light for decades. When I started with urban exploration with iPhone, I tried to find ways to take photos in almost total darkness with iPhone. After a few failed attempts and seeing pictures of light paintings, it struck me. Just take a [long exposure with iPhone](/blog/long-exposure-iphone) and use a flashlight!
+Sometimes, when exploring a lost place, I find rooms and corners that probably haven‘t seen any light for decades. When I started with urban exploration with iPhone, I tried to find ways to take photos in almost total darkness with iPhone. After a few failed attempts and seeing pictures of light paintings, it struck me. Just take a [long exposure with iPhone](/blog/long-exposure-iphone-apps/) and use a flashlight!
 
 So, in this blog post, I‘ll show you a simple way how to take photos in almost dark rooms with iPhone. And here‘s what you need:
 

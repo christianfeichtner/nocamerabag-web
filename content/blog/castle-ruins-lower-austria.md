@@ -47,7 +47,7 @@ Another castle ruin that dates back to the 12th century is castle Hinterhaus.
 
 There's also a legend about this ruin. Allegedly, Adelheid, wife of "Heinrich des Eisernen" appears each year on the day that her husband died. And she does that because Heinrich married again before the year of mourning was over.
 
-By the way, this photo is a good [example for using leading lines in photography](/blog/how-to-use-leading-lines). The path works excellent as a line towards the castle.
+By the way, this photo is a good [example for using leading lines in photography](/blog/what-are-leading-lines-photography/). The path works excellent as a line towards the castle.
 
 ## Castle Plankenstein
 

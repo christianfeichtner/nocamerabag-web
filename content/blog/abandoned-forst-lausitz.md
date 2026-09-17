@@ -36,7 +36,7 @@ The city administration owns the majority of the abandoned textile factories. So
 
 ### Which iPhone did you use to photograph the lost places in Forst-Lausitz?
 
-Thanks to UPS, I could pick up my new iPhone 14 from the depot at the airport a few hours before my plane left. So I took all these photos using my new iPhone 14 Pro. Many of the photos are developed from 48-megapixel ProRAW photos. If you're curious, head over to my [iPhone 14 Pro camera review](/blog/iphone-14-pro-review) or read more about how to [shoot RAW photos with iPhone](/blog/shoot-raw-iphone).
+Thanks to UPS, I could pick up my new iPhone 14 from the depot at the airport a few hours before my plane left. So I took all these photos using my new iPhone 14 Pro. Many of the photos are developed from 48-megapixel ProRAW photos. If you're curious, head over to my [iPhone 14 Pro camera review](/blog/iphone-14-pro-review) or read more about how to [shoot RAW photos with iPhone](/blog/how-to-shoot-raw-iphone/).
 
 ## The abandoned textile factory in Forst Lausitz
 

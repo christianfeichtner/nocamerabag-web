@@ -108,4 +108,4 @@ What makes this app worth buying is the possibility to edit and adjust the inten
 
 You can even take multiple long exposures in a single frame. I like to use this feature when [photographing fireworks with iPhone](/blog/how-to-photograph-fireworks-with-iphone).
 
-If you'd like to know more, head over to my [Slow Shutter Cam App review](/blog/review-slow-shutter-cam-app), [buy Slow Shutter Cam from the App Store](aff:slow-shutter-cam-app) or check out other ways about [how to take a long exposure on iPhone](/blog/long-exposure-iphone).
+If you'd like to know more, head over to my [Slow Shutter Cam App review](/blog/review-slow-shutter-cam-app), [buy Slow Shutter Cam from the App Store](aff:slow-shutter-cam-app) or check out other ways about [how to take a long exposure on iPhone](/blog/long-exposure-iphone-apps/).

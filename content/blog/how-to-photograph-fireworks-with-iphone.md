@@ -112,7 +112,7 @@ Don’t change ISO; otherwise the black, nightly sky may become quite noisy.
 
 And now, let’s take some great iPhone photos of fireworks together.
 
-And if there are no fireworks near you soon, head over to my post about how to [take a long exposure with iPhone](/blog/long-exposure-iphone). You'll find some ideas to practice your long exposure photography skills with an iPhone there.
+And if there are no fireworks near you soon, head over to my post about how to [take a long exposure with iPhone](/blog/long-exposure-iphone-apps/). You'll find some ideas to practice your long exposure photography skills with an iPhone there.
 
 ## Summary
 

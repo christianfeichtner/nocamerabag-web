@@ -17,7 +17,7 @@ cover:
   image: /images/tutorials/general/raw-workflow-iphone.webp
   alt: My RAW Workflow in Lightroom Mobile
 ---
-As I've outlined different ways to take [RAW photos on iPhone](/blog/shoot-raw-iphone), I'll describe my RAW workflow in this tutorial. Since I originally wrote the tutorial, Apple released the iPhone 12 and the Apple ProRAW format, and I included the specifics about ProRAW in this tutorial.
+As I've outlined different ways to take [RAW photos on iPhone](/blog/how-to-shoot-raw-iphone/), I'll describe my RAW workflow in this tutorial. Since I originally wrote the tutorial, Apple released the iPhone 12 and the Apple ProRAW format, and I included the specifics about ProRAW in this tutorial.
 
 {{< toc >}}
 
@@ -101,7 +101,7 @@ However, all perspective corrections tend to distort the photo a bit. So I'm usi
 
 ## Sharpening and Noise Reduction
 
-I've written two blog posts about [sharpening in Lightroom Mobile](/blog/sharpening-lightroom-mobile) and [noise reduction in Lightroom Mobile](/blog/noise-reduction-in-lightroom-mobile). Please refer to these posts for more info about sharpening and noise reduction in Lightroom Mobile.
+I've written two blog posts about [sharpening in Lightroom Mobile](/blog/sharpening-lightroom-mobile-tutorial/) and [noise reduction in Lightroom Mobile](/blog/noise-reduction-in-lightroom-mobile-tutorial/). Please refer to these posts for more info about sharpening and noise reduction in Lightroom Mobile.
 
 For photos I took at lost places or other images with a lot of texture, I'm careful with noise reduction, so I don't kill all the texture.
 

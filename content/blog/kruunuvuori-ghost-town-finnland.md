@@ -44,7 +44,7 @@ After a 20 minute hike that lead me past a small lake I arrived at the first aba
 
 ![](/images/lost-places/finland/kruunuvuori-ghost-town-finnland.webp "”The 0.5 house” in Kruunuvuori, Helsinki, Finland.")
 
-I used[ProCamera](/blog/procamera-app-review) with ISO set to 50 to avoid noise and set to save the photos in [RAW format](/blog/shoot-raw-iphone). I continued along the trail and got to the second house a few minutes later. This one is still completely intact. It was built on stilts and the stairs were gone. But if you’re sporty (which I’m not) I’m sure you can find a way to enter the house through the main entrance. A small platform with the main entrance is at a height of approx 6.5 feet.
+I used[ProCamera](/blog/procamera-app-review) with ISO set to 50 to avoid noise and set to save the photos in [RAW format](/blog/how-to-shoot-raw-iphone/). I continued along the trail and got to the second house a few minutes later. This one is still completely intact. It was built on stilts and the stairs were gone. But if you’re sporty (which I’m not) I’m sure you can find a way to enter the house through the main entrance. A small platform with the main entrance is at a height of approx 6.5 feet.
 
 ![An abandoned villa in Kruunuvuori, Helsinki, Finland](/images/lost-places/finland/an-abandoned-villa-in-kruunuvuori-helsinki-finland.webp "An abandoned villa in Kruunuvuori, Helsinki, Finland.")
 

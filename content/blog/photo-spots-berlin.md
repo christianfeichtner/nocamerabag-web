@@ -144,7 +144,7 @@ You can find a real gem at the Victoria Park in the south of Berlin. It‘s a be
 
 I took this photo using [Slow Shutter Cam App](/blog/review-slow-shutter-cam-app) and the small [Gorillapod for iPhone](/blog/review-joby-gorillapod-magnetic) that I carry almost all the time.
 
-Also, if you want to dig deeper into the different options of how to take a [long exposure with iPhone](/blog/long-exposure-iphone), you'll find that in the blog, too.
+Also, if you want to dig deeper into the different options of how to take a [long exposure with iPhone](/blog/long-exposure-iphone-apps/), you'll find that in the blog, too.
 
 ## Summary
 

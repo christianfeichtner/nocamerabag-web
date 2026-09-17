@@ -108,4 +108,4 @@ And everywhere in this factory, you'll see skids with paper that still needed to
 
 ![Abandoned paper](/images/lost-places/germany/abandoned-paper.webp "Abandoned paper.")
 
-If you're curious, head over to the [list of lost places I've visited](/blog/tag/Lost+Places) or check the list of [iPhone camera apps](/blog/recommended-camera-apps) and my [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I rely on.
+If you're curious, head over to the [list of lost places I've visited](/blog/lost-places/) or check the list of [iPhone camera apps](/blog/recommended-camera-apps) and my [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I rely on.

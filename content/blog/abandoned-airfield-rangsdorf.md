@@ -18,7 +18,7 @@ cover:
   image: 
   alt: 'Abandoned airfield Rangsdorf: A lost place with a history!'
 ---
-The next day after I visited the [abandoned amusement park in Berlin](/blog/spreepark-berlin), I traveled to another lost place near Berlin: The abandoned airfield Rangsdorf. This is truly a fantastic lost place full of decayed and partially collapsed buildings.
+The next day after I visited the [abandoned amusement park in Berlin](/blog/abandoned-spreepark-berlin/), I traveled to another lost place near Berlin: The abandoned airfield Rangsdorf. This is truly a fantastic lost place full of decayed and partially collapsed buildings.
 
 {{< toc >}}
 

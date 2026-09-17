@@ -101,7 +101,7 @@ At the former military hospital in Beelitz, you’ll also encounter a building w
 
 ## How I photographed at the Beelitz Heilstätten with my iPhone
 
-During my trips to the Beelitz Heilstätten I photographed with different iPhone models: An iPhone X, an iPhone 6s plus and an iPhone 6. The camera apps I used back then do not exist anymore. I used ProHDR and PureShot. As the iPhone was not capable of taking RAW photos back then, I used PureShot to save the photos in the lossless TIFF format. Today, I’d definitely [take RAW photos with my iPhone](/blog/shoot-raw-iphone). To learn more about my iPhone photography apps and accessories I use to photograph in lost places, please head to my blog post about my [recommended iPhone camera apps](/blog/recommended-camera-apps) and [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I use.
+During my trips to the Beelitz Heilstätten I photographed with different iPhone models: An iPhone X, an iPhone 6s plus and an iPhone 6. The camera apps I used back then do not exist anymore. I used ProHDR and PureShot. As the iPhone was not capable of taking RAW photos back then, I used PureShot to save the photos in the lossless TIFF format. Today, I’d definitely [take RAW photos with my iPhone](/blog/how-to-shoot-raw-iphone/). To learn more about my iPhone photography apps and accessories I use to photograph in lost places, please head to my blog post about my [recommended iPhone camera apps](/blog/recommended-camera-apps) and [recommended iPhone photo editing apps](/blog/recommended-photo-editing-apps) that I use.
 
 ## Is Beelitz Heilstätten worth visiting?
 
